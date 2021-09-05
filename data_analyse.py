@@ -1,10 +1,10 @@
 import json
 
 with open("data.json") as f:
-    data = json.load(f)
+    datas = json.load(f)
 
-for item in data:
-    print(item['items'])
-    for battle in item['items']:
-        print (battle['battle'])
+for data in datas:
+    print(data['items'])
+    for item in data['items']:
+        print (item['event'])
         exit()
