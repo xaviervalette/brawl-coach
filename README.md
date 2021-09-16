@@ -1,6 +1,54 @@
 # brawl-tier
 Extract brawl star top tier from players data.
 
+## Brawlstar API (api.brawlstars.com)
+### JSON Web Token (JWT)
+#### Encoded
+```jwt
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6IjBiOTgxN2M5LWIyZmUtNGZlZC1iZjhkLTMyN2VlMTgzNDk3MCIsImlhdCI6MTYzMDYwMDYwMCwic3ViIjoiZGV2ZWxvcGVyLzk2NWU0ZGI3LTU3YTMtM2FhYy1hYmNhLWE2NzEzODI5NWJiMiIsInNjb3BlcyI6WyJicmF3bHN0YXJzIl0sImxpbWl0cyI6W3sidGllciI6ImRldmVsb3Blci9zaWx2ZXIiLCJ0eXBlIjoidGhyb3R0bGluZyJ9LHsiY2lkcnMiOlsiMTUuMTg4LjQ3LjE4NyJdLCJ0eXBlIjoiY2xpZW50In1dfQ.-onaSw0J63JhTCBmAonb6ZokEhFDJHs12GD5h8giJ7Y023oCzv0NJq0DqDxefNlfdo91c_iWAth1OF6U787fKA
+```
+#### Decoded
+#### Header
+```json
+{
+  "typ": "JWT",
+  "alg": "HS512",
+  "kid": "28a318f7-0000-a1eb-7fa1-2c7433c6cca5"
+}
+```
+#### Payload
+```json
+{
+  "iss": "supercell",
+  "aud": "supercell:gameapi",
+  "jti": "0b9817c9-b2fe-4fed-bf8d-327ee1834970",
+  "iat": 1630600600,
+  "sub": "developer/965e4db7-57a3-3aac-abca-a67138295bb2",
+  "scopes": [
+    "brawlstars"
+  ],
+  "limits": [
+    {
+      "tier": "developer/silver",
+      "type": "throttling"
+    },
+    {
+      "cidrs": [
+        "15.188.47.187"
+      ],
+      "type": "client"
+    }
+  ]
+}
+```
+#### Signature
+```json
+HMACSHA512(
+  base64UrlEncode(header) + "." +
+  base64UrlEncode(payload),
+  your-256-bit-secret
+)
+```
 ## Working environment
 ### Network diagram
 ![image](https://user-images.githubusercontent.com/28600326/132100796-b649801a-9732-40bd-ba50-91907e18ecb3.png)
