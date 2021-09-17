@@ -81,8 +81,115 @@ Thus, three ressources will be used:
 ```Get leaderboard``` ➔ ```Extract player's tags``` ➔ ```Get battlelogs of each player```
 
 ### Ranking data structure
-
+For sake of readability, data structure is represented in YAML:
+```yaml
+---
+---
+items:
+- tag: "#2VQ82YGY"
+  name: TwistiTwik
+  nameColor: '0xffff8afb'
+  icon:
+    id: 28000073
+  trophies: 59499
+  rank: 1
+  club:
+    name: A Few Good Men
+- tag: "#298LY8009"
+  name: Que Pasa Asap
+  nameColor: '0xff1ba5f5'
+  icon:
+    id: 28000008
+  trophies: 51547
+  rank: 2
+  club:
+    name: A Few Good Men
+[...]
+- tag: "#VY0Y20PQ"
+  name: Raid
+  nameColor: '0xfff05637'
+  icon:
+    id: 28000023
+  trophies: 41955
+  rank: 200
+  club:
+    name: CHICAGO BULLS
+paging:
+  cursors: {}
+...
+```
 ### Players data structure
+⚠ Winner is not always in the first team (here the tag used was ```#2VQ82YGY```).
+```yaml
+---
+items:
+- battle:
+    teams:
+    - - tag: "#UV9Q9VJJ"
+        name: "BIG | Eqwaak\U0001F986"
+        brawler:
+          trophies: 814
+          id: 16000001
+          power: 10
+          name: COLT
+      - tag: "#298LY8009"
+        name: Que Pasa Asap
+        brawler:
+          trophies: 906
+          id: 16000050
+          power: 10
+          name: GRIFF
+      - tag: "#2VQ82YGY"
+        name: TwistiTwik
+        brawler:
+          trophies: 1072
+          id: 16000015
+          power: 10
+          name: PIPER
+    - - tag: "#C9PU2L9L"
+        name: Kaioken Goku
+        brawler:
+          trophies: 957
+          id: 16000017
+          power: 10
+          name: TARA
+      - tag: "#8R0GPL8QU"
+        name: Dr.cool
+        brawler:
+          trophies: 922
+          id: 16000010
+          power: 10
+          name: EL PRIMO
+      - tag: "#R2CYV9UP"
+        name: Brawl Master
+        brawler:
+          trophies: 972
+          id: 16000047
+          power: 10
+          name: SQUEAK
+    mode: brawlBall
+    duration: 102
+    type: ranked
+    starPlayer:
+      tag: "#C9PU2L9L"
+      name: Kaioken Goku
+      brawler:
+        trophies: 957
+        id: 16000017
+        power: 10
+        name: TARA
+    trophyChange: -11
+    result: defeat
+  battleTime: 20210905T030043.000Z
+  event:
+    map: Slalom Slam
+    id: 15000162
+    mode: brawlBall
+[...]
+paging:
+  cursors: {}
+...
+```
 ### Events data structure
 ## Working environment
 ### Network diagram
