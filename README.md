@@ -1,7 +1,10 @@
-# Brawl Stars - Brawler tiers from leaderboard analysis
-![Brawlstars](https://user-images.githubusercontent.com/28600326/133640865-b4f0cec2-08f5-498e-9511-8a33387effe4.png)
+# <img src="https://user-images.githubusercontent.com/28600326/133640865-b4f0cec2-08f5-498e-9511-8a33387effe4.png" width="25" height="20"> Brawl Stars - Brawler tiers from leaderboard analysis
 
-## Brawl Stars API (api.brawlstars.com)
+- Brawl Stars REST API
+- Retrieve player's information
+- Process player's information
+
+## Brawl Stars REST API (api.brawlstars.com)
 ### JSON Web Token (JWT)
 > JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties - https://jwt.io/
 
@@ -11,7 +14,7 @@ The structure of a JWT is the following: "header.payload.signature"
 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6IjBiOTgxN2M5LWIyZmUtNGZlZC1iZjhkLTMyN2VlMTgzNDk3MCIsImlhdCI6MTYzMDYwMDYwMCwic3ViIjoiZGV2ZWxvcGVyLzk2NWU0ZGI3LTU3YTMtM2FhYy1hYmNhLWE2NzEzODI5NWJiMiIsInNjb3BlcyI6WyJicmF3bHN0YXJzIl0sImxpbWl0cyI6W3sidGllciI6ImRldmVsb3Blci9zaWx2ZXIiLCJ0eXBlIjoidGhyb3R0bGluZyJ9LHsiY2lkcnMiOlsiMTUuMTg4LjQ3LjE4NyJdLCJ0eXBlIjoiY2xpZW50In1dfQ.-onaSw0J63JhTCBmAonb6ZokEhFDJHs12GD5h8giJ7Y023oCzv0NJq0DqDxefNlfdo91c_iWAth1OF6U787fKA
 ```
 #### Decoded
-#### Header
+##### Header
 ```json
 {
   "typ": "JWT",
@@ -19,7 +22,7 @@ eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJj
   "kid": "28a318f7-0000-a1eb-7fa1-2c7433c6cca5"
 }
 ```
-#### Payload
+##### Payload
 ```json
 {
   "iss": "supercell",
@@ -44,7 +47,7 @@ eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJj
   ]
 }
 ```
-#### Signature
+##### Signature
 The signature is composed of three elements:
 - Header
 - Payload
@@ -58,21 +61,29 @@ HMACSHA512(
 )
 ```
 
-### Ressources
+#### Ressources
 According to https://developer.brawlstars.com/#/documentation (account might be require), there is 5 available ressources:
-- Players: Access player specific information
-- Clubs: Access club specific information
-- Rankings: Access global and local rankings
-- Brawlers: Access general brawler information
-- Events
+- ```Players```: Access player specific information
+- ```Clubs```: Access club specific information
+- ```Rankings```: Access global and local rankings
+- ```Brawlers```: Access general brawler information
+- ```Events```
 
 This project will use ```players``` data from ```rankings``` to create tier-list for current ```events```.
 
 Thus, three ressources will be used:
-- Players
-- Rankings
-- Events
+- ```Players```
+- ```Rankings```
+- ```Events```
 
+## Retreive top player's data
+### Process flow
+```Get leaderboard``` ➔ ```Extract player's tags``` ➔ ```Get battlelogs of each player```
+
+### Ranking data structure
+
+### Players data structure
+### Events data structure
 ## Working environment
 ### Network diagram
 ![image](https://user-images.githubusercontent.com/28600326/132100796-b649801a-9732-40bd-ba50-91907e18ecb3.png)
