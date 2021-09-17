@@ -85,7 +85,6 @@ Thus, three ressources will be used:
 For sake of readability, data structure is represented in YAML:
 ```yaml
 ---
----
 items:
 - tag: "#2VQ82YGY"
   name: TwistiTwik
