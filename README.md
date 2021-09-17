@@ -54,7 +54,7 @@ The signature is composed of three elements:
 - Payload
 - Secret
 
-```json
+```python
 HMACSHA512(
   base64UrlEncode(header) + "." +
   base64UrlEncode(payload),
@@ -192,6 +192,20 @@ paging:
 ...
 ```
 ### Events data structure
+## Player's data processing
+### Process flow
+```Get GEM GRAB battlelogs only``` ➔ ```Identify winning team for each battle``` ➔ ```Print out the most winning team```
+
+Three outputs are possible:
+- __Solo queue__: the most-winning brawler, no matter the two other brawlers withing the team
+- __Duo queue__: the most-winning brawler peer, no matter the last brawler within the team
+- __Trio queue__: the most-winning brawler trio
+
+
+## Results
+TBD
+
+
 ## Working environment
 ### Network diagram
 ![image](https://user-images.githubusercontent.com/28600326/132100796-b649801a-9732-40bd-ba50-91907e18ecb3.png)
