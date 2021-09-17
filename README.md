@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/28600326/133640865-b4f0cec2-08f5-498e-9511-8a33387effe4.png" width="25" height="20"> Brawl Stars - Brawler tiers from leaderboard analysis
+# <img src="https://user-images.githubusercontent.com/28600326/133853719-9c5c6942-89c8-42ef-bbb2-083f644cc824.png" width="20" height="20">  Brawl Stars - Brawler tiers from leaderboard analysis
 
 - Brawl Stars REST API
 - Retrieve player's information
