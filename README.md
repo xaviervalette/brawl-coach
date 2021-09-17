@@ -196,8 +196,8 @@ paging:
 ```Get GEM GRAB battlelogs only``` ➔ ```Identify winning team for each battle``` ➔ ```Print out the most winning team```
 
 Three outputs are possible:
-- __Solo queue__: the most-winning brawler, no matter the two other brawlers withing the team
-- __Duo queue__: the most-winning brawler peer, no matter the last brawler within the team
+- __Solo queue__: the most-winning brawler, regardless the two other brawlers withing the team
+- __Duo queue__: the most-winning brawler peer, regardless the last brawler within the team
 - __Trio queue__: the most-winning brawler trio
 
 
