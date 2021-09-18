@@ -60,7 +60,7 @@ HMACSHA512(
 )
 ```
 
-#### Ressources
+### Ressources
 According to https://developer.brawlstars.com/#/documentation (account might be require), there is 5 available ressources:
 - ```Players```: Access player specific information
 - ```Clubs```: Access club specific information
