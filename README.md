@@ -20,6 +20,7 @@ eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJj
 ```
 #### Decoded
 ##### Header
+🛈 For sake of clarity, JSON output will be printed as YAML. If you are not familiar with this data serialization language, please check https://yaml.org/.
 ```yaml
 ---
 typ: JWT
