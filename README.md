@@ -4,6 +4,10 @@
 - Retrieve player's information
 - Process player's information
 
+## Network diagram
+<img width="100%" alt="Picture5" src="https://user-images.githubusercontent.com/28600326/133889962-c8eb651e-15b6-4efe-b634-91718d0dc134.png">
+
+
 ## Brawl Stars REST API (api.brawlstars.com)
 Brawl Stars REST API is using __JSON Web Token__ for the authentication of the HTTPS requests.
 ### JSON Web Token (JWT)
