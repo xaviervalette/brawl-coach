@@ -5,7 +5,7 @@
 - Process player's information
 
 ## Network diagram
-<img width="100%" alt="Picture5" src="https://user-images.githubusercontent.com/28600326/133889962-c8eb651e-15b6-4efe-b634-91718d0dc134.png">
+<img width="100%" alt="Picture6" src="https://user-images.githubusercontent.com/28600326/133892580-82ad3563-11e9-433a-9db3-a80dbf5682b8.png">
 
 
 ## Brawl Stars REST API (api.brawlstars.com)
