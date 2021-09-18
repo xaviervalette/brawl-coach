@@ -16,37 +16,30 @@ eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJj
 ```
 #### Decoded
 ##### Header
-```json
-{
-  "typ": "JWT",
-  "alg": "HS512",
-  "kid": "28a318f7-0000-a1eb-7fa1-2c7433c6cca5"
-}
+```yaml
+---
+typ: JWT
+alg: HS512
+kid: 28a318f7-0000-a1eb-7fa1-2c7433c6cca5
+...
 ```
 ##### Payload
-```json
-{
-  "iss": "supercell",
-  "aud": "supercell:gameapi",
-  "jti": "0b9817c9-b2fe-4fed-bf8d-327ee1834970",
-  "iat": 1630600600,
-  "sub": "developer/965e4db7-57a3-3aac-abca-a67138295bb2",
-  "scopes": [
-    "brawlstars"
-  ],
-  "limits": [
-    {
-      "tier": "developer/silver",
-      "type": "throttling"
-    },
-    {
-      "cidrs": [
-        "15.188.47.187"
-      ],
-      "type": "client"
-    }
-  ]
-}
+```yaml
+---
+iss: supercell
+aud: supercell:gameapi
+jti: 0b9817c9-b2fe-4fed-bf8d-327ee1834970
+iat: 1630600600
+sub: developer/965e4db7-57a3-3aac-abca-a67138295bb2
+scopes:
+- brawlstars
+limits:
+- tier: developer/silver
+  type: throttling
+- cidrs:
+  - 15.188.47.187
+  type: client
+...
 ```
 ##### Signature
 The signature is composed of three elements:
@@ -95,16 +88,9 @@ items:
   rank: 1
   club:
     name: A Few Good Men
-- tag: "#298LY8009"
-  name: Que Pasa Asap
-  nameColor: '0xff1ba5f5'
-  icon:
-    id: 28000008
-  trophies: 51547
-  rank: 2
-  club:
-    name: A Few Good Men
+    
 [...]
+
 - tag: "#VY0Y20PQ"
   name: Raid
   nameColor: '0xfff05637'
@@ -185,7 +171,9 @@ items:
     map: Slalom Slam
     id: 15000162
     mode: brawlBall
+    
 [...]
+
 paging:
   cursors: {}
 ...
