@@ -2,13 +2,15 @@ import json
 import requests
 import datetime
 
+home="/home/ec2-user/brawl-tier/"
+
 def read_api_token(filename):
 	"""
 	Desc:	Read the API token from a file
 	Input:	filename
 	Output: API token
 	"""
-	infile = open(filename, 'r')
+	infile = open(home+filename, 'r')
 	data = infile.read()
 	infile.close()
 	return data.strip()
@@ -46,7 +48,7 @@ def get_history_from_tag(tags,token):
 	Output: A battlelogs json file of the tags in input
 	"""
 	battlelogs=[]
-	filename = "./battlelogs/battlelogs_"+datetime.datetime.now().strftime("%Y%m%d-%H%M%S")+".json"
+	filename = home+"/battlelogs/battlelogs_"+datetime.datetime.now().strftime("%Y%m%d-%H%M%S")+".json"
 	#tags_first=[tags[0], tags[1]]
 	for tag in tags:
 		headers = {
