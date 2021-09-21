@@ -5,7 +5,7 @@
 - Process player's information
 
 ## Network diagram
-*<img width="100%" alt="Picture7" src="https://user-images.githubusercontent.com/28600326/133922776-f4439a38-e265-4d41-90bc-b42deeff57a3.png">
+<img width="100%" alt="Picture7" src="https://user-images.githubusercontent.com/28600326/133922776-f4439a38-e265-4d41-90bc-b42deeff57a3.png">
 
 
 ## Brawl Stars REST API (api.brawlstars.com)
@@ -20,7 +20,7 @@ eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJj
 ```
 #### Decoded
 ##### Header
-🛈 For sake of clarity, JSON output will be printed as YAML. If you are not familiar with this data serialization language, please check https://yaml.org/.
+ⓘ For sake of clarity, JSON output will be printed as YAML. If you are not familiar with this data serialization language, please check https://yaml.org/.
 ```yaml
 ---
 typ: JWT
