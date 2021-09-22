@@ -1,0 +1,295 @@
+{
+  "items": [
+    {
+      "battleTime": "20210922T200043.000Z",
+      "event": {
+        "id": 15000033,
+        "mode": "soloShowdown",
+        "map": "Cavern Churn"
+      },
+      "battle": {
+        "mode": "soloShowdown",
+        "type": "ranked",
+        "rank": 9,
+        "trophyChange": -4,
+        "players": [
+          {
+            "tag": "#89QPJL8R",
+            "name": "《Şค๓นēlᴳᵒᵈ》",
+            "brawler": {
+              "id": 16000023,
+              "name": "LEON",
+              "power": 10,
+              "trophies": 400
+            }
+          },
+          {
+            "tag": "#92VCYPC0Q",
+            "name": "lil_Basso_",
+            "brawler": {
+              "id": 16000038,
+              "name": "SURGE",
+              "power": 8,
+              "trophies": 371
+            }
+          },
+          {
+            "tag": "#8LLJYJJC0",
+            "name": "דוד",
+            "brawler": {
+              "id": 16000045,
+              "name": "STU",
+              "power": 6,
+              "trophies": 348
+            }
+          },
+          {
+            "tag": "#208CQQYJC",
+            "name": "mamen",
+            "brawler": {
+              "id": 16000051,
+              "name": "ASH",
+              "power": 7,
+              "trophies": 364
+            }
+          },
+          {
+            "tag": "#9PJYY0Y0Q",
+            "name": "flxvix",
+            "brawler": {
+              "id": 16000046,
+              "name": "BELLE",
+              "power": 4,
+              "trophies": 378
+            }
+          },
+          {
+            "tag": "#22GPUL299",
+            "name": "jtepetedessus",
+            "brawler": {
+              "id": 16000045,
+              "name": "STU",
+              "power": 9,
+              "trophies": 375
+            }
+          },
+          {
+            "tag": "#J09LY9P",
+            "name": "david_proazo",
+            "brawler": {
+              "id": 16000038,
+              "name": "SURGE",
+              "power": 8,
+              "trophies": 395
+            }
+          },
+          {
+            "tag": "#PUV2PUQUP",
+            "name": "Free to play",
+            "brawler": {
+              "id": 16000011,
+              "name": "MORTIS",
+              "power": 6,
+              "trophies": 394
+            }
+          },
+          {
+            "tag": "#R2R8LJY9",
+            "name": "Barlagor",
+            "brawler": {
+              "id": 16000049,
+              "name": "BUZZ",
+              "power": 9,
+              "trophies": 371
+            }
+          },
+          {
+            "tag": "#YYLCJG2",
+            "name": "BLANDEL",
+            "brawler": {
+              "id": 16000050,
+              "name": "GRIFF",
+              "power": 10,
+              "trophies": 403
+            }
+          }
+        ]
+      }
+    },
+    {
+      "battleTime": "20210922T195743.000Z",
+      "event": {
+        "id": 15000011,
+        "mode": "gemGrab",
+        "map": "Undermine"
+      },
+      "battle": {
+        "mode": "gemGrab",
+        "type": "teamRanked",
+        "result": "victory",
+        "duration": 180,
+        "starPlayer": {
+          "tag": "#LLGLVCLV",
+          "name": "Vojta",
+          "brawler": {
+            "id": 16000030,
+            "name": "EMZ",
+            "power": 10,
+            "trophies": 10
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "#22Q9G92UU",
+              "name": "☢️IceDelf",
+              "brawler": {
+                "id": 16000046,
+                "name": "BELLE",
+                "power": 10,
+                "trophies": 11
+              }
+            },
+            {
+              "tag": "#2VRPU9P8",
+              "name": "Herbie",
+              "brawler": {
+                "id": 16000023,
+                "name": "LEON",
+                "power": 10,
+                "trophies": 11
+              }
+            },
+            {
+              "tag": "#2RUP2CQ9",
+              "name": "idealico",
+              "brawler": {
+                "id": 16000031,
+                "name": "MR. P",
+                "power": 10,
+                "trophies": 10
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#LLGLVCLV",
+              "name": "Vojta",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 10,
+                "trophies": 10
+              }
+            },
+            {
+              "tag": "#LGGLRJRR",
+              "name": "Patrik88",
+              "brawler": {
+                "id": 16000004,
+                "name": "RICO",
+                "power": 10,
+                "trophies": 9
+              }
+            },
+            {
+              "tag": "#R2R8LJY9",
+              "name": "Barlagor",
+              "brawler": {
+                "id": 16000014,
+                "name": "BO",
+                "power": 10,
+                "trophies": 10
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20210922T195429.000Z",
+      "event": {
+        "id": 15000011,
+        "mode": "gemGrab",
+        "map": "Undermine"
+      },
+      "battle": {
+        "mode": "gemGrab",
+        "type": "teamRanked",
+        "result": "victory",
+        "duration": 123,
+        "starPlayer": null,
+        "teams": [
+          [
+            {
+              "tag": "#22Q9G92UU",
+              "name": "☢️IceDelf",
+              "brawler": {
+                "id": 16000046,
+                "name": "BELLE",
+                "power": 10,
+                "trophies": 11
+              }
+            },
+            {
+              "tag": "#2VRPU9P8",
+              "name": "Herbie",
+              "brawler": {
+                "id": 16000023,
+                "name": "LEON",
+                "power": 10,
+                "trophies": 11
+              }
+            },
+            {
+              "tag": "#2RUP2CQ9",
+              "name": "idealico",
+              "brawler": {
+                "id": 16000031,
+                "name": "MR. P",
+                "power": 10,
+                "trophies": 10
+              }
+            }
+          ],
+          [
+            {
+              "tag": "#LLGLVCLV",
+              "name": "Vojta",
+              "brawler": {
+                "id": 16000030,
+                "name": "EMZ",
+                "power": 10,
+                "trophies": 10
+              }
+            },
+            {
+              "tag": "#LGGLRJRR",
+              "name": "Patrik88",
+              "brawler": {
+                "id": 16000004,
+                "name": "RICO",
+                "power": 10,
+                "trophies": 9
+              }
+            },
+            {
+              "tag": "#R2R8LJY9",
+              "name": "Barlagor",
+              "brawler": {
+                "id": 16000014,
+                "name": "BO",
+                "power": 10,
+                "trophies": 10
+              }
+            }
+          ]
+        ]
+      }
+    },
+    {
+      "battleTime": "20210922T194049.000Z",
+      "event": {
+        "id": 0,
+        "map": null
+      },
