@@ -1,0 +1,63 @@
+---
+battle:
+  teams:
+  - - tag: "#20RJRJ908"
+      name: DinisimysI
+      brawler:
+        trophies: 6
+        id: 16000047
+        power: 10
+        name: SQUEAK
+    - tag: "#9QYPCV9QU"
+      name: Andrey319432
+      brawler:
+        trophies: 5
+        id: 16000027
+        power: 10
+        name: 8-BIT
+    - tag: "#2CY8C2LJ8"
+      name: "[QD]ДИМА™"
+      brawler:
+        trophies: 7
+        id: 16000029
+        power: 10
+        name: BEA
+  - - tag: "#8GV80808"
+      name: 1_Le_™_on_1
+      brawler:
+        trophies: 6
+        id: 16000034
+        power: 7
+        name: JACKY
+    - tag: "#YLRVV00JG"
+      name: Твоя Игра YT
+      brawler:
+        trophies: 6
+        id: 16000017
+        power: 10
+        name: TARA
+    - tag: "#8PUUCPU"
+      name: Георгий
+      brawler:
+        trophies: 6
+        id: 16000050
+        power: 4
+        name: GRIFF
+  mode: gemGrab
+  duration: 104
+  type: soloRanked
+  starPlayer:
+    tag: "#2CY8C2LJ8"
+    name: "[QD]ДИМА™"
+    brawler:
+      trophies: 7
+      id: 16000029
+      power: 10
+      name: BEA
+  result: defeat
+battleTime: 20210922T111955.000Z
+event:
+  map: Undermine
+  id: 15000011
+  mode: gemGrab
+...
