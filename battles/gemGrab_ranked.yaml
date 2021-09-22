@@ -1,0 +1,62 @@
+---
+battle:
+  teams:
+  - - tag: "#G8LRPUCU"
+      name: Big Nick
+      brawler:
+        trophies: 960
+        id: 16000042
+        power: 10
+        name: BYRON
+    - tag: "#20G22UQ82"
+      name: CAYLOS
+      brawler:
+        trophies: 749
+        id: 16000012
+        power: 10
+        name: CROW
+    - tag: "#P0RRV8V0"
+      name: bubble
+      brawler:
+        trophies: 749
+        id: 16000007
+        power: 10
+        name: JESSIE
+  - - tag: "#YGUVRQQ9"
+      name: EdoJan
+      brawler:
+        trophies: 799
+        id: 16000042
+        power: 10
+        name: BYRON
+    - tag: "#LJGY0LU9"
+      name: FishermanJohn
+      brawler:
+        trophies: 774
+        id: 16000017
+        power: 10
+        name: TARA
+    - tag: "#QQULJVVV"
+      name: HaHaITrolledYou
+      brawler:
+        trophies: 762
+        id: 16000023
+        power: 10
+        name: LEON
+  mode: gemGrab
+  duration: 168
+  type: ranked
+  starPlayer:
+    tag: "#P0RRV8V0"
+    name: bubble
+    brawler:
+      trophies: 749
+      id: 16000007
+      power: 10
+      name: JESSIE
+  result: victory
+battleTime: 20210922T173617.000Z
+event:
+  map:
+  id: 0
+...
