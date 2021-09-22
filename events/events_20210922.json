@@ -1,0 +1,77 @@
+[
+  {
+    "startTime": "20210922T080000.000Z",
+    "endTime": "20210923T080000.000Z",
+    "event": {
+      "id": 15000111,
+      "mode": "gemGrab",
+      "map": "Diamond Dust"
+    }
+  },
+  {
+    "startTime": "20210921T200000.000Z",
+    "endTime": "20210922T200000.000Z",
+    "event": {
+      "id": 15000043,
+      "mode": "soloShowdown",
+      "map": "Double Trouble"
+    }
+  },
+  {
+    "startTime": "20210922T020000.000Z",
+    "endTime": "20210923T020000.000Z",
+    "event": {
+      "id": 15000118,
+      "mode": "brawlBall",
+      "map": "Pinball Dreams"
+    }
+  },
+  {
+    "startTime": "20210922T160000.000Z",
+    "endTime": "20210922T180000.000Z",
+    "event": {
+      "id": 15000292,
+      "mode": "hotZone",
+      "map": "Open Business"
+    }
+  },
+  {
+    "startTime": "20210921T200000.000Z",
+    "endTime": "20210922T200000.000Z",
+    "event": {
+      "id": 15000028,
+      "mode": "duoShowdown",
+      "map": "Double Trouble"
+    }
+  },
+  {
+    "startTime": "20210922T160000.000Z",
+    "endTime": "20210922T180000.000Z",
+    "event": {
+      "id": 15000364,
+      "mode": "knockout",
+      "map": "Double Bluff"
+    }
+  },
+  {
+    "startTime": "20210925T080000.000Z",
+    "endTime": "20210927T080000.000Z",
+    "event": {
+      "id": 15000133,
+      "mode": "bossFight",
+      "map": "Danger Zone"
+    }
+  },
+  {
+    "startTime": "20210922T080000.000Z",
+    "endTime": "20210923T080000.000Z",
+    "event": {
+      "id": 15000033,
+      "mode": "soloShowdown",
+      "map": "Cavern Churn",
+      "modifiers": [
+        "unknown"
+      ]
+    }
+  }
+]
