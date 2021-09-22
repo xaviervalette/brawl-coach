@@ -1,62 +1,64 @@
 ---
 battle:
   teams:
-  - - tag: "#G8LRPUCU"
-      name: Big Nick
+  - - tag: "#28J99UP0Y"
+      name: ЁЙD//しまぴん
       brawler:
-        trophies: 960
-        id: 16000042
+        trophies: 785
+        id: 16000029
         power: 10
-        name: BYRON
-    - tag: "#20G22UQ82"
-      name: CAYLOS
+        name: BEA
+    - tag: "#2VLL8VLV2"
+      name: ЁЙD//うたぴん
       brawler:
-        trophies: 749
-        id: 16000012
+        trophies: 715
+        id: 16000011
         power: 10
-        name: CROW
-    - tag: "#P0RRV8V0"
-      name: bubble
-      brawler:
-        trophies: 749
-        id: 16000007
-        power: 10
-        name: JESSIE
-  - - tag: "#YGUVRQQ9"
-      name: EdoJan
-      brawler:
-        trophies: 799
-        id: 16000042
-        power: 10
-        name: BYRON
-    - tag: "#LJGY0LU9"
-      name: FishermanJohn
+        name: MORTIS
+    - tag: "#8YVQRVJ2"
+      name: ЁЙD//✿バナナオーレ✿
       brawler:
         trophies: 774
-        id: 16000017
+        id: 16000009
         power: 10
-        name: TARA
-    - tag: "#QQULJVVV"
-      name: HaHaITrolledYou
+        name: DYNAMIKE
+  - - tag: "#PJGL0G0"
+      name: ItzVinc BS_Yt
       brawler:
-        trophies: 762
-        id: 16000023
+        trophies: 876
+        id: 16000049
         power: 10
-        name: LEON
+        name: BUZZ
+    - tag: "#PL8G0G8C"
+      name: Cyborg
+      brawler:
+        trophies: 896
+        id: 16000025
+        power: 10
+        name: CARL
+    - tag: "#2QL90JU0"
+      name: RavenOf8
+      brawler:
+        trophies: 896
+        id: 16000042
+        power: 10
+        name: BYRON
   mode: gemGrab
-  duration: 168
+  duration: 90
   type: ranked
   starPlayer:
-    tag: "#P0RRV8V0"
-    name: bubble
+    tag: "#2QL90JU0"
+    name: RavenOf8
     brawler:
-      trophies: 749
-      id: 16000007
+      trophies: 896
+      id: 16000042
       power: 10
-      name: JESSIE
+      name: BYRON
+  trophyChange: 7
   result: victory
-battleTime: 20210922T173617.000Z
+battleTime: 20210921T183316.000Z
 event:
-  map:
-  id: 0
+  map: Deep Diner
+  id: 15000012
+  mode: gemGrab
 ...
