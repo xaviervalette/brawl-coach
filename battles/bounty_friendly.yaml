@@ -1,0 +1,44 @@
+---
+battle:
+  teams:
+  - - tag: "#28UQJYJ0P"
+      name: "Darkell\U0001F985"
+      brawler:
+        id: 16000001
+        name: COLT
+    - tag: "#2CL828QQP"
+      name: LiveYT frags_og
+      brawler:
+        id: 16000009
+        name: DYNAMIKE
+  - - tag: "#8RJCVYQC9"
+      name: ηєхυѕ ♡︎
+      brawler:
+        id: 16000001
+        name: COLT
+    - tag: "#RYGCVRL2"
+      name: "Ksh\U0001F427"
+      brawler:
+        id: 16000036
+        name: NANI
+    - tag: "#QPVCC80G"
+      name: NainPerméable ☔
+      brawler:
+        id: 16000011
+        name: MORTIS
+  mode: bounty
+  duration: 120
+  type: friendly
+  starPlayer:
+    tag: "#8RJCVYQC9"
+    name: ηєхυѕ ♡︎
+    brawler:
+      id: 16000001
+      name: COLT
+  result: victory
+battleTime: 20210921T223150.000Z
+event:
+  map: Purple Paradise
+  id: 15000295
+  mode: bounty
+...
