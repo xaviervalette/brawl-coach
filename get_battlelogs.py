@@ -28,7 +28,7 @@ country_code_list=["AF", "AX", "AL", "DZ", "AS", "AD", "AO", "AI", "AQ", "AG", "
 "UG", "UA", "AE", "GB", "US", "UM", "UY", "UZ", "VU", "VE", "VN",
 "VG", "VI", "WF", "EH", "YE", "ZM", "ZW"]
 """
-country_code_list=sorted(["FR", "US", "DE", "IT", "ES", "JP"])
+country_code_list=sorted(["FR", "DE", "IT", "ES","global"])
 
 def read_api_token(filename):
 	"""

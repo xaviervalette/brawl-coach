@@ -2,9 +2,11 @@ import json
 from collections import defaultdict
 import os
 import glob
-base_dir = '/home/ec2-user/brawl-tier/battlelogs/battlelogs_20210925-2/*'
+import datetime
 
-with open("events/events_20210925-151745.json") as f:
+base_dir = '/home/ec2-user/brawl-tier/battlelogs/battlelogs_20210926/*'
+home="/home/ec2-user/brawl-tier/"
+with open("events/events_20210926-100630.json") as f:
     events = json.load(f)
 
 target_event=events[2]
@@ -59,6 +61,7 @@ winning_team_no_dupplicate=remove_team_duplicate(winning_team)
 loosing_team_no_dupplicate=remove_team_duplicate(loosing_team)
 
 win_table=[]
+
 for team in winning_team_no_dupplicate:
 	#win_table.append([winning_team.count(team),team])
 	if(loosing_team.count(team)==0):
@@ -67,7 +70,7 @@ for team in winning_team_no_dupplicate:
 		win_rate=float(winning_team.count(team))/float((winning_team.count(team)+loosing_team.count(team)))
 	win_dict = {
 		"teamStats": {
-			"winNumbers": winning_team.count(team),
+			"winNumber": winning_team.count(team),
 			"winRate":round(win_rate,3),
 			"pickRate": round((winning_team.count(team)+loosing_team.count(team))/float(game_number_targeted_event),3),
 			"pickNumber":winning_team.count(team)+loosing_team.count(team),
@@ -79,6 +82,12 @@ for team in winning_team_no_dupplicate:
 
 print(win_table[0])
 
-win_table = sorted(win_table, key=lambda win_table: win_table['teamStats']["winNumbers"], reverse=True)
-with open("win_table.json", 'w') as fp:
+win_table = sorted(win_table, key=lambda win_table: win_table['teamStats']["pickNumber"], reverse=True)
+
+event_dict={"gameMode": target_event}
+
+win_table.append(event_dict)
+
+filename = home+"/teamStats/teamStats_"+datetime.datetime.now().strftime("%Y%m%d-%H%M%S")+".json"
+with open(filename, 'w') as fp:
 	json.dump(win_table, fp)
