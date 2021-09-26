@@ -10,55 +10,6 @@
 
 ## Brawl Stars REST API (api.brawlstars.com)
 Brawl Stars REST API is using __JSON Web Token__ for the authentication of the HTTPS requests.
-### JSON Web Token (JWT)
-> JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties - https://jwt.io/
-
-The structure of a JWT is the following: ```header.payload.signature```. Below is an example of a JWT provided by the Brawl Star API website:
-#### Encoded
-```jwt
-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6IjBiOTgxN2M5LWIyZmUtNGZlZC1iZjhkLTMyN2VlMTgzNDk3MCIsImlhdCI6MTYzMDYwMDYwMCwic3ViIjoiZGV2ZWxvcGVyLzk2NWU0ZGI3LTU3YTMtM2FhYy1hYmNhLWE2NzEzODI5NWJiMiIsInNjb3BlcyI6WyJicmF3bHN0YXJzIl0sImxpbWl0cyI6W3sidGllciI6ImRldmVsb3Blci9zaWx2ZXIiLCJ0eXBlIjoidGhyb3R0bGluZyJ9LHsiY2lkcnMiOlsiMTUuMTg4LjQ3LjE4NyJdLCJ0eXBlIjoiY2xpZW50In1dfQ.-onaSw0J63JhTCBmAonb6ZokEhFDJHs12GD5h8giJ7Y023oCzv0NJq0DqDxefNlfdo91c_iWAth1OF6U787fKA
-```
-#### Decoded
-##### Header
-ⓘ For sake of clarity, JSON output will be printed as YAML. If you are not familiar with this data serialization language, please check https://yaml.org/.
-```yaml
----
-typ: JWT
-alg: HS512
-kid: 28a318f7-0000-a1eb-7fa1-2c7433c6cca5
-...
-```
-##### Payload
-```yaml
----
-iss: supercell
-aud: supercell:gameapi
-jti: 0b9817c9-b2fe-4fed-bf8d-327ee1834970
-iat: 1630600600
-sub: developer/965e4db7-57a3-3aac-abca-a67138295bb2
-scopes:
-- brawlstars
-limits:
-- tier: developer/silver
-  type: throttling
-- cidrs:
-  - 15.188.47.187
-  type: client
-...
-```
-##### Signature
-The signature is composed of three elements:
-- Header
-- Payload
-- Secret
-
-```python
-HMACSHA512(
-  base64UrlEncode(header) + "." +
-  base64UrlEncode(payload),
-  your-256-bit-secret
-)
-```
 
 ### Ressources
 According to https://developer.brawlstars.com/#/documentation (account might be require), there is 5 available ressources:
