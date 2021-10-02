@@ -4,13 +4,9 @@ import os
 import glob
 import datetime
 
-base_dir = '/home/ec2-user/brawl-tier/battlelogs/battlelogs_20210926/*'
+filepath = '/home/ec2-user/brawl-tier/powerPlay/battlelogs/battlelogs_20210926-151835_global.json'
 home="/home/ec2-user/brawl-tier/"
-with open("events/events_20210926-100630.json") as f:
-    events = json.load(f)
 
-target_event=events[2]
-print(target_event)
 #battelogs[player_number{0-200}]["items"][game_number{0-25}]["event"]["id"]
 
 winning_team=[]
@@ -18,20 +14,21 @@ loosing_team=[]
 
 
 battlelogs_list=[]
-filepaths = glob.glob(base_dir)
-for fp in filepaths:
-        with open(fp, 'r') as f:
-                # Read the first line
-                battlelogs = json.load(f)
-                # Append the first line into the list
-                battlelogs_list.append(battlelogs)
-game_number_targeted_event=0
-for battlelogs in battlelogs_list:
-        for player in battlelogs:
-                for game in player["items"]:
-                        #print(game["event"]["id"])
-			if(game["event"]["id"]==target_event["event"]["id"]):
-				game_number_targeted_event=game_number_targeted_event+1
+with open(filepath, 'r') as f:
+	battlelogs = json.load(f)
+battlelogs.pop(148)
+soloMatch=0
+teamMatch=0
+i=0
+for player in battlelogs:
+	print(i)
+	player_items=player["items"]
+	for game in player_items:
+		if(game["event"]["id"]==15000306):
+			if(game["battle"]["type"]=="teamRanked"):
+				teamMatch=teamMatch+1
+			elif(game["battle"]["type"]=="soloRanked"):
+				soloMatch=soloMatch+1
 				star_player=game["battle"]["starPlayer"]
 				if star_player in game["battle"]["teams"][0]:
 					winning_team_index=False
@@ -47,8 +44,9 @@ for battlelogs in battlelogs_list:
 				winning_team.append(winners)
 				loosers=sorted(loosers)
 				loosing_team.append(loosers)
-
-print "Number of game corresponding to the targeted event:",game_number_targeted_event
+	i=i+1
+print "Number of game corresponding to the solo targeted event:",soloMatch
+print "Number of game corresponding to the team targeted event:",teamMatch
 
 def remove_team_duplicate(team):
 	team_no_dupplicate=[]
@@ -63,7 +61,7 @@ loosing_team_no_dupplicate=remove_team_duplicate(loosing_team)
 win_table=[]
 
 for team in winning_team_no_dupplicate:
-	#win_table.append([winning_team.count(team),team])
+	total=soloMatch+teamMatch
 	if(loosing_team.count(team)==0):
 		win_rate=1
 	else:
@@ -72,22 +70,20 @@ for team in winning_team_no_dupplicate:
 		"teamStats": {
 			"winNumber": winning_team.count(team),
 			"winRate":round(win_rate,3),
-			"pickRate": round((winning_team.count(team)+loosing_team.count(team))/float(game_number_targeted_event),3),
+			"pickRate": round((winning_team.count(team)+loosing_team.count(team))/float(total),3),
 			"pickNumber":winning_team.count(team)+loosing_team.count(team),
 			"brawlers": team
 			}
 	}
 	win_table.append(win_dict)
-	#print("Team:",team,"Count",winning_team.count(team))
-
-print(win_table[0])
 
 win_table = sorted(win_table, key=lambda win_table: win_table['teamStats']["pickNumber"], reverse=True)
 
-event_dict={"gameMode": target_event}
+event_dict={"gameMode": "TBD"}
+team_dict={"overall": {"numberDiffTeams": len(winning_team_no_dupplicate)}}
 
-win_table.append(event_dict)
+win_table.append(team_dict)
 
-filename = home+"/teamStats/teamStats_"+datetime.datetime.now().strftime("%Y%m%d-%H%M%S")+".json"
+filename = home+"/powerPlay/teamStats/teamStats_global_20210926-151835.json"
 with open(filename, 'w') as fp:
 	json.dump(win_table, fp)
