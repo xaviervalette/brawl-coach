@@ -1,8 +1,10 @@
 import json
 from typing import Type
+import os
+from datetime import datetime
 
 battle_log_file="powerPlay\\battlelogs\\battlelogs_20210926-151835_global.json"
-
+battlelogsDirectory = r'powerPlay\\battlelogs'
 # INPUT   : An item from the json battle log with the following keys: "battle", "battleTime" and "event"
 #           The map name shall be a key of the value of "event" 
 # OUTPUT  : The sring of the map
@@ -49,11 +51,15 @@ def get_team_of_star_player(item):
     winTeam.sort()
     return winTeam
 
-def get_team_of_star_player_from_tags(item, itemNumber, battle_log_file):
+def get_curent_player_tag(itemNumber, battle_log_file):
     tags_file="powerPlay\\tags\\tags"+battle_log_file.split("\\")[-1].split("battlelogs")[-1]
     file = open(tags_file)
     content = file.readlines()
     curentPlayer=content[itemNumber-1].rstrip("\n")
+    return curentPlayer
+
+def get_team_of_star_player_from_tags(item, itemNumber, battle_log_file):
+    curentPlayer=get_curent_player_tag(itemNumber, battle_log_file)
     curentPlayerSeen=False
     goodTeam=False
     winTeam=[]
@@ -108,90 +114,100 @@ def print_win_table(winTable):
             print("\t", keys, ':', winTable[item][keys])
     print("")
 
-with open(battle_log_file) as f:
-    datas = json.load(f)
-winTable={}
-teamRankedWinTable={}
-soloRankedWinTable={}
-powerLeagueWinTable={}
-soloHardRock=0
-teamHardRock=0
-soloRanked=0
-teamRanked=0
-nullMap=0
-itemNumber=0
-noModeInEvent=0 # Certainly power league or championship!
-notFound=0
-for data in datas:
-    itemNumber=itemNumber+1
-    if "items" in data:
-        for item in data['items']:
-            if "mode" in item['event']:
-                if get_mode_from_item(item)=="gemGrab":
-                    if item["battle"]["type"] == "soloRanked" or item["battle"]["type"] == "teamRanked":
-                        try: 
+def store_item(item, itemNumber, filename, dt_string):
+    currentPlayerTag= get_curent_player_tag(itemNumber, filename)
+    item["PlayerTag"]=currentPlayerTag
+    if(os.path.isfile(dt_string)):
+        data = json.load(open(dt_string))
+        # convert data to list if not
+        if type(data) is dict:
+            data = [data]
+
+        # append new item to data lit
+        data.append(item)
+
+        # write list to file
+        with open(dt_string, 'w') as outfile:
+            json.dump(data, outfile, indent=4)
+    else:
+        with open(dt_string, 'w') as outfile:
+            json.dump(item, outfile, indent=4)
+
+
+now = datetime.now()
+dt_string = now.strftime("%d_%m_%Y__%H_%M_%S")
+
+for fileName in os.listdir(battlelogsDirectory):
+    filename=os.path.join(battlelogsDirectory, fileName)
+    with open(filename) as f:
+        datas = json.load(f)
+    winTable={}
+    teamRankedWinTable={}
+    soloRankedWinTable={}
+    powerLeagueWinTable={}
+    soloHardRock=0
+    teamHardRock=0
+    soloRanked=0
+    teamRanked=0
+    nullMap=0
+    itemNumber=0
+    noModeInEvent=0 # Certainly power league or championship!
+    notFound=0
+    for data in datas:
+        itemNumber=itemNumber+1
+        if "items" in data:
+            for item in data['items']:
+                if "mode" in item['event']:
+                    if get_mode_from_item(item)=="gemGrab":
+                        if item["battle"]["type"] == "soloRanked" or item["battle"]["type"] == "teamRanked":
                             powerLeagueMap= get_map_from_item(item)
-                            powerLeagueWinTeam= get_team_of_star_player(item)
+                            powerLeagueWinTeam= get_team_of_star_player_from_tags(item, itemNumber, filename)
                             powerLeagueWinTable= store_winning_teams_per_map(powerLeagueMap, powerLeagueWinTeam, powerLeagueWinTable)
-                        except TypeError:
-                            print("Power league: ", item["battleTime"])   
-                            powerLeagueMap= get_map_from_item(item)
-                            powerLeagueWinTeam= get_team_of_star_player_from_tags(item, itemNumber, battle_log_file)
-                            powerLeagueWinTable= store_winning_teams_per_map(powerLeagueMap, powerLeagueWinTeam, powerLeagueWinTable)
-                    if item["battle"]["type"] != "soloRanked":
-                        if item["battle"]["type"] != "teamRanked":
-                            if get_map_from_item(item)!= None:
-                                map= get_map_from_item(item)
-                                winTeam= get_team_of_star_player(item)
-                                winTable= store_winning_teams_per_map(map, winTeam, winTable)
+                        if item["battle"]["type"] != "soloRanked":
+                            if item["battle"]["type"] != "teamRanked":
+                                if get_map_from_item(item)!= None:
+                                    map= get_map_from_item(item)
+                                    winTeam= get_team_of_star_player_from_tags(item, itemNumber, filename)
+                                    winTable= store_winning_teams_per_map(map, winTeam, winTable)
+                                else:
+                                    nullMap=nullMap+1
                             else:
-                                nullMap=nullMap+1
-                        else:
-                            teamRanked=teamRanked+1
-                            try: 
+                                teamRanked=teamRanked+1
                                 teamRankedMap= get_map_from_item(item)
-                                teamRankedWinTeam= get_team_of_star_player(item)
+                                teamRankedWinTeam= get_team_of_star_player_from_tags(item, itemNumber, filename)
                                 teamRankedWinTable= store_winning_teams_per_map(teamRankedMap, teamRankedWinTeam, teamRankedWinTable)                                
                                 if powerLeagueMap=="Hard Rock Mine":
                                     teamHardRock=teamHardRock+1
-                            except TypeError:
-                                print("Team ranked: ", item["battleTime"])
-                                teamRankedMap= get_map_from_item(item)
-                                teamRankedWinTeam= get_team_of_star_player_from_tags(item, itemNumber, battle_log_file)
-                                teamRankedWinTable= store_winning_teams_per_map(teamRankedMap, teamRankedWinTeam, teamRankedWinTable)                                
-                    else:
-                        soloRanked=soloRanked+1
-                        try :
+                                    store_item(item, itemNumber, filename,os.path.join("powerPlay\\battlelogsMerge","team_ranked_merged_battlelogs_hard_rock_mine_"+dt_string+".json"))                        
+                        else:
+                            soloRanked=soloRanked+1
                             soloRankedMap= get_map_from_item(item)
-                            soloRankedWinTeam= get_team_of_star_player(item)
+                            soloRankedWinTeam= get_team_of_star_player_from_tags(item, itemNumber, filename)
                             soloRankedWinTable= store_winning_teams_per_map(soloRankedMap, soloRankedWinTeam, soloRankedWinTable)
                             if powerLeagueMap=="Hard Rock Mine":
                                 soloHardRock=soloHardRock+1
-                        except TypeError:
-                            print("Solo ranked: ", item["battleTime"])
-                            soloRankedMap= get_map_from_item(item)
-                            soloRankedWinTeam= get_team_of_star_player_from_tags(item, itemNumber, battle_log_file)
-                            soloRankedWinTable= store_winning_teams_per_map(soloRankedMap, soloRankedWinTeam, soloRankedWinTable)
-            else:
-                noModeInEvent=noModeInEvent+1
-    else:
-        notFound=notFound+1
+                                store_item(item, itemNumber, filename,os.path.join("powerPlay\\battlelogsMerge","solo_ranked_merged_battlelogs_hard_rock_mine_"+dt_string+".json"))
+
+                else:
+                    noModeInEvent=noModeInEvent+1
+        else:
+            notFound=notFound+1
 
 
-winTable =sort_win_table(winTable)
-#print_win_table(winTable)
+    winTable =sort_win_table(winTable)
+    #print_win_table(winTable)
 
-print("power league")
-powerLeagueWinTable =sort_win_table(powerLeagueWinTable)
-print_win_table(powerLeagueWinTable)
+    print("power league")
+    powerLeagueWinTable =sort_win_table(powerLeagueWinTable)
+    print_win_table(powerLeagueWinTable)
 
-print("solo ranked")
-soloRankedWinTable =sort_win_table(soloRankedWinTable)
-#print_win_table(soloRankedWinTable)
+    print("solo ranked")
+    soloRankedWinTable =sort_win_table(soloRankedWinTable)
+    #print_win_table(soloRankedWinTable)
 
-print("team ranked")
-teamRankedWinTable =sort_win_table(teamRankedWinTable)
-#print_win_table(teamRankedWinTable)
+    print("team ranked")
+    teamRankedWinTable =sort_win_table(teamRankedWinTable)
+    #print_win_table(teamRankedWinTable)
 
-print("solo hard rock: ", soloHardRock)
-print("team hard rock: ", teamHardRock)
+    print("solo hard rock: ", soloHardRock)
+    print("team hard rock: ", teamHardRock)
