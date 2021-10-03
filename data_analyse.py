@@ -114,6 +114,7 @@ def print_win_table(winTable):
             print("\t", keys, ':', winTable[item][keys])
     print("")
 
+# Store an item to the merged battlelogs file
 def store_item(item, itemNumber, filename, dt_string):
     currentPlayerTag= get_curent_player_tag(itemNumber, filename)
     item["PlayerTag"]=currentPlayerTag
@@ -137,7 +138,7 @@ def store_item(item, itemNumber, filename, dt_string):
 now = datetime.now()
 dt_string = now.strftime("%d_%m_%Y__%H_%M_%S")
 
-for fileName in os.listdir(battlelogsDirectory):
+for fileName in os.listdir(battlelogsDirectory): # For all files of powerPLay/batttlelogs directory
     filename=os.path.join(battlelogsDirectory, fileName)
     with open(filename) as f:
         datas = json.load(f)
@@ -151,27 +152,27 @@ for fileName in os.listdir(battlelogsDirectory):
     teamRanked=0
     nullMap=0
     itemNumber=0
-    noModeInEvent=0 # Certainly power league or championship!
+    noModeInEvent=0 # Certainly championship!
     notFound=0
-    for data in datas:
+    for data in datas: # For each player
         itemNumber=itemNumber+1
-        if "items" in data:
-            for item in data['items']:
-                if "mode" in item['event']:
-                    if get_mode_from_item(item)=="gemGrab":
-                        if item["battle"]["type"] == "soloRanked" or item["battle"]["type"] == "teamRanked":
+        if "items" in data: # Check if there is no problem like the 148
+            for item in data['items']: # For each batle of the battlelogs of the curent player
+                if "mode" in item['event']: # Check if there is a mode or not
+                    if get_mode_from_item(item)=="gemGrab": # if we are in gemgrab mode
+                        if item["battle"]["type"] == "soloRanked" or item["battle"]["type"] == "teamRanked": # if we are in power league
                             powerLeagueMap= get_map_from_item(item)
                             powerLeagueWinTeam= get_team_of_star_player_from_tags(item, itemNumber, filename)
                             powerLeagueWinTable= store_winning_teams_per_map(powerLeagueMap, powerLeagueWinTeam, powerLeagueWinTable)
-                        if item["battle"]["type"] != "soloRanked":
-                            if item["battle"]["type"] != "teamRanked":
-                                if get_map_from_item(item)!= None:
+                        if item["battle"]["type"] != "soloRanked":     
+                            if item["battle"]["type"] != "teamRanked": # If we are not in power league
+                                if get_map_from_item(item)!= None: # Check if the map is not null
                                     map= get_map_from_item(item)
                                     winTeam= get_team_of_star_player_from_tags(item, itemNumber, filename)
                                     winTable= store_winning_teams_per_map(map, winTeam, winTable)
                                 else:
                                     nullMap=nullMap+1
-                            else:
+                            else: # if we are in team ranked power league
                                 teamRanked=teamRanked+1
                                 teamRankedMap= get_map_from_item(item)
                                 teamRankedWinTeam= get_team_of_star_player_from_tags(item, itemNumber, filename)
@@ -179,7 +180,7 @@ for fileName in os.listdir(battlelogsDirectory):
                                 if powerLeagueMap=="Hard Rock Mine":
                                     teamHardRock=teamHardRock+1
                                     store_item(item, itemNumber, filename,os.path.join("powerPlay\\battlelogsMerge","team_ranked_merged_battlelogs_hard_rock_mine_"+dt_string+".json"))                        
-                        else:
+                        else: # if we are in solo ranked power league
                             soloRanked=soloRanked+1
                             soloRankedMap= get_map_from_item(item)
                             soloRankedWinTeam= get_team_of_star_player_from_tags(item, itemNumber, filename)
