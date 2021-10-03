@@ -14,9 +14,16 @@ loosing_team=[]
 
 
 battlelogs_list=[]
+tags=[]
 with open(filepath, 'r') as f:
 	battlelogs = json.load(f)
+file1 = open('powerPlay/tags/tags_20210926-151835_global.json', 'r')
+Lines = file1.readlines()
+for line in Lines:
+	tags.append(line)
+tags.pop(148)
 battlelogs.pop(148)
+
 soloMatch=0
 teamMatch=0
 i=0
@@ -24,16 +31,23 @@ for player in battlelogs:
 	print(i)
 	player_items=player["items"]
 	for game in player_items:
-		if(game["event"]["id"]==15000306):
+		if(game["event"]["id"]==15000007):
 			if(game["battle"]["type"]=="teamRanked"):
 				teamMatch=teamMatch+1
-			elif(game["battle"]["type"]=="soloRanked"):
+			if(game["battle"]["type"]=="soloRanked"):
 				soloMatch=soloMatch+1
-				star_player=game["battle"]["starPlayer"]
-				if star_player in game["battle"]["teams"][0]:
-					winning_team_index=False
-				else:
-					winning_team_index=True
+			if(game['battle']['type']=="teamRanked" or game['battle']['type']=="soloRanked"):
+				winning_team_index=True
+				#for game_team in game["battle"]["teams"]:
+				for game_player in game["battle"]["teams"][0]:
+					print("TAGS COMP: "+tags[i] + "=" + game_player["tag"])
+					if (str(game_player["tag"]) in str(tags[i])):
+						winning_team_index=False
+				if(game["battle"]["result"]=="defeat"):
+					winning_team_index=not(winning_team_index)
+				print(game["battle"]["teams"][0])
+				#print(tags[i])
+				print(winning_team_index)
 				winners=[]
 				loosers=[]
 				for brawler in game["battle"]["teams"][winning_team_index]:
@@ -86,4 +100,4 @@ win_table.append(team_dict)
 
 filename = home+"/powerPlay/teamStats/teamStats_global_20210926-151835.json"
 with open(filename, 'w') as fp:
-	json.dump(win_table, fp)
+	json.dump(win_table, fp, indent=4)
