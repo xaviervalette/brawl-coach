@@ -49,6 +49,34 @@ def get_team_of_star_player(item):
     winTeam.sort()
     return winTeam
 
+def get_team_of_star_player_from_tags(item, itemNumber, battle_log_file):
+    tags_file="powerPlay\\tags\\tags"+battle_log_file.split("\\")[-1].split("battlelogs")[-1]
+    file = open(tags_file)
+    content = file.readlines()
+    curentPlayer=content[itemNumber-1].rstrip("\n")
+    curentPlayerSeen=False
+    goodTeam=False
+    winTeam=[]
+    result=item["battle"]["result"]
+    teams= item["battle"]["teams"]
+    for team in teams:
+            winTeam.clear()
+            for i in range(len(team)):
+                winTeam.append(team[i]["brawler"]["name"])
+                if team[i]["tag"]==curentPlayer:
+                    if result=="victory":
+                        goodTeam=True
+                        curentPlayerSeen=True
+                    else:
+                        curentPlayerSeen=True
+                        goodTeam=False
+            if goodTeam:
+                break
+            if result!="victory" and curentPlayerSeen==False:
+                break
+
+    winTeam.sort()
+    return winTeam
 
 def store_winning_teams_per_map(map, winTeam, winTable):
     if map in winTable.keys():
@@ -91,9 +119,11 @@ teamHardRock=0
 soloRanked=0
 teamRanked=0
 nullMap=0
+itemNumber=0
 noModeInEvent=0 # Certainly power league or championship!
 notFound=0
 for data in datas:
+    itemNumber=itemNumber+1
     if "items" in data:
         for item in data['items']:
             if "mode" in item['event']:
@@ -104,7 +134,10 @@ for data in datas:
                             powerLeagueWinTeam= get_team_of_star_player(item)
                             powerLeagueWinTable= store_winning_teams_per_map(powerLeagueMap, powerLeagueWinTeam, powerLeagueWinTable)
                         except TypeError:
-                            print("Power league: ", item["battleTime"])
+                            print("Power league: ", item["battleTime"])   
+                            powerLeagueMap= get_map_from_item(item)
+                            powerLeagueWinTeam= get_team_of_star_player_from_tags(item, itemNumber, battle_log_file)
+                            powerLeagueWinTable= store_winning_teams_per_map(powerLeagueMap, powerLeagueWinTeam, powerLeagueWinTable)
                     if item["battle"]["type"] != "soloRanked":
                         if item["battle"]["type"] != "teamRanked":
                             if get_map_from_item(item)!= None:
@@ -123,6 +156,9 @@ for data in datas:
                                     teamHardRock=teamHardRock+1
                             except TypeError:
                                 print("Team ranked: ", item["battleTime"])
+                                teamRankedMap= get_map_from_item(item)
+                                teamRankedWinTeam= get_team_of_star_player_from_tags(item, itemNumber, battle_log_file)
+                                teamRankedWinTable= store_winning_teams_per_map(teamRankedMap, teamRankedWinTeam, teamRankedWinTable)                                
                     else:
                         soloRanked=soloRanked+1
                         try :
@@ -133,14 +169,17 @@ for data in datas:
                                 soloHardRock=soloHardRock+1
                         except TypeError:
                             print("Solo ranked: ", item["battleTime"])
+                            soloRankedMap= get_map_from_item(item)
+                            soloRankedWinTeam= get_team_of_star_player_from_tags(item, itemNumber, battle_log_file)
+                            soloRankedWinTable= store_winning_teams_per_map(soloRankedMap, soloRankedWinTeam, soloRankedWinTable)
             else:
                 noModeInEvent=noModeInEvent+1
     else:
         notFound=notFound+1
 
-print_win_table(winTable)
+
 winTable =sort_win_table(winTable)
-print_win_table(winTable)
+#print_win_table(winTable)
 
 print("power league")
 powerLeagueWinTable =sort_win_table(powerLeagueWinTable)
@@ -148,11 +187,11 @@ print_win_table(powerLeagueWinTable)
 
 print("solo ranked")
 soloRankedWinTable =sort_win_table(soloRankedWinTable)
-print_win_table(soloRankedWinTable)
+#print_win_table(soloRankedWinTable)
 
 print("team ranked")
 teamRankedWinTable =sort_win_table(teamRankedWinTable)
-print_win_table(teamRankedWinTable)
+#print_win_table(teamRankedWinTable)
 
 print("solo hard rock: ", soloHardRock)
 print("team hard rock: ", teamHardRock)
