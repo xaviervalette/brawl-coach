@@ -1,6 +1,7 @@
 import json
+from typing import Type
 
-battle_log_file="battlelogs\\battlelogs_20210905-125408.json"
+battle_log_file="powerPlay\\battlelogs\\battlelogs_20210926-151835_global.json"
 
 # INPUT   : An item from the json battle log with the following keys: "battle", "battleTime" and "event"
 #           The map name shall be a key of the value of "event" 
@@ -65,11 +66,28 @@ def store_winning_teams_per_map(map, winTeam, winTable):
         winTable[map]=teams
     return winTable
 
+def sort_win_table(winTable):
+    for map in winTable:
+        sortedWinTable = dict(sorted(winTable[map].items(), key=lambda x: x[1], reverse=True))
+        #{k: v for k, v in sorted(winTable[map].items(), key=lambda item: item[1], reverse=True)}
+        winTable[map]=sortedWinTable
+    return winTable
 
+def print_win_table(winTable):
+    for item in winTable:
+        print(item)
+        for keys in winTable[item]:
+            print("\t", keys, ':', winTable[item][keys])
+    print("")
 
 with open(battle_log_file) as f:
     datas = json.load(f)
 winTable={}
+teamRankedWinTable={}
+soloRankedWinTable={}
+powerLeagueWinTable={}
+soloHardRock=0
+teamHardRock=0
 soloRanked=0
 teamRanked=0
 nullMap=0
@@ -78,29 +96,63 @@ notFound=0
 for data in datas:
     if "items" in data:
         for item in data['items']:
-            print(item["battleTime"])
             if "mode" in item['event']:
-                if get_mode_from_item(item)=="brawlBall":
+                if get_mode_from_item(item)=="gemGrab":
+                    if item["battle"]["type"] == "soloRanked" or item["battle"]["type"] == "teamRanked":
+                        try: 
+                            powerLeagueMap= get_map_from_item(item)
+                            powerLeagueWinTeam= get_team_of_star_player(item)
+                            powerLeagueWinTable= store_winning_teams_per_map(powerLeagueMap, powerLeagueWinTeam, powerLeagueWinTable)
+                        except TypeError:
+                            print("Power league: ", item["battleTime"])
                     if item["battle"]["type"] != "soloRanked":
                         if item["battle"]["type"] != "teamRanked":
                             if get_map_from_item(item)!= None:
                                 map= get_map_from_item(item)
                                 winTeam= get_team_of_star_player(item)
-                                store_winning_teams_per_map(map, winTeam, winTable)
+                                winTable= store_winning_teams_per_map(map, winTeam, winTable)
                             else:
                                 nullMap=nullMap+1
                         else:
                             teamRanked=teamRanked+1
+                            try: 
+                                teamRankedMap= get_map_from_item(item)
+                                teamRankedWinTeam= get_team_of_star_player(item)
+                                teamRankedWinTable= store_winning_teams_per_map(teamRankedMap, teamRankedWinTeam, teamRankedWinTable)                                
+                                if powerLeagueMap=="Hard Rock Mine":
+                                    teamHardRock=teamHardRock+1
+                            except TypeError:
+                                print("Team ranked: ", item["battleTime"])
                     else:
                         soloRanked=soloRanked+1
+                        try :
+                            soloRankedMap= get_map_from_item(item)
+                            soloRankedWinTeam= get_team_of_star_player(item)
+                            soloRankedWinTable= store_winning_teams_per_map(soloRankedMap, soloRankedWinTeam, soloRankedWinTable)
+                            if powerLeagueMap=="Hard Rock Mine":
+                                soloHardRock=soloHardRock+1
+                        except TypeError:
+                            print("Solo ranked: ", item["battleTime"])
             else:
                 noModeInEvent=noModeInEvent+1
     else:
         notFound=notFound+1
 
-print("Table: ")
-for item in winTable:
-    print(item)
-    for keys in winTable[item]:
-        print(keys, ':', winTable[item][keys])
-print("")
+print_win_table(winTable)
+winTable =sort_win_table(winTable)
+print_win_table(winTable)
+
+print("power league")
+powerLeagueWinTable =sort_win_table(powerLeagueWinTable)
+print_win_table(powerLeagueWinTable)
+
+print("solo ranked")
+soloRankedWinTable =sort_win_table(soloRankedWinTable)
+print_win_table(soloRankedWinTable)
+
+print("team ranked")
+teamRankedWinTable =sort_win_table(teamRankedWinTable)
+print_win_table(teamRankedWinTable)
+
+print("solo hard rock: ", soloHardRock)
+print("team hard rock: ", teamHardRock)
