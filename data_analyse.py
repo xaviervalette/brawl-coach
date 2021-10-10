@@ -115,28 +115,45 @@ def print_win_table(winTable):
     print("")
 
 # Store an item to the merged battlelogs file
-def store_item(item, itemNumber, filename, dt_string):
+def store_item(item, itemNumber, filename, dt_string, isAlreadyIn):
     currentPlayerTag= get_curent_player_tag(itemNumber, filename)
     item["PlayerTag"]=currentPlayerTag
-    if(os.path.isfile(dt_string)):
-        data = json.load(open(dt_string))
-        # convert data to list if not
-        if type(data) is dict:
-            data = [data]
-
-        # append new item to data lit
-        data.append(item)
-
-        # write list to file
-        with open(dt_string, 'w') as outfile:
-            json.dump(data, outfile, indent=4)
+    itemKey=""
+    listOfPlayers=[]
+    for team in item["battle"]["teams"]:
+        for player in team:
+            listOfPlayers.append(player["tag"])      
+    listOfPlayers= sorted(listOfPlayers)
+    listOfPlayers.append(item["battleTime"])
+    itemKey=itemKey.join(listOfPlayers)
+    
+    if isAlreadyIn!=None and itemKey in isAlreadyIn:
+        isAlreadyIn[itemKey]=isAlreadyIn[itemKey]+1
+        print ("already exist")
     else:
-        with open(dt_string, 'w') as outfile:
-            json.dump(item, outfile, indent=4)
+        if(os.path.isfile(dt_string)):
+            data = json.load(open(dt_string))
+            # convert data to list if not
+            if type(data) is dict:
+                data = [data]
+
+            # append new item to data lit
+            data.append(item)
+
+            # write list to file
+            with open(dt_string, 'w') as outfile:
+                json.dump(data, outfile, indent=4)
+        else:
+            with open(dt_string, 'w') as outfile:
+                json.dump(item, outfile, indent=4)
+        isAlreadyIn[itemKey]=1
+    return isAlreadyIn
 
 
 now = datetime.now()
 dt_string = now.strftime("%d_%m_%Y__%H_%M_%S")
+isAlreadyInTeams={}
+isAlreadyInSolo={}
 
 for fileName in os.listdir(battlelogsDirectory): # For all files of powerPLay/batttlelogs directory
     filename=os.path.join(battlelogsDirectory, fileName)
@@ -179,7 +196,7 @@ for fileName in os.listdir(battlelogsDirectory): # For all files of powerPLay/ba
                                 teamRankedWinTable= store_winning_teams_per_map(teamRankedMap, teamRankedWinTeam, teamRankedWinTable)                                
                                 if powerLeagueMap=="Hard Rock Mine":
                                     teamHardRock=teamHardRock+1
-                                    store_item(item, itemNumber, filename,os.path.join("powerPlay\\battlelogsMerge","team_ranked_merged_battlelogs_hard_rock_mine_"+dt_string+".json"))                        
+                                    isAlreadyInTeams= store_item(item, itemNumber, filename,os.path.join("powerPlay\\battlelogsMerge","team_ranked_merged_battlelogs_hard_rock_mine_"+dt_string+".json"), isAlreadyInTeams)                        
                         else: # if we are in solo ranked power league
                             soloRanked=soloRanked+1
                             soloRankedMap= get_map_from_item(item)
@@ -187,7 +204,7 @@ for fileName in os.listdir(battlelogsDirectory): # For all files of powerPLay/ba
                             soloRankedWinTable= store_winning_teams_per_map(soloRankedMap, soloRankedWinTeam, soloRankedWinTable)
                             if powerLeagueMap=="Hard Rock Mine":
                                 soloHardRock=soloHardRock+1
-                                store_item(item, itemNumber, filename,os.path.join("powerPlay\\battlelogsMerge","solo_ranked_merged_battlelogs_hard_rock_mine_"+dt_string+".json"))
+                                isAlreadyInSolo= store_item(item, itemNumber, filename,os.path.join("powerPlay\\battlelogsMerge","solo_ranked_merged_battlelogs_hard_rock_mine_"+dt_string+".json"), isAlreadyInSolo)
 
                 else:
                     noModeInEvent=noModeInEvent+1
@@ -212,3 +229,7 @@ for fileName in os.listdir(battlelogsDirectory): # For all files of powerPLay/ba
 
     print("solo hard rock: ", soloHardRock)
     print("team hard rock: ", teamHardRock)
+
+
+print("number of solo games: ", len(isAlreadyInSolo))
+print("number of Teams games: ", len(isAlreadyInTeams))
