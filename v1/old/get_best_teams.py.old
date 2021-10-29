@@ -1,0 +1,89 @@
+import json
+from collections import defaultdict
+import os
+base_dir = '/home/ec2-user/brawl-tier/battlelogs/battlelogs_20210925_small'
+
+import pandas as pd
+
+#Get all files in the directory
+
+data_list = []
+for file in os.listdir(base_dir):
+
+    #If file is a json, construct it's full path and open it, append all json data to list
+    if 'json' in file:
+        json_path = os.path.join(base_dir, file)
+        json_data = pd.read_json(json_path, lines=True)
+        battlelogs_list.append(json_data)
+
+print(battlelogs_list)
+
+with open("events/events_20210925-151745.json") as f:
+    events = json.load(f)
+
+with open("battlelogs/battlelogs_20210925_small/battlelogs_FR_20210925-152200.json") as f:
+    battlelogs = json.load(f)
+
+target_event=events[2]
+print(target_event)
+#battelogs[player_number{0-200}]["items"][game_number{0-25}]["event"]["id"]
+
+game_number_targeted_event=0
+winning_team=[]
+loosing_team=[]
+for player in battlelogs:
+	for battle in player["items"]:
+		if(battle["event"]["id"]==target_event["event"]["id"]):
+			game_number_targeted_event=game_number_targeted_event+1
+			star_player=battle["battle"]["starPlayer"]
+			if star_player in battle["battle"]["teams"][0]:
+				winning_team_index=False
+			else:
+				winning_team_index=True
+			winners=[]
+			loosers=[]
+			for brawler in battle["battle"]["teams"][winning_team_index]:
+				winners.append(brawler["brawler"]["name"])
+			for brawler in battle["battle"]["teams"][not(winning_team_index)]:
+				loosers.append(brawler["brawler"]["name"])
+			winners=sorted(winners)
+			winning_team.append(winners)
+			loosers=sorted(loosers)
+                        loosing_team.append(loosers)
+
+print "Number of game corresponding to the targeted event:",game_number_targeted_event
+
+def remove_team_duplicate(team):
+	team_no_dupplicate=[]
+	for elem in team:
+		if elem not in team_no_dupplicate:
+			team_no_dupplicate.append(elem)
+	return team_no_dupplicate
+
+winning_team_no_dupplicate=remove_team_duplicate(winning_team)
+loosing_team_no_dupplicate=remove_team_duplicate(loosing_team)
+
+win_table=[]
+for team in winning_team_no_dupplicate:
+	#win_table.append([winning_team.count(team),team])
+	if(loosing_team.count(team)==0):
+		win_rate=1
+	else:
+		win_rate=float(winning_team.count(team))/float((winning_team.count(team)+loosing_team.count(team)))
+	win_dict = {
+		"teamStats": {
+			"winNumbers": winning_team.count(team),
+			"winRate":round(win_rate,3),
+			"pickRate": round((winning_team.count(team)+loosing_team.count(team))/float(game_number_targeted_event),3),
+			"pickNumber":winning_team.count(team)+loosing_team.count(team),
+			"brawlers": team
+			}
+	}
+	win_table.append(win_dict)
+	#print("Team:",team,"Count",winning_team.count(team))
+
+print(win_table[0])
+
+win_table = sorted(win_table, key=lambda win_table: win_table['teamStats']["winNumbers"], reverse=True)
+with open("win_table.json", 'w') as fp:
+	json.dump(win_table, fp)
