@@ -1,0 +1,4291 @@
+[
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#GRY88QGP",
+                        "name": "Sumsar",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#80PVPCC29",
+                        "name": "Enraged \u88ab",
+                        "brawler": {
+                            "trophies": 17,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#PVRLUJU",
+                        "name": "Suffo \u4e0d",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#9JYGL9J0",
+                        "name": "~Dorian.",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000037,
+                            "power": 10,
+                            "name": "SPROUT"
+                        }
+                    },
+                    {
+                        "tag": "#YG8V8RCP",
+                        "name": "\ud835\udc4b\ud835\udc3c\ud835\udc49 G\u0338ermain",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    },
+                    {
+                        "tag": "#P9VQGGJU",
+                        "name": "HowToWin",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000003,
+                            "power": 10,
+                            "name": "BROCK"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 89,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#80PVPCC29",
+                "name": "Enraged \u88ab",
+                "brawler": {
+                    "trophies": 17,
+                    "id": 16000023,
+                    "power": 10,
+                    "name": "LEON"
+                }
+            },
+            "result": "victory"
+        },
+        "battleTime": "20210925T210336.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#GRY88QGP"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#GRY88QGP",
+                        "name": "Sumsar",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#80PVPCC29",
+                        "name": "Enraged \u88ab",
+                        "brawler": {
+                            "trophies": 17,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#PVRLUJU",
+                        "name": "Suffo \u4e0d",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#9JYGL9J0",
+                        "name": "~Dorian.",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000037,
+                            "power": 10,
+                            "name": "SPROUT"
+                        }
+                    },
+                    {
+                        "tag": "#YG8V8RCP",
+                        "name": "\ud835\udc4b\ud835\udc3c\ud835\udc49 G\u0338ermain",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    },
+                    {
+                        "tag": "#P9VQGGJU",
+                        "name": "HowToWin",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000003,
+                            "power": 10,
+                            "name": "BROCK"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 89,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "victory"
+        },
+        "battleTime": "20210925T210153.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#GRY88QGP"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#GRY88QGP",
+                        "name": "Sumsar",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#80PVPCC29",
+                        "name": "Enraged \u88ab",
+                        "brawler": {
+                            "trophies": 17,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#PVRLUJU",
+                        "name": "Suffo \u4e0d",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#9JYGL9J0",
+                        "name": "~Dorian.",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000037,
+                            "power": 10,
+                            "name": "SPROUT"
+                        }
+                    },
+                    {
+                        "tag": "#YG8V8RCP",
+                        "name": "\ud835\udc4b\ud835\udc3c\ud835\udc49 G\u0338ermain",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    },
+                    {
+                        "tag": "#P9VQGGJU",
+                        "name": "HowToWin",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000003,
+                            "power": 10,
+                            "name": "BROCK"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 117,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "defeat"
+        },
+        "battleTime": "20210925T210009.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#GRY88QGP"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#8GR89RQ00",
+                        "name": "S\u2664H\u2667A\u25c7D\u2667O\u2664W",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000014,
+                            "power": 10,
+                            "name": "BO"
+                        }
+                    },
+                    {
+                        "tag": "#80V90VQGR",
+                        "name": "{\u0411\u041b\u0410\u0419\u0422} FIER",
+                        "brawler": {
+                            "trophies": 9,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#GJQR0LPY",
+                        "name": "It's Hert?\ud83d\udc94",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#29URRCYLY",
+                        "name": "OM|Bogdan\ud83d\ude21",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#80RUVVLRC",
+                        "name": "MP\u2606",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000021,
+                            "power": 10,
+                            "name": "GENE"
+                        }
+                    },
+                    {
+                        "tag": "#8RPPJ8Y8L",
+                        "name": "\u2022\u1d05\u026a\u1d0d\u026a\u026a\u2661\ufe0e",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000030,
+                            "power": 10,
+                            "name": "EMZ"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 82,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#8RPPJ8Y8L",
+                "name": "\u2022\u1d05\u026a\u1d0d\u026a\u026a\u2661\ufe0e",
+                "brawler": {
+                    "trophies": 13,
+                    "id": 16000030,
+                    "power": 10,
+                    "name": "EMZ"
+                }
+            },
+            "result": "victory"
+        },
+        "battleTime": "20210926T124035.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#29URRCYLY"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#8GR89RQ00",
+                        "name": "S\u2664H\u2667A\u25c7D\u2667O\u2664W",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000014,
+                            "power": 10,
+                            "name": "BO"
+                        }
+                    },
+                    {
+                        "tag": "#80V90VQGR",
+                        "name": "{\u0411\u041b\u0410\u0419\u0422} FIER",
+                        "brawler": {
+                            "trophies": 9,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#GJQR0LPY",
+                        "name": "It's Hert?\ud83d\udc94",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#29URRCYLY",
+                        "name": "OM|Bogdan\ud83d\ude21",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#80RUVVLRC",
+                        "name": "MP\u2606",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000021,
+                            "power": 10,
+                            "name": "GENE"
+                        }
+                    },
+                    {
+                        "tag": "#8RPPJ8Y8L",
+                        "name": "\u2022\u1d05\u026a\u1d0d\u026a\u026a\u2661\ufe0e",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000030,
+                            "power": 10,
+                            "name": "EMZ"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 82,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "victory"
+        },
+        "battleTime": "20210926T123859.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#29URRCYLY"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#8PUC0GGRQ",
+                        "name": "Jutopika",
+                        "brawler": {
+                            "trophies": 6,
+                            "id": 16000042,
+                            "power": 9,
+                            "name": "BYRON"
+                        }
+                    },
+                    {
+                        "tag": "#P88UVUR9",
+                        "name": "\u904a\u6232\u4eba\u751f\ud83d\udc99WI-FI\ud83c\udf15\ud83d\udcab",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000011,
+                            "power": 10,
+                            "name": "MORTIS"
+                        }
+                    },
+                    {
+                        "tag": "#2QP0RRGLP",
+                        "name": "imzwg",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#YJP0P880",
+                        "name": "elole",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000044,
+                            "power": 10,
+                            "name": "COLONEL RUFFS"
+                        }
+                    },
+                    {
+                        "tag": "#Y0RY2GR9",
+                        "name": "PL_\uae30\uc790\ub77c\uc778",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    },
+                    {
+                        "tag": "#8PCCG2982",
+                        "name": "\uc774\uc988\u2766(\u6c88)",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 145,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#Y0RY2GR9",
+                "name": "PL_\uae30\uc790\ub77c\uc778",
+                "brawler": {
+                    "trophies": 13,
+                    "id": 16000046,
+                    "power": 10,
+                    "name": "BELLE"
+                }
+            },
+            "result": "victory"
+        },
+        "battleTime": "20210926T101349.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#Y0RY2GR9"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#8PUC0GGRQ",
+                        "name": "Jutopika",
+                        "brawler": {
+                            "trophies": 6,
+                            "id": 16000042,
+                            "power": 9,
+                            "name": "BYRON"
+                        }
+                    },
+                    {
+                        "tag": "#P88UVUR9",
+                        "name": "\u904a\u6232\u4eba\u751f\ud83d\udc99WI-FI\ud83c\udf15\ud83d\udcab",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000011,
+                            "power": 10,
+                            "name": "MORTIS"
+                        }
+                    },
+                    {
+                        "tag": "#2QP0RRGLP",
+                        "name": "imzwg",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#YJP0P880",
+                        "name": "elole",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000044,
+                            "power": 10,
+                            "name": "COLONEL RUFFS"
+                        }
+                    },
+                    {
+                        "tag": "#Y0RY2GR9",
+                        "name": "PL_\uae30\uc790\ub77c\uc778",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    },
+                    {
+                        "tag": "#8PCCG2982",
+                        "name": "\uc774\uc988\u2766(\u6c88)",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 105,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "victory"
+        },
+        "battleTime": "20210926T101110.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#Y0RY2GR9"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#GLG8L02J",
+                        "name": "\ud83d\udda4|\u307eMr.Cone\ud83d\ude15",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#U8U0GLUQ",
+                        "name": "pederluk",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000005,
+                            "power": 10,
+                            "name": "SPIKE"
+                        }
+                    },
+                    {
+                        "tag": "#Y8PLP8VY",
+                        "name": "\u2764\ufe0f\u200d\ud83d\udd25",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2082JRYUV",
+                        "name": "GooD\u2022G",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    },
+                    {
+                        "tag": "#J2JULY82",
+                        "name": "\u2606DANKER\u2606",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000028,
+                            "power": 10,
+                            "name": "SANDY"
+                        }
+                    },
+                    {
+                        "tag": "#80PLC0029",
+                        "name": "Samera\u2614",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 137,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#J2JULY82",
+                "name": "\u2606DANKER\u2606",
+                "brawler": {
+                    "trophies": 16,
+                    "id": 16000028,
+                    "power": 10,
+                    "name": "SANDY"
+                }
+            },
+            "result": "defeat"
+        },
+        "battleTime": "20210926T094946.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#GLG8L02J"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#GLG8L02J",
+                        "name": "\ud83d\udda4|\u307eMr.Cone\ud83d\ude15",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#U8U0GLUQ",
+                        "name": "pederluk",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000005,
+                            "power": 10,
+                            "name": "SPIKE"
+                        }
+                    },
+                    {
+                        "tag": "#Y8PLP8VY",
+                        "name": "\u2764\ufe0f\u200d\ud83d\udd25",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2082JRYUV",
+                        "name": "GooD\u2022G",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    },
+                    {
+                        "tag": "#J2JULY82",
+                        "name": "\u2606DANKER\u2606",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000028,
+                            "power": 10,
+                            "name": "SANDY"
+                        }
+                    },
+                    {
+                        "tag": "#80PLC0029",
+                        "name": "Samera\u2614",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 83,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "defeat"
+        },
+        "battleTime": "20210926T094715.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#GLG8L02J"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#GLG8L02J",
+                        "name": "\ud83d\udda4|\u307eMr.Cone\ud83d\ude15",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#U8U0GLUQ",
+                        "name": "pederluk",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000005,
+                            "power": 10,
+                            "name": "SPIKE"
+                        }
+                    },
+                    {
+                        "tag": "#Y8PLP8VY",
+                        "name": "\u2764\ufe0f\u200d\ud83d\udd25",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2082JRYUV",
+                        "name": "GooD\u2022G",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    },
+                    {
+                        "tag": "#J2JULY82",
+                        "name": "\u2606DANKER\u2606",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000028,
+                            "power": 10,
+                            "name": "SANDY"
+                        }
+                    },
+                    {
+                        "tag": "#80PLC0029",
+                        "name": "Samera\u2614",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 92,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "victory"
+        },
+        "battleTime": "20210926T094538.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#GLG8L02J"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#82CQJG0Y8",
+                        "name": "Sharkovalle",
+                        "brawler": {
+                            "trophies": 7,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#2QUGVUP0R",
+                        "name": "\u0422\u043e\u041f4\u0438\u041a",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000027,
+                            "power": 10,
+                            "name": "8-BIT"
+                        }
+                    },
+                    {
+                        "tag": "#8C9VQ2YQG",
+                        "name": "WM | So el die.",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000002,
+                            "power": 10,
+                            "name": "BULL"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#VLQPVPY",
+                        "name": "Hyra",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    },
+                    {
+                        "tag": "#8PJRRG2C",
+                        "name": "AQM|GuilleVGX",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000028,
+                            "power": 10,
+                            "name": "SANDY"
+                        }
+                    },
+                    {
+                        "tag": "#2VQ82YGY",
+                        "name": "TwistiTwik",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 131,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#8PJRRG2C",
+                "name": "AQM|GuilleVGX",
+                "brawler": {
+                    "trophies": 16,
+                    "id": 16000028,
+                    "power": 10,
+                    "name": "SANDY"
+                }
+            },
+            "result": "victory"
+        },
+        "battleTime": "20210921T230248.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#VLQPVPY"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#82CQJG0Y8",
+                        "name": "Sharkovalle",
+                        "brawler": {
+                            "trophies": 7,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#2QUGVUP0R",
+                        "name": "\u0422\u043e\u041f4\u0438\u041a",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000027,
+                            "power": 10,
+                            "name": "8-BIT"
+                        }
+                    },
+                    {
+                        "tag": "#8C9VQ2YQG",
+                        "name": "WM | So el die.",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000002,
+                            "power": 10,
+                            "name": "BULL"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#VLQPVPY",
+                        "name": "Hyra",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    },
+                    {
+                        "tag": "#8PJRRG2C",
+                        "name": "AQM|GuilleVGX",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000028,
+                            "power": 10,
+                            "name": "SANDY"
+                        }
+                    },
+                    {
+                        "tag": "#2VQ82YGY",
+                        "name": "TwistiTwik",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 82,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "victory"
+        },
+        "battleTime": "20210921T230023.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#VLQPVPY"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#82CQJG0Y8",
+                        "name": "Sharkovalle",
+                        "brawler": {
+                            "trophies": 7,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#2QUGVUP0R",
+                        "name": "\u0422\u043e\u041f4\u0438\u041a",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000027,
+                            "power": 10,
+                            "name": "8-BIT"
+                        }
+                    },
+                    {
+                        "tag": "#8C9VQ2YQG",
+                        "name": "WM | So el die.",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000002,
+                            "power": 10,
+                            "name": "BULL"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#VLQPVPY",
+                        "name": "Hyra",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    },
+                    {
+                        "tag": "#8PJRRG2C",
+                        "name": "AQM|GuilleVGX",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000028,
+                            "power": 10,
+                            "name": "SANDY"
+                        }
+                    },
+                    {
+                        "tag": "#2VQ82YGY",
+                        "name": "TwistiTwik",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 157,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "defeat"
+        },
+        "battleTime": "20210921T225847.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#VLQPVPY"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#GJJ88G29",
+                        "name": "\ud800\udc82Cs(\u00b4\u25bd\uff40)\u30ce\u266a",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000042,
+                            "power": 10,
+                            "name": "BYRON"
+                        }
+                    },
+                    {
+                        "tag": "#CCQ0C9QJ",
+                        "name": "\u66dc cynical \ud83d\udcab",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#80LPVCYGY",
+                        "name": "\u547d\u904b\u4e3b\u5bb0\u4e00\u5207\ud83c\udf3d",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000051,
+                            "power": 10,
+                            "name": "ASH"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#29GU8YVL8",
+                        "name": "\u9905\u4e7e",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000037,
+                            "power": 10,
+                            "name": "SPROUT"
+                        }
+                    },
+                    {
+                        "tag": "#GUCGLPR9",
+                        "name": "KSL | white",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000032,
+                            "power": 10,
+                            "name": "MAX"
+                        }
+                    },
+                    {
+                        "tag": "#V2YPYLGR",
+                        "name": "\u6020\u3051\u3066\u3044\u308bMr.Jin",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 89,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#GUCGLPR9",
+                "name": "KSL | white",
+                "brawler": {
+                    "trophies": 13,
+                    "id": 16000032,
+                    "power": 10,
+                    "name": "MAX"
+                }
+            },
+            "result": "victory"
+        },
+        "battleTime": "20210926T094244.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#GUCGLPR9"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#GJJ88G29",
+                        "name": "\ud800\udc82Cs(\u00b4\u25bd\uff40)\u30ce\u266a",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000042,
+                            "power": 10,
+                            "name": "BYRON"
+                        }
+                    },
+                    {
+                        "tag": "#CCQ0C9QJ",
+                        "name": "\u66dc cynical \ud83d\udcab",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#80LPVCYGY",
+                        "name": "\u547d\u904b\u4e3b\u5bb0\u4e00\u5207\ud83c\udf3d",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000051,
+                            "power": 10,
+                            "name": "ASH"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#29GU8YVL8",
+                        "name": "\u9905\u4e7e",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000037,
+                            "power": 10,
+                            "name": "SPROUT"
+                        }
+                    },
+                    {
+                        "tag": "#GUCGLPR9",
+                        "name": "KSL | white",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000032,
+                            "power": 10,
+                            "name": "MAX"
+                        }
+                    },
+                    {
+                        "tag": "#V2YPYLGR",
+                        "name": "\u6020\u3051\u3066\u3044\u308bMr.Jin",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 158,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "victory"
+        },
+        "battleTime": "20210926T094101.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#GUCGLPR9"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#GJJ88G29",
+                        "name": "\ud800\udc82Cs(\u00b4\u25bd\uff40)\u30ce\u266a",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000042,
+                            "power": 10,
+                            "name": "BYRON"
+                        }
+                    },
+                    {
+                        "tag": "#CCQ0C9QJ",
+                        "name": "\u66dc cynical \ud83d\udcab",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#80LPVCYGY",
+                        "name": "\u547d\u904b\u4e3b\u5bb0\u4e00\u5207\ud83c\udf3d",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000051,
+                            "power": 10,
+                            "name": "ASH"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#29GU8YVL8",
+                        "name": "\u9905\u4e7e",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000037,
+                            "power": 10,
+                            "name": "SPROUT"
+                        }
+                    },
+                    {
+                        "tag": "#GUCGLPR9",
+                        "name": "KSL | white",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000032,
+                            "power": 10,
+                            "name": "MAX"
+                        }
+                    },
+                    {
+                        "tag": "#V2YPYLGR",
+                        "name": "\u6020\u3051\u3066\u3044\u308bMr.Jin",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 117,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "defeat"
+        },
+        "battleTime": "20210926T093809.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#GUCGLPR9"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#2YYYVJJY0",
+                        "name": "\u71b5Jenden\u02e2\u1d43\u1d48",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000028,
+                            "power": 10,
+                            "name": "SANDY"
+                        }
+                    },
+                    {
+                        "tag": "#GV9GRLJJ",
+                        "name": "Counter",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#JQU20QL2",
+                        "name": "Alito\u2661\ufe0e",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#VCVJYYJ",
+                        "name": "\u548cDasOm\ud83d\udda4",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000005,
+                            "power": 10,
+                            "name": "SPIKE"
+                        }
+                    },
+                    {
+                        "tag": "#JVPRGR2Q",
+                        "name": "Blueberry \ud83e\uded0",
+                        "brawler": {
+                            "trophies": 9,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#P0CJ0RV2R",
+                        "name": "Elieth \u2764\ufe0f",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000021,
+                            "power": 10,
+                            "name": "GENE"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 83,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#GV9GRLJJ",
+                "name": "Counter",
+                "brawler": {
+                    "trophies": 11,
+                    "id": 16000004,
+                    "power": 10,
+                    "name": "RICO"
+                }
+            },
+            "result": "victory"
+        },
+        "battleTime": "20210927T051629.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#GV9GRLJJ"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#2YYYVJJY0",
+                        "name": "\u71b5Jenden\u02e2\u1d43\u1d48",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000028,
+                            "power": 10,
+                            "name": "SANDY"
+                        }
+                    },
+                    {
+                        "tag": "#GV9GRLJJ",
+                        "name": "Counter",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#JQU20QL2",
+                        "name": "Alito\u2661\ufe0e",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#VCVJYYJ",
+                        "name": "\u548cDasOm\ud83d\udda4",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000005,
+                            "power": 10,
+                            "name": "SPIKE"
+                        }
+                    },
+                    {
+                        "tag": "#JVPRGR2Q",
+                        "name": "Blueberry \ud83e\uded0",
+                        "brawler": {
+                            "trophies": 9,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#P0CJ0RV2R",
+                        "name": "Elieth \u2764\ufe0f",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000021,
+                            "power": 10,
+                            "name": "GENE"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 90,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "victory"
+        },
+        "battleTime": "20210927T051451.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#GV9GRLJJ"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#2YYYVJJY0",
+                        "name": "\u71b5Jenden\u02e2\u1d43\u1d48",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000028,
+                            "power": 10,
+                            "name": "SANDY"
+                        }
+                    },
+                    {
+                        "tag": "#GV9GRLJJ",
+                        "name": "Counter",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#JQU20QL2",
+                        "name": "Alito\u2661\ufe0e",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#VCVJYYJ",
+                        "name": "\u548cDasOm\ud83d\udda4",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000005,
+                            "power": 10,
+                            "name": "SPIKE"
+                        }
+                    },
+                    {
+                        "tag": "#JVPRGR2Q",
+                        "name": "Blueberry \ud83e\uded0",
+                        "brawler": {
+                            "trophies": 9,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#P0CJ0RV2R",
+                        "name": "Elieth \u2764\ufe0f",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000021,
+                            "power": 10,
+                            "name": "GENE"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 142,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "defeat"
+        },
+        "battleTime": "20210927T051306.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#GV9GRLJJ"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#VV2RC9CV",
+                        "name": "6ix 9ine",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000027,
+                            "power": 10,
+                            "name": "8-BIT"
+                        }
+                    },
+                    {
+                        "tag": "#22GV8GLU0",
+                        "name": "Orlap",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000030,
+                            "power": 10,
+                            "name": "EMZ"
+                        }
+                    },
+                    {
+                        "tag": "#2900QRUQJ",
+                        "name": "BF|\u00a5\u00abJ\u0104V\u0104\u00bb\u00a5\ud83d\udc30\ud83e\udd88",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000011,
+                            "power": 10,
+                            "name": "MORTIS"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#8V2P82QV",
+                        "name": "OscarNorris",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#LR8RJLU",
+                        "name": "SacksNorris",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000003,
+                            "power": 10,
+                            "name": "BROCK"
+                        }
+                    },
+                    {
+                        "tag": "#LPQ8LRJ",
+                        "name": "\u043cigga\u044f\u044f :3",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000032,
+                            "power": 10,
+                            "name": "MAX"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 136,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#LR8RJLU",
+                "name": "SacksNorris",
+                "brawler": {
+                    "trophies": 13,
+                    "id": 16000003,
+                    "power": 10,
+                    "name": "BROCK"
+                }
+            },
+            "result": "victory"
+        },
+        "battleTime": "20210926T015852.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#LPQ8LRJ"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#VV2RC9CV",
+                        "name": "6ix 9ine",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000027,
+                            "power": 10,
+                            "name": "8-BIT"
+                        }
+                    },
+                    {
+                        "tag": "#22GV8GLU0",
+                        "name": "Orlap",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000030,
+                            "power": 10,
+                            "name": "EMZ"
+                        }
+                    },
+                    {
+                        "tag": "#2900QRUQJ",
+                        "name": "BF|\u00a5\u00abJ\u0104V\u0104\u00bb\u00a5\ud83d\udc30\ud83e\udd88",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000011,
+                            "power": 10,
+                            "name": "MORTIS"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#8V2P82QV",
+                        "name": "OscarNorris",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#LR8RJLU",
+                        "name": "SacksNorris",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000003,
+                            "power": 10,
+                            "name": "BROCK"
+                        }
+                    },
+                    {
+                        "tag": "#LPQ8LRJ",
+                        "name": "\u043cigga\u044f\u044f :3",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000032,
+                            "power": 10,
+                            "name": "MAX"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 82,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "victory"
+        },
+        "battleTime": "20210926T015622.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#LPQ8LRJ"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#VV2RC9CV",
+                        "name": "6ix 9ine",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000027,
+                            "power": 10,
+                            "name": "8-BIT"
+                        }
+                    },
+                    {
+                        "tag": "#22GV8GLU0",
+                        "name": "Orlap",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000030,
+                            "power": 10,
+                            "name": "EMZ"
+                        }
+                    },
+                    {
+                        "tag": "#2900QRUQJ",
+                        "name": "BF|\u00a5\u00abJ\u0104V\u0104\u00bb\u00a5\ud83d\udc30\ud83e\udd88",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000011,
+                            "power": 10,
+                            "name": "MORTIS"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#8V2P82QV",
+                        "name": "OscarNorris",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#LR8RJLU",
+                        "name": "SacksNorris",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000003,
+                            "power": 10,
+                            "name": "BROCK"
+                        }
+                    },
+                    {
+                        "tag": "#LPQ8LRJ",
+                        "name": "\u043cigga\u044f\u044f :3",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000032,
+                            "power": 10,
+                            "name": "MAX"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 145,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "defeat"
+        },
+        "battleTime": "20210926T015446.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#LPQ8LRJ"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#LJ22Q82L",
+                        "name": "$FRANKLIN$",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000016,
+                            "power": 10,
+                            "name": "PAM"
+                        }
+                    },
+                    {
+                        "tag": "#20GLVQLL0",
+                        "name": "oseloth98",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000019,
+                            "power": 10,
+                            "name": "PENNY"
+                        }
+                    },
+                    {
+                        "tag": "#RC9LYLJQ",
+                        "name": "gonzalo",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000012,
+                            "power": 10,
+                            "name": "CROW"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#8V2P82QV",
+                        "name": "OscarNorris",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#LR8RJLU",
+                        "name": "SacksNorris",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000003,
+                            "power": 10,
+                            "name": "BROCK"
+                        }
+                    },
+                    {
+                        "tag": "#LPQ8LRJ",
+                        "name": "\u043cigga\u044f\u044f :3",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 104,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#20GLVQLL0",
+                "name": "oseloth98",
+                "brawler": {
+                    "trophies": 10,
+                    "id": 16000019,
+                    "power": 10,
+                    "name": "PENNY"
+                }
+            },
+            "result": "defeat"
+        },
+        "battleTime": "20210926T012846.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#LPQ8LRJ"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#LJ22Q82L",
+                        "name": "$FRANKLIN$",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000016,
+                            "power": 10,
+                            "name": "PAM"
+                        }
+                    },
+                    {
+                        "tag": "#20GLVQLL0",
+                        "name": "oseloth98",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000019,
+                            "power": 10,
+                            "name": "PENNY"
+                        }
+                    },
+                    {
+                        "tag": "#RC9LYLJQ",
+                        "name": "gonzalo",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000012,
+                            "power": 10,
+                            "name": "CROW"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#8V2P82QV",
+                        "name": "OscarNorris",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#LR8RJLU",
+                        "name": "SacksNorris",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000003,
+                            "power": 10,
+                            "name": "BROCK"
+                        }
+                    },
+                    {
+                        "tag": "#LPQ8LRJ",
+                        "name": "\u043cigga\u044f\u044f :3",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 168,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "victory"
+        },
+        "battleTime": "20210926T012647.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#LPQ8LRJ"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#LJ22Q82L",
+                        "name": "$FRANKLIN$",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000016,
+                            "power": 10,
+                            "name": "PAM"
+                        }
+                    },
+                    {
+                        "tag": "#20GLVQLL0",
+                        "name": "oseloth98",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000019,
+                            "power": 10,
+                            "name": "PENNY"
+                        }
+                    },
+                    {
+                        "tag": "#RC9LYLJQ",
+                        "name": "gonzalo",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000012,
+                            "power": 10,
+                            "name": "CROW"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#8V2P82QV",
+                        "name": "OscarNorris",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#LR8RJLU",
+                        "name": "SacksNorris",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000003,
+                            "power": 10,
+                            "name": "BROCK"
+                        }
+                    },
+                    {
+                        "tag": "#LPQ8LRJ",
+                        "name": "\u043cigga\u044f\u044f :3",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 146,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "defeat"
+        },
+        "battleTime": "20210926T012345.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#LPQ8LRJ"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#8V2P82QV",
+                        "name": "OscarNorris",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000014,
+                            "power": 10,
+                            "name": "BO"
+                        }
+                    },
+                    {
+                        "tag": "#LR8RJLU",
+                        "name": "SacksNorris",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000049,
+                            "power": 10,
+                            "name": "BUZZ"
+                        }
+                    },
+                    {
+                        "tag": "#LPQ8LRJ",
+                        "name": "\u043cigga\u044f\u044f :3",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#20GRL8JUY",
+                        "name": "Don Raton",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000037,
+                            "power": 10,
+                            "name": "SPROUT"
+                        }
+                    },
+                    {
+                        "tag": "#9Q89UJJ0",
+                        "name": "Don Chinche",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000027,
+                            "power": 10,
+                            "name": "8-BIT"
+                        }
+                    },
+                    {
+                        "tag": "#222JUQL8P",
+                        "name": "DonDeDons",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000028,
+                            "power": 10,
+                            "name": "SANDY"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 103,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#8V2P82QV",
+                "name": "OscarNorris",
+                "brawler": {
+                    "trophies": 12,
+                    "id": 16000014,
+                    "power": 10,
+                    "name": "BO"
+                }
+            },
+            "result": "victory"
+        },
+        "battleTime": "20210926T010343.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#LPQ8LRJ"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#8V2P82QV",
+                        "name": "OscarNorris",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000014,
+                            "power": 10,
+                            "name": "BO"
+                        }
+                    },
+                    {
+                        "tag": "#LR8RJLU",
+                        "name": "SacksNorris",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000049,
+                            "power": 10,
+                            "name": "BUZZ"
+                        }
+                    },
+                    {
+                        "tag": "#LPQ8LRJ",
+                        "name": "\u043cigga\u044f\u044f :3",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#20GRL8JUY",
+                        "name": "Don Raton",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000037,
+                            "power": 10,
+                            "name": "SPROUT"
+                        }
+                    },
+                    {
+                        "tag": "#9Q89UJJ0",
+                        "name": "Don Chinche",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000027,
+                            "power": 10,
+                            "name": "8-BIT"
+                        }
+                    },
+                    {
+                        "tag": "#222JUQL8P",
+                        "name": "DonDeDons",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000028,
+                            "power": 10,
+                            "name": "SANDY"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 101,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "victory"
+        },
+        "battleTime": "20210926T010147.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#LPQ8LRJ"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#2CYPUQJL2",
+                        "name": "RetiredDabs:(",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000011,
+                            "power": 10,
+                            "name": "MORTIS"
+                        }
+                    },
+                    {
+                        "tag": "#PJQYJJU",
+                        "name": "HAZZAH",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    },
+                    {
+                        "tag": "#LR2809GV",
+                        "name": "/\\///\\/_//\\",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000051,
+                            "power": 10,
+                            "name": "ASH"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2J0RGY8RC",
+                        "name": "Brack",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#8C9PC09Y0",
+                        "name": "TF|L\u0113o\u00f1id\ud83d\udda4",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#GLG8L02J",
+                        "name": "\ud83d\udda4|\u307eMr.Cone\ud83d\ude15",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000042,
+                            "power": 10,
+                            "name": "BYRON"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 124,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#2CYPUQJL2",
+                "name": "RetiredDabs:(",
+                "brawler": {
+                    "trophies": 15,
+                    "id": 16000011,
+                    "power": 10,
+                    "name": "MORTIS"
+                }
+            },
+            "result": "victory"
+        },
+        "battleTime": "20210926T204519.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#2CYPUQJL2"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#2CYPUQJL2",
+                        "name": "RetiredDabs:(",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000011,
+                            "power": 10,
+                            "name": "MORTIS"
+                        }
+                    },
+                    {
+                        "tag": "#PJQYJJU",
+                        "name": "HAZZAH",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    },
+                    {
+                        "tag": "#LR2809GV",
+                        "name": "/\\///\\/_//\\",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000051,
+                            "power": 10,
+                            "name": "ASH"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2J0RGY8RC",
+                        "name": "Brack",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#8C9PC09Y0",
+                        "name": "TF|L\u0113o\u00f1id\ud83d\udda4",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#GLG8L02J",
+                        "name": "\ud83d\udda4|\u307eMr.Cone\ud83d\ude15",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000042,
+                            "power": 10,
+                            "name": "BYRON"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 150,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "defeat"
+        },
+        "battleTime": "20210926T204301.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#2CYPUQJL2"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#2CYPUQJL2",
+                        "name": "RetiredDabs:(",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000011,
+                            "power": 10,
+                            "name": "MORTIS"
+                        }
+                    },
+                    {
+                        "tag": "#PJQYJJU",
+                        "name": "HAZZAH",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    },
+                    {
+                        "tag": "#LR2809GV",
+                        "name": "/\\///\\/_//\\",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000051,
+                            "power": 10,
+                            "name": "ASH"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2J0RGY8RC",
+                        "name": "Brack",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#8C9PC09Y0",
+                        "name": "TF|L\u0113o\u00f1id\ud83d\udda4",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#GLG8L02J",
+                        "name": "\ud83d\udda4|\u307eMr.Cone\ud83d\ude15",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000042,
+                            "power": 10,
+                            "name": "BYRON"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 96,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "victory"
+        },
+        "battleTime": "20210926T204016.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#2CYPUQJL2"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#92GR0RLJP",
+                        "name": "Nath",
+                        "brawler": {
+                            "trophies": 4,
+                            "id": 16000035,
+                            "power": 10,
+                            "name": "GALE"
+                        }
+                    },
+                    {
+                        "tag": "#9QCCLV9C",
+                        "name": "\u4f60|C\u0489y\u0489c\u0489le\u0489\u1d33\u1d52\u1d48",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#8LR9RYCJ0",
+                        "name": "God fishy",
+                        "brawler": {
+                            "trophies": 4,
+                            "id": 16000012,
+                            "power": 10,
+                            "name": "CROW"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2QUYG99",
+                        "name": "Xisuma",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#2YLP98UUR",
+                        "name": "\u1d00\u1d04\u1d1b | BOMI",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    },
+                    {
+                        "tag": "#VYP89RJG",
+                        "name": "\u00b0|PaIn Lss",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000028,
+                            "power": 10,
+                            "name": "SANDY"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 82,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#VYP89RJG",
+                "name": "\u00b0|PaIn Lss",
+                "brawler": {
+                    "trophies": 11,
+                    "id": 16000028,
+                    "power": 10,
+                    "name": "SANDY"
+                }
+            },
+            "result": "victory"
+        },
+        "battleTime": "20210929T082359.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#2YLP98UUR"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#92GR0RLJP",
+                        "name": "Nath",
+                        "brawler": {
+                            "trophies": 4,
+                            "id": 16000035,
+                            "power": 10,
+                            "name": "GALE"
+                        }
+                    },
+                    {
+                        "tag": "#9QCCLV9C",
+                        "name": "\u4f60|C\u0489y\u0489c\u0489le\u0489\u1d33\u1d52\u1d48",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#8LR9RYCJ0",
+                        "name": "God fishy",
+                        "brawler": {
+                            "trophies": 4,
+                            "id": 16000012,
+                            "power": 10,
+                            "name": "CROW"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2QUYG99",
+                        "name": "Xisuma",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#2YLP98UUR",
+                        "name": "\u1d00\u1d04\u1d1b | BOMI",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    },
+                    {
+                        "tag": "#VYP89RJG",
+                        "name": "\u00b0|PaIn Lss",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000028,
+                            "power": 10,
+                            "name": "SANDY"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 82,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "victory"
+        },
+        "battleTime": "20210929T082223.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#2YLP98UUR"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#2UUP2RV0U",
+                        "name": "\u5c04\u624b \u6cd5\u5e08\ud83d\ude0e",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#CC0J8L2C",
+                        "name": "hong",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    },
+                    {
+                        "tag": "#GRLUCUU8",
+                        "name": "\u563f\uff01\u670b\u53cbaka\u9955\u5893",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#YJP0P880",
+                        "name": "elole",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000003,
+                            "power": 10,
+                            "name": "BROCK"
+                        }
+                    },
+                    {
+                        "tag": "#CJRC990Y",
+                        "name": "\uad8c\ub4dd\ubc30",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000037,
+                            "power": 10,
+                            "name": "SPROUT"
+                        }
+                    },
+                    {
+                        "tag": "#99J828CL",
+                        "name": "\ud55c\ub0a8123",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000051,
+                            "power": 10,
+                            "name": "ASH"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 84,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#CJRC990Y",
+                "name": "\uad8c\ub4dd\ubc30",
+                "brawler": {
+                    "trophies": 12,
+                    "id": 16000037,
+                    "power": 10,
+                    "name": "SPROUT"
+                }
+            },
+            "result": "victory"
+        },
+        "battleTime": "20210928T145356.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#YJP0P880"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#2UUP2RV0U",
+                        "name": "\u5c04\u624b \u6cd5\u5e08\ud83d\ude0e",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#CC0J8L2C",
+                        "name": "hong",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    },
+                    {
+                        "tag": "#GRLUCUU8",
+                        "name": "\u563f\uff01\u670b\u53cbaka\u9955\u5893",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#YJP0P880",
+                        "name": "elole",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000003,
+                            "power": 10,
+                            "name": "BROCK"
+                        }
+                    },
+                    {
+                        "tag": "#CJRC990Y",
+                        "name": "\uad8c\ub4dd\ubc30",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000037,
+                            "power": 10,
+                            "name": "SPROUT"
+                        }
+                    },
+                    {
+                        "tag": "#99J828CL",
+                        "name": "\ud55c\ub0a8123",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000051,
+                            "power": 10,
+                            "name": "ASH"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 84,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "victory"
+        },
+        "battleTime": "20210928T145217.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#YJP0P880"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#GQY88VGQ",
+                        "name": "Angry\ud83d\ude21",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#U8U0GLUQ",
+                        "name": "pederluk",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000037,
+                            "power": 10,
+                            "name": "SPROUT"
+                        }
+                    },
+                    {
+                        "tag": "#GLG8L02J",
+                        "name": "\ud83d\udda4|\u307eMr.Cone\ud83d\ude15",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#Y99L9L8",
+                        "name": "Happy",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#LRQP0RR0",
+                        "name": "\u2744\ufe0fFr\u00f8zen winD\ud83c\udf2c",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    },
+                    {
+                        "tag": "#PCPJYUUUC",
+                        "name": "\u98df | \u0141\u0454\u221a\u0115\u014b\u0101\u0155 \ud83d\udd2e",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000028,
+                            "power": 10,
+                            "name": "SANDY"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 97,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#GQY88VGQ",
+                "name": "Angry\ud83d\ude21",
+                "brawler": {
+                    "trophies": 14,
+                    "id": 16000004,
+                    "power": 10,
+                    "name": "RICO"
+                }
+            },
+            "result": "victory"
+        },
+        "battleTime": "20210929T201743.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#GLG8L02J"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#GQY88VGQ",
+                        "name": "Angry\ud83d\ude21",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#U8U0GLUQ",
+                        "name": "pederluk",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000037,
+                            "power": 10,
+                            "name": "SPROUT"
+                        }
+                    },
+                    {
+                        "tag": "#GLG8L02J",
+                        "name": "\ud83d\udda4|\u307eMr.Cone\ud83d\ude15",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#Y99L9L8",
+                        "name": "Happy",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#LRQP0RR0",
+                        "name": "\u2744\ufe0fFr\u00f8zen winD\ud83c\udf2c",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    },
+                    {
+                        "tag": "#PCPJYUUUC",
+                        "name": "\u98df | \u0141\u0454\u221a\u0115\u014b\u0101\u0155 \ud83d\udd2e",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000028,
+                            "power": 10,
+                            "name": "SANDY"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 98,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "victory"
+        },
+        "battleTime": "20210929T201552.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#GLG8L02J"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#9CLJV9",
+                        "name": "\u0185on:~",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#URVLPP29",
+                        "name": "GioSeph\u2122",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000011,
+                            "power": 10,
+                            "name": "MORTIS"
+                        }
+                    },
+                    {
+                        "tag": "#CVU28RLR",
+                        "name": "PinguWingu\u2122",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#JYUL0CGV",
+                        "name": "VibeWithEray\ud83d\udda4\u2660",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000037,
+                            "power": 10,
+                            "name": "SPROUT"
+                        }
+                    },
+                    {
+                        "tag": "#8Y8CPUC8Q",
+                        "name": "Mythic.",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#8VCQ8QC2Y",
+                        "name": "\u5948|C\u0361\u035c\u029f\u1d00\u1d18\u1d4d\u1d52\u1d48\ud83d\udd4a",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 85,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#URVLPP29",
+                "name": "GioSeph\u2122",
+                "brawler": {
+                    "trophies": 16,
+                    "id": 16000011,
+                    "power": 10,
+                    "name": "MORTIS"
+                }
+            },
+            "result": "victory"
+        },
+        "battleTime": "20210930T191951.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#URVLPP29"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#9CLJV9",
+                        "name": "\u0185on:~",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#URVLPP29",
+                        "name": "GioSeph\u2122",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000011,
+                            "power": 10,
+                            "name": "MORTIS"
+                        }
+                    },
+                    {
+                        "tag": "#CVU28RLR",
+                        "name": "PinguWingu\u2122",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#JYUL0CGV",
+                        "name": "VibeWithEray\ud83d\udda4\u2660",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000037,
+                            "power": 10,
+                            "name": "SPROUT"
+                        }
+                    },
+                    {
+                        "tag": "#8Y8CPUC8Q",
+                        "name": "Mythic.",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#8VCQ8QC2Y",
+                        "name": "\u5948|C\u0361\u035c\u029f\u1d00\u1d18\u1d4d\u1d52\u1d48\ud83d\udd4a",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 82,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "victory"
+        },
+        "battleTime": "20210930T191811.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#URVLPP29"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#9Q2LLPQQQ",
+                        "name": "Sei \u03df",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#2R8PU2CCG",
+                        "name": "BearbearBrol\ud83c\udf19",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#J9VP09L2",
+                        "name": "Wx_lk\ud83d\udc3a",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000044,
+                            "power": 10,
+                            "name": "COLONEL RUFFS"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#90GL80UV",
+                        "name": "A.A.Ra",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#P88UVUR9",
+                        "name": "\u904a\u6232\u4eba\u751f\ud83d\udc99WI-FI\ud83c\udf15\ud83d\udcab",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000051,
+                            "power": 10,
+                            "name": "ASH"
+                        }
+                    },
+                    {
+                        "tag": "#2QP0RRGLP",
+                        "name": "imzwg",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000013,
+                            "power": 10,
+                            "name": "POCO"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 84,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#2R8PU2CCG",
+                "name": "BearbearBrol\ud83c\udf19",
+                "brawler": {
+                    "trophies": 12,
+                    "id": 16000017,
+                    "power": 10,
+                    "name": "TARA"
+                }
+            },
+            "result": "victory"
+        },
+        "battleTime": "20211002T062050.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#J9VP09L2"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#9Q2LLPQQQ",
+                        "name": "Sei \u03df",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#2R8PU2CCG",
+                        "name": "BearbearBrol\ud83c\udf19",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#J9VP09L2",
+                        "name": "Wx_lk\ud83d\udc3a",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000044,
+                            "power": 10,
+                            "name": "COLONEL RUFFS"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#90GL80UV",
+                        "name": "A.A.Ra",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#P88UVUR9",
+                        "name": "\u904a\u6232\u4eba\u751f\ud83d\udc99WI-FI\ud83c\udf15\ud83d\udcab",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000051,
+                            "power": 10,
+                            "name": "ASH"
+                        }
+                    },
+                    {
+                        "tag": "#2QP0RRGLP",
+                        "name": "imzwg",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000013,
+                            "power": 10,
+                            "name": "POCO"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 102,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "victory"
+        },
+        "battleTime": "20211002T061912.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#J9VP09L2"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#2QV0PVJY",
+                        "name": "lukenzi\u2614",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#9CJUPPL2",
+                        "name": "K\u026a\u1d04\u1d0fB\u1d0f\u0262\ud83e\udd8d",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000003,
+                            "power": 10,
+                            "name": "BROCK"
+                        }
+                    },
+                    {
+                        "tag": "#2JJURQYC9",
+                        "name": "Madelyn\u2764\ufe0f",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000028,
+                            "power": 10,
+                            "name": "SANDY"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#LUJV8QUY",
+                        "name": "Tadomari\ud83c\udf47",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000037,
+                            "power": 10,
+                            "name": "SPROUT"
+                        }
+                    },
+                    {
+                        "tag": "#2YR9PPYUY",
+                        "name": "Dz\u00f8nDz\u00f8n\ud83c\udf4c",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000045,
+                            "power": 10,
+                            "name": "STU"
+                        }
+                    },
+                    {
+                        "tag": "#L8PVYUQV",
+                        "name": "Andrey\ud83c\udf4a",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 82,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#2YR9PPYUY",
+                "name": "Dz\u00f8nDz\u00f8n\ud83c\udf4c",
+                "brawler": {
+                    "trophies": 13,
+                    "id": 16000045,
+                    "power": 10,
+                    "name": "STU"
+                }
+            },
+            "result": "victory"
+        },
+        "battleTime": "20211001T215226.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#L8PVYUQV"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#2QV0PVJY",
+                        "name": "lukenzi\u2614",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#9CJUPPL2",
+                        "name": "K\u026a\u1d04\u1d0fB\u1d0f\u0262\ud83e\udd8d",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000003,
+                            "power": 10,
+                            "name": "BROCK"
+                        }
+                    },
+                    {
+                        "tag": "#2JJURQYC9",
+                        "name": "Madelyn\u2764\ufe0f",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000028,
+                            "power": 10,
+                            "name": "SANDY"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#LUJV8QUY",
+                        "name": "Tadomari\ud83c\udf47",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000037,
+                            "power": 10,
+                            "name": "SPROUT"
+                        }
+                    },
+                    {
+                        "tag": "#2YR9PPYUY",
+                        "name": "Dz\u00f8nDz\u00f8n\ud83c\udf4c",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000045,
+                            "power": 10,
+                            "name": "STU"
+                        }
+                    },
+                    {
+                        "tag": "#L8PVYUQV",
+                        "name": "Andrey\ud83c\udf4a",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 117,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "victory"
+        },
+        "battleTime": "20211001T215050.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#L8PVYUQV"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#9V9GR009J",
+                        "name": "Abelyx\ud83c\udccf",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#UQCCVPRC",
+                        "name": "SPIKE",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000030,
+                            "power": 10,
+                            "name": "EMZ"
+                        }
+                    },
+                    {
+                        "tag": "#VQJLUV0U",
+                        "name": "\u0401\u0436\u0438\u043a",
+                        "brawler": {
+                            "trophies": 9,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#Q90VJCU",
+                        "name": "xBan\ud83c\udfad",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000051,
+                            "power": 10,
+                            "name": "ASH"
+                        }
+                    },
+                    {
+                        "tag": "#PQPV2RJ",
+                        "name": "YT | NickyBS",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000042,
+                            "power": 10,
+                            "name": "BYRON"
+                        }
+                    },
+                    {
+                        "tag": "#2JRC908QR",
+                        "name": "\u26a1M\u00f8\u0159\u0163\u0177\u26a1",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 102,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#Q90VJCU",
+                "name": "xBan\ud83c\udfad",
+                "brawler": {
+                    "trophies": 14,
+                    "id": 16000051,
+                    "power": 10,
+                    "name": "ASH"
+                }
+            },
+            "result": "victory"
+        },
+        "battleTime": "20211003T085559.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#Q90VJCU"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#9V9GR009J",
+                        "name": "Abelyx\ud83c\udccf",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#UQCCVPRC",
+                        "name": "SPIKE",
+                        "brawler": {
+                            "trophies": 12,
+                            "id": 16000030,
+                            "power": 10,
+                            "name": "EMZ"
+                        }
+                    },
+                    {
+                        "tag": "#VQJLUV0U",
+                        "name": "\u0401\u0436\u0438\u043a",
+                        "brawler": {
+                            "trophies": 9,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#Q90VJCU",
+                        "name": "xBan\ud83c\udfad",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000051,
+                            "power": 10,
+                            "name": "ASH"
+                        }
+                    },
+                    {
+                        "tag": "#PQPV2RJ",
+                        "name": "YT | NickyBS",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000042,
+                            "power": 10,
+                            "name": "BYRON"
+                        }
+                    },
+                    {
+                        "tag": "#2JRC908QR",
+                        "name": "\u26a1M\u00f8\u0159\u0163\u0177\u26a1",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 122,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "victory"
+        },
+        "battleTime": "20211003T085403.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#Q90VJCU"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#JCLV9CC9",
+                        "name": "Jacob\ud83e\uddf8",
+                        "brawler": {
+                            "trophies": 17,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    },
+                    {
+                        "tag": "#9PQQ8GQQ",
+                        "name": "Filippo",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#20C80QUY9",
+                        "name": "MO | GuGu",
+                        "brawler": {
+                            "trophies": 17,
+                            "id": 16000025,
+                            "power": 10,
+                            "name": "CARL"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#GLG8L02J",
+                        "name": "\ud83d\udda4|\u307eMr.Cone\ud83d\ude15",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    },
+                    {
+                        "tag": "#GQY88VGQ",
+                        "name": "Angry\ud83d\ude21",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#U8U0GLUQ",
+                        "name": "pederluk",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000028,
+                            "power": 10,
+                            "name": "SANDY"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 84,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#GQY88VGQ",
+                "name": "Angry\ud83d\ude21",
+                "brawler": {
+                    "trophies": 15,
+                    "id": 16000004,
+                    "power": 10,
+                    "name": "RICO"
+                }
+            },
+            "result": "defeat"
+        },
+        "battleTime": "20211002T103941.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#9PQQ8GQQ"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#JCLV9CC9",
+                        "name": "Jacob\ud83e\uddf8",
+                        "brawler": {
+                            "trophies": 17,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    },
+                    {
+                        "tag": "#9PQQ8GQQ",
+                        "name": "Filippo",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#20C80QUY9",
+                        "name": "MO | GuGu",
+                        "brawler": {
+                            "trophies": 17,
+                            "id": 16000025,
+                            "power": 10,
+                            "name": "CARL"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#GLG8L02J",
+                        "name": "\ud83d\udda4|\u307eMr.Cone\ud83d\ude15",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000046,
+                            "power": 10,
+                            "name": "BELLE"
+                        }
+                    },
+                    {
+                        "tag": "#GQY88VGQ",
+                        "name": "Angry\ud83d\ude21",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#U8U0GLUQ",
+                        "name": "pederluk",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000028,
+                            "power": 10,
+                            "name": "SANDY"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 113,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "defeat"
+        },
+        "battleTime": "20211002T103803.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#9PQQ8GQQ"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#PVRLUJU",
+                        "name": "Suffo \u4e0d",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000003,
+                            "power": 10,
+                            "name": "BROCK"
+                        }
+                    },
+                    {
+                        "tag": "#8Q8V0P9GV",
+                        "name": "\u0141U\u00c7A\u015a \u30c4",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#P8JRLLYJ",
+                        "name": "cute groot",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000011,
+                            "power": 10,
+                            "name": "MORTIS"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#L8PVYUQV",
+                        "name": "Andrey\ud83c\udf4a",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000027,
+                            "power": 10,
+                            "name": "8-BIT"
+                        }
+                    },
+                    {
+                        "tag": "#LUJV8QUY",
+                        "name": "Tadomari\ud83c\udf47",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000045,
+                            "power": 10,
+                            "name": "STU"
+                        }
+                    },
+                    {
+                        "tag": "#2RR2RU8UL",
+                        "name": "\u0106irkoni\ud83d\udc3c",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 139,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#L8PVYUQV",
+                "name": "Andrey\ud83c\udf4a",
+                "brawler": {
+                    "trophies": 15,
+                    "id": 16000027,
+                    "power": 10,
+                    "name": "8-BIT"
+                }
+            },
+            "result": "defeat"
+        },
+        "battleTime": "20211002T204250.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#PVRLUJU"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#PVRLUJU",
+                        "name": "Suffo \u4e0d",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000003,
+                            "power": 10,
+                            "name": "BROCK"
+                        }
+                    },
+                    {
+                        "tag": "#8Q8V0P9GV",
+                        "name": "\u0141U\u00c7A\u015a \u30c4",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#P8JRLLYJ",
+                        "name": "cute groot",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000011,
+                            "power": 10,
+                            "name": "MORTIS"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#L8PVYUQV",
+                        "name": "Andrey\ud83c\udf4a",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000027,
+                            "power": 10,
+                            "name": "8-BIT"
+                        }
+                    },
+                    {
+                        "tag": "#LUJV8QUY",
+                        "name": "Tadomari\ud83c\udf47",
+                        "brawler": {
+                            "trophies": 10,
+                            "id": 16000045,
+                            "power": 10,
+                            "name": "STU"
+                        }
+                    },
+                    {
+                        "tag": "#2RR2RU8UL",
+                        "name": "\u0106irkoni\ud83d\udc3c",
+                        "brawler": {
+                            "trophies": 13,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 88,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "defeat"
+        },
+        "battleTime": "20211002T204018.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#PVRLUJU"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#R8RP0QRQ",
+                        "name": "HikinenKoira",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000005,
+                            "power": 10,
+                            "name": "SPIKE"
+                        }
+                    },
+                    {
+                        "tag": "#CQ2RQJCQ",
+                        "name": "sa",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#VPCUP8V9",
+                        "name": "Mortar",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000042,
+                            "power": 10,
+                            "name": "BYRON"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#GQY88VGQ",
+                        "name": "Angry\ud83d\ude21",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#GLG8L02J",
+                        "name": "\ud83d\udda4|\u307eMr.Cone\ud83d\ude15",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#U8U0GLUQ",
+                        "name": "pederluk",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 82,
+            "type": "teamRanked",
+            "starPlayer": {
+                "tag": "#GLG8L02J",
+                "name": "\ud83d\udda4|\u307eMr.Cone\ud83d\ude15",
+                "brawler": {
+                    "trophies": 15,
+                    "id": 16000023,
+                    "power": 10,
+                    "name": "LEON"
+                }
+            },
+            "result": "victory"
+        },
+        "battleTime": "20211002T145045.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#U8U0GLUQ"
+    },
+    {
+        "battle": {
+            "teams": [
+                [
+                    {
+                        "tag": "#R8RP0QRQ",
+                        "name": "HikinenKoira",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000005,
+                            "power": 10,
+                            "name": "SPIKE"
+                        }
+                    },
+                    {
+                        "tag": "#CQ2RQJCQ",
+                        "name": "sa",
+                        "brawler": {
+                            "trophies": 14,
+                            "id": 16000017,
+                            "power": 10,
+                            "name": "TARA"
+                        }
+                    },
+                    {
+                        "tag": "#VPCUP8V9",
+                        "name": "Mortar",
+                        "brawler": {
+                            "trophies": 11,
+                            "id": 16000042,
+                            "power": 10,
+                            "name": "BYRON"
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#GQY88VGQ",
+                        "name": "Angry\ud83d\ude21",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000004,
+                            "power": 10,
+                            "name": "RICO"
+                        }
+                    },
+                    {
+                        "tag": "#GLG8L02J",
+                        "name": "\ud83d\udda4|\u307eMr.Cone\ud83d\ude15",
+                        "brawler": {
+                            "trophies": 15,
+                            "id": 16000023,
+                            "power": 10,
+                            "name": "LEON"
+                        }
+                    },
+                    {
+                        "tag": "#U8U0GLUQ",
+                        "name": "pederluk",
+                        "brawler": {
+                            "trophies": 16,
+                            "id": 16000015,
+                            "power": 10,
+                            "name": "PIPER"
+                        }
+                    }
+                ]
+            ],
+            "mode": "gemGrab",
+            "duration": 124,
+            "type": "teamRanked",
+            "starPlayer": null,
+            "result": "victory"
+        },
+        "battleTime": "20211002T144908.000Z",
+        "event": {
+            "map": "Hard Rock Mine",
+            "id": 15000007,
+            "mode": "gemGrab"
+        },
+        "PlayerTag": "#U8U0GLUQ"
+    }
+]
