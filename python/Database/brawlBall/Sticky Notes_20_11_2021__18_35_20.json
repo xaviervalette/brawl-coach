@@ -1,0 +1,91 @@
+{
+    "battleTime": "20211120T173336.000Z",
+    "event": {
+        "id": 15000413,
+        "mode": "brawlBall",
+        "map": "Sticky Notes"
+    },
+    "battle": {
+        "mode": "brawlBall",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 74,
+        "trophyChange": 4,
+        "starPlayer": {
+            "tag": "#8LQ9JR82",
+            "name": "BIG | Eqwaak\ud83e\udd86",
+            "brawler": {
+                "id": 16000011,
+                "name": "MORTIS",
+                "power": 10,
+                "trophies": 1152
+            }
+        },
+        "teams": [
+            [
+                {
+                    "tag": "#VGQ0P2VU",
+                    "name": "Uncle Carry",
+                    "brawler": {
+                        "id": 16000013,
+                        "name": "POCO",
+                        "power": 11,
+                        "trophies": 1090
+                    }
+                },
+                {
+                    "tag": "#VLQPVPY",
+                    "name": "Hyra",
+                    "brawler": {
+                        "id": 16000020,
+                        "name": "FRANK",
+                        "power": 9,
+                        "trophies": 1152
+                    }
+                },
+                {
+                    "tag": "#8LQ9JR82",
+                    "name": "BIG | Eqwaak\ud83e\udd86",
+                    "brawler": {
+                        "id": 16000011,
+                        "name": "MORTIS",
+                        "power": 10,
+                        "trophies": 1152
+                    }
+                }
+            ],
+            [
+                {
+                    "tag": "#PQ09CRPUL",
+                    "name": "Cr1stal \ud83d\uddfb",
+                    "brawler": {
+                        "id": 16000007,
+                        "name": "JESSIE",
+                        "power": 10,
+                        "trophies": 1016
+                    }
+                },
+                {
+                    "tag": "#9U88P099C",
+                    "name": "HUSBP|PCHELA",
+                    "brawler": {
+                        "id": 16000051,
+                        "name": "ASH",
+                        "power": 9,
+                        "trophies": 1014
+                    }
+                },
+                {
+                    "tag": "#9JPQJPQ2U",
+                    "name": "Free2play",
+                    "brawler": {
+                        "id": 16000000,
+                        "name": "SHELLY",
+                        "power": 9,
+                        "trophies": 1021
+                    }
+                }
+            ]
+        ]
+    }
+}

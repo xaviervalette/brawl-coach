@@ -1,0 +1,29 @@
+{% extends 'base.html'%}
+
+{% block team_picker %}
+
+<div class="px-4 pt-5 my-5 text-center border-bottom">
+    <h1 class="display-4 fw-bold">Current events</h1>
+    <div class="col-lg-6 mx-auto">
+      <table class="table">
+        <thead class="table-dark">
+          <tr>
+            <th scope="col">Mode</th>
+            <th scope="col">Map</th>
+            <th scope="col"></th>
+          </tr>
+        </thead>
+        <tbody>
+            {% for i in range(0, len) %}
+                <tr>
+                    <td>{{current_events[i]["event"]["mode"]}}</td>
+                    <td>{{current_events[i]["event"]["map"]}}</td>
+                    <td><a href='/teampicker/{{current_events[i]["event"]["mode"]}}/{{current_events[i]["event"]["map"]}}'>Details</a></td>
+                </tr>
+            {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    
+  </div>
+  {% endblock team_picker %}

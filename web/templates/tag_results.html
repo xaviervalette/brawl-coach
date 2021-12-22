@@ -1,0 +1,94 @@
+{% extends 'base.html'%}
+
+{% block table_tag_brawler %}
+
+<div class="px-4 pt-5 my-5 text-center border-bottom">
+    <h1 class="display-4 fw-bold">{{tag}} stats</h1>
+    <div class="col-lg-6 mx-auto">
+      <table class="table">
+        <thead class="table-dark">
+          <tr>
+            <th scope="col">Brawler</th>
+            <th scope="col">Pick Rate</th>
+            <th scope="col">Win Rate</th>
+            <th scope="col">Star Player</th>
+          </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+      </table>
+    </div>
+    
+  </div>
+  
+  <div class="b-example-divider"></div>
+
+  <div class="px-4 pt-5 my-5 text-center border-bottom">
+    <h1 class="display-4 fw-bold">Brawler stats</h1>
+    <div class="col-lg-6 mx-auto">
+      <table class="table">
+        <thead class="table-dark">
+          <tr>
+            <th scope="col">Brawler</th>
+            <th scope="col">Pick Rate</th>
+            <th scope="col">Win Rate</th>
+            <th scope="col">Star Player</th>
+          </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+      </table>
+    </div>
+    
+  </div>
+
+  <div class="b-example-divider"></div>
+
+  <div class="px-4 pt-5 my-5 text-center border-bottom">
+    <h1 class="display-4 fw-bold">Battlelogs</h1>
+    <div class="col-lg-6 mx-auto">
+      <table class="table">
+        <thead class="table-dark">
+          <tr>
+            <th scope="col">Result</th>
+            <th scope="col">Mode</th>
+            <th scope="col">Map</th>
+            <th scope="col">Star Player</th>
+          </tr>
+        </thead>
+        <tbody>
+            {% for i in range(0, len) %}
+            <!--<li>{{battlelogs['items'][i]}}</li>-->
+                <tr>
+                {% if battlelogs['items'][i]["battle"]["result"] == "victory" %}
+                    <th scope="row"><span class="badge bg-success">Victory</span></th>
+                {% else %}
+                    <th scope="row"><span class="badge bg-danger">Defeat</span></th>
+                {% endif %}
+                    <td>{{battlelogs['items'][i]["battle"]["mode"]}}</td>
+                    <td>{{battlelogs['items'][i]["event"]["map"]}}</td>
+                    {% if battlelogs['items'][i]["battle"]["result"] == "victory" %}                    
+                    {% if battlelogs['items'][i]["isStarPlayer"] == "yes" %}
+                    <th scope="row"><span class="badge bg-success">Yes</span></th>
+                    {% else %}
+                    <th scope="row"><span class="badge bg-danger">No</span></th>
+                    {% endif %}
+                    {% else %}
+                    <th scope="row"></th>
+                    {% endif %}
+            </tr>
+            {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  {% endblock table_tag_brawler %}
+
+<!-- For loop logic of jinja template -->
+{% for i in range(0, len) %}
+  
+<li>{{battlelogs['items'][i]}}</li>
+{% endfor %}

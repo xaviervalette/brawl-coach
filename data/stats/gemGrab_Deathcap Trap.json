@@ -1,0 +1,50 @@
+[
+    {
+        "mode": "gemGrab",
+        "map": "Four Squared",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.3333333333333333,
+            "pickNumber": 1,
+            "brawlers": [
+                "LEON",
+                "MR. P",
+                "PIPER"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Four Squared",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.3333333333333333,
+            "pickNumber": 1,
+            "brawlers": [
+                "MR. P",
+                "PIPER",
+                "WAFFLE"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Four Squared",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.3333333333333333,
+            "pickNumber": 1,
+            "brawlers": [
+                "BELLE",
+                "MR. P",
+                "PIPER"
+            ]
+        }
+    }
+]

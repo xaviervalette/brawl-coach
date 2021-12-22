@@ -1,0 +1,47 @@
+{% extends 'base.html'%}
+
+{% block mode_map_details %}
+
+<div class="px-4 pt-5 my-5 text-center border-bottom">
+    <h1 class="display-5 fw-bold">{{map}}</h1>
+    <div class="col-lg-6 mx-auto">
+      <p class="fs-5 mb-4">{{mode}}
+      </p>
+  </div>
+  <div class="col-lg-6 mx-auto">
+    <table class="table">
+      <thead class="table-dark">
+        <tr>
+          <th scope="col">Brawlers</th>
+          <th scope="col">Win Rate</th>
+          <th scope="col">Pick Rate</th>
+        </tr>
+      </thead>
+      <tbody>
+          {% for i in range(0, len) %}
+              <tr>
+                  <td>
+                    <div class="container">
+                        <div class="row">
+                          <div class="col-sm">
+                            {{mode_map_details[i]["teamStats"]["brawlers"][0]}}
+                        </div>
+                          <div class="col-sm">
+                            {{mode_map_details[i]["teamStats"]["brawlers"][1]}}
+                        </div>
+                          <div class="col-sm">
+                            {{mode_map_details[i]["teamStats"]["brawlers"][2]}}
+                        </div>
+                        </div>
+                      </div>
+                      </td>
+
+                  <td>{{"%.1f"|format(100*mode_map_details[i]["teamStats"]["winRate"])}}%</td>
+                  <td>{{"%.1f"|format(100*mode_map_details[i]["teamStats"]["pickRate"])}}%</td>
+              </tr>
+          {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  </div>
+  {% endblock mode_map_details %}

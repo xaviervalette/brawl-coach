@@ -1,0 +1,184 @@
+[
+    {
+        "battleTime": "20211119T221440.000Z",
+        "event": {
+            "id": 15000132,
+            "mode": "brawlBall",
+            "map": "Center Stage"
+        },
+        "battle": {
+            "mode": "brawlBall",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 96,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#80QUGYC",
+                "name": "CryingMan|\uc6b8\ubcf4",
+                "brawler": {
+                    "id": 16000042,
+                    "name": "BYRON",
+                    "power": 9,
+                    "trophies": 930
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#80QUGYC",
+                        "name": "CryingMan|\uc6b8\ubcf4",
+                        "brawler": {
+                            "id": 16000042,
+                            "name": "BYRON",
+                            "power": 9,
+                            "trophies": 930
+                        }
+                    },
+                    {
+                        "tag": "#889LLYQ0",
+                        "name": "qllpCHRISqllp",
+                        "brawler": {
+                            "id": 16000004,
+                            "name": "RICO",
+                            "power": 9,
+                            "trophies": 770
+                        }
+                    },
+                    {
+                        "tag": "#9PJQ9V8L9",
+                        "name": "Banny\u30c4\ufe0e\u2661\ufe0ePatchy",
+                        "brawler": {
+                            "id": 16000046,
+                            "name": "BELLE",
+                            "power": 9,
+                            "trophies": 753
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2VQCYUVPC",
+                        "name": "\u611b | yusuf \u03df",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 922
+                        }
+                    },
+                    {
+                        "tag": "#8RG9V80U8",
+                        "name": "ICarry2YearOlds",
+                        "brawler": {
+                            "id": 16000004,
+                            "name": "RICO",
+                            "power": 9,
+                            "trophies": 980
+                        }
+                    },
+                    {
+                        "tag": "#889VCU9YL",
+                        "name": "OG |Zey >.<",
+                        "brawler": {
+                            "id": 16000049,
+                            "name": "BUZZ",
+                            "power": 9,
+                            "trophies": 919
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211119T215451.000Z",
+        "event": {
+            "id": 15000132,
+            "mode": "brawlBall",
+            "map": "Center Stage"
+        },
+        "battle": {
+            "mode": "brawlBall",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 76,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#2JJY2888P",
+                "name": "\ud83d\udd25\u00ccNF\u00c8RN\u00d8\ud83d\udd25",
+                "brawler": {
+                    "id": 16000030,
+                    "name": "EMZ",
+                    "power": 9,
+                    "trophies": 799
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#GUYY2QPC",
+                        "name": "PERRONOTICIERO",
+                        "brawler": {
+                            "id": 16000002,
+                            "name": "BULL",
+                            "power": 9,
+                            "trophies": 901
+                        }
+                    },
+                    {
+                        "tag": "#8L0U8LJQQ",
+                        "name": "StickSam",
+                        "brawler": {
+                            "id": 16000013,
+                            "name": "POCO",
+                            "power": 10,
+                            "trophies": 987
+                        }
+                    },
+                    {
+                        "tag": "#2JCLP0J82",
+                        "name": "Chill\u00f8utIsG\u0153d",
+                        "brawler": {
+                            "id": 16000010,
+                            "name": "EL PRIMO",
+                            "power": 9,
+                            "trophies": 905
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#80QUGYC",
+                        "name": "CryingMan|\uc6b8\ubcf4",
+                        "brawler": {
+                            "id": 16000020,
+                            "name": "FRANK",
+                            "power": 9,
+                            "trophies": 968
+                        }
+                    },
+                    {
+                        "tag": "#8JRJPVGL9",
+                        "name": "Bot 4",
+                        "brawler": {
+                            "id": 16000010,
+                            "name": "EL PRIMO",
+                            "power": 9,
+                            "trophies": 900
+                        }
+                    },
+                    {
+                        "tag": "#2JJY2888P",
+                        "name": "\ud83d\udd25\u00ccNF\u00c8RN\u00d8\ud83d\udd25",
+                        "brawler": {
+                            "id": 16000030,
+                            "name": "EMZ",
+                            "power": 9,
+                            "trophies": 799
+                        }
+                    }
+                ]
+            ]
+        }
+    }
+]

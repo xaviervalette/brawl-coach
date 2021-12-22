@@ -1,0 +1,548 @@
+[
+    {
+        "battleTime": "20211119T233544.000Z",
+        "event": {
+            "id": 15000082,
+            "mode": "bounty",
+            "map": "Layer Cake"
+        },
+        "battle": {
+            "mode": "bounty",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 120,
+            "trophyChange": -10,
+            "starPlayer": {
+                "tag": "#2YULPGJCL",
+                "name": "WT|\u2606DarkLegend\u2606",
+                "brawler": {
+                    "id": 16000022,
+                    "name": "TICK",
+                    "power": 9,
+                    "trophies": 774
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#L2Y98PV9",
+                        "name": "Yellow",
+                        "brawler": {
+                            "id": 16000044,
+                            "name": "COLONEL RUFFS",
+                            "power": 9,
+                            "trophies": 446
+                        }
+                    },
+                    {
+                        "tag": "#CUQGGLJ8",
+                        "name": "NeilDegrasBison",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 9,
+                            "trophies": 772
+                        }
+                    },
+                    {
+                        "tag": "#80QUGYC",
+                        "name": "CryingMan|\uc6b8\ubcf4",
+                        "brawler": {
+                            "id": 16000047,
+                            "name": "SQUEAK",
+                            "power": 9,
+                            "trophies": 995
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#CQ0QLR9",
+                        "name": "Booty",
+                        "brawler": {
+                            "id": 16000022,
+                            "name": "TICK",
+                            "power": 10,
+                            "trophies": 772
+                        }
+                    },
+                    {
+                        "tag": "#80RVUPUJ",
+                        "name": "jc\ud83d\udda4Fausti",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 9,
+                            "trophies": 936
+                        }
+                    },
+                    {
+                        "tag": "#2YULPGJCL",
+                        "name": "WT|\u2606DarkLegend\u2606",
+                        "brawler": {
+                            "id": 16000022,
+                            "name": "TICK",
+                            "power": 9,
+                            "trophies": 774
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211119T233111.000Z",
+        "event": {
+            "id": 15000082,
+            "mode": "bounty",
+            "map": "Layer Cake"
+        },
+        "battle": {
+            "mode": "bounty",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 120,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#80QUGYC",
+                "name": "CryingMan|\uc6b8\ubcf4",
+                "brawler": {
+                    "id": 16000047,
+                    "name": "SQUEAK",
+                    "power": 9,
+                    "trophies": 989
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2982C00G",
+                        "name": "\u6cb9W\u03b1f\u0131 \u03df",
+                        "brawler": {
+                            "id": 16000037,
+                            "name": "SPROUT",
+                            "power": 9,
+                            "trophies": 782
+                        }
+                    },
+                    {
+                        "tag": "#8C9UVRR2G",
+                        "name": "\u64d4 | Dany\u2122\ud83e\udd40",
+                        "brawler": {
+                            "id": 16000049,
+                            "name": "BUZZ",
+                            "power": 9,
+                            "trophies": 895
+                        }
+                    },
+                    {
+                        "tag": "#8L2CL0GU0",
+                        "name": "\u6bba\ud83d\udca4er\u00f8",
+                        "brawler": {
+                            "id": 16000046,
+                            "name": "BELLE",
+                            "power": 9,
+                            "trophies": 960
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#L2Y98PV9",
+                        "name": "Yellow",
+                        "brawler": {
+                            "id": 16000044,
+                            "name": "COLONEL RUFFS",
+                            "power": 9,
+                            "trophies": 438
+                        }
+                    },
+                    {
+                        "tag": "#CUQGGLJ8",
+                        "name": "NeilDegrasBison",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 9,
+                            "trophies": 764
+                        }
+                    },
+                    {
+                        "tag": "#80QUGYC",
+                        "name": "CryingMan|\uc6b8\ubcf4",
+                        "brawler": {
+                            "id": 16000047,
+                            "name": "SQUEAK",
+                            "power": 9,
+                            "trophies": 989
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211119T232832.000Z",
+        "event": {
+            "id": 15000082,
+            "mode": "bounty",
+            "map": "Layer Cake"
+        },
+        "battle": {
+            "mode": "bounty",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 120,
+            "trophyChange": 9,
+            "starPlayer": {
+                "tag": "#CUQGGLJ8",
+                "name": "NeilDegrasBison",
+                "brawler": {
+                    "id": 16000021,
+                    "name": "GENE",
+                    "power": 9,
+                    "trophies": 756
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#9QLURJJ89",
+                        "name": "\u2606PL | JCGAMER87",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 9,
+                            "trophies": 789
+                        }
+                    },
+                    {
+                        "tag": "#90UCU29CQ",
+                        "name": "TL|angelgames64",
+                        "brawler": {
+                            "id": 16000023,
+                            "name": "LEON",
+                            "power": 10,
+                            "trophies": 781
+                        }
+                    },
+                    {
+                        "tag": "#P8L8LVYPV",
+                        "name": "\u1d05\u1d00\u0280\u1d0b\u026a\u0274\u0262\u1d47\u02e2\ud83e\udd40",
+                        "brawler": {
+                            "id": 16000000,
+                            "name": "SHELLY",
+                            "power": 9,
+                            "trophies": 844
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#80QUGYC",
+                        "name": "CryingMan|\uc6b8\ubcf4",
+                        "brawler": {
+                            "id": 16000047,
+                            "name": "SQUEAK",
+                            "power": 9,
+                            "trophies": 980
+                        }
+                    },
+                    {
+                        "tag": "#L2Y98PV9",
+                        "name": "Yellow",
+                        "brawler": {
+                            "id": 16000044,
+                            "name": "COLONEL RUFFS",
+                            "power": 9,
+                            "trophies": 430
+                        }
+                    },
+                    {
+                        "tag": "#CUQGGLJ8",
+                        "name": "NeilDegrasBison",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 9,
+                            "trophies": 756
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211119T221211.000Z",
+        "event": {
+            "id": 15000082,
+            "mode": "bounty",
+            "map": "Layer Cake"
+        },
+        "battle": {
+            "mode": "bounty",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 120,
+            "trophyChange": -10,
+            "starPlayer": {
+                "tag": "#P9UPCG0JY",
+                "name": "\ud835\udcb3\ud835\udcb6\ud835\udccb\ud835\udcbe\u30c5",
+                "brawler": {
+                    "id": 16000031,
+                    "name": "MR. P",
+                    "power": 9,
+                    "trophies": 757
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#YU2U028G",
+                        "name": "Ri",
+                        "brawler": {
+                            "id": 16000038,
+                            "name": "SURGE",
+                            "power": 9,
+                            "trophies": 766
+                        }
+                    },
+                    {
+                        "tag": "#JUL89Q88",
+                        "name": "7\u20a97\u20ac",
+                        "brawler": {
+                            "id": 16000045,
+                            "name": "STU",
+                            "power": 9,
+                            "trophies": 817
+                        }
+                    },
+                    {
+                        "tag": "#P9UPCG0JY",
+                        "name": "\ud835\udcb3\ud835\udcb6\ud835\udccb\ud835\udcbe\u30c5",
+                        "brawler": {
+                            "id": 16000031,
+                            "name": "MR. P",
+                            "power": 9,
+                            "trophies": 757
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#80QUGYC",
+                        "name": "CryingMan|\uc6b8\ubcf4",
+                        "brawler": {
+                            "id": 16000042,
+                            "name": "BYRON",
+                            "power": 9,
+                            "trophies": 940
+                        }
+                    },
+                    {
+                        "tag": "#8C8UP9QVC",
+                        "name": "lolster45",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 9,
+                            "trophies": 727
+                        }
+                    },
+                    {
+                        "tag": "#20V999QQJ",
+                        "name": "BernaGokuSsj",
+                        "brawler": {
+                            "id": 16000026,
+                            "name": "BIBI",
+                            "power": 11,
+                            "trophies": 749
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211119T220732.000Z",
+        "event": {
+            "id": 15000082,
+            "mode": "bounty",
+            "map": "Layer Cake"
+        },
+        "battle": {
+            "mode": "bounty",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 120,
+            "trophyChange": -10,
+            "starPlayer": {
+                "tag": "#2P80RVC98",
+                "name": "DSR|R\u00f8g\u016beKn\u00a1ght",
+                "brawler": {
+                    "id": 16000011,
+                    "name": "MORTIS",
+                    "power": 9,
+                    "trophies": 1065
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#20RYY89Q",
+                        "name": "Tatata",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 805
+                        }
+                    },
+                    {
+                        "tag": "#80QUGYC",
+                        "name": "CryingMan|\uc6b8\ubcf4",
+                        "brawler": {
+                            "id": 16000042,
+                            "name": "BYRON",
+                            "power": 9,
+                            "trophies": 950
+                        }
+                    },
+                    {
+                        "tag": "#QJVYQVL",
+                        "name": "Roger",
+                        "brawler": {
+                            "id": 16000044,
+                            "name": "COLONEL RUFFS",
+                            "power": 9,
+                            "trophies": 766
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2C8RRR2Q",
+                        "name": "DSR |L\u25cfrd $mT",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 9,
+                            "trophies": 1065
+                        }
+                    },
+                    {
+                        "tag": "#2P80RVC98",
+                        "name": "DSR|R\u00f8g\u016beKn\u00a1ght",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 9,
+                            "trophies": 1065
+                        }
+                    },
+                    {
+                        "tag": "#2GLUUQ8UJ",
+                        "name": "\ud83e\udd21 TOXIC ASH\u20acR\u300b",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 9,
+                            "trophies": 824
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211119T220424.000Z",
+        "event": {
+            "id": 15000082,
+            "mode": "bounty",
+            "map": "Layer Cake"
+        },
+        "battle": {
+            "mode": "bounty",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 120,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#9PUUV8U89",
+                "name": "\u00bf\u00bf\u00bf\u00bf",
+                "brawler": {
+                    "id": 16000011,
+                    "name": "MORTIS",
+                    "power": 9,
+                    "trophies": 821
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#80QUGYC",
+                        "name": "CryingMan|\uc6b8\ubcf4",
+                        "brawler": {
+                            "id": 16000042,
+                            "name": "BYRON",
+                            "power": 9,
+                            "trophies": 944
+                        }
+                    },
+                    {
+                        "tag": "#9PUUV8U89",
+                        "name": "\u00bf\u00bf\u00bf\u00bf",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 9,
+                            "trophies": 821
+                        }
+                    },
+                    {
+                        "tag": "#8CQUQ8PLL",
+                        "name": "JDOG",
+                        "brawler": {
+                            "id": 16000023,
+                            "name": "LEON",
+                            "power": 9,
+                            "trophies": 842
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#99GVCJQL",
+                        "name": "\ud83d\udda4vSxolarFan\u2766",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 10,
+                            "trophies": 849
+                        }
+                    },
+                    {
+                        "tag": "#8QYPGCGC",
+                        "name": "\u5927 | Soki\u2764\ufe0f",
+                        "brawler": {
+                            "id": 16000049,
+                            "name": "BUZZ",
+                            "power": 10,
+                            "trophies": 874
+                        }
+                    },
+                    {
+                        "tag": "#GUV8UUUG",
+                        "name": "Itss\u53cb",
+                        "brawler": {
+                            "id": 16000037,
+                            "name": "SPROUT",
+                            "power": 9,
+                            "trophies": 837
+                        }
+                    }
+                ]
+            ]
+        }
+    }
+]

@@ -1,0 +1,276 @@
+[
+{
+    "battleTime": "20211120T015937.000Z",
+    "event": {
+        "id": 15000112,
+        "mode": "gemGrab",
+        "map": "Four Squared"
+    },
+    "battle": {
+        "mode": "gemGrab",
+        "type": "ranked",
+        "result": "defeat",
+        "duration": 104,
+        "trophyChange": -11,
+        "starPlayer": {
+            "tag": "#2L9JPPVGP",
+            "name": "N.M.|Alonso\ud83d\udc22",
+            "brawler": {
+                "id": 16000011,
+                "name": "MORTIS",
+                "power": 9,
+                "trophies": 972
+            }
+        },
+        "teams": [
+            [
+                {
+                    "tag": "#90QYYVJC8",
+                    "name": "\u2665\ufe0fECF|\u2661MISSuS\u2667\u2663",
+                    "brawler": {
+                        "id": 16000017,
+                        "name": "TARA",
+                        "power": 9,
+                        "trophies": 988
+                    }
+                },
+                {
+                    "tag": "#2L9JPPVGP",
+                    "name": "N.M.|Alonso\ud83d\udc22",
+                    "brawler": {
+                        "id": 16000011,
+                        "name": "MORTIS",
+                        "power": 9,
+                        "trophies": 972
+                    }
+                },
+                {
+                    "tag": "#U9YCY0C9",
+                    "name": "CMk| Paul",
+                    "brawler": {
+                        "id": 16000046,
+                        "name": "SPIKE",
+                        "power": 9,
+                        "trophies": 929
+                    }
+                }
+            ],
+            [
+                {
+                    "tag": "#80QUGYC",
+                    "name": "CryingMan|\uc6b8\ubcf4",
+                    "brawler": {
+                        "id": 16000046,
+                        "name": "LEON",
+                        "power": 10,
+                        "trophies": 1019
+                    }
+                },
+                {
+                    "tag": "#CYQQLU9J",
+                    "name": "\u2661\u0187\u0196\u03b1\u03c5\u0257\u03b9\u03b1",
+                    "brawler": {
+                        "id": 16000031,
+                        "name": "MR. P",
+                        "power": 9,
+                        "trophies": 841
+                    }
+                },
+                {
+                    "tag": "#2PJPPUV99",
+                    "name": "PotatoApproved",
+                    "brawler": {
+                        "id": 16000015,
+                        "name": "PIPER",
+                        "power": 9,
+                        "trophies": 778
+                    }
+                }
+            ]
+        ]
+    }
+},
+{
+    "battleTime": "20211120T015937.000Z",
+    "event": {
+        "id": 15000112,
+        "mode": "gemGrab",
+        "map": "Four Squared"
+    },
+    "battle": {
+        "mode": "gemGrab",
+        "type": "ranked",
+        "result": "defeat",
+        "duration": 104,
+        "trophyChange": -11,
+        "starPlayer": {
+            "tag": "#2L9JPPVGP",
+            "name": "N.M.|Alonso\ud83d\udc22",
+            "brawler": {
+                "id": 16000011,
+                "name": "MORTIS",
+                "power": 9,
+                "trophies": 972
+            }
+        },
+        "teams": [
+            [
+                {
+                    "tag": "#90QYYVJC8",
+                    "name": "\u2665\ufe0fECF|\u2661MISSuS\u2667\u2663",
+                    "brawler": {
+                        "id": 16000017,
+                        "name": "TARA",
+                        "power": 9,
+                        "trophies": 988
+                    }
+                },
+                {
+                    "tag": "#2L9JPPVGP",
+                    "name": "N.M.|Alonso\ud83d\udc22",
+                    "brawler": {
+                        "id": 16000011,
+                        "name": "MORTIS",
+                        "power": 9,
+                        "trophies": 972
+                    }
+                },
+                {
+                    "tag": "#U9YCY0C9",
+                    "name": "CMk| Paul",
+                    "brawler": {
+                        "id": 16000046,
+                        "name": "TARA",
+                        "power": 9,
+                        "trophies": 929
+                    }
+                }
+            ],
+            [
+                {
+                    "tag": "#80QUGYC",
+                    "name": "CryingMan|\uc6b8\ubcf4",
+                    "brawler": {
+                        "id": 16000046,
+                        "name": "WAFFLE",
+                        "power": 10,
+                        "trophies": 1019
+                    }
+                },
+                {
+                    "tag": "#CYQQLU9J",
+                    "name": "\u2661\u0187\u0196\u03b1\u03c5\u0257\u03b9\u03b1",
+                    "brawler": {
+                        "id": 16000031,
+                        "name": "MR. P",
+                        "power": 9,
+                        "trophies": 841
+                    }
+                },
+                {
+                    "tag": "#2PJPPUV99",
+                    "name": "PotatoApproved",
+                    "brawler": {
+                        "id": 16000015,
+                        "name": "PIPER",
+                        "power": 9,
+                        "trophies": 778
+                    }
+                }
+            ]
+        ]
+    }
+},
+
+{
+    "battleTime": "20211120T015937.000Z",
+    "event": {
+        "id": 15000112,
+        "mode": "gemGrab",
+        "map": "Four Squared"
+    },
+    "battle": {
+        "mode": "gemGrab",
+        "type": "ranked",
+        "result": "defeat",
+        "duration": 104,
+        "trophyChange": -11,
+        "starPlayer": {
+            "tag": "#2L9JPPVGP",
+            "name": "N.M.|Alonso\ud83d\udc22",
+            "brawler": {
+                "id": 16000011,
+                "name": "MORTIS",
+                "power": 9,
+                "trophies": 972
+            }
+        },
+        "teams": [
+            [
+                {
+                    "tag": "#90QYYVJC8",
+                    "name": "\u2665\ufe0fECF|\u2661MISSuS\u2667\u2663",
+                    "brawler": {
+                        "id": 16000017,
+                        "name": "TARA",
+                        "power": 9,
+                        "trophies": 988
+                    }
+                },
+                {
+                    "tag": "#2L9JPPVGP",
+                    "name": "N.M.|Alonso\ud83d\udc22",
+                    "brawler": {
+                        "id": 16000011,
+                        "name": "MORTIS",
+                        "power": 9,
+                        "trophies": 972
+                    }
+                },
+                {
+                    "tag": "#U9YCY0C9",
+                    "name": "CMk| Paul",
+                    "brawler": {
+                        "id": 16000046,
+                        "name": "BELLE",
+                        "power": 9,
+                        "trophies": 929
+                    }
+                }
+            ],
+            [
+                {
+                    "tag": "#80QUGYC",
+                    "name": "CryingMan|\uc6b8\ubcf4",
+                    "brawler": {
+                        "id": 16000046,
+                        "name": "BELLE",
+                        "power": 10,
+                        "trophies": 1019
+                    }
+                },
+                {
+                    "tag": "#CYQQLU9J",
+                    "name": "\u2661\u0187\u0196\u03b1\u03c5\u0257\u03b9\u03b1",
+                    "brawler": {
+                        "id": 16000031,
+                        "name": "MR. P",
+                        "power": 9,
+                        "trophies": 841
+                    }
+                },
+                {
+                    "tag": "#2PJPPUV99",
+                    "name": "PotatoApproved",
+                    "brawler": {
+                        "id": 16000015,
+                        "name": "PIPER",
+                        "power": 9,
+                        "trophies": 778
+                    }
+                }
+            ]
+        ]
+    }
+}
+]

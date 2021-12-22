@@ -1,0 +1,28 @@
+{% extends 'base.html'%}
+
+{% block tag_search %}
+<div class="card text-center" style="background:#12232E; color:white">
+    <div class="card-header">
+      <h1 class="h1">Hello Brawler!</h1>
+    </div>
+    <div class="card-body">
+      <h5 class="card-title">Enter your tag below to get your statistics:</h5>
+      <p class="card-text"></p>
+      <form method="POST">
+        <div class="form-group">
+            <div class="input-group mb-3">
+                <div class="input-group-prepend" >
+                    <span class="input-group-text" id="basic-addon1" style="background:#0074D9; color:white"><b>#</b></span>
+                </div>
+                <input type="tag" name="tag" class="form-control" id="tag" aria-describedby="tag" placeholder="For example: 2VQ82YGY">
+            </div>
+        </div>
+        <button type="Get stats" class="btn btn-primary">Get stats</button>
+    </form>
+    </div>
+    <div class="card-footer text-muted">
+        <a href="/tag/howto">If you don't know where to find your tag, click here!</a>
+    </div>
+  </div>
+
+  {% endblock tag_search %}

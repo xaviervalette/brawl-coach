@@ -1,0 +1,77 @@
+{% extends 'base.html'%}
+
+{% block home %}
+
+{% block modal_tag %}
+{% endblock modal_tag %}
+
+<main>  
+    <div class="bg-dark text-secondary px-4 mt-5 pt-5 text-center border-bottom">
+        <h1 class="display-4 fw-bold text-white">Welcome to Brawl Tiers</h1>
+        <div class="col-lg-6 mx-auto">
+          <p class="lead">Get insights on the Brawl Stars META to improve your ranking!</p>
+          <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
+          </div>
+        </div>
+      </div>
+
+    <div class="container col-xxl-8 px-4 py-5" id="team_picker">
+      <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+        <div class=" col-sm-8 col-lg-6">
+            <img src="/static/img/process_flow.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
+          </div>
+        <div class="col-lg-6">
+          <h1 class="display-5 fw-bold lh-1 mb-3">Team picker tool</h1>
+          <p class="lead mb-4">Given a MODE and a MAP, the Best team picker tool will give you a single-pane-of-glass dashboard with the best brawlers associations and their statistics.</p>
+          <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+            <button type="button" class="btn btn-primary btn-lg px-4 me-md-2" onclick='location.href="/team_picker"'>Try the tool now!</button>
+            <button type="button" class="btn btn-outline-secondary btn-lg px-4">How it works?</button>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="b-example-divider"></div>
+
+    <div class="container col-xl-10 col-xxl-8 px-4 py-5" id="tag_reader">
+        <div class="row align-items-center g-lg-5 py-5">
+          <div class="col-lg-7 text-center text-lg-start">
+            <h1 class="display-4 fw-bold lh-1 mb-3">🔍 TAG reader tool</h1>
+            <p class="col-lg-10 fs-4">This tool will give you insights on the player based on his/her battlelogs (past 25 battles), his/her number of brawlers, his/her total number of battles played, his/her club and so on!</p>
+          </div>
+          <div class="col-md-10 mx-auto col-lg-5">
+            <form class="p-4 p-md-5 border rounded-3 bg-light" method="POST">
+              <div class="form-floating mb-3">
+                <input type="tag" name="tag" class="form-control" id="tag" placeholder="TAG">
+                <label for="floatingInput">Enter the player's TAG</label>
+              </div>
+              <button class="w-100 btn btn-lg btn-primary" type="submit">Get stats!</button>
+              <hr class="my-4">
+              <small class="text-muted"><a href="hello">If you don't know where to find your TAG, click here</a></small>
+            </form>
+          </div>
+        </div>
+      </div>
+
+    <div class="b-example-divider"></div>
+
+    <div class="container col-xxl-8 px-4 py-5">
+      <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+        <div class="col-lg-6">
+          <h1 class="display-5 fw-bold lh-1 mb-3">Explore Brawl Stars brawlers, modes and maps</h1>
+          <p class="lead mb-4">Given a MODE and a MAP, the Best team picker tool will give you a single-pane-of-glass dashboard with the best brawlers associations and their statistics.</p>
+          <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+            <button type="button" class="btn btn-primary btn-lg px-4 me-md-2">Explore now!</button>
+            <button type="button" class="btn btn-outline-secondary btn-lg px-4">How it works?</button>
+          </div>
+        </div>
+        <div class=" col-sm-8 col-lg-6">
+            <img src="/static/img/explore.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
+          </div>
+      </div>
+    </div>
+
+  </main>
+
+  {% endblock home %}
