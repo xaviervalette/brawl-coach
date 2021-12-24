@@ -29,17 +29,25 @@ def tag_results(tag):
 			return redirect(url_for('tag_not_found'))
 	except:
 		#return battlelogs
+		looseNumber=0
+		winNumber=0
+		starNumber=0
 		for battle in battlelogs['items']:
 			print(battle)
 			try:
 				if battle["battle"]["starPlayer"]["tag"]==tag:
 					battle.update({"isStarPlayer":"yes"})
+					starNumber=starNumber+1
 				else:
 					battle.update({"isStarPlayer":"no"})
 			except:
 				battle.update({"isStarPlayer":"N/A"})
+			if battle["battle"]["result"]=="victory":
+				winNumber=winNumber+1
+			else:
+				looseNumber=looseNumber+1
 
-		return render_template('tag_results.html', battlelogs=battlelogs, len=len(battlelogs["items"]), tag=tag)
+		return render_template('tag_results.html', battlelogs=battlelogs, len=len(battlelogs["items"]), tag=tag, starNumber=starNumber, winNumber=winNumber, looseNumber=looseNumber)
 
 @app.route("/tag_reader/tag_not_found")
 def tag_not_found():

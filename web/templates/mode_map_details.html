@@ -3,45 +3,71 @@
 {% block mode_map_details %}
 
 <div class="px-4 pt-5 my-5 text-center border-bottom">
-    <h1 class="display-5 fw-bold">{{map}}</h1>
+    <h1 class="display-5 fw-bold">{{map|upper}}</h1>
     <div class="col-lg-6 mx-auto">
-      <p class="fs-5 mb-4">{{mode}}
+      <p class="fs-5 mb-4">{{mode|upper}}
       </p>
   </div>
   <div class="col-lg-6 mx-auto">
-    <table class="table">
+    <table class="table table-sortable" id="table_id">
       <thead class="table-dark">
-        <tr>
-          <th scope="col">Brawlers</th>
-          <th scope="col">Win Rate</th>
-          <th scope="col">Pick Rate</th>
+        <tr class="item">
+          <th scope="col" class="align-middle" onclick="sortTable('supTable', 0)">Brawlers</th>
+          <th scope="col" class="align-middle" onclick="sortTable('supTable', 1)">Win Rate</th>
+          <th scope="col" class="align-middle" onclick="sortTable('supTable', 2)">Pick Rate</th>
+          <th scope="col" class="align-middle" onclick="sortTable('supTable', 3)">Win Number</th>
+          <th scope="col" class="align-middle" onclick="sortTable('supTable', 4)"">Pick Number</th>
+
+
         </tr>
       </thead>
       <tbody>
           {% for i in range(0, len) %}
-              <tr>
+              <tr class="item">
                   <td>
                     <div class="container">
                         <div class="row">
-                          <div class="col-sm">
-                            {{mode_map_details[i]["teamStats"]["brawlers"][0]}}
-                        </div>
-                          <div class="col-sm">
-                            {{mode_map_details[i]["teamStats"]["brawlers"][1]}}
-                        </div>
-                          <div class="col-sm">
-                            {{mode_map_details[i]["teamStats"]["brawlers"][2]}}
-                        </div>
+                            <div><span class="badge bg-light text-dark">{{mode_map_details[i]["teamStats"]["brawlers"][0]|upper}}</span></div>
+                            <div class="w-100"></div>
+                            <div><span class="badge bg-light text-dark">{{mode_map_details[i]["teamStats"]["brawlers"][1]|upper}}</span></div>
+                            <div class="w-100"></div>
+                            <div><span class="badge bg-light text-dark">{{mode_map_details[i]["teamStats"]["brawlers"][2]|upper}}</span></div>
+                          </div>
                         </div>
                       </div>
                       </td>
 
-                  <td>{{"%.1f"|format(100*mode_map_details[i]["teamStats"]["winRate"])}}%</td>
-                  <td>{{"%.1f"|format(100*mode_map_details[i]["teamStats"]["pickRate"])}}%</td>
+                  <td class="align-middle">{{"%.1f"|format(100*mode_map_details[i]["teamStats"]["winRate"])}}%</td>
+                  <td class="align-middle">{{"%.1f"|format(100*mode_map_details[i]["teamStats"]["pickRate"])}}%</td>
+                  <td class="align-middle">{{mode_map_details[i]["teamStats"]["winNumber"]}}</td>
+                  <td class="align-middle">{{mode_map_details[i]["teamStats"]["pickNumber"]}}</td>
+
               </tr>
           {% endfor %}
       </tbody>
     </table>
   </div>
   </div>
+  <script>
+$(document).ready(function () {
+$('#dtBasicExample').DataTable({
+"ordering": true // false to disable sorting (or any other option)
+});
+$('.dataTables_length').addClass('bs-select');
+});
+
+$(document).ready( function () {
+    //$('#table_id').DataTable();
+    $('#table_id').dataTable( {
+    "order": [[ 3, 'desc' ]],
+    buttons: {
+        buttons: [
+            { extend: 'paging', className: 'btn btn-outline-info btn-lg px-4 me-sm-3 fw-bold' },
+            { extend: 'excel', className: 'btn btn-outline-info btn-lg px-4 me-sm-3 fw-bold' }
+        ]
+    }
+} );
+} );
+
+</script>
   {% endblock mode_map_details %}

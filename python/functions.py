@@ -90,7 +90,7 @@ def EXTRACT_TEAM_RESULT(battle):
     winTeamIndex=1
     loseTeamIndex=0
     for game_player in battle["battle"]["teams"][0]:
-        if (str(battle["battle"]["starPlayer"]) == game_player["tag"]):
+        if (str(battle["battle"]["starPlayer"]["tag"]) == str(game_player["tag"])):
             winTeamIndex=0
             loseTeamIndex=1
 
@@ -155,10 +155,11 @@ def STORE_BEST_TEAM(mode,map, startTime):
     winTable=[]
 
     for team in winTeamsUnique:
+        pickNumber=winTeams.count(team)+loseTeams.count(team)
         if(loseTeamsUnique.count(team)==0):
             winRate=1
         else:
-            winRate=winTeams.count(team)/loseTeamsUnique.count(team)
+            winRate=winTeams.count(team)/pickNumber
         win_dict = {
             "mode": mode,
             "map": map,
@@ -167,7 +168,7 @@ def STORE_BEST_TEAM(mode,map, startTime):
                 "winNumber": winTeams.count(team),
                 "winRate":winRate,
                 "pickRate": (winTeams.count(team)+loseTeams.count(team))/(len(battles_mode_map)),
-                "pickNumber":winTeams.count(team)+loseTeams.count(team),
+                "pickNumber":pickNumber,
                 "brawlers": team
                 }
         }
