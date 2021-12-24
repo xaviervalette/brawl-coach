@@ -46,6 +46,9 @@
     </div>
     <div class="b-example-divider"></div>
   </section>
+  
+  {% block tag_reader %}
+
   <section class="scrollspy" id="tagreader">
     <div class="container col-xl-10 col-xxl-8 px-4 py-5" id="tag_reader">
         <div class="row align-items-center g-lg-5 py-5">
@@ -65,7 +68,7 @@
                 <input type="tag" name="tag" class="form-control" id="tag" placeholder="TAG">
                 <label for="floatingInput">Enter the player's TAG</label>
               </div>
-              <button class="w-100 btn btn-lg btn-dark" type="submit">Get stats!</button>
+              <button class="w-100 btn btn-lg btn-dark" type="submit"  onClick="return empty()">Get stats!</button>
               <hr class="my-4">
               <small class="text-muted"><a href="" data-bs-toggle="modal" data-bs-target="#exampleModal">If you don't know where to find your TAG, click here</a></small>
             </form>
@@ -96,6 +99,19 @@
     </div>
   </div>
 </div>
+
+<script>
+  function empty() {
+    var x;
+    x = document.getElementById("tag").value;
+    if (x == "") {
+        alert("Enter a TAG");
+        return false;
+    };
+}
+</script>
+{% endblock tag_reader %}
+
 
     <div class="b-example-divider"></div>
 

@@ -12,19 +12,28 @@
     <div class="col-lg-6 mx-auto">
       <table class="table">
         <thead class="table-dark">
-          <tr>
-            <th scope="col">Win - Loose</th>
+          <tr class="align-middle">
+            <th scope="col"><span class="badge bg-success">Win</span>
+              <div class="w-100"></div>
+              <span class="badge bg-warning text-dark">Draw</span>
+              <div class="w-100"></div>
+              <span class="badge bg-danger">Loose</span></th>
+
             <th scope="col">Star Player</th>
             <th scope="col">Win Rate</th>
             <th scope="col">Star Player Rate</th>
           </tr>
         </thead>
         <tbody>
-          <tr>
-                <th scope="row"><span class="badge bg-success">{{winNumber}}</span> - <span class="badge bg-danger">{{looseNumber}}</span></th>
+          <tr class="align-middle">
+                <th scope="row"><span class="badge bg-success">{{winNumber}}</span>
+                  <div class="w-100"></div>
+                  <span class="badge bg-warning text-dark">{{drawNumber}}</span>
+                  <div class="w-100"></div>
+                  <span class="badge bg-danger">{{looseNumber}}</span></th>
                 <th scope="row">{{starNumber}}</th>
                 <th scope="row">{{"%.0f"|format(100*winNumber/(winNumber+looseNumber))}}%</th>
-                <th scope="row">{{"%.0f"|format(100*starNumber/(winNumber))}}%</th>
+                <th scope="row">{{"%.0f"|format(100*starNumber/(winNumber+drawNumber))}}%</th>
             </tr>
         </tbody>
       </table>
@@ -47,10 +56,14 @@
             {% for i in range(0, len) %}
             <!--<li>{{battlelogs['items'][i]}}</li>-->
                 <tr>
-                {% if battlelogs['items'][i]["battle"]["result"] == "victory" %}
-                    <th scope="row"><span class="badge bg-success">VICTORY</span></th>
+                {% if result[i] == "victory" %}
+                <th scope="row"><span class="badge bg-success">VICTORY</span></th>
+                {% elif result[i] == "defeat" %}
+                <th scope="row"><span class="badge bg-danger">DEFEAT</span></th>
+                {% elif result[i] == "draw" %}
+                <th scope="row"><span class="badge bg-warning text-dark">DRAW</span></th>
                 {% else %}
-                    <th scope="row"><span class="badge bg-danger">DEFEAT</span></th>
+                <th scope="row">N/A</th>
                 {% endif %}
                     <td>{{battlelogs['items'][i]["battle"]["mode"]|upper}}</td>
                     <td>{{battlelogs['items'][i]["event"]["map"]|upper}}</td>
