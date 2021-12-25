@@ -2,51 +2,55 @@
 
 {% block table_tag_brawler %}
 
-<div class="bg-dark text-secondary px-4 mt-5 pt-5 text-center border-bottom">
+<div class="bg-dark text-secondary px-4 mt-5 text-center border-bottom">
   <h1 class="display-4 fw-bold text-white">{{tag}}</h1>
   </div>
 </div>
 
-<div class="px-4 pt-5 my-5 text-center border-bottom">
-    <h1 class="display-4 fw-bold">Overall stats</h1>
-    <div class="col-lg-6 mx-auto">
-      <table class="table">
-        <thead class="table-dark">
-          <tr class="align-middle">
-            <th scope="col"><span class="badge bg-success">Win</span>
-              <div class="w-100"></div>
-              <span class="badge bg-warning text-dark">Draw</span>
-              <div class="w-100"></div>
-              <span class="badge bg-danger">Loose</span></th>
-
-            <th scope="col">Star Player</th>
-            <th scope="col">Win Rate</th>
-            <th scope="col">Star Player Rate</th>
+<div class="px-4 my-5 text-center">
+  <h1 class="display-4 fw-bold">Battlelog stats</h1>
+  <div class="col-lg-6 mx-auto">
+    <table class="table">
+      <thead class="table-dark">
+        <tr class="align-middle">
+          <th scope="col" colspan="2">Results</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="align-middle table-success">
+              <th scope="row">Win</th>
+              <th scope="row">{{winNumber}}</th>
           </tr>
-        </thead>
-        <tbody>
-          <tr class="align-middle">
-                <th scope="row"><span class="badge bg-success">{{winNumber}}</span>
-                  <div class="w-100"></div>
-                  <span class="badge bg-warning text-dark">{{drawNumber}}</span>
-                  <div class="w-100"></div>
-                  <span class="badge bg-danger">{{looseNumber}}</span></th>
-                <th scope="row">{{starNumber}}</th>
-                <th scope="row">{{"%.0f"|format(100*winNumber/(winNumber+looseNumber))}}%</th>
-                <th scope="row">{{"%.0f"|format(100*starNumber/(winNumber+drawNumber))}}%</th>
-            </tr>
-        </tbody>
-      </table>
-    </div>
+          <tr class="align-middle table-warning">
+            <th scope="row">Draw</th>
+            <th scope="row">{{drawNumber}}</th>
+        </tr>
+        <tr class="align-middle table-danger">
+          <th scope="row">Loose</th>
+          <th scope="row">{{looseNumber}}</th>
+      </tr>
+      <tr class="align-middle table-dark">
+        <th scope="col" colspan="2">Ratios</th>
+      </tr>
+      <tr class="align-middle">
+        <th scope="row">Win Rate</th>
+        <th scope="row">{{"%.0f"|format(100*winNumber/(winNumber+looseNumber))}}%</th>
+    </tr>
+    <tr class="align-middle">
+      <th scope="row">Star Rate</th>
+      <th scope="row">{{"%.0f"|format(100*starNumber/(winNumber+drawNumber))}}%</th>
+  </tr>
+      </tbody>
+    </table>
   </div>
+</div>
 
   <div class="px-4 my-5 text-center border-bottom">
     <h1 class="display-4 fw-bold">Battlelogs</h1>
     <div class="col-lg-6 mx-auto">
-      <table class="table">
+      <table id="table_id" class="table">
         <thead class="table-dark">
           <tr>
-            <th scope="col">Result</th>
             <th scope="col">Mode</th>
             <th scope="col">Map</th>
             <th scope="col">Star Player</th>
@@ -55,15 +59,12 @@
         <tbody>
             {% for i in range(0, len) %}
             <!--<li>{{battlelogs['items'][i]}}</li>-->
-                <tr>
                 {% if result[i] == "victory" %}
-                <th scope="row"><span class="badge bg-success">VICTORY</span></th>
+                <tr class="align-middle table-success">
                 {% elif result[i] == "defeat" %}
-                <th scope="row"><span class="badge bg-danger">DEFEAT</span></th>
+                <tr class="align-middle table-danger">
                 {% elif result[i] == "draw" %}
-                <th scope="row"><span class="badge bg-warning text-dark">DRAW</span></th>
-                {% else %}
-                <th scope="row">N/A</th>
+                <tr class="align-middle table-warning">
                 {% endif %}
                     <td>{{battlelogs['items'][i]["battle"]["mode"]|upper}}</td>
                     <td>{{battlelogs['items'][i]["event"]["map"]|upper}}</td>
@@ -82,10 +83,24 @@
       </table>
     </div>
     </div>
+
+    <script>
+      $(document).ready(function () {
+      $('#dtBasicExample').DataTable({
+      "ordering": true // false to disable sorting (or any other option)
+      });
+      $('.dataTables_length').addClass('bs-select');
+      });
+      
+      $(document).ready( function () {
+          //$('#table_id').DataTable();
+          $('#table_id').dataTable()
+      } );
+      
+      </script>
   {% endblock table_tag_brawler %}
 
 <!-- For loop logic of jinja template -->
 {% for i in range(0, len) %}
-  
 <li>{{battlelogs['items'][i]}}</li>
 {% endfor %}
