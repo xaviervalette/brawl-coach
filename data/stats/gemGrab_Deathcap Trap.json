@@ -4,14 +4,14 @@
         "map": "Four Squared",
         "startTime": "20211222T080000",
         "teamStats": {
-            "winNumber": 1,
+            "winNumber": 10,
             "winRate": 1,
-            "pickRate": 0.3333333333333333,
-            "pickNumber": 1,
+            "pickRate": 0.4,
+            "pickNumber": 10,
             "brawlers": [
-                "LEON",
-                "MR. P",
-                "PIPER"
+                "BIBOUNE",
+                "TARA",
+                "XAVIER"
             ]
         }
     },
@@ -22,12 +22,12 @@
         "teamStats": {
             "winNumber": 1,
             "winRate": 1,
-            "pickRate": 0.3333333333333333,
+            "pickRate": 0.04,
             "pickNumber": 1,
             "brawlers": [
-                "MR. P",
-                "PIPER",
-                "WAFFLE"
+                "BIBOUNE",
+                "TARA",
+                "XAVxIER"
             ]
         }
     },
@@ -38,12 +38,156 @@
         "teamStats": {
             "winNumber": 1,
             "winRate": 1,
-            "pickRate": 0.3333333333333333,
+            "pickRate": 0.04,
             "pickNumber": 1,
             "brawlers": [
-                "BELLE",
-                "MR. P",
-                "PIPER"
+                "BIBOUNE",
+                "TAxcRA",
+                "XAVIER"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Four Squared",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.04,
+            "pickNumber": 1,
+            "brawlers": [
+                "BIBOUNE",
+                "TAaRA",
+                "XAVIER"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Four Squared",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.04,
+            "pickNumber": 1,
+            "brawlers": [
+                "BIhBOUNE",
+                "TARA",
+                "XAVIER"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Four Squared",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.04,
+            "pickNumber": 1,
+            "brawlers": [
+                "BIBOUNE",
+                "TARAju",
+                "XAVIER"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Four Squared",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.04,
+            "pickNumber": 1,
+            "brawlers": [
+                "BIBOUNE",
+                "TARAn",
+                "XAVIER"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Four Squared",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.04,
+            "pickNumber": 1,
+            "brawlers": [
+                "BIBhOUNE",
+                "TARA",
+                "XAVIER"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Four Squared",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 4,
+            "winRate": 1,
+            "pickRate": 0.16,
+            "pickNumber": 4,
+            "brawlers": [
+                "BIBOUNE",
+                "T\u00c3\u00a9ARA",
+                "XAVIER"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Four Squared",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.04,
+            "pickNumber": 1,
+            "brawlers": [
+                "BIBOUeNE",
+                "TARA",
+                "XAVIER"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Four Squared",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.04,
+            "pickNumber": 1,
+            "brawlers": [
+                "BIBOUNE",
+                "TARA",
+                "XAeVIER"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Four Squared",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 2,
+            "winRate": 1,
+            "pickRate": 0.08,
+            "pickNumber": 2,
+            "brawlers": [
+                "BIBeOUNE",
+                "TARA",
+                "XAVIER"
             ]
         }
     }

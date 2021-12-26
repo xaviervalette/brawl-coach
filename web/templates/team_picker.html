@@ -1,8 +1,19 @@
+<section class="scrollspy" id="teampicker">
+
 {% extends 'base.html'%}
 
 {% block team_picker %}
 
-<div class="px-4 pt-5 my-5 text-center border-bottom">
+<div class="bg-dark text-secondary px-4 mt-5 pt-5 text-center border-bottom">
+  <h1 class="display-4 fw-bold text-white">Team Picker Tool</h1>
+  <div class="col-lg-6 mx-auto">
+    <p class="lead">Check which team is the best on a given map!</p>
+    <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
+    </div>
+  </div>
+</div>
+
+<div class="px-4 my-5 text-center border-bottom">
     <h1 class="display-4 fw-bold">Current events</h1>
     <div class="col-lg-6 mx-auto">
       <table class="table">
@@ -16,9 +27,11 @@
         <tbody>
             {% for i in range(0, len) %}
                 <tr>
-                    <td>{{current_events[i]["event"]["mode"]}}</td>
-                    <td>{{current_events[i]["event"]["map"]}}</td>
-                    <td><a href='/teampicker/{{current_events[i]["event"]["mode"]}}/{{current_events[i]["event"]["map"]}}'>Details</a></td>
+                    <td>{{current_events[i]["event"]["mode"]|upper}}</td>
+                    <td>{{current_events[i]["event"]["map"]|upper}}</td>
+                    <td>
+                      <a href='/teampicker/{{current_events[i]["event"]["mode"]}}/{{current_events[i]["event"]["map"]}}'>Details</a>
+                  </td>
                 </tr>
             {% endfor %}
         </tbody>
@@ -27,3 +40,4 @@
     
   </div>
   {% endblock team_picker %}
+</section>

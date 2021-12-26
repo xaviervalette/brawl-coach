@@ -23,27 +23,67 @@ def modes():
 
 @app.route("/tag_reader/<string:tag>")
 def tag_results(tag):
+	if(tag==""):
+		return redirect(url_for('tag_not_found'))
+
 	battlelogs = GET_PLAYER_STATS(token, tag)
 	try:
 		if battlelogs["reason"]=="notFound":
 			return redirect(url_for('tag_not_found'))
 	except:
 		#return battlelogs
+		looseNumber=0
+		winNumber=0
+		drawNumber=0
+		starNumber=0
+		result=[]
 		for battle in battlelogs['items']:
 			print(battle)
 			try:
 				if battle["battle"]["starPlayer"]["tag"]==tag:
 					battle.update({"isStarPlayer":"yes"})
+					starNumber=starNumber+1
 				else:
 					battle.update({"isStarPlayer":"no"})
 			except:
-				battle.update({"isStarPlayer":"N/A"})
+					battle.update({"isStarPlayer":"N/A"})
+			
+			try:
+				if battle["battle"]["result"]=="victory":
+					winNumber=winNumber+1
+					result.append("victory")
+				elif battle["battle"]["result"]=="defeat":
+					looseNumber=looseNumber+1
+					result.append("defeat")
+				else:
+					drawNumber=drawNumber+1
+					result.append("draw")
 
-		return render_template('tag_results.html', battlelogs=battlelogs, len=len(battlelogs["items"]), tag=tag)
+			except:
+				try:
+					if battle["battle"]["rank"]<5:
+						winNumber=winNumber+1
+						result.append("victory")
+					elif battle["battle"]["rank"]>5:
+						looseNumber=looseNumber+1
+						result.append("defeat")
+					else:
+						drawNumber=drawNumber+1
+						result.append("draw")
+				except:
+					result.append("N/A")
+
+
+		return render_template('tag_results.html', battlelogs=battlelogs, len=len(battlelogs["items"]), tag=tag, starNumber=starNumber, winNumber=winNumber, looseNumber=looseNumber, drawNumber=drawNumber, result=result)
 
 @app.route("/tag_reader/tag_not_found")
 def tag_not_found():
 	return "TO DO - NOT FOUND"
+
+@app.route("/tag_reader/")
+def tag_reader():
+	return render_template('tag_reader.html')
+
 
 @app.route("/modes/<string:mode>/maps")
 def modes_maps(mode):
