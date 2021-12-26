@@ -179,38 +179,67 @@ def STORE_BEST_TEAM(mode,map, startTime):
     
 
 def STORE_BATTLES(battlelogsList):
-    now = datetime.now()
-    dtString = now.strftime("%d_%m_%Y__%H_%M_%S")
-    dataFolder = Path("Database")
+    newBattle=0
+    alreadyStoredBattle=0
+    notInterestingBattle=0
+    curentEvent=READ_CURRENT_EVENTS("TODO")
+    dataFolder = Path("../data/battles")
     dataFolder.mkdir(parents=True, exist_ok=True)
     for pays in battlelogsList:
         for players in battlelogsList[pays]:
             for battles in battlelogsList[pays][players]["items"]:
                 print(battles)
                 b = Battle(battles)
-                if not b.noDuration and not b.noResult and not b.noStarPlayer:
-                    modeFolder= dataFolder/b.mode
-                    modeFolder.mkdir(parents=True, exist_ok=True)
-                    fileName=b.mapEvent+"_"+dtString+".json"
-                    mapFile=modeFolder/fileName
-                    if mapFile.is_file():
-                        data = json.load(open(mapFile))
-                        # convert data to list if not
-                        if type(data) is dict:
-                            data = [data]
-                        alreadyExist=False
-                        for batailles in data:
-                            savedB=Battle(batailles)
-                            if savedB.is_equal(b):
-                                alreadyExist=True
+                if not b.noDuration and not b.noResult and not b.noStarPlayer and not b.noType and not b.noTeams and b.typee!= "friendly":
+                    startTime=None
+                    mode=b.mode
+                    mapEvent=b.mapEvent
+                    for event in curentEvent:
+                        battleMap=event["event"]["map"]
+                        battleMode=event["event"]["mode"]
+                        if battleMap== mapEvent and battleMode== mode:
+                            startTime=event["startTime"]
+                            break
+                    if startTime is not None:
+                        modeFolder= dataFolder/mode
+                        modeFolder.mkdir(parents=True, exist_ok=True)
+                        mapFolder=modeFolder/mapEvent
+                        mapFolder.mkdir(parents=True, exist_ok=True)
+                        startTime=startTime.split(".")[0]
 
-                        if not alreadyExist:
-                            # append new item to data lit
-                            data.append(battles)
+                        fileName=startTime+"_"+mode+"_"+mapEvent+".json"
+                        mapFile=mapFolder/fileName
+                        if mapFile.is_file():
+                            data = json.load(open(mapFile))
+                            # convert data to list if not
+                            if type(data) is dict:
+                                data = [data]
+                            alreadyExist=False
+                            for batailles in data:
+                                savedB=Battle(batailles)
+                                if savedB.is_equal(b):
+                                    alreadyExist=True
 
-                            # write list to file
+                            if not alreadyExist:
+                                # append new item to data lit
+                                data.append(battles)
+
+                                # write list to file
+                                with open(mapFile, 'w') as outfile:
+                                    json.dump(data, outfile, indent=4)
+                                    newBattle=newBattle+1
+                            else:
+                                alreadyStoredBattle=alreadyStoredBattle+1
+                        else:
                             with open(mapFile, 'w') as outfile:
-                                json.dump(data, outfile, indent=4)
-                    else:
-                        with open(mapFile, 'w') as outfile:
-                            json.dump(battles, outfile, indent=4)
+                                json.dump(battles, outfile, indent=4)
+                                newBattle=newBattle+1
+                else:
+                    notInterestingBattle=notInterestingBattle+1
+
+                print("--------------------------------------------------------")
+                total= notInterestingBattle+alreadyStoredBattle+newBattle
+                print("New battles stored: "+ str(newBattle)+"/"+str(total))
+                print("Already stored battles: "+ str(alreadyStoredBattle)+"/"+str(total))
+                print("Not interesting battles: "+str(notInterestingBattle)+"/"+str(total))
+                print("--------------------------------------------------------")

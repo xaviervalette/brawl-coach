@@ -5,29 +5,61 @@ class Battle:
       self.noDuration=False
       self.noStarPlayer=False
       self.noResult=False
+      self.noType=False
+      self.noTeams=False
+      self.noPlayers=False
+      self.noStarBrawlerTrophies=False
+      self.noStarBrawlerPower=False
+
       self.mode = battle['battle']['mode']
       if 'duration' in battle['battle']:
          self.duration = battle['battle']['duration']
       else:
          self.noDuration=True
-      self.typee = battle['battle']['type']
+
+      if 'type' in battle['battle']:
+         self.typee = battle['battle']['type']
+      else:
+         self.noType=True
+      
       if 'result' in battle['battle']:
          self.result = battle['battle']['result']   
       else:
          self.noResult=True
+
+      if 'teams' in battle['battle']:
+         self.teams=battle['battle']['teams']
+      else:
+         self.noTeams=True
+      
+      if 'players' in battle['battle']:
+         self.players=battle['battle']['players']
+      else:
+         self.noPlayers=True
+
       self.battleTime=battle['battleTime']
       self.mapEvent=battle['event']['map']
       self.idEvent=battle['event']['id']
       self.modEvent=battle['event']['map']
-      self.teams=battle['battle']['teams']
+      
       
       if 'starPlayer' in battle['battle'] and battle['battle']['starPlayer'] is not None :
          self.starTag=battle['battle']['starPlayer']['tag']
          print("star tag: ", self.starTag)
          self.starName=battle['battle']['starPlayer']['name']
-         self.starBrawlerTrophies=battle['battle']['starPlayer']['brawler']["trophies"]
+         if 'trophies' in battle['battle']['starPlayer']['brawler']:
+            self.starBrawlerTrophies=battle['battle']['starPlayer']['brawler']["trophies"]
+         else:
+            self.noStarBrawlerTrophies=True
+         
          self.starBrawlerId=battle['battle']['starPlayer']['brawler']["id"]
-         self.starBrawlerPower=battle['battle']['starPlayer']['brawler']["power"]
+
+         if 'power' in battle['battle']['starPlayer']['brawler']:
+            self.starBrawlerPower=battle['battle']['starPlayer']['brawler']["power"]
+         else:
+            self.noStarBrawlerPower=True
+
+         
          self.starBrawlername=battle['battle']['starPlayer']['brawler']["name"]
          self.winTeam=self.get_team_of_star_player()
       else:
