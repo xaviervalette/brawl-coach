@@ -726,5 +726,460 @@
                 ]
             ]
         }
+    },
+    {
+        "battleTime": "20211223T220100.000Z",
+        "event": {
+            "id": 15000072,
+            "mode": "heist",
+            "map": "Bridge Too Far"
+        },
+        "battle": {
+            "mode": "heist",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 150,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#8PRRPUJQ0",
+                "name": "Graf\u2071\u02e2\u1d47\u1d43\u1d9c\u1d4f\ud83d\udc0a",
+                "brawler": {
+                    "id": 16000027,
+                    "name": "8-BIT",
+                    "power": 9,
+                    "trophies": 926
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#V992JJP2",
+                        "name": "NiCh",
+                        "brawler": {
+                            "id": 16000003,
+                            "name": "BROCK",
+                            "power": 9,
+                            "trophies": 774
+                        }
+                    },
+                    {
+                        "tag": "#URRQ00G0",
+                        "name": "$hirka",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 9,
+                            "trophies": 526
+                        }
+                    },
+                    {
+                        "tag": "#P0UPGRULG",
+                        "name": "King\ud83d\udc51",
+                        "brawler": {
+                            "id": 16000042,
+                            "name": "BYRON",
+                            "power": 9,
+                            "trophies": 769
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2LRUV0PQL",
+                        "name": "Emilio\u2764\ufe0fNeo\ud83d\udc15",
+                        "brawler": {
+                            "id": 16000042,
+                            "name": "BYRON",
+                            "power": 9,
+                            "trophies": 932
+                        }
+                    },
+                    {
+                        "tag": "#8UYQRLQQV",
+                        "name": "ITR|C-\u1d21\u1d0f\u1d21 \ud83c\udf85",
+                        "brawler": {
+                            "id": 16000053,
+                            "name": "LOLA",
+                            "power": 9,
+                            "trophies": 964
+                        }
+                    },
+                    {
+                        "tag": "#8PRRPUJQ0",
+                        "name": "Graf\u2071\u02e2\u1d47\u1d43\u1d9c\u1d4f\ud83d\udc0a",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 926
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211223T215655.000Z",
+        "event": {
+            "id": 15000072,
+            "mode": "heist",
+            "map": "Bridge Too Far"
+        },
+        "battle": {
+            "mode": "heist",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 77,
+            "trophyChange": -10,
+            "starPlayer": {
+                "tag": "#L20G289",
+                "name": "DaWler\u2763\ufe0fH.h",
+                "brawler": {
+                    "id": 16000007,
+                    "name": "JESSIE",
+                    "power": 9,
+                    "trophies": 849
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#L20G289",
+                        "name": "DaWler\u2763\ufe0fH.h",
+                        "brawler": {
+                            "id": 16000007,
+                            "name": "JESSIE",
+                            "power": 9,
+                            "trophies": 849
+                        }
+                    },
+                    {
+                        "tag": "#8J8UVV9J9",
+                        "name": "sam din mama",
+                        "brawler": {
+                            "id": 16000040,
+                            "name": "AMBER",
+                            "power": 9,
+                            "trophies": 744
+                        }
+                    },
+                    {
+                        "tag": "#90JPG9U92",
+                        "name": "\u300e\ud83e\udd40\u300fS\u034eIm\u0338o\u0366\u0325n\u0489\u2122",
+                        "brawler": {
+                            "id": 16000001,
+                            "name": "COLT",
+                            "power": 9,
+                            "trophies": 745
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#8UYQRLQQV",
+                        "name": "ITR|C-\u1d21\u1d0f\u1d21 \ud83c\udf85",
+                        "brawler": {
+                            "id": 16000053,
+                            "name": "LOLA",
+                            "power": 9,
+                            "trophies": 974
+                        }
+                    },
+                    {
+                        "tag": "#2LRUV0PQL",
+                        "name": "Emilio\u2764\ufe0fNeo\ud83d\udc15",
+                        "brawler": {
+                            "id": 16000042,
+                            "name": "BYRON",
+                            "power": 9,
+                            "trophies": 942
+                        }
+                    },
+                    {
+                        "tag": "#8PRRPUJQ0",
+                        "name": "Graf\u2071\u02e2\u1d47\u1d43\u1d9c\u1d4f\ud83d\udc0a",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 936
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211223T215351.000Z",
+        "event": {
+            "id": 15000072,
+            "mode": "heist",
+            "map": "Bridge Too Far"
+        },
+        "battle": {
+            "mode": "heist",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 150,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#8PRRPUJQ0",
+                "name": "Graf\u2071\u02e2\u1d47\u1d43\u1d9c\u1d4f\ud83d\udc0a",
+                "brawler": {
+                    "id": 16000027,
+                    "name": "8-BIT",
+                    "power": 9,
+                    "trophies": 930
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2LRUV0PQL",
+                        "name": "Emilio\u2764\ufe0fNeo\ud83d\udc15",
+                        "brawler": {
+                            "id": 16000042,
+                            "name": "BYRON",
+                            "power": 9,
+                            "trophies": 936
+                        }
+                    },
+                    {
+                        "tag": "#8UYQRLQQV",
+                        "name": "ITR|C-\u1d21\u1d0f\u1d21 \ud83c\udf85",
+                        "brawler": {
+                            "id": 16000053,
+                            "name": "LOLA",
+                            "power": 9,
+                            "trophies": 968
+                        }
+                    },
+                    {
+                        "tag": "#8PRRPUJQ0",
+                        "name": "Graf\u2071\u02e2\u1d47\u1d43\u1d9c\u1d4f\ud83d\udc0a",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 930
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2Q89PQG02",
+                        "name": "DcX|Skorpi\ud83c\udf7b",
+                        "brawler": {
+                            "id": 16000001,
+                            "name": "COLT",
+                            "power": 10,
+                            "trophies": 832
+                        }
+                    },
+                    {
+                        "tag": "#20QPY289L",
+                        "name": "tikkos",
+                        "brawler": {
+                            "id": 16000001,
+                            "name": "COLT",
+                            "power": 9,
+                            "trophies": 800
+                        }
+                    },
+                    {
+                        "tag": "#UQJQG90G",
+                        "name": "\u00d7Lawliet\u266a",
+                        "brawler": {
+                            "id": 16000046,
+                            "name": "BELLE",
+                            "power": 9,
+                            "trophies": 787
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211223T214948.000Z",
+        "event": {
+            "id": 15000072,
+            "mode": "heist",
+            "map": "Bridge Too Far"
+        },
+        "battle": {
+            "mode": "heist",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 150,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#8PRRPUJQ0",
+                "name": "Graf\u2071\u02e2\u1d47\u1d43\u1d9c\u1d4f\ud83d\udc0a",
+                "brawler": {
+                    "id": 16000027,
+                    "name": "8-BIT",
+                    "power": 9,
+                    "trophies": 924
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#8PRRPUJQ0",
+                        "name": "Graf\u2071\u02e2\u1d47\u1d43\u1d9c\u1d4f\ud83d\udc0a",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 924
+                        }
+                    },
+                    {
+                        "tag": "#2LRUV0PQL",
+                        "name": "Emilio\u2764\ufe0fNeo\ud83d\udc15",
+                        "brawler": {
+                            "id": 16000042,
+                            "name": "BYRON",
+                            "power": 9,
+                            "trophies": 930
+                        }
+                    },
+                    {
+                        "tag": "#8UYQRLQQV",
+                        "name": "ITR|C-\u1d21\u1d0f\u1d21 \ud83c\udf85",
+                        "brawler": {
+                            "id": 16000053,
+                            "name": "LOLA",
+                            "power": 9,
+                            "trophies": 962
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#U09LLCPU",
+                        "name": "Deox\u0338ys\u2122",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 9,
+                            "trophies": 831
+                        }
+                    },
+                    {
+                        "tag": "#2L80Q2GV",
+                        "name": "MITKO",
+                        "brawler": {
+                            "id": 16000003,
+                            "name": "BROCK",
+                            "power": 9,
+                            "trophies": 910
+                        }
+                    },
+                    {
+                        "tag": "#9GQYQCCQ",
+                        "name": "\u5468\u8463\u5c0f\u8ff7\u5f1f\u2665\ufe0f",
+                        "brawler": {
+                            "id": 16000001,
+                            "name": "COLT",
+                            "power": 9,
+                            "trophies": 789
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211223T214626.000Z",
+        "event": {
+            "id": 15000072,
+            "mode": "heist",
+            "map": "Bridge Too Far"
+        },
+        "battle": {
+            "mode": "heist",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 134,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#8PRRPUJQ0",
+                "name": "Graf\u2071\u02e2\u1d47\u1d43\u1d9c\u1d4f\ud83d\udc0a",
+                "brawler": {
+                    "id": 16000027,
+                    "name": "8-BIT",
+                    "power": 9,
+                    "trophies": 918
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#8UYQRLQQV",
+                        "name": "ITR|C-\u1d21\u1d0f\u1d21 \ud83c\udf85",
+                        "brawler": {
+                            "id": 16000053,
+                            "name": "LOLA",
+                            "power": 9,
+                            "trophies": 956
+                        }
+                    },
+                    {
+                        "tag": "#2LRUV0PQL",
+                        "name": "Emilio\u2764\ufe0fNeo\ud83d\udc15",
+                        "brawler": {
+                            "id": 16000042,
+                            "name": "BYRON",
+                            "power": 9,
+                            "trophies": 924
+                        }
+                    },
+                    {
+                        "tag": "#8PRRPUJQ0",
+                        "name": "Graf\u2071\u02e2\u1d47\u1d43\u1d9c\u1d4f\ud83d\udc0a",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 918
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2YLP98UUR",
+                        "name": "BOMI\ud83e\uddec",
+                        "brawler": {
+                            "id": 16000001,
+                            "name": "COLT",
+                            "power": 11,
+                            "trophies": 887
+                        }
+                    },
+                    {
+                        "tag": "#UV8UU889",
+                        "name": "KM | Negro",
+                        "brawler": {
+                            "id": 16000046,
+                            "name": "BELLE",
+                            "power": 9,
+                            "trophies": 487
+                        }
+                    },
+                    {
+                        "tag": "#V909LYQC",
+                        "name": "KM|Mochachay",
+                        "brawler": {
+                            "id": 16000042,
+                            "name": "BYRON",
+                            "power": 11,
+                            "trophies": 794
+                        }
+                    }
+                ]
+            ]
+        }
     }
 ]

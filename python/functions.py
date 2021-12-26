@@ -72,6 +72,7 @@ def GET_BATTLELOGS(token, ranks_list):
     headers = {'Authorization': 'Bearer '+token}
     data = {}
     for country in ranks_list:
+        battlelogs.clear()
         for player in ranks_list[country]['items']:
             tag=player["tag"]
             url_tag=tag.replace("#","%23")
@@ -132,13 +133,14 @@ def remove_team_duplicate(team):
 
 def STORE_BEST_TEAM(mode,map, startTime):
     mode="gemGrab"
-    map="Four Squared"
+    map="Gem Fort"
     startTime="20211222T080000"
     winTeams=[]
     loseTeams=[]
 
     #READ BATTLES
-    with open("../data/battles/"+mode+"/"+map+"/"+startTime+"_"+mode+"_"+map+".json", 'r') as f:
+    #with open("../data/battles/"+mode+"/"+map+"/"+startTime+"_"+mode+"_"+map+".json", 'r') as f:
+    with open("../data/battles/brawlBall/Slalom Slam/20211226T020000_brawlBall_Slalom Slam.json", 'r') as f:
         battles_mode_map = json.load(f)
 
     #GET WIN AND LOSE TEAMS
@@ -173,13 +175,17 @@ def STORE_BEST_TEAM(mode,map, startTime):
                 }
         }
         winTable.append(win_dict)
-    filename = "../data/stats/gemGrab_Deathcap Trap.json"
+    filename = "../data/stats/BrawlBall_Slalom Slam.json"
     with open(filename, 'w') as fp:
 	    json.dump(winTable, fp, indent=4)
 
     
 
 def STORE_BATTLES(battlelogsList):
+    numberOfBattles=0
+    battleNotInEvent=0
+    total=0
+    listNumOfBattles=[]
     newBattle=0
     alreadyStoredBattle=0
     notInterestingBattle=0
@@ -188,59 +194,71 @@ def STORE_BATTLES(battlelogsList):
     dataFolder.mkdir(parents=True, exist_ok=True)
     for pays in battlelogsList:
         for players in battlelogsList[pays]:
-            for battles in battlelogsList[pays][players]["items"]:
-                print(battles)
-                b = Battle(battles)
-                if not b.noDuration and not b.noResult and not b.noStarPlayer and not b.noType and not b.noTeams and b.typee!= "friendly":
-                    startTime=None
-                    mode=b.mode
-                    mapEvent=b.mapEvent
-                    for event in curentEvent:
-                        battleMap=event["event"]["map"]
-                        battleMode=event["event"]["mode"]
-                        if battleMap== mapEvent and battleMode== mode:
-                            startTime=event["startTime"]
-                            break
-                    if startTime is not None:
-                        modeFolder= dataFolder/mode
-                        modeFolder.mkdir(parents=True, exist_ok=True)
-                        mapFolder=modeFolder/mapEvent
-                        mapFolder.mkdir(parents=True, exist_ok=True)
-                        startTime=startTime.split(".")[0]
+            if "items" in battlelogsList[pays][players]:
+                numberOfBattles=0
+                for battles in battlelogsList[pays][players]["items"]:
+                    numberOfBattles=numberOfBattles+1
+                    total=total+1
+                    #print(battles)
+                    b = Battle(battles)
+                    if not b.noDuration and not b.noResult and not b.noStarPlayer and not b.noType and not b.noTeams and b.typee!= "friendly":
+                        startTime=None
+                        mode=b.mode
+                        mapEvent=b.mapEvent
+                        for event in curentEvent:
+                            battleMap=event["event"]["map"]
+                            battleMode=event["event"]["mode"]
+                            if battleMap== mapEvent and battleMode== mode:
+                                startTime=event["startTime"]
+                                break
+                        if startTime is not None:
+                            modeFolder= dataFolder/mode
+                            modeFolder.mkdir(parents=True, exist_ok=True)
+                            mapFolder=modeFolder/mapEvent
+                            mapFolder.mkdir(parents=True, exist_ok=True)
+                            startTime=startTime.split(".")[0]
 
-                        fileName=startTime+"_"+mode+"_"+mapEvent+".json"
-                        mapFile=mapFolder/fileName
-                        if mapFile.is_file():
-                            data = json.load(open(mapFile))
-                            # convert data to list if not
-                            if type(data) is dict:
-                                data = [data]
-                            alreadyExist=False
-                            for batailles in data:
-                                savedB=Battle(batailles)
-                                if savedB.is_equal(b):
-                                    alreadyExist=True
+                            fileName=startTime+"_"+mode+"_"+mapEvent+".json"
+                            mapFile=mapFolder/fileName
+                            if mapFile.is_file():
+                                data = json.load(open(mapFile))
+                                # convert data to list if not
+                                if type(data) is dict:
+                                    data = [data]
+                                alreadyExist=False
+                                for batailles in data:
+                                    savedB=Battle(batailles)
+                                    if savedB.is_equal(b):
+                                        alreadyExist=True
 
-                            if not alreadyExist:
-                                # append new item to data lit
-                                data.append(battles)
+                                if not alreadyExist:
+                                    # append new item to data lit
+                                    data.append(battles)
 
-                                # write list to file
-                                with open(mapFile, 'w') as outfile:
-                                    json.dump(data, outfile, indent=4)
-                                    newBattle=newBattle+1
+                                    # write list to file
+                                    with open(mapFile, 'w') as outfile:
+                                        json.dump(data, outfile, indent=4)
+                                        newBattle=newBattle+1
+                                else:
+                                    alreadyStoredBattle=alreadyStoredBattle+1
                             else:
-                                alreadyStoredBattle=alreadyStoredBattle+1
+                                with open(mapFile, 'w') as outfile:
+                                    json.dump(battles, outfile, indent=4)
+                                    newBattle=newBattle+1
                         else:
-                            with open(mapFile, 'w') as outfile:
-                                json.dump(battles, outfile, indent=4)
-                                newBattle=newBattle+1
-                else:
-                    notInterestingBattle=notInterestingBattle+1
+                            battleNotInEvent=battleNotInEvent+1
+                    else:
+                        notInterestingBattle=notInterestingBattle+1
 
-                print("--------------------------------------------------------")
-                total= notInterestingBattle+alreadyStoredBattle+newBattle
-                print("New battles stored: "+ str(newBattle)+"/"+str(total))
-                print("Already stored battles: "+ str(alreadyStoredBattle)+"/"+str(total))
-                print("Not interesting battles: "+str(notInterestingBattle)+"/"+str(total))
-                print("--------------------------------------------------------")
+                    print("--------------------------------------------------------")
+                    total= notInterestingBattle+alreadyStoredBattle+newBattle+battleNotInEvent
+                    print("New battles stored: "+ str(newBattle)+"/"+str(total))
+                    print("Battle not in curent event: "+ str(battleNotInEvent)+"/"+str(total))
+                    print("Already stored battles: "+ str(alreadyStoredBattle)+"/"+str(total))
+                    print("Not interesting battles: "+str(notInterestingBattle)+"/"+str(total))
+                    print("--------------------------------------------------------")
+            listNumOfBattles.append(numberOfBattles)
+    print("total: ", total)
+    print("min number of battle per battle log: ", min(listNumOfBattles))
+    print("max number of battle per battle log: ", max(listNumOfBattles))
+    print("mean number of battle per battle log: ", sum(listNumOfBattles)/len(listNumOfBattles))

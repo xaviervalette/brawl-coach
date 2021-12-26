@@ -2,7 +2,8 @@ from functions import *
 
 #Global variables
 player_limit=100
-countries_list=["FR","US"]
+
+countries_list=["FR","US", "IT", "JP", "DE"]
 token=READ_API_TOKEN("token.txt")
 
 

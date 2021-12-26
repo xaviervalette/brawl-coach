@@ -7824,5 +7824,5282 @@
                 ]
             ]
         }
+    },
+    {
+        "battleTime": "20211226T171727.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 117,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#R2CYV9UP",
+                "name": "Brawl Master",
+                "brawler": {
+                    "id": 16000011,
+                    "name": "MORTIS",
+                    "power": 11,
+                    "trophies": 887
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2L0PCGR98",
+                        "name": "Hollow",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 11,
+                            "trophies": 851
+                        }
+                    },
+                    {
+                        "tag": "#JRQ8RLGV",
+                        "name": "\ud835\udd38\ud835\udd5f\ud835\udd58\ud835\udd56\ud835\udd5d\ud835\udd60\ud835\udd64\u30b7",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 680
+                        }
+                    },
+                    {
+                        "tag": "#290UPG000",
+                        "name": "CLP|\u26a1RickyVp\u26a1",
+                        "brawler": {
+                            "id": 16000019,
+                            "name": "PENNY",
+                            "power": 9,
+                            "trophies": 795
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#8U980YQJ",
+                        "name": "Cyrus",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 954
+                        }
+                    },
+                    {
+                        "tag": "#R2CYV9UP",
+                        "name": "Brawl Master",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 11,
+                            "trophies": 887
+                        }
+                    },
+                    {
+                        "tag": "#LRYCL0QV",
+                        "name": "Baby Kyric",
+                        "brawler": {
+                            "id": 16000049,
+                            "name": "BUZZ",
+                            "power": 9,
+                            "trophies": 927
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T171225.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 154,
+            "trophyChange": -9,
+            "starPlayer": {
+                "tag": "#9RJRGRYLR",
+                "name": "B\u0334l\u0334a\u0334c\u0334k\u0334 \u03df",
+                "brawler": {
+                    "id": 16000030,
+                    "name": "EMZ",
+                    "power": 9,
+                    "trophies": 912
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#JVRVJJU",
+                        "name": "M\u0334a\u0334n\u0334u\u0334 \u03df",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 918
+                        }
+                    },
+                    {
+                        "tag": "#9RJRGRYLR",
+                        "name": "B\u0334l\u0334a\u0334c\u0334k\u0334 \u03df",
+                        "brawler": {
+                            "id": 16000030,
+                            "name": "EMZ",
+                            "power": 9,
+                            "trophies": 912
+                        }
+                    },
+                    {
+                        "tag": "#9LVUJ9VRQ",
+                        "name": "Frostbite",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 10,
+                            "trophies": 814
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#8YURGJYP",
+                        "name": "yuheng",
+                        "brawler": {
+                            "id": 16000004,
+                            "name": "RICO",
+                            "power": 9,
+                            "trophies": 875
+                        }
+                    },
+                    {
+                        "tag": "#8U980YQJ",
+                        "name": "Cyrus",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 9,
+                            "trophies": 932
+                        }
+                    },
+                    {
+                        "tag": "#R2CYV9UP",
+                        "name": "Brawl Master",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 11,
+                            "trophies": 896
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T171128.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 82,
+            "trophyChange": -4,
+            "starPlayer": {
+                "tag": "#PVLRGYLU",
+                "name": "zero",
+                "brawler": {
+                    "id": 16000030,
+                    "name": "EMZ",
+                    "power": 9,
+                    "trophies": 538
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#C0U0UPL8",
+                        "name": "codfishtuna",
+                        "brawler": {
+                            "id": 16000013,
+                            "name": "POCO",
+                            "power": 8,
+                            "trophies": 568
+                        }
+                    },
+                    {
+                        "tag": "#LJUQ9UJ",
+                        "name": "\ud83d\udda4cute soappie",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 8,
+                            "trophies": 324
+                        }
+                    },
+                    {
+                        "tag": "#Y880UQUJP",
+                        "name": "EriX597 | \ud83c\udccf\ud83e\udd40\u2728",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 9,
+                            "trophies": 553
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#PVLRGYLU",
+                        "name": "zero",
+                        "brawler": {
+                            "id": 16000030,
+                            "name": "EMZ",
+                            "power": 9,
+                            "trophies": 538
+                        }
+                    },
+                    {
+                        "tag": "#2289CP8Y8",
+                        "name": "Atlas",
+                        "brawler": {
+                            "id": 16000040,
+                            "name": "AMBER",
+                            "power": 10,
+                            "trophies": 524
+                        }
+                    },
+                    {
+                        "tag": "#9GGU9PYUJ",
+                        "name": "nep@",
+                        "brawler": {
+                            "id": 16000010,
+                            "name": "EL PRIMO",
+                            "power": 8,
+                            "trophies": 549
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T182241.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 127,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#PLGQ9QJL",
+                "name": "SeiL \ud83e\udd40",
+                "brawler": {
+                    "id": 16000016,
+                    "name": "PAM",
+                    "power": 9,
+                    "trophies": 888
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#RGYQ2LQ9",
+                        "name": "Lil.Wave\ud83c\udf88",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 9,
+                            "trophies": 775
+                        }
+                    },
+                    {
+                        "tag": "#2090RYR9C",
+                        "name": "Fiorenso\ud83d\udc23",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 500
+                        }
+                    },
+                    {
+                        "tag": "#9U8L9QQUJ",
+                        "name": "\u26a1\u2122FASTER\u2122\u26a1",
+                        "brawler": {
+                            "id": 16000030,
+                            "name": "EMZ",
+                            "power": 9,
+                            "trophies": 892
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2QYJJLPRR",
+                        "name": "\u1d1b\u0274\u1d07 | Cyanide",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 9,
+                            "trophies": 817
+                        }
+                    },
+                    {
+                        "tag": "#PLGQ9QJL",
+                        "name": "SeiL \ud83e\udd40",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 9,
+                            "trophies": 888
+                        }
+                    },
+                    {
+                        "tag": "#9PPRYJ9V",
+                        "name": "Akagami",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 717
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T182004.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 98,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#PLGQ9QJL",
+                "name": "SeiL \ud83e\udd40",
+                "brawler": {
+                    "id": 16000016,
+                    "name": "PAM",
+                    "power": 9,
+                    "trophies": 881
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#28888VLV9",
+                        "name": "\u2606\u235f\u2c6e\u0172\u015e\u2c62\u012e\u2c6e\u235f\u2606",
+                        "brawler": {
+                            "id": 16000052,
+                            "name": "MEG",
+                            "power": 11,
+                            "trophies": 822
+                        }
+                    },
+                    {
+                        "tag": "#P8YU2JP",
+                        "name": "\u272c\u235fMaJlou\u235f\u272f",
+                        "brawler": {
+                            "id": 16000005,
+                            "name": "SPIKE",
+                            "power": 11,
+                            "trophies": 825
+                        }
+                    },
+                    {
+                        "tag": "#2JQ9GUC2R",
+                        "name": "MaDeX \u02b0\u1d43\u1d57\u1d49 \u1d67\u2092\u1d64\u30c4",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 849
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#9PPRYJ9V",
+                        "name": "Akagami",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 709
+                        }
+                    },
+                    {
+                        "tag": "#2QYJJLPRR",
+                        "name": "\u1d1b\u0274\u1d07 | Cyanide",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 9,
+                            "trophies": 810
+                        }
+                    },
+                    {
+                        "tag": "#PLGQ9QJL",
+                        "name": "SeiL \ud83e\udd40",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 9,
+                            "trophies": 881
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T182911.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 99,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#PLGQ9QJL",
+                "name": "SeiL \ud83e\udd40",
+                "brawler": {
+                    "id": 16000000,
+                    "name": "SHELLY",
+                    "power": 9,
+                    "trophies": 898
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#9PPRYJ9V",
+                        "name": "Akagami",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 741
+                        }
+                    },
+                    {
+                        "tag": "#2QYJJLPRR",
+                        "name": "\u1d1b\u0274\u1d07 | Cyanide",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 9,
+                            "trophies": 838
+                        }
+                    },
+                    {
+                        "tag": "#PLGQ9QJL",
+                        "name": "SeiL \ud83e\udd40",
+                        "brawler": {
+                            "id": 16000000,
+                            "name": "SHELLY",
+                            "power": 9,
+                            "trophies": 898
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#8VUUUVJYG",
+                        "name": "\u2092\u209as\u029f\u1d07\u1d18\u1d18\u028f\ud83e\udd8b\u00b2\u2076",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 10,
+                            "trophies": 828
+                        }
+                    },
+                    {
+                        "tag": "#9JY09JVG2",
+                        "name": "flozy\u2766",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 832
+                        }
+                    },
+                    {
+                        "tag": "#9C9U2VVC",
+                        "name": "firsovsslex",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 10,
+                            "trophies": 821
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T182714.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 112,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#9PPRYJ9V",
+                "name": "Akagami",
+                "brawler": {
+                    "id": 16000017,
+                    "name": "TARA",
+                    "power": 9,
+                    "trophies": 733
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#298LJLPVU",
+                        "name": "C\u00e9sar",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 871
+                        }
+                    },
+                    {
+                        "tag": "#8GLLU0RCG",
+                        "name": "AG|J\u00f8s\u00e9VD\u2122\u2603\ufe0f",
+                        "brawler": {
+                            "id": 16000004,
+                            "name": "RICO",
+                            "power": 10,
+                            "trophies": 877
+                        }
+                    },
+                    {
+                        "tag": "#2LCYPVLUG",
+                        "name": "\u2614\ufe0fe\u0365n\u0363r\u036b\u026a\u2122\ud83e\udd40",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 10,
+                            "trophies": 873
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#9PPRYJ9V",
+                        "name": "Akagami",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 733
+                        }
+                    },
+                    {
+                        "tag": "#PLGQ9QJL",
+                        "name": "SeiL \ud83e\udd40",
+                        "brawler": {
+                            "id": 16000000,
+                            "name": "SHELLY",
+                            "power": 9,
+                            "trophies": 891
+                        }
+                    },
+                    {
+                        "tag": "#2QYJJLPRR",
+                        "name": "\u1d1b\u0274\u1d07 | Cyanide",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 9,
+                            "trophies": 831
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T182444.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 82,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#PLGQ9QJL",
+                "name": "SeiL \ud83e\udd40",
+                "brawler": {
+                    "id": 16000016,
+                    "name": "PAM",
+                    "power": 9,
+                    "trophies": 895
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2QYJJLPRR",
+                        "name": "\u1d1b\u0274\u1d07 | Cyanide",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 9,
+                            "trophies": 824
+                        }
+                    },
+                    {
+                        "tag": "#PLGQ9QJL",
+                        "name": "SeiL \ud83e\udd40",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 9,
+                            "trophies": 895
+                        }
+                    },
+                    {
+                        "tag": "#9PPRYJ9V",
+                        "name": "Akagami",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 725
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#28G00LPCG",
+                        "name": "Mr.Lazer\ud83d\udc3a",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 9,
+                            "trophies": 864
+                        }
+                    },
+                    {
+                        "tag": "#28PUUQUJ0",
+                        "name": "sad\ud83d\udc98Semea",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 10,
+                            "trophies": 723
+                        }
+                    },
+                    {
+                        "tag": "#YGY09L90L",
+                        "name": "c'est la beaut",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 789
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T183801.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 84,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#8U980YQJ",
+                "name": "Cyrus",
+                "brawler": {
+                    "id": 16000015,
+                    "name": "PIPER",
+                    "power": 11,
+                    "trophies": 959
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#YRC08Y9VQ",
+                        "name": "Mr.Shadow",
+                        "brawler": {
+                            "id": 16000002,
+                            "name": "BULL",
+                            "power": 10,
+                            "trophies": 847
+                        }
+                    },
+                    {
+                        "tag": "#8LPGLVPR",
+                        "name": "Marco",
+                        "brawler": {
+                            "id": 16000004,
+                            "name": "RICO",
+                            "power": 9,
+                            "trophies": 782
+                        }
+                    },
+                    {
+                        "tag": "#8JRGQLRJ",
+                        "name": "TOXIC\ud83d\udc99JESUS",
+                        "brawler": {
+                            "id": 16000004,
+                            "name": "RICO",
+                            "power": 11,
+                            "trophies": 805
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2LLLGQUJP",
+                        "name": "Apex\u2764\ufe0fSofi",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 989
+                        }
+                    },
+                    {
+                        "tag": "#2PQRPG0Q9",
+                        "name": "Winter",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 939
+                        }
+                    },
+                    {
+                        "tag": "#8U980YQJ",
+                        "name": "Cyrus",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 959
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T183502.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 82,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#8U980YQJ",
+                "name": "Cyrus",
+                "brawler": {
+                    "id": 16000015,
+                    "name": "PIPER",
+                    "power": 11,
+                    "trophies": 953
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2LLLGQUJP",
+                        "name": "Apex\u2764\ufe0fSofi",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 983
+                        }
+                    },
+                    {
+                        "tag": "#2PQRPG0Q9",
+                        "name": "Winter",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 933
+                        }
+                    },
+                    {
+                        "tag": "#8U980YQJ",
+                        "name": "Cyrus",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 953
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#298Y8QUY8",
+                        "name": "polar",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 830
+                        }
+                    },
+                    {
+                        "tag": "#2JUR0CP98",
+                        "name": "Giacomo",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 10,
+                            "trophies": 826
+                        }
+                    },
+                    {
+                        "tag": "#8JP0LPUJC",
+                        "name": "\u00a4\u300a\u2664CH1K170N\u2667\u300b\u00a4",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 763
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T183219.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 84,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#2PQRPG0Q9",
+                "name": "Winter",
+                "brawler": {
+                    "id": 16000017,
+                    "name": "TARA",
+                    "power": 9,
+                    "trophies": 927
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#889QR9UC",
+                        "name": "ByCerfire",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 10,
+                            "trophies": 806
+                        }
+                    },
+                    {
+                        "tag": "#UG88PP9L",
+                        "name": "lil bean",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 803
+                        }
+                    },
+                    {
+                        "tag": "#29Y2PYYUU",
+                        "name": "\u0118. R? R@ \u00d8\u201d R;",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 11,
+                            "trophies": 783
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2PQRPG0Q9",
+                        "name": "Winter",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 927
+                        }
+                    },
+                    {
+                        "tag": "#2LLLGQUJP",
+                        "name": "Apex\u2764\ufe0fSofi",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 977
+                        }
+                    },
+                    {
+                        "tag": "#8U980YQJ",
+                        "name": "Cyrus",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 947
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T182904.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 145,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#8U980YQJ",
+                "name": "Cyrus",
+                "brawler": {
+                    "id": 16000015,
+                    "name": "PIPER",
+                    "power": 11,
+                    "trophies": 941
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#ULRRR0C8",
+                        "name": "AT|alexis",
+                        "brawler": {
+                            "id": 16000030,
+                            "name": "EMZ",
+                            "power": 11,
+                            "trophies": 894
+                        }
+                    },
+                    {
+                        "tag": "#PUL29RV0Q",
+                        "name": "Rouge_Rose\ud83c\udf39",
+                        "brawler": {
+                            "id": 16000030,
+                            "name": "EMZ",
+                            "power": 10,
+                            "trophies": 708
+                        }
+                    },
+                    {
+                        "tag": "#8PVC28QYL",
+                        "name": "Yahir",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 11,
+                            "trophies": 848
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2LLLGQUJP",
+                        "name": "Apex\u2764\ufe0fSofi",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 971
+                        }
+                    },
+                    {
+                        "tag": "#2PQRPG0Q9",
+                        "name": "Winter",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 921
+                        }
+                    },
+                    {
+                        "tag": "#8U980YQJ",
+                        "name": "Cyrus",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 941
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T182541.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 97,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#8U980YQJ",
+                "name": "Cyrus",
+                "brawler": {
+                    "id": 16000015,
+                    "name": "PIPER",
+                    "power": 11,
+                    "trophies": 935
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#C8UJJ0UC",
+                        "name": "lex",
+                        "brawler": {
+                            "id": 16000053,
+                            "name": "LOLA",
+                            "power": 9,
+                            "trophies": 738
+                        }
+                    },
+                    {
+                        "tag": "#8LYPJJ0V",
+                        "name": "Happy Trigger",
+                        "brawler": {
+                            "id": 16000014,
+                            "name": "BO",
+                            "power": 11,
+                            "trophies": 818
+                        }
+                    },
+                    {
+                        "tag": "#PRQG22U9",
+                        "name": "--Hi Sir.--",
+                        "brawler": {
+                            "id": 16000050,
+                            "name": "GRIFF",
+                            "power": 9,
+                            "trophies": 437
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2PQRPG0Q9",
+                        "name": "Winter",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 915
+                        }
+                    },
+                    {
+                        "tag": "#8U980YQJ",
+                        "name": "Cyrus",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 935
+                        }
+                    },
+                    {
+                        "tag": "#2LLLGQUJP",
+                        "name": "Apex\u2764\ufe0fSofi",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 965
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T184220.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 84,
+            "trophyChange": -9,
+            "starPlayer": {
+                "tag": "#GURGVLUJ",
+                "name": "ArchAngel",
+                "brawler": {
+                    "id": 16000034,
+                    "name": "JACKY",
+                    "power": 11,
+                    "trophies": 790
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#QYG0JVL",
+                        "name": "OS|DarkNight\u26a1",
+                        "brawler": {
+                            "id": 16000005,
+                            "name": "SPIKE",
+                            "power": 9,
+                            "trophies": 785
+                        }
+                    },
+                    {
+                        "tag": "#20020PQQ",
+                        "name": "OS| SweetAlex\ud83d\udc98",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 782
+                        }
+                    },
+                    {
+                        "tag": "#GURGVLUJ",
+                        "name": "ArchAngel",
+                        "brawler": {
+                            "id": 16000034,
+                            "name": "JACKY",
+                            "power": 11,
+                            "trophies": 790
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#PY9J299J2",
+                        "name": "Trouble",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 704
+                        }
+                    },
+                    {
+                        "tag": "#9V99C8Y",
+                        "name": "BH | Peenut",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 10,
+                            "trophies": 816
+                        }
+                    },
+                    {
+                        "tag": "#2C2UGJV8",
+                        "name": "Alex",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 814
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T184028.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 142,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#9V99C8Y",
+                "name": "BH | Peenut",
+                "brawler": {
+                    "id": 16000021,
+                    "name": "GENE",
+                    "power": 10,
+                    "trophies": 809
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#YQQ8UQRJ",
+                        "name": "Evdog",
+                        "brawler": {
+                            "id": 16000042,
+                            "name": "BYRON",
+                            "power": 10,
+                            "trophies": 721
+                        }
+                    },
+                    {
+                        "tag": "#8Y0VU2J2",
+                        "name": "Thisguy1000",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 8,
+                            "trophies": 749
+                        }
+                    },
+                    {
+                        "tag": "#PRJYQ0YG0",
+                        "name": "B R I A N",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 712
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#9V99C8Y",
+                        "name": "BH | Peenut",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 10,
+                            "trophies": 809
+                        }
+                    },
+                    {
+                        "tag": "#PY9J299J2",
+                        "name": "Trouble",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 696
+                        }
+                    },
+                    {
+                        "tag": "#2C2UGJV8",
+                        "name": "Alex",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 807
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T190136.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 110,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#2LLLGQUJP",
+                "name": "Apex\u2764\ufe0fSofi",
+                "brawler": {
+                    "id": 16000028,
+                    "name": "SANDY",
+                    "power": 9,
+                    "trophies": 992
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#9P82L92J",
+                        "name": "\u00b0Leonardo\u30c4",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 790
+                        }
+                    },
+                    {
+                        "tag": "#C0VUCQQ",
+                        "name": "\u2605Jos\u00e9\u30c4\u2605",
+                        "brawler": {
+                            "id": 16000005,
+                            "name": "SPIKE",
+                            "power": 10,
+                            "trophies": 970
+                        }
+                    },
+                    {
+                        "tag": "#UV8V9QUC",
+                        "name": "Isaana uwu \ud83c\udf38",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 10,
+                            "trophies": 943
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2LLLGQUJP",
+                        "name": "Apex\u2764\ufe0fSofi",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 992
+                        }
+                    },
+                    {
+                        "tag": "#2PQRPG0Q9",
+                        "name": "Winter",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 965
+                        }
+                    },
+                    {
+                        "tag": "#8U980YQJ",
+                        "name": "Cyrus",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 985
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T185845.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 84,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#2LLLGQUJP",
+                "name": "Apex\u2764\ufe0fSofi",
+                "brawler": {
+                    "id": 16000028,
+                    "name": "SANDY",
+                    "power": 9,
+                    "trophies": 986
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2LLLGQUJP",
+                        "name": "Apex\u2764\ufe0fSofi",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 986
+                        }
+                    },
+                    {
+                        "tag": "#2PQRPG0Q9",
+                        "name": "Winter",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 959
+                        }
+                    },
+                    {
+                        "tag": "#8U980YQJ",
+                        "name": "Cyrus",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 979
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#GVG8V2J2",
+                        "name": "RonTheSeducer",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 9,
+                            "trophies": 840
+                        }
+                    },
+                    {
+                        "tag": "#VQ9JPVUY",
+                        "name": "homie",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 740
+                        }
+                    },
+                    {
+                        "tag": "#2G09JJGGG",
+                        "name": "KevC",
+                        "brawler": {
+                            "id": 16000029,
+                            "name": "BEA",
+                            "power": 9,
+                            "trophies": 764
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T185525.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 114,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#2PQRPG0Q9",
+                "name": "Winter",
+                "brawler": {
+                    "id": 16000017,
+                    "name": "TARA",
+                    "power": 9,
+                    "trophies": 953
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#VGY9VL0",
+                        "name": "Rogue",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 10,
+                            "trophies": 809
+                        }
+                    },
+                    {
+                        "tag": "#2R80U9P22",
+                        "name": "\u2606~Antony~\u2606\u2661",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 10,
+                            "trophies": 789
+                        }
+                    },
+                    {
+                        "tag": "#YCLRJCV",
+                        "name": "Mizu\ud83d\udc3b",
+                        "brawler": {
+                            "id": 16000045,
+                            "name": "STU",
+                            "power": 9,
+                            "trophies": 813
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2LLLGQUJP",
+                        "name": "Apex\u2764\ufe0fSofi",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 980
+                        }
+                    },
+                    {
+                        "tag": "#2PQRPG0Q9",
+                        "name": "Winter",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 953
+                        }
+                    },
+                    {
+                        "tag": "#8U980YQJ",
+                        "name": "Cyrus",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 973
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T185117.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 117,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#2PQRPG0Q9",
+                "name": "Winter",
+                "brawler": {
+                    "id": 16000017,
+                    "name": "TARA",
+                    "power": 9,
+                    "trophies": 947
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2LLLGQUJP",
+                        "name": "Apex\u2764\ufe0fSofi",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 996
+                        }
+                    },
+                    {
+                        "tag": "#2PQRPG0Q9",
+                        "name": "Winter",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 947
+                        }
+                    },
+                    {
+                        "tag": "#8U980YQJ",
+                        "name": "Cyrus",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 967
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#QYG0JVL",
+                        "name": "OS|DarkNight\u26a1",
+                        "brawler": {
+                            "id": 16000005,
+                            "name": "SPIKE",
+                            "power": 9,
+                            "trophies": 801
+                        }
+                    },
+                    {
+                        "tag": "#20020PQQ",
+                        "name": "OS| SweetAlex\ud83d\udc98",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 798
+                        }
+                    },
+                    {
+                        "tag": "#88YGG92L0",
+                        "name": "NTY|Diddy",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 11,
+                            "trophies": 783
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T184753.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 82,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#2PQRPG0Q9",
+                "name": "Winter",
+                "brawler": {
+                    "id": 16000017,
+                    "name": "TARA",
+                    "power": 9,
+                    "trophies": 941
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#GCQPJVVQ",
+                        "name": "ninja10005",
+                        "brawler": {
+                            "id": 16000042,
+                            "name": "BYRON",
+                            "power": 9,
+                            "trophies": 711
+                        }
+                    },
+                    {
+                        "tag": "#GRVY9UV8",
+                        "name": "hectorzan",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 11,
+                            "trophies": 825
+                        }
+                    },
+                    {
+                        "tag": "#2G89Q0RJV",
+                        "name": "\u26e9\ufe0f| Fear\ud83c\udf8b",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 866
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2LLLGQUJP",
+                        "name": "Apex\u2764\ufe0fSofi",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 990
+                        }
+                    },
+                    {
+                        "tag": "#2PQRPG0Q9",
+                        "name": "Winter",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 941
+                        }
+                    },
+                    {
+                        "tag": "#8U980YQJ",
+                        "name": "Cyrus",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 961
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T184504.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 90,
+            "trophyChange": -10,
+            "starPlayer": {
+                "tag": "#8QVJLYRU0",
+                "name": "AT|Fowl",
+                "brawler": {
+                    "id": 16000027,
+                    "name": "8-BIT",
+                    "power": 9,
+                    "trophies": 851
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#QVCYPPQ2",
+                        "name": "&\u2664~Antonio~\u2664&",
+                        "brawler": {
+                            "id": 16000030,
+                            "name": "EMZ",
+                            "power": 10,
+                            "trophies": 925
+                        }
+                    },
+                    {
+                        "tag": "#8QVJLYRU0",
+                        "name": "AT|Fowl",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 851
+                        }
+                    },
+                    {
+                        "tag": "#J00G8P9",
+                        "name": "AndresZ\ud83e\udd81",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 889
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2LLLGQUJP",
+                        "name": "Apex\u2764\ufe0fSofi",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 1001
+                        }
+                    },
+                    {
+                        "tag": "#2PQRPG0Q9",
+                        "name": "Winter",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 951
+                        }
+                    },
+                    {
+                        "tag": "#8U980YQJ",
+                        "name": "Cyrus",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 971
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T184210.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 110,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#2PQRPG0Q9",
+                "name": "Winter",
+                "brawler": {
+                    "id": 16000017,
+                    "name": "TARA",
+                    "power": 9,
+                    "trophies": 945
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2PVLVUPY",
+                        "name": "RickEE",
+                        "brawler": {
+                            "id": 16000004,
+                            "name": "RICO",
+                            "power": 11,
+                            "trophies": 841
+                        }
+                    },
+                    {
+                        "tag": "#8CCCQUYPV",
+                        "name": "rfzblazion",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 10,
+                            "trophies": 807
+                        }
+                    },
+                    {
+                        "tag": "#28L8PCRVP",
+                        "name": "Sandwich",
+                        "brawler": {
+                            "id": 16000002,
+                            "name": "BULL",
+                            "power": 11,
+                            "trophies": 883
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2LLLGQUJP",
+                        "name": "Apex\u2764\ufe0fSofi",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 995
+                        }
+                    },
+                    {
+                        "tag": "#2PQRPG0Q9",
+                        "name": "Winter",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 945
+                        }
+                    },
+                    {
+                        "tag": "#8U980YQJ",
+                        "name": "Cyrus",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 965
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T192700.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 124,
+            "trophyChange": -10,
+            "starPlayer": {
+                "tag": "#J8PGVYL8",
+                "name": "IGM|alo12345",
+                "brawler": {
+                    "id": 16000024,
+                    "name": "ROSA",
+                    "power": 10,
+                    "trophies": 895
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#80RULV0J8",
+                        "name": "ElMegaPro",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 857
+                        }
+                    },
+                    {
+                        "tag": "#J8PGVYL8",
+                        "name": "IGM|alo12345",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 10,
+                            "trophies": 895
+                        }
+                    },
+                    {
+                        "tag": "#YP8JRUR0",
+                        "name": "Mister",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 948
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2JGQ099GC",
+                        "name": "\u7231|Apple",
+                        "brawler": {
+                            "id": 16000040,
+                            "name": "AMBER",
+                            "power": 9,
+                            "trophies": 845
+                        }
+                    },
+                    {
+                        "tag": "#GVCV9P9Y",
+                        "name": "Smoov Chocolate",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 11,
+                            "trophies": 915
+                        }
+                    },
+                    {
+                        "tag": "#9GJU0Y0QL",
+                        "name": "[KLEINEM]",
+                        "brawler": {
+                            "id": 16000046,
+                            "name": "BELLE",
+                            "power": 9,
+                            "trophies": 961
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T193124.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 155,
+            "trophyChange": -10,
+            "starPlayer": {
+                "tag": "#2Y28Y2Q80",
+                "name": "MX|\uff5e\u300e\uff2d\uff21\uff32\uff23\uff25\u300f\uff5e",
+                "brawler": {
+                    "id": 16000052,
+                    "name": "MEG",
+                    "power": 9,
+                    "trophies": 188
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2JGQ099GC",
+                        "name": "\u7231|Apple",
+                        "brawler": {
+                            "id": 16000040,
+                            "name": "AMBER",
+                            "power": 9,
+                            "trophies": 836
+                        }
+                    },
+                    {
+                        "tag": "#9GJU0Y0QL",
+                        "name": "[KLEINEM]",
+                        "brawler": {
+                            "id": 16000046,
+                            "name": "BELLE",
+                            "power": 9,
+                            "trophies": 951
+                        }
+                    },
+                    {
+                        "tag": "#GVCV9P9Y",
+                        "name": "Smoov Chocolate",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 11,
+                            "trophies": 905
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#282RJJ8C8",
+                        "name": "\u2604\ufe0fMaxo\u2604\ufe0f",
+                        "brawler": {
+                            "id": 16000023,
+                            "name": "LEON",
+                            "power": 11,
+                            "trophies": 874
+                        }
+                    },
+                    {
+                        "tag": "#2Y28Y2Q80",
+                        "name": "MX|\uff5e\u300e\uff2d\uff21\uff32\uff23\uff25\u300f\uff5e",
+                        "brawler": {
+                            "id": 16000052,
+                            "name": "MEG",
+                            "power": 9,
+                            "trophies": 188
+                        }
+                    },
+                    {
+                        "tag": "#820GRCLJ",
+                        "name": "XxDantexX",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 8,
+                            "trophies": 825
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T190539.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 137,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#2LPYVGLR0",
+                "name": "hi",
+                "brawler": {
+                    "id": 16000011,
+                    "name": "MORTIS",
+                    "power": 11,
+                    "trophies": 832
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#802VG829",
+                        "name": "Rspects\u2764\ufe0fCookie",
+                        "brawler": {
+                            "id": 16000032,
+                            "name": "MAX",
+                            "power": 10,
+                            "trophies": 882
+                        }
+                    },
+                    {
+                        "tag": "#2LPYVGLR0",
+                        "name": "hi",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 11,
+                            "trophies": 832
+                        }
+                    },
+                    {
+                        "tag": "#89R99CC8Q",
+                        "name": "mango juul pod",
+                        "brawler": {
+                            "id": 16000043,
+                            "name": "EDGAR",
+                            "power": 11,
+                            "trophies": 778
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#92GV2GQ0J",
+                        "name": "DA|BrendisaPr\ud83e\udd84",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 9,
+                            "trophies": 757
+                        }
+                    },
+                    {
+                        "tag": "#2LLGY98RJ",
+                        "name": "DA|\u2020\u0336M\u0336a\u0442\u043dius\u267e\ufe0f",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 9,
+                            "trophies": 831
+                        }
+                    },
+                    {
+                        "tag": "#RCY2JRPV",
+                        "name": "\u03dfZuki\ud83d\udc09",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 714
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T190227.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 85,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#2LPYVGLR0",
+                "name": "hi",
+                "brawler": {
+                    "id": 16000011,
+                    "name": "MORTIS",
+                    "power": 11,
+                    "trophies": 825
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2LPYVGLR0",
+                        "name": "hi",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 11,
+                            "trophies": 825
+                        }
+                    },
+                    {
+                        "tag": "#802VG829",
+                        "name": "Rspects\u2764\ufe0fCookie",
+                        "brawler": {
+                            "id": 16000032,
+                            "name": "MAX",
+                            "power": 10,
+                            "trophies": 875
+                        }
+                    },
+                    {
+                        "tag": "#2Q2CQJ00V",
+                        "name": "yowys",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 749
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#GCQPJVVQ",
+                        "name": "ninja10005",
+                        "brawler": {
+                            "id": 16000042,
+                            "name": "BYRON",
+                            "power": 9,
+                            "trophies": 695
+                        }
+                    },
+                    {
+                        "tag": "#GRVY9UV8",
+                        "name": "hectorzan",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 11,
+                            "trophies": 803
+                        }
+                    },
+                    {
+                        "tag": "#YLC8Y9LV",
+                        "name": "M\u0489C\u0489|Chivas14",
+                        "brawler": {
+                            "id": 16000008,
+                            "name": "NITA",
+                            "power": 10,
+                            "trophies": 803
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T192105.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 112,
+            "trophyChange": -10,
+            "starPlayer": {
+                "tag": "#V9GUGG9J",
+                "name": "villaj98",
+                "brawler": {
+                    "id": 16000017,
+                    "name": "TARA",
+                    "power": 9,
+                    "trophies": 751
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2LLLGQUJP",
+                        "name": "Apex\u2764\ufe0fSofi",
+                        "brawler": {
+                            "id": 16000042,
+                            "name": "BYRON",
+                            "power": 9,
+                            "trophies": 855
+                        }
+                    },
+                    {
+                        "tag": "#2PQRPG0Q9",
+                        "name": "Winter",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 963
+                        }
+                    },
+                    {
+                        "tag": "#8U980YQJ",
+                        "name": "Cyrus",
+                        "brawler": {
+                            "id": 16000052,
+                            "name": "MEG",
+                            "power": 9,
+                            "trophies": 845
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#QVGRRVY8",
+                        "name": "\u300e\uff2c\uff49\uff4c|\uff2d\uff49\uff4b\uff45\uff45\uff2d\uff49\uff4b\uff45\u300f",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 843
+                        }
+                    },
+                    {
+                        "tag": "#82U8V09CC",
+                        "name": "Rompecul05",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 10,
+                            "trophies": 824
+                        }
+                    },
+                    {
+                        "tag": "#V9GUGG9J",
+                        "name": "villaj98",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 751
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T191455.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 117,
+            "trophyChange": -10,
+            "starPlayer": {
+                "tag": "#YP8JRUR0",
+                "name": "Mister",
+                "brawler": {
+                    "id": 16000017,
+                    "name": "TARA",
+                    "power": 10,
+                    "trophies": 924
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#80RULV0J8",
+                        "name": "ElMegaPro",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 829
+                        }
+                    },
+                    {
+                        "tag": "#YP8JRUR0",
+                        "name": "Mister",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 924
+                        }
+                    },
+                    {
+                        "tag": "#J8PGVYL8",
+                        "name": "IGM|alo12345",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 10,
+                            "trophies": 867
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2LLLGQUJP",
+                        "name": "Apex\u2764\ufe0fSofi",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 10,
+                            "trophies": 804
+                        }
+                    },
+                    {
+                        "tag": "#2PQRPG0Q9",
+                        "name": "Winter",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 973
+                        }
+                    },
+                    {
+                        "tag": "#8U980YQJ",
+                        "name": "Cyrus",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 10,
+                            "trophies": 874
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T191130.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 86,
+            "trophyChange": -10,
+            "starPlayer": {
+                "tag": "#2QUJCYPGY",
+                "name": "David\u2122\u2764\ufe0f",
+                "brawler": {
+                    "id": 16000015,
+                    "name": "PIPER",
+                    "power": 9,
+                    "trophies": 957
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#22U2JGG8Q",
+                        "name": "Taish\u00f8\u2661\u2022\u1dbb\u2071\u1d56",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 927
+                        }
+                    },
+                    {
+                        "tag": "#GVR2Y2GC",
+                        "name": "Bryan",
+                        "brawler": {
+                            "id": 16000040,
+                            "name": "AMBER",
+                            "power": 11,
+                            "trophies": 996
+                        }
+                    },
+                    {
+                        "tag": "#2QUJCYPGY",
+                        "name": "David\u2122\u2764\ufe0f",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 9,
+                            "trophies": 957
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2LLLGQUJP",
+                        "name": "Apex\u2764\ufe0fSofi",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 10,
+                            "trophies": 813
+                        }
+                    },
+                    {
+                        "tag": "#2PQRPG0Q9",
+                        "name": "Winter",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 983
+                        }
+                    },
+                    {
+                        "tag": "#8U980YQJ",
+                        "name": "Cyrus",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 868
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T190845.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 117,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#2LLLGQUJP",
+                "name": "Apex\u2764\ufe0fSofi",
+                "brawler": {
+                    "id": 16000028,
+                    "name": "SANDY",
+                    "power": 9,
+                    "trophies": 1004
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#9P9LRLG8",
+                        "name": "\u3042\u3047\u2b50\ufe0f",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 714
+                        }
+                    },
+                    {
+                        "tag": "#99GJPU9JU",
+                        "name": "RennyKeoo",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 9,
+                            "trophies": 702
+                        }
+                    },
+                    {
+                        "tag": "#28UPUYYL2",
+                        "name": "Samy\ud83d\udc23\ud83d\udc9b",
+                        "brawler": {
+                            "id": 16000023,
+                            "name": "LEON",
+                            "power": 9,
+                            "trophies": 801
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2LLLGQUJP",
+                        "name": "Apex\u2764\ufe0fSofi",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 1004
+                        }
+                    },
+                    {
+                        "tag": "#8U980YQJ",
+                        "name": "Cyrus",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 997
+                        }
+                    },
+                    {
+                        "tag": "#2PQRPG0Q9",
+                        "name": "Winter",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 977
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T190441.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 132,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#2PQRPG0Q9",
+                "name": "Winter",
+                "brawler": {
+                    "id": 16000017,
+                    "name": "TARA",
+                    "power": 9,
+                    "trophies": 971
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#8U8J92J9V",
+                        "name": "Samu2104",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 10,
+                            "trophies": 857
+                        }
+                    },
+                    {
+                        "tag": "#9J20LQQ08",
+                        "name": "ChavezVL",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 863
+                        }
+                    },
+                    {
+                        "tag": "#RP2LVY2G",
+                        "name": "XCLARKENX",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 638
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2LLLGQUJP",
+                        "name": "Apex\u2764\ufe0fSofi",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 998
+                        }
+                    },
+                    {
+                        "tag": "#2PQRPG0Q9",
+                        "name": "Winter",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 971
+                        }
+                    },
+                    {
+                        "tag": "#8U980YQJ",
+                        "name": "Cyrus",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 991
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T090110.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 143,
+            "trophyChange": -9,
+            "starPlayer": {
+                "tag": "#CGRC2YQ9",
+                "name": "RadioheaD",
+                "brawler": {
+                    "id": 16000011,
+                    "name": "MORTIS",
+                    "power": 10,
+                    "trophies": 753
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#9QCPGR90P",
+                        "name": "GloRy|BASTION",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 7,
+                            "trophies": 819
+                        }
+                    },
+                    {
+                        "tag": "#VQL000RC",
+                        "name": "RGS|HyperLab\u3299\ufe0f",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 819
+                        }
+                    },
+                    {
+                        "tag": "#2VY8VPLU",
+                        "name": "underworld don",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 9,
+                            "trophies": 813
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#CGRC2YQ9",
+                        "name": "RadioheaD",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 10,
+                            "trophies": 753
+                        }
+                    },
+                    {
+                        "tag": "#2QYYJCUP2",
+                        "name": "#botlivesmatter",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 770
+                        }
+                    },
+                    {
+                        "tag": "#U8CJLCJQ",
+                        "name": "Lightning Saber",
+                        "brawler": {
+                            "id": 16000038,
+                            "name": "SURGE",
+                            "power": 11,
+                            "trophies": 811
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T085752.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 132,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#9QCPGR90P",
+                "name": "GloRy|BASTION",
+                "brawler": {
+                    "id": 16000048,
+                    "name": "GROM",
+                    "power": 7,
+                    "trophies": 812
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#Y2Q0JU9P2",
+                        "name": "wow!!",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 10,
+                            "trophies": 787
+                        }
+                    },
+                    {
+                        "tag": "#RC2VC09V",
+                        "name": "Brawl \u2728",
+                        "brawler": {
+                            "id": 16000007,
+                            "name": "JESSIE",
+                            "power": 9,
+                            "trophies": 743
+                        }
+                    },
+                    {
+                        "tag": "#2RGPY8LU2",
+                        "name": "Drought Fish",
+                        "brawler": {
+                            "id": 16000023,
+                            "name": "LEON",
+                            "power": 10,
+                            "trophies": 751
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#9QCPGR90P",
+                        "name": "GloRy|BASTION",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 7,
+                            "trophies": 812
+                        }
+                    },
+                    {
+                        "tag": "#VQL000RC",
+                        "name": "RGS|HyperLab\u3299\ufe0f",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 812
+                        }
+                    },
+                    {
+                        "tag": "#2VY8VPLU",
+                        "name": "underworld don",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 9,
+                            "trophies": 806
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T085512.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 177,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#2VY8VPLU",
+                "name": "underworld don",
+                "brawler": {
+                    "id": 16000024,
+                    "name": "ROSA",
+                    "power": 9,
+                    "trophies": 798
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#8GQY0GC",
+                        "name": "TERMINATRIX777",
+                        "brawler": {
+                            "id": 16000049,
+                            "name": "BUZZ",
+                            "power": 10,
+                            "trophies": 783
+                        }
+                    },
+                    {
+                        "tag": "#8C9GPYQU",
+                        "name": "rajveer",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 799
+                        }
+                    },
+                    {
+                        "tag": "#CPLPPVPJ",
+                        "name": "Allawi325",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 700
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2VY8VPLU",
+                        "name": "underworld don",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 9,
+                            "trophies": 798
+                        }
+                    },
+                    {
+                        "tag": "#9QCPGR90P",
+                        "name": "GloRy|BASTION",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 7,
+                            "trophies": 805
+                        }
+                    },
+                    {
+                        "tag": "#VQL000RC",
+                        "name": "RGS|HyperLab\u3299\ufe0f",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 805
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T084739.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 150,
+            "trophyChange": -9,
+            "starPlayer": {
+                "tag": "#UCG9VCYC",
+                "name": "\u262f\ufe0fnasser\u262f\ufe0f",
+                "brawler": {
+                    "id": 16000017,
+                    "name": "TARA",
+                    "power": 11,
+                    "trophies": 827
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2VY8VPLU",
+                        "name": "underworld don",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 9,
+                            "trophies": 807
+                        }
+                    },
+                    {
+                        "tag": "#9QCPGR90P",
+                        "name": "GloRy|BASTION",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 7,
+                            "trophies": 814
+                        }
+                    },
+                    {
+                        "tag": "#VQL000RC",
+                        "name": "RGS|HyperLab\u3299\ufe0f",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 814
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#UCG9VCYC",
+                        "name": "\u262f\ufe0fnasser\u262f\ufe0f",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 827
+                        }
+                    },
+                    {
+                        "tag": "#2UJU82V9C",
+                        "name": "Sushant",
+                        "brawler": {
+                            "id": 16000004,
+                            "name": "RICO",
+                            "power": 10,
+                            "trophies": 869
+                        }
+                    },
+                    {
+                        "tag": "#2CQYG0UUC",
+                        "name": "Ad203",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 774
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T084156.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 89,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#9QCPGR90P",
+                "name": "GloRy|BASTION",
+                "brawler": {
+                    "id": 16000048,
+                    "name": "GROM",
+                    "power": 7,
+                    "trophies": 807
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#PQUJU000C",
+                        "name": "Akt",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 775
+                        }
+                    },
+                    {
+                        "tag": "#90YRL0VJY",
+                        "name": "SW|OLSEN",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 9,
+                            "trophies": 717
+                        }
+                    },
+                    {
+                        "tag": "#RYGCL902",
+                        "name": "LORD",
+                        "brawler": {
+                            "id": 16000043,
+                            "name": "EDGAR",
+                            "power": 9,
+                            "trophies": 787
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#9QCPGR90P",
+                        "name": "GloRy|BASTION",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 7,
+                            "trophies": 807
+                        }
+                    },
+                    {
+                        "tag": "#VQL000RC",
+                        "name": "RGS|HyperLab\u3299\ufe0f",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 807
+                        }
+                    },
+                    {
+                        "tag": "#8YG2J0QCV",
+                        "name": "\ud83d\udc27|Simp.\ud83e\udd21",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 9,
+                            "trophies": 799
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T183148.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 137,
+            "trophyChange": 8,
+            "starPlayer": {
+                "tag": "#VR2UY00G",
+                "name": "HighDefinition",
+                "brawler": {
+                    "id": 16000048,
+                    "name": "GROM",
+                    "power": 9,
+                    "trophies": 570
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#RQ0028JG",
+                        "name": "\u0410\u0440\u0430\u0447\u0438\u043c\u0430\u0440\u0443",
+                        "brawler": {
+                            "id": 16000023,
+                            "name": "LEON",
+                            "power": 9,
+                            "trophies": 709
+                        }
+                    },
+                    {
+                        "tag": "#2GYGQ090L",
+                        "name": "LsT|L1xqeek \u00a9",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 9,
+                            "trophies": 718
+                        }
+                    },
+                    {
+                        "tag": "#9PJ8PC0CQ",
+                        "name": "\u043f\u0440\u043e\u0441\u0442\u043e\u0440\u043e\u043c\u0430\u043d 2",
+                        "brawler": {
+                            "id": 16000038,
+                            "name": "SURGE",
+                            "power": 9,
+                            "trophies": 708
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#89VLY9QPJ",
+                        "name": "TSJ | wQuite",
+                        "brawler": {
+                            "id": 16000046,
+                            "name": "BELLE",
+                            "power": 9,
+                            "trophies": 708
+                        }
+                    },
+                    {
+                        "tag": "#90J002GUR",
+                        "name": "CoS|mkaya\ud83d\udc95s",
+                        "brawler": {
+                            "id": 16000049,
+                            "name": "BUZZ",
+                            "power": 8,
+                            "trophies": 642
+                        }
+                    },
+                    {
+                        "tag": "#VR2UY00G",
+                        "name": "HighDefinition",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 9,
+                            "trophies": 570
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T114904.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 130,
+            "starPlayer": {
+                "tag": "#890PQJGPU",
+                "name": "Tyrone",
+                "brawler": {
+                    "id": 16000040,
+                    "name": "AMBER",
+                    "power": 1,
+                    "trophies": 51
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#8U2YJ880",
+                        "name": "NOWASEN",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 1,
+                            "trophies": 56
+                        }
+                    },
+                    {
+                        "tag": "#890PQJGPU",
+                        "name": "Tyrone",
+                        "brawler": {
+                            "id": 16000040,
+                            "name": "AMBER",
+                            "power": 1,
+                            "trophies": 51
+                        }
+                    },
+                    {
+                        "tag": "#VJURRGLY",
+                        "name": "DieLegende123",
+                        "brawler": {
+                            "id": 16000042,
+                            "name": "BYRON",
+                            "power": 3,
+                            "trophies": 33
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2PU2LGR8",
+                        "name": "Mr.Wano",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 2,
+                            "trophies": 40
+                        }
+                    },
+                    {
+                        "tag": "#YL8CPPGCV",
+                        "name": "ahmed",
+                        "brawler": {
+                            "id": 16000037,
+                            "name": "SPROUT",
+                            "power": 4,
+                            "trophies": 36
+                        }
+                    },
+                    {
+                        "tag": "#88GY0GQRV",
+                        "name": "DRAG\u00d3NDECOMODO",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 1,
+                            "trophies": 58
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T114621.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 91,
+            "trophyChange": 8,
+            "starPlayer": {
+                "tag": "#PV820CRLY",
+                "name": "\ud83d\udd25Sig.P.\ud83d\udd25",
+                "brawler": {
+                    "id": 16000048,
+                    "name": "GROM",
+                    "power": 7,
+                    "trophies": 48
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2G0U28QUP",
+                        "name": "GX erbananone",
+                        "brawler": {
+                            "id": 16000032,
+                            "name": "MAX",
+                            "power": 5,
+                            "trophies": 33
+                        }
+                    },
+                    {
+                        "tag": "#JJPQ9VGR",
+                        "name": "Cons2210",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 1,
+                            "trophies": 54
+                        }
+                    },
+                    {
+                        "tag": "#8VC0GJ02Q",
+                        "name": "THAmastar",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 1,
+                            "trophies": 41
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#8U2YJ880",
+                        "name": "NOWASEN",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 1,
+                            "trophies": 48
+                        }
+                    },
+                    {
+                        "tag": "#PV820CRLY",
+                        "name": "\ud83d\udd25Sig.P.\ud83d\udd25",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 7,
+                            "trophies": 48
+                        }
+                    },
+                    {
+                        "tag": "#2PU2LGR8",
+                        "name": "Mr.Wano",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 2,
+                            "trophies": 32
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T180916.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 117,
+            "trophyChange": -2,
+            "starPlayer": {
+                "tag": "#22JG80R02",
+                "name": "BlanTxSmokE",
+                "brawler": {
+                    "id": 16000039,
+                    "name": "COLETTE",
+                    "power": 7,
+                    "trophies": 162
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#CV22RPP",
+                        "name": "K.O-Perfect",
+                        "brawler": {
+                            "id": 16000035,
+                            "name": "GALE",
+                            "power": 9,
+                            "trophies": 208
+                        }
+                    },
+                    {
+                        "tag": "#89PY2LLPQ",
+                        "name": "natalius",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 2,
+                            "trophies": 157
+                        }
+                    },
+                    {
+                        "tag": "#22JG80R02",
+                        "name": "BlanTxSmokE",
+                        "brawler": {
+                            "id": 16000039,
+                            "name": "COLETTE",
+                            "power": 7,
+                            "trophies": 162
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2JLGPV29V",
+                        "name": "\u2694\ufe0fCrossgamer\ud83c\udfae",
+                        "brawler": {
+                            "id": 16000053,
+                            "name": "LOLA",
+                            "power": 2,
+                            "trophies": 197
+                        }
+                    },
+                    {
+                        "tag": "#L2YPL28C",
+                        "name": "Ibrahim",
+                        "brawler": {
+                            "id": 16000031,
+                            "name": "MR. P",
+                            "power": 1,
+                            "trophies": 170
+                        }
+                    },
+                    {
+                        "tag": "#GP0UVR2L",
+                        "name": "FreezCaitCannon",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 8,
+                            "trophies": 188
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T171303.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 123,
+            "trophyChange": 8,
+            "starPlayer": {
+                "tag": "#GP0UVR2L",
+                "name": "FreezCaitCannon",
+                "brawler": {
+                    "id": 16000048,
+                    "name": "GROM",
+                    "power": 8,
+                    "trophies": 180
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#8ULJ2GQ0",
+                        "name": "Yunus!!",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 4,
+                            "trophies": 169
+                        }
+                    },
+                    {
+                        "tag": "#PPQ0UCUQJ",
+                        "name": "Ensa\u00efmada",
+                        "brawler": {
+                            "id": 16000039,
+                            "name": "COLETTE",
+                            "power": 3,
+                            "trophies": 168
+                        }
+                    },
+                    {
+                        "tag": "#GP0UVR2L",
+                        "name": "FreezCaitCannon",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 8,
+                            "trophies": 180
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#80RVQ900",
+                        "name": "Lainque",
+                        "brawler": {
+                            "id": 16000040,
+                            "name": "AMBER",
+                            "power": 7,
+                            "trophies": 181
+                        }
+                    },
+                    {
+                        "tag": "#LCJRJJPYY",
+                        "name": "super burger",
+                        "brawler": {
+                            "id": 16000001,
+                            "name": "COLT",
+                            "power": 1,
+                            "trophies": 194
+                        }
+                    },
+                    {
+                        "tag": "#8PYU0P0QR",
+                        "name": "sam burger",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 7,
+                            "trophies": 134
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T143009.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 92,
+            "trophyChange": 8,
+            "starPlayer": {
+                "tag": "#JV0U9UUV",
+                "name": "SeRi KaTiL",
+                "brawler": {
+                    "id": 16000046,
+                    "name": "BELLE",
+                    "power": 2,
+                    "trophies": 177
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#P90YC9U82",
+                        "name": "[\u0411\u041b\u0415\u0422]\u041c\u0430\u043a\u0441",
+                        "brawler": {
+                            "id": 16000047,
+                            "name": "SQUEAK",
+                            "power": 1,
+                            "trophies": 16
+                        }
+                    },
+                    {
+                        "tag": "#C80P80LL",
+                        "name": "Myilka",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 7,
+                            "trophies": 322
+                        }
+                    },
+                    {
+                        "tag": "#9Y00VLGLL",
+                        "name": "Yashalava",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 5,
+                            "trophies": 20
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2PRGVJ8U",
+                        "name": "TinTinTinas",
+                        "brawler": {
+                            "id": 16000053,
+                            "name": "LOLA",
+                            "power": 3,
+                            "trophies": 175
+                        }
+                    },
+                    {
+                        "tag": "#JV0U9UUV",
+                        "name": "SeRi KaTiL",
+                        "brawler": {
+                            "id": 16000046,
+                            "name": "BELLE",
+                            "power": 2,
+                            "trophies": 177
+                        }
+                    },
+                    {
+                        "tag": "#GP0UVR2L",
+                        "name": "FreezCaitCannon",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 8,
+                            "trophies": 172
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T131241.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 87,
+            "trophyChange": 8,
+            "starPlayer": {
+                "tag": "#GP0UVR2L",
+                "name": "FreezCaitCannon",
+                "brawler": {
+                    "id": 16000048,
+                    "name": "GROM",
+                    "power": 8,
+                    "trophies": 164
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#9RGULJPQG",
+                        "name": "moad245",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 1,
+                            "trophies": 162
+                        }
+                    },
+                    {
+                        "tag": "#2C0V2R9LR",
+                        "name": ".nak.\ud83c\udf1f\ud83d\ude3c",
+                        "brawler": {
+                            "id": 16000049,
+                            "name": "BUZZ",
+                            "power": 4,
+                            "trophies": 126
+                        }
+                    },
+                    {
+                        "tag": "#LJVQCJV",
+                        "name": "AQM|Neevets\ud83d\ude3c",
+                        "brawler": {
+                            "id": 16000032,
+                            "name": "MAX",
+                            "power": 2,
+                            "trophies": 184
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#P0JGUGJQ2",
+                        "name": "TR Moon",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 7,
+                            "trophies": 180
+                        }
+                    },
+                    {
+                        "tag": "#GP0UVR2L",
+                        "name": "FreezCaitCannon",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 8,
+                            "trophies": 164
+                        }
+                    },
+                    {
+                        "tag": "#2VJJGY8CL",
+                        "name": "ss|abranite",
+                        "brawler": {
+                            "id": 16000038,
+                            "name": "SURGE",
+                            "power": 6,
+                            "trophies": 162
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T102812.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 104,
+            "trophyChange": 8,
+            "starPlayer": {
+                "tag": "#2QRG92GR",
+                "name": "vR|Sebu",
+                "brawler": {
+                    "id": 16000048,
+                    "name": "GROM",
+                    "power": 7,
+                    "trophies": 26
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2QRG92GR",
+                        "name": "vR|Sebu",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 7,
+                            "trophies": 26
+                        }
+                    },
+                    {
+                        "tag": "#2LYR0VP0",
+                        "name": "agent spike",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 6,
+                            "trophies": 39
+                        }
+                    },
+                    {
+                        "tag": "#29ULJ89Q",
+                        "name": "Huey",
+                        "brawler": {
+                            "id": 16000052,
+                            "name": "MEG",
+                            "power": 1,
+                            "trophies": 39
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#JCLP09GQ",
+                        "name": "pierrotpoireau",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 1,
+                            "trophies": 49
+                        }
+                    },
+                    {
+                        "tag": "#9RPGJGG29",
+                        "name": "Timiboy",
+                        "brawler": {
+                            "id": 16000053,
+                            "name": "LOLA",
+                            "power": 1,
+                            "trophies": 30
+                        }
+                    },
+                    {
+                        "tag": "#L2GQ98J2U",
+                        "name": "C\u0362\u0362\u0362\u211di\u03aeg\u04bdD\ud835\udd64d\u1d49r",
+                        "brawler": {
+                            "id": 16000037,
+                            "name": "SPROUT",
+                            "power": 1,
+                            "trophies": 32
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T192218.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 88,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#22G09P98G",
+                "name": "\u7231|DarkLord|\u7231",
+                "brawler": {
+                    "id": 16000015,
+                    "name": "PIPER",
+                    "power": 11,
+                    "trophies": 1062
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2U9UCRL2",
+                        "name": "El Nisso\ud83c\udf79",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 981
+                        }
+                    },
+                    {
+                        "tag": "#22G09P98G",
+                        "name": "\u7231|DarkLord|\u7231",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 1062
+                        }
+                    },
+                    {
+                        "tag": "#28YU2Y828",
+                        "name": "2Face\ud83c\udf17",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 878
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#UJCVPU00",
+                        "name": "\u0413\u0423\u041c\u0410\u041d\u041e\u0418\u0414 \u041f\u0410\u0412\u041b\u0418\u041a",
+                        "brawler": {
+                            "id": 16000005,
+                            "name": "SPIKE",
+                            "power": 10,
+                            "trophies": 860
+                        }
+                    },
+                    {
+                        "tag": "#YCJCQJCV",
+                        "name": "DANNI",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 823
+                        }
+                    },
+                    {
+                        "tag": "#8GC82QUP2",
+                        "name": "disney",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 10,
+                            "trophies": 959
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T191952.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 112,
+            "trophyChange": -9,
+            "starPlayer": {
+                "tag": "#PYU8R9LJ",
+                "name": "BS Ruil",
+                "brawler": {
+                    "id": 16000011,
+                    "name": "MORTIS",
+                    "power": 11,
+                    "trophies": 913
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#YQ9QPV9VQ",
+                        "name": "ItZ_AleXPrO_eZz",
+                        "brawler": {
+                            "id": 16000042,
+                            "name": "BYRON",
+                            "power": 10,
+                            "trophies": 995
+                        }
+                    },
+                    {
+                        "tag": "#YVV2J0UY",
+                        "name": "SRN|Yurcha",
+                        "brawler": {
+                            "id": 16000030,
+                            "name": "EMZ",
+                            "power": 10,
+                            "trophies": 924
+                        }
+                    },
+                    {
+                        "tag": "#PYU8R9LJ",
+                        "name": "BS Ruil",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 11,
+                            "trophies": 913
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2U9UCRL2",
+                        "name": "El Nisso\ud83c\udf79",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 991
+                        }
+                    },
+                    {
+                        "tag": "#28YU2Y828",
+                        "name": "2Face\ud83c\udf17",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 887
+                        }
+                    },
+                    {
+                        "tag": "#22G09P98G",
+                        "name": "\u7231|DarkLord|\u7231",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 1073
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T191715.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 89,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#2U9UCRL2",
+                "name": "El Nisso\ud83c\udf79",
+                "brawler": {
+                    "id": 16000017,
+                    "name": "TARA",
+                    "power": 11,
+                    "trophies": 985
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2U9UCRL2",
+                        "name": "El Nisso\ud83c\udf79",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 985
+                        }
+                    },
+                    {
+                        "tag": "#28YU2Y828",
+                        "name": "2Face\ud83c\udf17",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 880
+                        }
+                    },
+                    {
+                        "tag": "#22G09P98G",
+                        "name": "\u7231|DarkLord|\u7231",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 1068
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#29QJU9RP9",
+                        "name": "kerlekgg",
+                        "brawler": {
+                            "id": 16000046,
+                            "name": "BELLE",
+                            "power": 9,
+                            "trophies": 824
+                        }
+                    },
+                    {
+                        "tag": "#220PLRRYY",
+                        "name": "\u739b\u838esmail \u7231\u4f60",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 961
+                        }
+                    },
+                    {
+                        "tag": "#280RJ9Q02",
+                        "name": "Sparel",
+                        "brawler": {
+                            "id": 16000030,
+                            "name": "EMZ",
+                            "power": 11,
+                            "trophies": 918
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T191505.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 99,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#2U9UCRL2",
+                "name": "El Nisso\ud83c\udf79",
+                "brawler": {
+                    "id": 16000017,
+                    "name": "TARA",
+                    "power": 11,
+                    "trophies": 979
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2U9UCRL2",
+                        "name": "El Nisso\ud83c\udf79",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 979
+                        }
+                    },
+                    {
+                        "tag": "#22G09P98G",
+                        "name": "\u7231|DarkLord|\u7231",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 1063
+                        }
+                    },
+                    {
+                        "tag": "#28YU2Y828",
+                        "name": "2Face\ud83c\udf17",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 873
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#YPLGUGR9G",
+                        "name": "sss\u1d00s\u026a\u0274\u00d7ex1tezz",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 873
+                        }
+                    },
+                    {
+                        "tag": "#2GQ9QYL0R",
+                        "name": "Maybach",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 10,
+                            "trophies": 800
+                        }
+                    },
+                    {
+                        "tag": "#90L2PPQ8J",
+                        "name": "\uff54\uff45\uff45\uff4e\uff41\uff47\uff45\uff52\uff4c\uff55\uff43\uff4b\uff59",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 10,
+                            "trophies": 840
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T191148.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 104,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#2U9UCRL2",
+                "name": "El Nisso\ud83c\udf79",
+                "brawler": {
+                    "id": 16000017,
+                    "name": "TARA",
+                    "power": 11,
+                    "trophies": 973
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#22G09P98G",
+                        "name": "\u7231|DarkLord|\u7231",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 1058
+                        }
+                    },
+                    {
+                        "tag": "#28YU2Y828",
+                        "name": "2Face\ud83c\udf17",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 866
+                        }
+                    },
+                    {
+                        "tag": "#2U9UCRL2",
+                        "name": "El Nisso\ud83c\udf79",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 973
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#90U009CG9",
+                        "name": "99|bon\ud83e\udd51",
+                        "brawler": {
+                            "id": 16000005,
+                            "name": "SPIKE",
+                            "power": 9,
+                            "trophies": 725
+                        }
+                    },
+                    {
+                        "tag": "#2JLC009C0",
+                        "name": "GetYour\ud83c\udf51Ready",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 929
+                        }
+                    },
+                    {
+                        "tag": "#80QCUYGP8",
+                        "name": "Vanya Shark",
+                        "brawler": {
+                            "id": 16000007,
+                            "name": "JESSIE",
+                            "power": 10,
+                            "trophies": 966
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T190922.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 91,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#22G09P98G",
+                "name": "\u7231|DarkLord|\u7231",
+                "brawler": {
+                    "id": 16000015,
+                    "name": "PIPER",
+                    "power": 11,
+                    "trophies": 1053
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2U9UCRL2",
+                        "name": "El Nisso\ud83c\udf79",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 967
+                        }
+                    },
+                    {
+                        "tag": "#22G09P98G",
+                        "name": "\u7231|DarkLord|\u7231",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 1053
+                        }
+                    },
+                    {
+                        "tag": "#28YU2Y828",
+                        "name": "2Face\ud83c\udf17",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 859
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#209QG2JPG",
+                        "name": "$DoShIk$",
+                        "brawler": {
+                            "id": 16000046,
+                            "name": "BELLE",
+                            "power": 10,
+                            "trophies": 967
+                        }
+                    },
+                    {
+                        "tag": "#22C88CJYU",
+                        "name": "GX\u2022\u1d0d\u1d0f\u029f\u1d0f\u1d05\u1d0f\u028f\u30c4",
+                        "brawler": {
+                            "id": 16000005,
+                            "name": "SPIKE",
+                            "power": 9,
+                            "trophies": 880
+                        }
+                    },
+                    {
+                        "tag": "#8PLRQ8L98",
+                        "name": "S\u0274\u1d07\u1d00\u1d0b\u028f\u1d47\u1d43\u1d48 \u1d47\u1d52\u02b8\ud83e\udd40",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 967
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T190350.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 100,
+            "trophyChange": -9,
+            "starPlayer": {
+                "tag": "#VUCYPUR8",
+                "name": "Artik\ud83d\ude14\ud83e\udd40",
+                "brawler": {
+                    "id": 16000011,
+                    "name": "MORTIS",
+                    "power": 11,
+                    "trophies": 864
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#PYURUYPV",
+                        "name": "BGP | GG\u00e2m\u00ea\u0159",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 1075
+                        }
+                    },
+                    {
+                        "tag": "#28YU2Y828",
+                        "name": "2Face\ud83c\udf17",
+                        "brawler": {
+                            "id": 16000040,
+                            "name": "AMBER",
+                            "power": 10,
+                            "trophies": 814
+                        }
+                    },
+                    {
+                        "tag": "#22G09P98G",
+                        "name": "\u7231|DarkLord|\u7231",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 1064
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2R0JC2YJP",
+                        "name": "SD|CRAB\u2764\ufe0f",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 932
+                        }
+                    },
+                    {
+                        "tag": "#2GQ9JPYYU",
+                        "name": "\ud83d\udd2e|Daddy\ud83c\udf3aFill",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 872
+                        }
+                    },
+                    {
+                        "tag": "#VUCYPUR8",
+                        "name": "Artik\ud83d\ude14\ud83e\udd40",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 11,
+                            "trophies": 864
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T190015.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 82,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#22G09P98G",
+                "name": "\u7231|DarkLord|\u7231",
+                "brawler": {
+                    "id": 16000015,
+                    "name": "PIPER",
+                    "power": 11,
+                    "trophies": 1059
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#29JLQPQ2J",
+                        "name": "_Burxk",
+                        "brawler": {
+                            "id": 16000023,
+                            "name": "LEON",
+                            "power": 9,
+                            "trophies": 852
+                        }
+                    },
+                    {
+                        "tag": "#2U0P2QQ2Y",
+                        "name": "Gongas10",
+                        "brawler": {
+                            "id": 16000031,
+                            "name": "MR. P",
+                            "power": 11,
+                            "trophies": 985
+                        }
+                    },
+                    {
+                        "tag": "#GGQ89QPQ",
+                        "name": "F2F|David",
+                        "brawler": {
+                            "id": 16000049,
+                            "name": "BUZZ",
+                            "power": 11,
+                            "trophies": 912
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#PYURUYPV",
+                        "name": "BGP | GG\u00e2m\u00ea\u0159",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 1070
+                        }
+                    },
+                    {
+                        "tag": "#22G09P98G",
+                        "name": "\u7231|DarkLord|\u7231",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 1059
+                        }
+                    },
+                    {
+                        "tag": "#28YU2Y828",
+                        "name": "2Face\ud83c\udf17",
+                        "brawler": {
+                            "id": 16000040,
+                            "name": "AMBER",
+                            "power": 10,
+                            "trophies": 807
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T185634.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 86,
+            "trophyChange": -9,
+            "starPlayer": {
+                "tag": "#P0VCLJGG8",
+                "name": "\ud835\ude9e\ud835\ude97\ud835\ude9d\ud835\ude98\ud835\ude9e\ud835\ude8c\ud835\ude91\u2766",
+                "brawler": {
+                    "id": 16000011,
+                    "name": "MORTIS",
+                    "power": 11,
+                    "trophies": 979
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#829JC2UG2",
+                        "name": "I\u2019m Aragon\ud83c\udf0b",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 979
+                        }
+                    },
+                    {
+                        "tag": "#LJJ22Y8V",
+                        "name": "\u26a1CIS|LepKor\u2122\ufe0f",
+                        "brawler": {
+                            "id": 16000046,
+                            "name": "BELLE",
+                            "power": 11,
+                            "trophies": 978
+                        }
+                    },
+                    {
+                        "tag": "#P0VCLJGG8",
+                        "name": "\ud835\ude9e\ud835\ude97\ud835\ude9d\ud835\ude98\ud835\ude9e\ud835\ude8c\ud835\ude91\u2766",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 11,
+                            "trophies": 979
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#22G09P98G",
+                        "name": "\u7231|DarkLord|\u7231",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 1070
+                        }
+                    },
+                    {
+                        "tag": "#28YU2Y828",
+                        "name": "2Face\ud83c\udf17",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 868
+                        }
+                    },
+                    {
+                        "tag": "#PYURUYPV",
+                        "name": "BGP | GG\u00e2m\u00ea\u0159",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 1081
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T185404.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 117,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#22G09P98G",
+                "name": "\u7231|DarkLord|\u7231",
+                "brawler": {
+                    "id": 16000015,
+                    "name": "PIPER",
+                    "power": 11,
+                    "trophies": 1065
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#PYURUYPV",
+                        "name": "BGP | GG\u00e2m\u00ea\u0159",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 1076
+                        }
+                    },
+                    {
+                        "tag": "#28YU2Y828",
+                        "name": "2Face\ud83c\udf17",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 861
+                        }
+                    },
+                    {
+                        "tag": "#22G09P98G",
+                        "name": "\u7231|DarkLord|\u7231",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 1065
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#200VVJVUP",
+                        "name": "ZoMb",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 969
+                        }
+                    },
+                    {
+                        "tag": "#8J0JR80PC",
+                        "name": "\ud83d\ude14\u5927 | AfizCZ",
+                        "brawler": {
+                            "id": 16000030,
+                            "name": "EMZ",
+                            "power": 10,
+                            "trophies": 989
+                        }
+                    },
+                    {
+                        "tag": "#209U90Q9J",
+                        "name": "NaVi|Papahell",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 940
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T185024.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 100,
+            "trophyChange": -11,
+            "starPlayer": {
+                "tag": "#UUJY82VL",
+                "name": "[BG] G A M A",
+                "brawler": {
+                    "id": 16000017,
+                    "name": "TARA",
+                    "power": 11,
+                    "trophies": 936
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#22G09P98G",
+                        "name": "\u7231|DarkLord|\u7231",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 1076
+                        }
+                    },
+                    {
+                        "tag": "#28YU2Y828",
+                        "name": "2Face\ud83c\udf17",
+                        "brawler": {
+                            "id": 16000004,
+                            "name": "RICO",
+                            "power": 11,
+                            "trophies": 1067
+                        }
+                    },
+                    {
+                        "tag": "#PYURUYPV",
+                        "name": "BGP | GG\u00e2m\u00ea\u0159",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 1087
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#VUU08YVR",
+                        "name": "RG | ValeraWD",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 936
+                        }
+                    },
+                    {
+                        "tag": "#8RP8LRY82",
+                        "name": "RG | NaySen",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 11,
+                            "trophies": 936
+                        }
+                    },
+                    {
+                        "tag": "#UUJY82VL",
+                        "name": "[BG] G A M A",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 936
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T184742.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 83,
+            "trophyChange": 5,
+            "starPlayer": {
+                "tag": "#28YU2Y828",
+                "name": "2Face\ud83c\udf17",
+                "brawler": {
+                    "id": 16000004,
+                    "name": "RICO",
+                    "power": 11,
+                    "trophies": 1062
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#9GU92JCVP",
+                        "name": "markalle\ud83e\udd8b",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 11,
+                            "trophies": 903
+                        }
+                    },
+                    {
+                        "tag": "#8C2U2RP98",
+                        "name": "Samurai\ud83d\udc94",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 896
+                        }
+                    },
+                    {
+                        "tag": "#V9GURVCL",
+                        "name": "\u1d0d\u1d1c\u1d0b\u1d0b\u1d00.",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 9,
+                            "trophies": 577
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#PYURUYPV",
+                        "name": "BGP | GG\u00e2m\u00ea\u0159",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 1082
+                        }
+                    },
+                    {
+                        "tag": "#28YU2Y828",
+                        "name": "2Face\ud83c\udf17",
+                        "brawler": {
+                            "id": 16000004,
+                            "name": "RICO",
+                            "power": 11,
+                            "trophies": 1062
+                        }
+                    },
+                    {
+                        "tag": "#22G09P98G",
+                        "name": "\u7231|DarkLord|\u7231",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 1071
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T184451.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 87,
+            "trophyChange": 5,
+            "starPlayer": {
+                "tag": "#22G09P98G",
+                "name": "\u7231|DarkLord|\u7231",
+                "brawler": {
+                    "id": 16000015,
+                    "name": "PIPER",
+                    "power": 11,
+                    "trophies": 1066
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#PYURUYPV",
+                        "name": "BGP | GG\u00e2m\u00ea\u0159",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 1077
+                        }
+                    },
+                    {
+                        "tag": "#28YU2Y828",
+                        "name": "2Face\ud83c\udf17",
+                        "brawler": {
+                            "id": 16000004,
+                            "name": "RICO",
+                            "power": 11,
+                            "trophies": 1057
+                        }
+                    },
+                    {
+                        "tag": "#22G09P98G",
+                        "name": "\u7231|DarkLord|\u7231",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 1066
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#28020YPGR",
+                        "name": "\u1d21\u0299\u0493 \u1d0b\u1d0f\u0280\u1d07s\u029c\ud83d\udc94",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 11,
+                            "trophies": 1005
+                        }
+                    },
+                    {
+                        "tag": "#2C0YYPCRU",
+                        "name": "TimeNight",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 10,
+                            "trophies": 943
+                        }
+                    },
+                    {
+                        "tag": "#202890J8V",
+                        "name": "svt=)",
+                        "brawler": {
+                            "id": 16000030,
+                            "name": "EMZ",
+                            "power": 11,
+                            "trophies": 1004
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    {
+        "battleTime": "20211226T184010.000Z",
+        "event": {
+            "id": 15000011,
+            "mode": "gemGrab",
+            "map": "Undermine"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 107,
+            "trophyChange": -11,
+            "starPlayer": {
+                "tag": "#299G0CY0J",
+                "name": "[NIGHT]FURY",
+                "brawler": {
+                    "id": 16000012,
+                    "name": "CROW",
+                    "power": 10,
+                    "trophies": 1199
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#28YU2Y828",
+                        "name": "2Face\ud83c\udf17",
+                        "brawler": {
+                            "id": 16000004,
+                            "name": "RICO",
+                            "power": 11,
+                            "trophies": 1068
+                        }
+                    },
+                    {
+                        "tag": "#22G09P98G",
+                        "name": "\u7231|DarkLord|\u7231",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 11,
+                            "trophies": 1077
+                        }
+                    },
+                    {
+                        "tag": "#PYURUYPV",
+                        "name": "BGP | GG\u00e2m\u00ea\u0159",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 10,
+                            "trophies": 1060
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2CY80RQUY",
+                        "name": "CoS | yu4o",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 10,
+                            "trophies": 1074
+                        }
+                    },
+                    {
+                        "tag": "#299G0CY0J",
+                        "name": "[NIGHT]FURY",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 10,
+                            "trophies": 1199
+                        }
+                    },
+                    {
+                        "tag": "#VG8LU0VU",
+                        "name": "Xe_IRR sK1\u0141\u0141s",
+                        "brawler": {
+                            "id": 16000019,
+                            "name": "PENNY",
+                            "power": 10,
+                            "trophies": 1156
+                        }
+                    }
+                ]
+            ]
+        }
     }
 ]
