@@ -45,7 +45,6 @@ class Battle:
       
       if 'starPlayer' in battle['battle'] and battle['battle']['starPlayer'] is not None :
          self.starTag=battle['battle']['starPlayer']['tag']
-         print("star tag: ", self.starTag)
          self.starName=battle['battle']['starPlayer']['name']
          if 'trophies' in battle['battle']['starPlayer']['brawler']:
             self.starBrawlerTrophies=battle['battle']['starPlayer']['brawler']["trophies"]
