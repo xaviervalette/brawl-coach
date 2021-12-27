@@ -1,5 +1,6 @@
 from functions import *
 
+getListOfFiles("..\\data\\battles")
 #Global variables
 player_limit=100
 

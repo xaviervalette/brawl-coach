@@ -1,193 +1,993 @@
 [
     {
         "mode": "gemGrab",
-        "map": "Four Squared",
-        "startTime": "20211222T080000",
-        "teamStats": {
-            "winNumber": 10,
-            "winRate": 1,
-            "pickRate": 0.4,
-            "pickNumber": 10,
-            "brawlers": [
-                "BIBOUNE",
-                "TARA",
-                "XAVIER"
-            ]
-        }
-    },
-    {
-        "mode": "gemGrab",
-        "map": "Four Squared",
+        "map": "Gem Fort",
         "startTime": "20211222T080000",
         "teamStats": {
             "winNumber": 1,
             "winRate": 1,
-            "pickRate": 0.04,
+            "pickRate": 0.011627906976744186,
             "pickNumber": 1,
             "brawlers": [
-                "BIBOUNE",
-                "TARA",
-                "XAVxIER"
+                "MEG",
+                "STU",
+                "TARA"
             ]
         }
     },
     {
         "mode": "gemGrab",
-        "map": "Four Squared",
+        "map": "Gem Fort",
         "startTime": "20211222T080000",
         "teamStats": {
             "winNumber": 1,
             "winRate": 1,
-            "pickRate": 0.04,
+            "pickRate": 0.011627906976744186,
             "pickNumber": 1,
             "brawlers": [
-                "BIBOUNE",
-                "TAxcRA",
-                "XAVIER"
+                "SHELLY",
+                "SURGE",
+                "TARA"
             ]
         }
     },
     {
         "mode": "gemGrab",
-        "map": "Four Squared",
+        "map": "Gem Fort",
         "startTime": "20211222T080000",
         "teamStats": {
             "winNumber": 1,
             "winRate": 1,
-            "pickRate": 0.04,
+            "pickRate": 0.011627906976744186,
             "pickNumber": 1,
             "brawlers": [
-                "BIBOUNE",
-                "TAaRA",
-                "XAVIER"
+                "EMZ",
+                "MEG",
+                "SPIKE"
             ]
         }
     },
     {
         "mode": "gemGrab",
-        "map": "Four Squared",
+        "map": "Gem Fort",
         "startTime": "20211222T080000",
         "teamStats": {
             "winNumber": 1,
             "winRate": 1,
-            "pickRate": 0.04,
+            "pickRate": 0.011627906976744186,
             "pickNumber": 1,
             "brawlers": [
-                "BIhBOUNE",
-                "TARA",
-                "XAVIER"
+                "COLT",
+                "MORTIS",
+                "RICO"
             ]
         }
     },
     {
         "mode": "gemGrab",
-        "map": "Four Squared",
+        "map": "Gem Fort",
         "startTime": "20211222T080000",
         "teamStats": {
             "winNumber": 1,
             "winRate": 1,
-            "pickRate": 0.04,
+            "pickRate": 0.011627906976744186,
             "pickNumber": 1,
             "brawlers": [
-                "BIBOUNE",
-                "TARAju",
-                "XAVIER"
+                "BULL",
+                "CROW",
+                "MORTIS"
             ]
         }
     },
     {
         "mode": "gemGrab",
-        "map": "Four Squared",
+        "map": "Gem Fort",
         "startTime": "20211222T080000",
         "teamStats": {
             "winNumber": 1,
             "winRate": 1,
-            "pickRate": 0.04,
+            "pickRate": 0.011627906976744186,
             "pickNumber": 1,
             "brawlers": [
-                "BIBOUNE",
-                "TARAn",
-                "XAVIER"
+                "MORTIS",
+                "RICO",
+                "STU"
             ]
         }
     },
     {
         "mode": "gemGrab",
-        "map": "Four Squared",
+        "map": "Gem Fort",
         "startTime": "20211222T080000",
         "teamStats": {
             "winNumber": 1,
             "winRate": 1,
-            "pickRate": 0.04,
+            "pickRate": 0.011627906976744186,
             "pickNumber": 1,
             "brawlers": [
-                "BIBhOUNE",
-                "TARA",
-                "XAVIER"
+                "DARRYL",
+                "EMZ",
+                "ROSA"
             ]
         }
     },
     {
         "mode": "gemGrab",
-        "map": "Four Squared",
-        "startTime": "20211222T080000",
-        "teamStats": {
-            "winNumber": 4,
-            "winRate": 1,
-            "pickRate": 0.16,
-            "pickNumber": 4,
-            "brawlers": [
-                "BIBOUNE",
-                "T\u00c3\u00a9ARA",
-                "XAVIER"
-            ]
-        }
-    },
-    {
-        "mode": "gemGrab",
-        "map": "Four Squared",
-        "startTime": "20211222T080000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.04,
-            "pickNumber": 1,
-            "brawlers": [
-                "BIBOUeNE",
-                "TARA",
-                "XAVIER"
-            ]
-        }
-    },
-    {
-        "mode": "gemGrab",
-        "map": "Four Squared",
-        "startTime": "20211222T080000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.04,
-            "pickNumber": 1,
-            "brawlers": [
-                "BIBOUNE",
-                "TARA",
-                "XAeVIER"
-            ]
-        }
-    },
-    {
-        "mode": "gemGrab",
-        "map": "Four Squared",
+        "map": "Gem Fort",
         "startTime": "20211222T080000",
         "teamStats": {
             "winNumber": 2,
             "winRate": 1,
-            "pickRate": 0.08,
+            "pickRate": 0.023255813953488372,
             "pickNumber": 2,
             "brawlers": [
-                "BIBeOUNE",
-                "TARA",
-                "XAVIER"
+                "MAX",
+                "MORTIS",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "AMBER",
+                "GENE",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "GENE",
+                "SURGE",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "MEG",
+                "SPIKE",
+                "STU"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 0.5,
+            "pickRate": 0.023255813953488372,
+            "pickNumber": 2,
+            "brawlers": [
+                "EMZ",
+                "LEON",
+                "SANDY"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "AMBER",
+                "MORTIS",
+                "RICO"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "GENE",
+                "MORTIS",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "DARRYL",
+                "MEG",
+                "MORTIS"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "BULL",
+                "MORTIS",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 0.5,
+            "pickRate": 0.023255813953488372,
+            "pickNumber": 2,
+            "brawlers": [
+                "JESSIE",
+                "PIPER",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "BELLE",
+                "MEG",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "COLT",
+                "FRANK",
+                "RICO"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 0.5,
+            "pickRate": 0.023255813953488372,
+            "pickNumber": 2,
+            "brawlers": [
+                "EMZ",
+                "JESSIE",
+                "SANDY"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "BIBI",
+                "GROM",
+                "PENNY"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "GALE",
+                "MORTIS",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "CROW",
+                "SPIKE",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "COLETTE",
+                "GRIFF",
+                "SANDY"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 3,
+            "winRate": 0.75,
+            "pickRate": 0.046511627906976744,
+            "pickNumber": 4,
+            "brawlers": [
+                "GRIFF",
+                "GROM",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "GRIFF",
+                "GROM",
+                "NANI"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "COLETTE",
+                "MAX",
+                "MORTIS"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 2,
+            "winRate": 1,
+            "pickRate": 0.023255813953488372,
+            "pickNumber": 2,
+            "brawlers": [
+                "DARRYL",
+                "MEG",
+                "POCO"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "MORTIS",
+                "SANDY",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "POCO",
+                "SURGE",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 3,
+            "winRate": 1,
+            "pickRate": 0.03488372093023256,
+            "pickNumber": 3,
+            "brawlers": [
+                "EMZ",
+                "ROSA",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 0.5,
+            "pickRate": 0.023255813953488372,
+            "pickNumber": 2,
+            "brawlers": [
+                "MEG",
+                "RICO",
+                "SANDY"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 5,
+            "winRate": 0.7142857142857143,
+            "pickRate": 0.08139534883720931,
+            "pickNumber": 7,
+            "brawlers": [
+                "GROM",
+                "JESSIE",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "ASH",
+                "EMZ",
+                "SANDY"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "AMBER",
+                "EMZ",
+                "PIPER"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 2,
+            "winRate": 1,
+            "pickRate": 0.023255813953488372,
+            "pickNumber": 2,
+            "brawlers": [
+                "GROM",
+                "ROSA",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 0.5,
+            "pickRate": 0.023255813953488372,
+            "pickNumber": 2,
+            "brawlers": [
+                "MORTIS",
+                "MORTIS",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 2,
+            "winRate": 0.6666666666666666,
+            "pickRate": 0.03488372093023256,
+            "pickNumber": 3,
+            "brawlers": [
+                "AMBER",
+                "GROM",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "BEA",
+                "MORTIS",
+                "SHELLY"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "GENE",
+                "PAM",
+                "ROSA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 0.5,
+            "pickRate": 0.023255813953488372,
+            "pickNumber": 2,
+            "brawlers": [
+                "CROW",
+                "MORTIS",
+                "SANDY"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 0.3333333333333333,
+            "pickRate": 0.03488372093023256,
+            "pickNumber": 3,
+            "brawlers": [
+                "GROM",
+                "MAX",
+                "SANDY"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "GROM",
+                "RICO",
+                "SPROUT"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "JACKY",
+                "MORTIS",
+                "ROSA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 2,
+            "winRate": 0.5,
+            "pickRate": 0.046511627906976744,
+            "pickNumber": 4,
+            "brawlers": [
+                "MEG",
+                "MORTIS",
+                "RICO"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "GROM",
+                "MAX",
+                "ROSA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "BELLE",
+                "MORTIS",
+                "SHELLY"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 2,
+            "winRate": 0.4,
+            "pickRate": 0.05813953488372093,
+            "pickNumber": 5,
+            "brawlers": [
+                "CROW",
+                "MEG",
+                "SANDY"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "JESSIE",
+                "NITA",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "CROW",
+                "MORTIS",
+                "POCO"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "RICO",
+                "ROSA",
+                "SPIKE"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "LEON",
+                "MEG",
+                "ROSA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 3,
+            "winRate": 1,
+            "pickRate": 0.03488372093023256,
+            "pickNumber": 3,
+            "brawlers": [
+                "EMZ",
+                "RICO",
+                "STU"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "RICO",
+                "STU",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "FRANK",
+                "GALE",
+                "SPIKE"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "JESSIE",
+                "LOLA",
+                "PAM"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 0.5,
+            "pickRate": 0.023255813953488372,
+            "pickNumber": 2,
+            "brawlers": [
+                "GENE",
+                "LOLA",
+                "ROSA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 0.5,
+            "pickRate": 0.023255813953488372,
+            "pickNumber": 2,
+            "brawlers": [
+                "CROW",
+                "MORTIS",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 7,
+            "winRate": 1,
+            "pickRate": 0.08139534883720931,
+            "pickNumber": 7,
+            "brawlers": [
+                "GENE",
+                "LOLA",
+                "MEG"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 3,
+            "winRate": 1,
+            "pickRate": 0.03488372093023256,
+            "pickNumber": 3,
+            "brawlers": [
+                "AMBER",
+                "GENE",
+                "LOLA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "JACKY",
+                "LEON",
+                "SANDY"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Gem Fort",
+        "startTime": "20211222T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.011627906976744186,
+            "pickNumber": 1,
+            "brawlers": [
+                "MAX",
+                "MEG",
+                "RICO"
             ]
         }
     }

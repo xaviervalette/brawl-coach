@@ -131,53 +131,55 @@ def remove_team_duplicate(team):
 			team_no_dupplicate.append(elem)
 	return team_no_dupplicate
 
-def STORE_BEST_TEAM(mode,map, startTime):
-    mode="gemGrab"
-    map="Gem Fort"
-    startTime="20211222T080000"
+def STORE_BEST_TEAM(dirName):
+    dirName="..\\data\\battles"
     winTeams=[]
     loseTeams=[]
+    for root, subdirectories, files in os.walk(dirName):
+        for file in files:
+            #READ BATTLES
+            #with open("../data/battles/"+mode+"/"+map+"/"+startTime+"_"+mode+"_"+map+".json", 'r') as f:
+            mode=os.path.join(root, file).split("\\")[-1].split("_")[1]
+            map=os.path.join(root, file).split("\\")[-1].split("_")[2]
+            startTime=os.path.join(root, file).split("\\")[-1].split("_")[0]
+            with open(os.path.join(root, file), 'r') as f:
+                battles_mode_map = json.load(f)
 
-    #READ BATTLES
-    #with open("../data/battles/"+mode+"/"+map+"/"+startTime+"_"+mode+"_"+map+".json", 'r') as f:
-    with open("../data/battles/brawlBall/Slalom Slam/20211226T020000_brawlBall_Slalom Slam.json", 'r') as f:
-        battles_mode_map = json.load(f)
+            #GET WIN AND LOSE TEAMS
+            for battle in battles_mode_map:
+                winTeam, loseTeam = EXTRACT_TEAM_RESULT(battle)
+                winTeams.append(winTeam)
+                loseTeams.append(loseTeam)
+            
+            winTeamsUnique=[]
+            winTeamsUnique=remove_team_duplicate(winTeams)
+            loseTeamsUnique=[]
+            loseTeamsUnique=remove_team_duplicate(loseTeams)
 
-    #GET WIN AND LOSE TEAMS
-    for battle in battles_mode_map:
-        winTeam, loseTeam = EXTRACT_TEAM_RESULT(battle)
-        winTeams.append(winTeam)
-        loseTeams.append(loseTeam)
-    
-    winTeamsUnique=[]
-    winTeamsUnique=remove_team_duplicate(winTeams)
-    loseTeamsUnique=[]
-    loseTeamsUnique=remove_team_duplicate(loseTeams)
+            winTable=[]
 
-    winTable=[]
-
-    for team in winTeamsUnique:
-        pickNumber=winTeams.count(team)+loseTeams.count(team)
-        if(loseTeamsUnique.count(team)==0):
-            winRate=1
-        else:
-            winRate=winTeams.count(team)/pickNumber
-        win_dict = {
-            "mode": mode,
-            "map": map,
-            "startTime": startTime, #start day
-            "teamStats": {
-                "winNumber": winTeams.count(team),
-                "winRate":winRate,
-                "pickRate": (winTeams.count(team)+loseTeams.count(team))/(len(battles_mode_map)),
-                "pickNumber":pickNumber,
-                "brawlers": team
+            for team in winTeamsUnique:
+                pickNumber=winTeams.count(team)+loseTeams.count(team)
+                if(loseTeamsUnique.count(team)==0):
+                    winRate=1
+                else:
+                    winRate=winTeams.count(team)/pickNumber
+                win_dict = {
+                    "mode": mode,
+                    "map": map,
+                    "startTime": startTime, #start day
+                    "teamStats": {
+                        "winNumber": winTeams.count(team),
+                        "winRate":winRate,
+                        "pickRate": (winTeams.count(team)+loseTeams.count(team))/(len(battles_mode_map)),
+                        "pickNumber":pickNumber,
+                        "brawlers": team
+                        }
                 }
-        }
-        winTable.append(win_dict)
-    filename = "../data/stats/BrawlBall_Slalom Slam.json"
-    with open(filename, 'w') as fp:
-	    json.dump(winTable, fp, indent=4)
+                winTable.append(win_dict)
+            filename = "../data/stats/"+os.path.join(root, file).split("\\")[-1][16:]
+            with open(filename, 'w') as fp:
+                json.dump(winTable, fp, indent=4)
 
     
 
@@ -262,3 +264,12 @@ def STORE_BATTLES(battlelogsList):
     print("min number of battle per battle log: ", min(listNumOfBattles))
     print("max number of battle per battle log: ", max(listNumOfBattles))
     print("mean number of battle per battle log: ", sum(listNumOfBattles)/len(listNumOfBattles))
+
+'''
+    For the given path, get the List of all files in the directory tree 
+'''
+def getListOfFiles(dirName):
+
+    for root, subdirectories, files in os.walk(dirName):
+        for file in files:
+            print(os.path.join(root, file))
