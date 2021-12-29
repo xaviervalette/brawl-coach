@@ -145,11 +145,16 @@ def STORE_BEST_TEAM(dirName):
             with open(os.path.join(root, file), 'r') as f:
                 battles_mode_map = json.load(f)
 
+            winTeams.clear()
+            loseTeams.clear()
+
             #GET WIN AND LOSE TEAMS
             for battle in battles_mode_map:
                 winTeam, loseTeam = EXTRACT_TEAM_RESULT(battle)
-                winTeams.append(winTeam)
-                loseTeams.append(loseTeam)
+                winTeam_set = set(winTeam)
+                if len(winTeam) == len(winTeam_set):
+                    winTeams.append(winTeam)
+                    loseTeams.append(loseTeam)
             
             winTeamsUnique=[]
             winTeamsUnique=remove_team_duplicate(winTeams)

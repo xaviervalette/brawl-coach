@@ -469,9 +469,9 @@
         "startTime": "20211226T140000",
         "teamStats": {
             "winNumber": 4,
-            "winRate": 0.8,
-            "pickRate": 0.02976190476190476,
-            "pickNumber": 5,
+            "winRate": 1,
+            "pickRate": 0.023809523809523808,
+            "pickNumber": 4,
             "brawlers": [
                 "COLONEL RUFFS",
                 "GROM",
@@ -540,22 +540,6 @@
                 "GROM",
                 "PIPER",
                 "SPROUT"
-            ]
-        }
-    },
-    {
-        "mode": "bounty",
-        "map": "Dry Season.json",
-        "startTime": "20211226T140000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.011904761904761904,
-            "pickNumber": 2,
-            "brawlers": [
-                "BUZZ",
-                "GROM",
-                "GROM"
             ]
         }
     },
@@ -676,26 +660,10 @@
         "map": "Dry Season.json",
         "startTime": "20211226T140000",
         "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.005952380952380952,
-            "pickNumber": 1,
-            "brawlers": [
-                "COLT",
-                "GROM",
-                "GROM"
-            ]
-        }
-    },
-    {
-        "mode": "bounty",
-        "map": "Dry Season.json",
-        "startTime": "20211226T140000",
-        "teamStats": {
             "winNumber": 11,
-            "winRate": 0.7333333333333333,
-            "pickRate": 0.08928571428571429,
-            "pickNumber": 15,
+            "winRate": 0.7857142857142857,
+            "pickRate": 0.08333333333333333,
+            "pickNumber": 14,
             "brawlers": [
                 "GENE",
                 "GROM",
@@ -837,9 +805,9 @@
         "startTime": "20211226T140000",
         "teamStats": {
             "winNumber": 16,
-            "winRate": 0.8,
-            "pickRate": 0.11904761904761904,
-            "pickNumber": 20,
+            "winRate": 0.8421052631578947,
+            "pickRate": 0.1130952380952381,
+            "pickNumber": 19,
             "brawlers": [
                 "BELLE",
                 "BYRON",
@@ -988,22 +956,6 @@
                 "BELLE",
                 "MORTIS",
                 "NANI"
-            ]
-        }
-    },
-    {
-        "mode": "bounty",
-        "map": "Dry Season.json",
-        "startTime": "20211226T140000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.005952380952380952,
-            "pickNumber": 1,
-            "brawlers": [
-                "GENE",
-                "PIPER",
-                "PIPER"
             ]
         }
     },

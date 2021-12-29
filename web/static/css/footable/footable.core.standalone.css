@@ -401,7 +401,7 @@
 	padding: 6px 12px;
 	margin-left: -1px;
 	line-height: 1.42857143;
-	color: #337ab7;
+	color: #343a40;
 	text-decoration: none;
 	background-color: #fff;
 	border: 1px solid #ddd;
@@ -410,7 +410,7 @@
 .footable .pagination > li > span:hover,
 .footable .pagination > li > a:focus,
 .footable .pagination > li > span:focus {
-	color: #23527c;
+	color: #343a40;
 	background-color: #eee;
 	border-color: #ddd;
 }
@@ -421,10 +421,11 @@
 .footable .pagination > .active > a:focus,
 .footable .pagination > .active > span:focus {
 	z-index: 2;
-	color: #fff;
+	color: #0dcaf0;
 	cursor: default;
-	background-color: #337ab7;
-	border-color: #337ab7;
+	background-color: #343a40;
+	border-color: #0dcaf0;
+	border-radius:10%;
 }
 .footable .pagination > .disabled > span,
 .footable .pagination > .disabled > span:hover,

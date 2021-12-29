@@ -1,0 +1,226 @@
+[
+    {
+        "mode": "gemGrab",
+        "map": "Cotton Candy Dreams.json",
+        "startTime": "20211227T080000",
+        "teamStats": {
+            "winNumber": 21,
+            "winRate": 0.9545454545454546,
+            "pickRate": 0.5945945945945946,
+            "pickNumber": 22,
+            "brawlers": [
+                "ASH",
+                "BYRON",
+                "MORTIS"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Cotton Candy Dreams.json",
+        "startTime": "20211227T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.02702702702702703,
+            "pickNumber": 1,
+            "brawlers": [
+                "LEON",
+                "RICO",
+                "SANDY"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Cotton Candy Dreams.json",
+        "startTime": "20211227T080000",
+        "teamStats": {
+            "winNumber": 2,
+            "winRate": 0.6666666666666666,
+            "pickRate": 0.08108108108108109,
+            "pickNumber": 3,
+            "brawlers": [
+                "BELLE",
+                "CROW",
+                "ROSA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Cotton Candy Dreams.json",
+        "startTime": "20211227T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.02702702702702703,
+            "pickNumber": 1,
+            "brawlers": [
+                "MEG",
+                "ROSA",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Cotton Candy Dreams.json",
+        "startTime": "20211227T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.02702702702702703,
+            "pickNumber": 1,
+            "brawlers": [
+                "MEG",
+                "PENNY",
+                "ROSA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Cotton Candy Dreams.json",
+        "startTime": "20211227T080000",
+        "teamStats": {
+            "winNumber": 2,
+            "winRate": 1,
+            "pickRate": 0.05405405405405406,
+            "pickNumber": 2,
+            "brawlers": [
+                "GENE",
+                "LEON",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Cotton Candy Dreams.json",
+        "startTime": "20211227T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 0.3333333333333333,
+            "pickRate": 0.08108108108108109,
+            "pickNumber": 3,
+            "brawlers": [
+                "GENE",
+                "PAM",
+                "SANDY"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Cotton Candy Dreams.json",
+        "startTime": "20211227T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.02702702702702703,
+            "pickNumber": 1,
+            "brawlers": [
+                "CROW",
+                "JESSIE",
+                "ROSA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Cotton Candy Dreams.json",
+        "startTime": "20211227T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.02702702702702703,
+            "pickNumber": 1,
+            "brawlers": [
+                "BULL",
+                "BUZZ",
+                "MAX"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Cotton Candy Dreams.json",
+        "startTime": "20211227T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.02702702702702703,
+            "pickNumber": 1,
+            "brawlers": [
+                "GENE",
+                "GROM",
+                "MR. P"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Cotton Candy Dreams.json",
+        "startTime": "20211227T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.02702702702702703,
+            "pickNumber": 1,
+            "brawlers": [
+                "BO",
+                "BULL",
+                "LEON"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Cotton Candy Dreams.json",
+        "startTime": "20211227T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.02702702702702703,
+            "pickNumber": 1,
+            "brawlers": [
+                "CROW",
+                "EDGAR",
+                "ROSA"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Cotton Candy Dreams.json",
+        "startTime": "20211227T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.02702702702702703,
+            "pickNumber": 1,
+            "brawlers": [
+                "LEON",
+                "ROSA",
+                "SANDY"
+            ]
+        }
+    },
+    {
+        "mode": "gemGrab",
+        "map": "Cotton Candy Dreams.json",
+        "startTime": "20211227T080000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.02702702702702703,
+            "pickNumber": 1,
+            "brawlers": [
+                "BYRON",
+                "MORTIS",
+                "TARA"
+            ]
+        }
+    }
+]

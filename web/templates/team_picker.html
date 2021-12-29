@@ -14,6 +14,7 @@
 </div>
 
 <div class="px-4 my-5 text-center border-bottom">
+  <button type="button" class="btn btn-info" onclick="location.href='/'">Back</button>
     <h1 class="display-4 fw-bold">Current events</h1>
     <div class="col-lg-6 mx-auto">
       <table class="table">
@@ -21,17 +22,17 @@
           <tr>
             <th scope="col">Mode</th>
             <th scope="col">Map</th>
-            <th scope="col"></th>
           </tr>
         </thead>
         <tbody>
             {% for i in range(0, len) %}
                 <tr>
                     <td>{{current_events[i]["event"]["mode"]|upper}}</td>
-                    <td>{{current_events[i]["event"]["map"]|upper}}</td>
-                    <td>
-                      <a href='/teampicker/{{current_events[i]["event"]["mode"]}}/{{current_events[i]["event"]["map"]}}'>Details</a>
-                  </td>
+                    <td>                      
+                      <a  class="link-info" href='/teampicker/{{current_events[i]["event"]["mode"]}}/{{current_events[i]["event"]["map"]}}'>
+                      {{current_events[i]["event"]["map"]|upper}}
+                      </a>
+                    </td>
                 </tr>
             {% endfor %}
         </tbody>
@@ -39,5 +40,11 @@
     </div>
     
   </div>
+
+  <style>
+    .footable-page-link{  
+    background-color: black !important;
+    }
+  </style>
   {% endblock team_picker %}
 </section>

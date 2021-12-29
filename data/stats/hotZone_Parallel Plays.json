@@ -1,0 +1,338 @@
+[
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 13,
+            "winRate": 0.7222222222222222,
+            "pickRate": 0.32142857142857145,
+            "pickNumber": 18,
+            "brawlers": [
+                "GROM",
+                "NITA",
+                "SQUEAK"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 2,
+            "winRate": 0.6666666666666666,
+            "pickRate": 0.05357142857142857,
+            "pickNumber": 3,
+            "brawlers": [
+                "SHELLY",
+                "SPIKE",
+                "STU"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.017857142857142856,
+            "pickNumber": 1,
+            "brawlers": [
+                "LEON",
+                "MEG",
+                "SPIKE"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 0.5,
+            "pickRate": 0.03571428571428571,
+            "pickNumber": 2,
+            "brawlers": [
+                "EMZ",
+                "SHELLY",
+                "STU"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.017857142857142856,
+            "pickNumber": 1,
+            "brawlers": [
+                "EMZ",
+                "SANDY",
+                "SPIKE"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.017857142857142856,
+            "pickNumber": 1,
+            "brawlers": [
+                "BO",
+                "EMZ",
+                "FRANK"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 2,
+            "winRate": 0.5,
+            "pickRate": 0.07142857142857142,
+            "pickNumber": 4,
+            "brawlers": [
+                "LEON",
+                "SANDY",
+                "SURGE"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 0.3333333333333333,
+            "pickRate": 0.05357142857142857,
+            "pickNumber": 3,
+            "brawlers": [
+                "JESSIE",
+                "ROSA",
+                "SURGE"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 4,
+            "winRate": 0.8,
+            "pickRate": 0.08928571428571429,
+            "pickNumber": 5,
+            "brawlers": [
+                "GALE",
+                "MEG",
+                "MORTIS"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 2,
+            "winRate": 1,
+            "pickRate": 0.03571428571428571,
+            "pickNumber": 2,
+            "brawlers": [
+                "JESSIE",
+                "NITA",
+                "STU"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.017857142857142856,
+            "pickNumber": 1,
+            "brawlers": [
+                "MORTIS",
+                "NITA",
+                "SPIKE"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.017857142857142856,
+            "pickNumber": 1,
+            "brawlers": [
+                "GALE",
+                "MEG",
+                "STU"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 0.5,
+            "pickRate": 0.03571428571428571,
+            "pickNumber": 2,
+            "brawlers": [
+                "BUZZ",
+                "BYRON",
+                "SPIKE"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.017857142857142856,
+            "pickNumber": 1,
+            "brawlers": [
+                "BULL",
+                "EL PRIMO",
+                "FRANK"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 3,
+            "winRate": 1,
+            "pickRate": 0.05357142857142857,
+            "pickNumber": 3,
+            "brawlers": [
+                "GROM",
+                "MAX",
+                "SQUEAK"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.017857142857142856,
+            "pickNumber": 1,
+            "brawlers": [
+                "FRANK",
+                "LEON",
+                "TARA"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 3,
+            "winRate": 0.75,
+            "pickRate": 0.07142857142857142,
+            "pickNumber": 4,
+            "brawlers": [
+                "JESSIE",
+                "MORTIS",
+                "NITA"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 9,
+            "winRate": 0.9,
+            "pickRate": 0.17857142857142858,
+            "pickNumber": 10,
+            "brawlers": [
+                "LEON",
+                "MORTIS",
+                "SPIKE"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 0.2,
+            "pickRate": 0.08928571428571429,
+            "pickNumber": 5,
+            "brawlers": [
+                "JESSIE",
+                "LEON",
+                "NITA"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 4,
+            "winRate": 0.8,
+            "pickRate": 0.08928571428571429,
+            "pickNumber": 5,
+            "brawlers": [
+                "AMBER",
+                "LEON",
+                "SPIKE"
+            ]
+        }
+    },
+    {
+        "mode": "hotZone",
+        "map": "Parallel Plays.json",
+        "startTime": "20211227T160000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 0.5,
+            "pickRate": 0.03571428571428571,
+            "pickNumber": 2,
+            "brawlers": [
+                "AMBER",
+                "BELLE",
+                "GROM"
+            ]
+        }
+    }
+]
