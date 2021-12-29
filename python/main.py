@@ -5,9 +5,9 @@ start = time.time()
 
 
 #Global variables
-player_limit=100
+player_limit=200
 
-countries_list=["FR","US", "IT", "JP", "DE"]
+countries_list=["FR","US", "JP", "DE"]
 token=READ_API_TOKEN("token.txt")
 
 

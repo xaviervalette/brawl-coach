@@ -5,1334 +5,6 @@
         "startTime": "20211226T020000",
         "teamStats": {
             "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "COLONEL RUFFS",
-                "GENE",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "MEG",
-                "MR. P",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "GALE",
-                "MORTIS",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 2,
-            "winRate": 0.5,
-            "pickRate": 0.0026263952724885093,
-            "pickNumber": 4,
-            "brawlers": [
-                "GENE",
-                "MORTIS",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "COLONEL RUFFS",
-                "LEON",
-                "SPROUT"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "BELLE",
-                "BUZZ",
-                "SPROUT"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.3333333333333333,
-            "pickRate": 0.001969796454366382,
-            "pickNumber": 3,
-            "brawlers": [
-                "BELLE",
-                "MR. P",
-                "SPROUT"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "GENE",
-                "SPROUT",
-                "SURGE"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "BYRON",
-                "NANI",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 2,
-            "winRate": 1,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "BYRON",
-                "LEON",
-                "SPROUT"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "BELLE",
-                "BROCK",
-                "LEON"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 2,
-            "winRate": 1,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "BELLE",
-                "MORTIS",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "MEG",
-                "PIPER",
-                "SPIKE"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "LEON",
-                "MORTIS",
-                "STU"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 3,
-            "winRate": 0.6,
-            "pickRate": 0.003282994090610637,
-            "pickNumber": 5,
-            "brawlers": [
-                "BELLE",
-                "GENE",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "BELLE",
-                "LEON",
-                "NANI"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "BELLE",
-                "LEON",
-                "SPROUT"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 4,
-            "winRate": 0.8,
-            "pickRate": 0.003282994090610637,
-            "pickNumber": 5,
-            "brawlers": [
-                "BYRON",
-                "MORTIS",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.3333333333333333,
-            "pickRate": 0.001969796454366382,
-            "pickNumber": 3,
-            "brawlers": [
-                "COLONEL RUFFS",
-                "GENE",
-                "SPROUT"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 5,
-            "winRate": 0.45454545454545453,
-            "pickRate": 0.007222586999343401,
-            "pickNumber": 11,
-            "brawlers": [
-                "MORTIS",
-                "PIPER",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 3,
-            "winRate": 0.42857142857142855,
-            "pickRate": 0.004596191726854892,
-            "pickNumber": 7,
-            "brawlers": [
-                "BYRON",
-                "MORTIS",
-                "STU"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "BYRON",
-                "LEON",
-                "MORTIS"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "BROCK",
-                "COLONEL RUFFS",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "MORTIS",
-                "PIPER",
-                "SURGE"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 2,
-            "winRate": 1,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "LEON",
-                "MORTIS",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 11,
-            "winRate": 0.7857142857142857,
-            "pickRate": 0.009192383453709783,
-            "pickNumber": 14,
-            "brawlers": [
-                "BROCK",
-                "LEON",
-                "STU"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 4,
-            "winRate": 0.5,
-            "pickRate": 0.005252790544977019,
-            "pickNumber": 8,
-            "brawlers": [
-                "MR. P",
-                "PIPER",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "BROCK",
-                "GROM",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "BELLE",
-                "NANI",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 4,
-            "winRate": 0.8,
-            "pickRate": 0.003282994090610637,
-            "pickNumber": 5,
-            "brawlers": [
-                "COLONEL RUFFS",
-                "GROM",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 9,
-            "winRate": 0.8181818181818182,
-            "pickRate": 0.007222586999343401,
-            "pickNumber": 11,
-            "brawlers": [
-                "BROCK",
-                "NANI",
-                "STU"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.16666666666666666,
-            "pickRate": 0.003939592908732764,
-            "pickNumber": 6,
-            "brawlers": [
-                "BELLE",
-                "LEON",
-                "MORTIS"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "COLONEL RUFFS",
-                "GENE",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "GROM",
-                "PIPER",
-                "SPROUT"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 2,
-            "winRate": 0.3333333333333333,
-            "pickRate": 0.003939592908732764,
-            "pickNumber": 6,
-            "brawlers": [
-                "BUZZ",
-                "GROM",
-                "GROM"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 7,
-            "winRate": 0.7777777777777778,
-            "pickRate": 0.005909389363099146,
-            "pickNumber": 9,
-            "brawlers": [
-                "LEON",
-                "PIPER",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 2,
-            "winRate": 1,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "BELLE",
-                "LEON",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 6,
-            "winRate": 0.75,
-            "pickRate": 0.005252790544977019,
-            "pickNumber": 8,
-            "brawlers": [
-                "BELLE",
-                "GENE",
-                "LEON"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "BELLE",
-                "PIPER",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 5,
-            "winRate": 0.5555555555555556,
-            "pickRate": 0.005909389363099146,
-            "pickNumber": 9,
-            "brawlers": [
-                "LEON",
-                "MORTIS",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "GENE",
-                "PIPER",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 2,
-            "winRate": 0.6666666666666666,
-            "pickRate": 0.001969796454366382,
-            "pickNumber": 3,
-            "brawlers": [
-                "BELLE",
-                "COLONEL RUFFS",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "COLT",
-                "GROM",
-                "GROM"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 11,
-            "winRate": 0.7333333333333333,
-            "pickRate": 0.00984898227183191,
-            "pickNumber": 15,
-            "brawlers": [
-                "GENE",
-                "GROM",
-                "LEON"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "GROM",
-                "PIPER",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 14,
-            "winRate": 0.9333333333333333,
-            "pickRate": 0.00984898227183191,
-            "pickNumber": 15,
-            "brawlers": [
-                "BELLE",
-                "GROM",
-                "MORTIS"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 3,
-            "winRate": 1,
-            "pickRate": 0.001969796454366382,
-            "pickNumber": 3,
-            "brawlers": [
-                "BUZZ",
-                "GROM",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "BELLE",
-                "GENE",
-                "MORTIS"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "GROM",
-                "MORTIS",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "BELLE",
-                "GROM",
-                "SPIKE"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "BYRON",
-                "PIPER",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "BULL",
-                "DARRYL",
-                "JACKY"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 16,
-            "winRate": 0.8,
-            "pickRate": 0.013131976362442548,
-            "pickNumber": 20,
-            "brawlers": [
-                "BELLE",
-                "BYRON",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "GENE",
-                "MAX",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "BELLE",
-                "SPROUT",
-                "STU"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "BEA",
-                "SPROUT",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 3,
-            "winRate": 1,
-            "pickRate": 0.001969796454366382,
-            "pickNumber": 3,
-            "brawlers": [
-                "MAX",
-                "MORTIS",
-                "SANDY"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "BELLE",
-                "SPROUT",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "BELLE",
-                "BYRON",
-                "GENE"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 5,
-            "winRate": 0.7142857142857143,
-            "pickRate": 0.004596191726854892,
-            "pickNumber": 7,
-            "brawlers": [
-                "BROCK",
-                "SQUEAK",
-                "STU"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "COLT",
-                "PIPER",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 2,
-            "winRate": 0.4,
-            "pickRate": 0.003282994090610637,
-            "pickNumber": 5,
-            "brawlers": [
-                "BELLE",
-                "MORTIS",
-                "NANI"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "GENE",
-                "PIPER",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "GENE",
-                "LEON",
-                "STU"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "COLT",
-                "LEON",
-                "MR. P"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 2,
-            "winRate": 1,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "BUZZ",
-                "CROW",
-                "MORTIS"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 2,
-            "winRate": 1,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "BROCK",
-                "LEON",
-                "MORTIS"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 2,
-            "winRate": 0.5,
-            "pickRate": 0.0026263952724885093,
-            "pickNumber": 4,
-            "brawlers": [
-                "BULL",
-                "BUZZ",
-                "POCO"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "BELLE",
-                "MORTIS",
-                "MR. P"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 2,
-            "winRate": 1,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "COLT",
-                "LEON",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "SPROUT",
-                "SQUEAK",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "COLONEL RUFFS",
-                "GENE",
-                "MORTIS"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "BELLE",
-                "BYRON",
-                "NANI"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "BEA",
-                "EL PRIMO",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 4,
-            "winRate": 0.8,
-            "pickRate": 0.003282994090610637,
-            "pickNumber": 5,
-            "brawlers": [
-                "8-BIT",
-                "GENE",
-                "NANI"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "MORTIS",
-                "MR. P",
-                "STU"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "GENE",
-                "LEON",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "BELLE",
-                "BROCK",
-                "MEG"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "BROCK",
-                "COLT",
-                "MORTIS"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "BELLE",
-                "BROCK",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 2,
-            "winRate": 1,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "BELLE",
-                "COLT",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "BROCK",
-                "COLT",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "BYRON",
-                "LEON",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
             "winRate": 1,
             "pickRate": 0.0006565988181221273,
             "pickNumber": 1,
@@ -1372,6 +44,22 @@
                 "GROM",
                 "MEG",
                 "SPIKE"
+            ]
+        }
+    },
+    {
+        "mode": "brawlBall",
+        "map": "Slalom Slam.json",
+        "startTime": "20211226T020000",
+        "teamStats": {
+            "winNumber": 4,
+            "winRate": 0.6666666666666666,
+            "pickRate": 0.003939592908732764,
+            "pickNumber": 6,
+            "brawlers": [
+                "BROCK",
+                "SQUEAK",
+                "STU"
             ]
         }
     },
@@ -1477,29 +165,13 @@
         "startTime": "20211226T020000",
         "teamStats": {
             "winNumber": 15,
-            "winRate": 0.8823529411764706,
-            "pickRate": 0.011162179908076166,
-            "pickNumber": 17,
+            "winRate": 0.9375,
+            "pickRate": 0.010505581089954037,
+            "pickNumber": 16,
             "brawlers": [
                 "BEA",
                 "COLT",
                 "RICO"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 3,
-            "winRate": 0.75,
-            "pickRate": 0.0026263952724885093,
-            "pickNumber": 4,
-            "brawlers": [
-                "MORTIS",
-                "MORTIS",
-                "STU"
             ]
         }
     },
@@ -1732,6 +404,22 @@
         "map": "Slalom Slam.json",
         "startTime": "20211226T020000",
         "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.0006565988181221273,
+            "pickNumber": 1,
+            "brawlers": [
+                "BROCK",
+                "LEON",
+                "MORTIS"
+            ]
+        }
+    },
+    {
+        "mode": "brawlBall",
+        "map": "Slalom Slam.json",
+        "startTime": "20211226T020000",
+        "teamStats": {
             "winNumber": 3,
             "winRate": 1,
             "pickRate": 0.001969796454366382,
@@ -1868,22 +556,6 @@
                 "DARRYL",
                 "LEON",
                 "MEG"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.3333333333333333,
-            "pickRate": 0.001969796454366382,
-            "pickNumber": 3,
-            "brawlers": [
-                "MORTIS",
-                "MORTIS",
-                "SHELLY"
             ]
         }
     },
@@ -2553,22 +1225,6 @@
             "pickRate": 0.0006565988181221273,
             "pickNumber": 1,
             "brawlers": [
-                "GROM",
-                "MORTIS",
-                "MORTIS"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
                 "MEG",
                 "MORTIS",
                 "RICO"
@@ -2661,9 +1317,9 @@
         "startTime": "20211226T020000",
         "teamStats": {
             "winNumber": 3,
-            "winRate": 0.42857142857142855,
-            "pickRate": 0.004596191726854892,
-            "pickNumber": 7,
+            "winRate": 0.5,
+            "pickRate": 0.003939592908732764,
+            "pickNumber": 6,
             "brawlers": [
                 "BEA",
                 "RICO",
@@ -3700,22 +2356,6 @@
         "map": "Slalom Slam.json",
         "startTime": "20211226T020000",
         "teamStats": {
-            "winNumber": 6,
-            "winRate": 0.75,
-            "pickRate": 0.005252790544977019,
-            "pickNumber": 8,
-            "brawlers": [
-                "GROM",
-                "GROM",
-                "LOLA"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
             "winNumber": 2,
             "winRate": 0.5,
             "pickRate": 0.0026263952724885093,
@@ -3797,25 +2437,9 @@
         "startTime": "20211226T020000",
         "teamStats": {
             "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "MORTIS",
-                "MORTIS",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.3333333333333333,
-            "pickRate": 0.001969796454366382,
-            "pickNumber": 3,
+            "winRate": 0.5,
+            "pickRate": 0.0013131976362442547,
+            "pickNumber": 2,
             "brawlers": [
                 "BELLE",
                 "GRIFF",
@@ -4068,22 +2692,6 @@
         "map": "Slalom Slam.json",
         "startTime": "20211226T020000",
         "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "MAX",
-                "MORTIS",
-                "MORTIS"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
             "winNumber": 5,
             "winRate": 1,
             "pickRate": 0.003282994090610637,
@@ -4197,22 +2805,6 @@
         "startTime": "20211226T020000",
         "teamStats": {
             "winNumber": 1,
-            "winRate": 0.2,
-            "pickRate": 0.003282994090610637,
-            "pickNumber": 5,
-            "brawlers": [
-                "BYRON",
-                "GROM",
-                "GROM"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
             "winRate": 1,
             "pickRate": 0.0006565988181221273,
             "pickNumber": 1,
@@ -4252,38 +2844,6 @@
                 "BELLE",
                 "LEON",
                 "TARA"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "COLT",
-                "COLT",
-                "DARRYL"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 2,
-            "winRate": 1,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "AMBER",
-                "GROM",
-                "GROM"
             ]
         }
     },
@@ -4597,9 +3157,9 @@
         "startTime": "20211226T020000",
         "teamStats": {
             "winNumber": 18,
-            "winRate": 0.6666666666666666,
-            "pickRate": 0.01772816808929744,
-            "pickNumber": 27,
+            "winRate": 0.6923076923076923,
+            "pickRate": 0.017071569271175313,
+            "pickNumber": 26,
             "brawlers": [
                 "BEA",
                 "MORTIS",
@@ -4917,9 +3477,9 @@
         "startTime": "20211226T020000",
         "teamStats": {
             "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
+            "winRate": 1,
+            "pickRate": 0.0006565988181221273,
+            "pickNumber": 1,
             "brawlers": [
                 "COLT",
                 "GENE",
@@ -5141,9 +3701,9 @@
         "startTime": "20211226T020000",
         "teamStats": {
             "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
+            "winRate": 1,
+            "pickRate": 0.0006565988181221273,
+            "pickNumber": 1,
             "brawlers": [
                 "BUZZ",
                 "EMZ",
@@ -5316,22 +3876,6 @@
         "map": "Slalom Slam.json",
         "startTime": "20211226T020000",
         "teamStats": {
-            "winNumber": 2,
-            "winRate": 0.6666666666666666,
-            "pickRate": 0.001969796454366382,
-            "pickNumber": 3,
-            "brawlers": [
-                "BIBI",
-                "MORTIS",
-                "MORTIS"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
             "winNumber": 3,
             "winRate": 1,
             "pickRate": 0.001969796454366382,
@@ -5381,29 +3925,13 @@
         "startTime": "20211226T020000",
         "teamStats": {
             "winNumber": 2,
-            "winRate": 0.3333333333333333,
-            "pickRate": 0.003939592908732764,
-            "pickNumber": 6,
+            "winRate": 0.4,
+            "pickRate": 0.003282994090610637,
+            "pickNumber": 5,
             "brawlers": [
                 "BARLEY",
                 "BELLE",
                 "SURGE"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.25,
-            "pickRate": 0.0026263952724885093,
-            "pickNumber": 4,
-            "brawlers": [
-                "COLT",
-                "MORTIS",
-                "MORTIS"
             ]
         }
     },
@@ -5548,22 +4076,6 @@
                 "GROM",
                 "LOLA",
                 "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 2,
-            "winRate": 0.6666666666666666,
-            "pickRate": 0.001969796454366382,
-            "pickNumber": 3,
-            "brawlers": [
-                "GROM",
-                "GROM",
-                "GROM"
             ]
         }
     },
@@ -6276,6 +4788,22 @@
         "map": "Slalom Slam.json",
         "startTime": "20211226T020000",
         "teamStats": {
+            "winNumber": 2,
+            "winRate": 1,
+            "pickRate": 0.0013131976362442547,
+            "pickNumber": 2,
+            "brawlers": [
+                "BUZZ",
+                "GROM",
+                "PIPER"
+            ]
+        }
+    },
+    {
+        "mode": "brawlBall",
+        "map": "Slalom Slam.json",
+        "startTime": "20211226T020000",
+        "teamStats": {
             "winNumber": 1,
             "winRate": 1,
             "pickRate": 0.0006565988181221273,
@@ -6521,9 +5049,41 @@
             "pickRate": 0.0006565988181221273,
             "pickNumber": 1,
             "brawlers": [
+                "COLT",
+                "LEON",
+                "PIPER"
+            ]
+        }
+    },
+    {
+        "mode": "brawlBall",
+        "map": "Slalom Slam.json",
+        "startTime": "20211226T020000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.0006565988181221273,
+            "pickNumber": 1,
+            "brawlers": [
                 "BUZZ",
                 "GALE",
                 "JACKY"
+            ]
+        }
+    },
+    {
+        "mode": "brawlBall",
+        "map": "Slalom Slam.json",
+        "startTime": "20211226T020000",
+        "teamStats": {
+            "winNumber": 2,
+            "winRate": 0.3333333333333333,
+            "pickRate": 0.003939592908732764,
+            "pickNumber": 6,
+            "brawlers": [
+                "BYRON",
+                "MORTIS",
+                "STU"
             ]
         }
     },
@@ -7797,45 +6357,13 @@
         "startTime": "20211226T020000",
         "teamStats": {
             "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "CROW",
-                "STU",
-                "STU"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "MORTIS",
-                "RICO",
-                "SPIKE"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
             "winRate": 1,
             "pickRate": 0.0006565988181221273,
             "pickNumber": 1,
             "brawlers": [
-                "GALE",
-                "GROM",
-                "GROM"
+                "MORTIS",
+                "RICO",
+                "SPIKE"
             ]
         }
     },
@@ -8037,9 +6565,9 @@
         "startTime": "20211226T020000",
         "teamStats": {
             "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
+            "winRate": 1,
+            "pickRate": 0.0006565988181221273,
+            "pickNumber": 1,
             "brawlers": [
                 "CROW",
                 "GROM",
@@ -8411,22 +6939,6 @@
             "brawlers": [
                 "CARL",
                 "EMZ",
-                "MORTIS"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "CARL",
-                "MORTIS",
                 "MORTIS"
             ]
         }
@@ -9060,6 +7572,22 @@
         "map": "Slalom Slam.json",
         "startTime": "20211226T020000",
         "teamStats": {
+            "winNumber": 6,
+            "winRate": 0.75,
+            "pickRate": 0.005252790544977019,
+            "pickNumber": 8,
+            "brawlers": [
+                "BROCK",
+                "LEON",
+                "STU"
+            ]
+        }
+    },
+    {
+        "mode": "brawlBall",
+        "map": "Slalom Slam.json",
+        "startTime": "20211226T020000",
+        "teamStats": {
             "winNumber": 3,
             "winRate": 0.6,
             "pickRate": 0.003282994090610637,
@@ -9092,26 +7620,10 @@
         "map": "Slalom Slam.json",
         "startTime": "20211226T020000",
         "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "RICO",
-                "TARA",
-                "TARA"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
             "winNumber": 6,
-            "winRate": 0.6,
-            "pickRate": 0.006565988181221274,
-            "pickNumber": 10,
+            "winRate": 0.75,
+            "pickRate": 0.005252790544977019,
+            "pickNumber": 8,
             "brawlers": [
                 "BYRON",
                 "GROM",
@@ -9148,22 +7660,6 @@
                 "DARRYL",
                 "JACKY",
                 "JESSIE"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "FRANK",
-                "FRANK",
-                "GALE"
             ]
         }
     },
@@ -9404,22 +7900,6 @@
                 "BEA",
                 "BIBI",
                 "COLETTE"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.2,
-            "pickRate": 0.003282994090610637,
-            "pickNumber": 5,
-            "brawlers": [
-                "MORTIS",
-                "MORTIS",
-                "TARA"
             ]
         }
     },
@@ -9765,9 +8245,9 @@
         "startTime": "20211226T020000",
         "teamStats": {
             "winNumber": 3,
-            "winRate": 0.42857142857142855,
-            "pickRate": 0.004596191726854892,
-            "pickNumber": 7,
+            "winRate": 0.6,
+            "pickRate": 0.003282994090610637,
+            "pickNumber": 5,
             "brawlers": [
                 "GROM",
                 "MORTIS",
@@ -10133,9 +8613,9 @@
         "startTime": "20211226T020000",
         "teamStats": {
             "winNumber": 4,
-            "winRate": 0.8,
-            "pickRate": 0.003282994090610637,
-            "pickNumber": 5,
+            "winRate": 1,
+            "pickRate": 0.0026263952724885093,
+            "pickNumber": 4,
             "brawlers": [
                 "GROM",
                 "LOU",
@@ -10187,22 +8667,6 @@
             "brawlers": [
                 "GROM",
                 "SQUEAK",
-                "STU"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "GROM",
-                "GROM",
                 "STU"
             ]
         }
@@ -11012,22 +9476,6 @@
         "map": "Slalom Slam.json",
         "startTime": "20211226T020000",
         "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "MORTIS",
-                "MORTIS",
-                "SURGE"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
             "winNumber": 2,
             "winRate": 1,
             "pickRate": 0.0013131976362442547,
@@ -11716,6 +10164,38 @@
         "map": "Slalom Slam.json",
         "startTime": "20211226T020000",
         "teamStats": {
+            "winNumber": 2,
+            "winRate": 1,
+            "pickRate": 0.0013131976362442547,
+            "pickNumber": 2,
+            "brawlers": [
+                "MAX",
+                "MORTIS",
+                "SANDY"
+            ]
+        }
+    },
+    {
+        "mode": "brawlBall",
+        "map": "Slalom Slam.json",
+        "startTime": "20211226T020000",
+        "teamStats": {
+            "winNumber": 1,
+            "winRate": 0.5,
+            "pickRate": 0.0013131976362442547,
+            "pickNumber": 2,
+            "brawlers": [
+                "BELLE",
+                "GROM",
+                "MORTIS"
+            ]
+        }
+    },
+    {
+        "mode": "brawlBall",
+        "map": "Slalom Slam.json",
+        "startTime": "20211226T020000",
+        "teamStats": {
             "winNumber": 1,
             "winRate": 1,
             "pickRate": 0.0006565988181221273,
@@ -11845,9 +10325,9 @@
         "startTime": "20211226T020000",
         "teamStats": {
             "winNumber": 2,
-            "winRate": 0.3333333333333333,
-            "pickRate": 0.003939592908732764,
-            "pickNumber": 6,
+            "winRate": 0.4,
+            "pickRate": 0.003282994090610637,
+            "pickNumber": 5,
             "brawlers": [
                 "GROM",
                 "SANDY",
@@ -12084,26 +10564,10 @@
         "map": "Slalom Slam.json",
         "startTime": "20211226T020000",
         "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "BUZZ",
-                "MORTIS",
-                "MORTIS"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
             "winNumber": 4,
-            "winRate": 0.5714285714285714,
-            "pickRate": 0.004596191726854892,
-            "pickNumber": 7,
+            "winRate": 0.6666666666666666,
+            "pickRate": 0.003939592908732764,
+            "pickNumber": 6,
             "brawlers": [
                 "BIBI",
                 "MORTIS",
@@ -12220,22 +10684,6 @@
                 "BARLEY",
                 "CARL",
                 "MEG"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "MEG",
-                "MEG",
-                "SHELLY"
             ]
         }
     },
@@ -12517,22 +10965,6 @@
         "startTime": "20211226T020000",
         "teamStats": {
             "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
-            "brawlers": [
-                "BULL",
-                "MORTIS",
-                "MORTIS"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
             "winRate": 1,
             "pickRate": 0.0006565988181221273,
             "pickNumber": 1,
@@ -12716,22 +11148,6 @@
                 "ASH",
                 "BIBI",
                 "GROM"
-            ]
-        }
-    },
-    {
-        "mode": "brawlBall",
-        "map": "Slalom Slam.json",
-        "startTime": "20211226T020000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.0006565988181221273,
-            "pickNumber": 1,
-            "brawlers": [
-                "GROM",
-                "GROM",
-                "MR. P"
             ]
         }
     },
@@ -13333,9 +11749,9 @@
         "startTime": "20211226T020000",
         "teamStats": {
             "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
+            "winRate": 1,
+            "pickRate": 0.0006565988181221273,
+            "pickNumber": 1,
             "brawlers": [
                 "EDGAR",
                 "FRANK",
@@ -13605,6 +12021,22 @@
         "startTime": "20211226T020000",
         "teamStats": {
             "winNumber": 1,
+            "winRate": 1,
+            "pickRate": 0.0006565988181221273,
+            "pickNumber": 1,
+            "brawlers": [
+                "BUZZ",
+                "CROW",
+                "MORTIS"
+            ]
+        }
+    },
+    {
+        "mode": "brawlBall",
+        "map": "Slalom Slam.json",
+        "startTime": "20211226T020000",
+        "teamStats": {
+            "winNumber": 1,
             "winRate": 0.5,
             "pickRate": 0.0013131976362442547,
             "pickNumber": 2,
@@ -13637,9 +12069,9 @@
         "startTime": "20211226T020000",
         "teamStats": {
             "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.0013131976362442547,
-            "pickNumber": 2,
+            "winRate": 1,
+            "pickRate": 0.0006565988181221273,
+            "pickNumber": 1,
             "brawlers": [
                 "DARRYL",
                 "GROM",
