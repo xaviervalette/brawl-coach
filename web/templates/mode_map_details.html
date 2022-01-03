@@ -1,6 +1,6 @@
 {% extends 'base.html'%}
 
-{% block mode_map_details %}
+{% block body %}
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 <style>
   * {
@@ -39,24 +39,20 @@ ul.people {
 
   </style>
 
-<div class="px-4 pt-5 my-5 text-center border-bottom">
-  <button type="button" class="btn btn-info" onclick="location.href='/team_picker'">Back</button>
-    <h1 class="display-5 fw-bold">{{map|upper}}</h1>
-    <div class="col-lg-6 mx-auto">
-      <p class="fs-5 mb-4">{{mode|upper}}
-      </p>
-  </div>
-    
-  <div class="col-lg-6 mx-auto">
+  
+  {{ macros.header(map|upper, mode|upper, "/team_picker") }}
+
+
+  <div class="col-lg-6 mx-auto my-5">
+
     <table id="footable" class="table" data-sorting="true" data-paging="true" data-paging-size="5" data-paging-limit="3">
         <thead class="table-dark">
         <tr class="item">
-          <th scope="col" class="align-middle">Brawlers</th>
+          <th scope="col" class="align-middle" data-sortable="false" style="width: 33%;">Brawlers</th>
           <th scope="col" data-type="number" data-formatter="percentage_format" class="align-middle">Win Rate</th>
           <th scope="col" data-type="number" data-formatter="percentage_format" class="align-middle">Pick Rate</th>
           <th scope="col" data-type="number" data-sort-initial="true" class="align-middle" data-breakpoints="xs">Wins</th>
           <th scope="col" data-type="number" data-sort-initial="true" class="align-middle" data-breakpoints="xs">Games</th>
-
 
         </tr>
       </thead>
@@ -72,11 +68,11 @@ ul.people {
 
                           <ul class="people">
                             <li>
-                              <img src='/static/img/brawlers/{{mode_map_details[i]["teamStats"]["brawlers"][0]}}.jpg' alt='{{mode_map_details[i]["teamStats"]["brawlers"][0]}}' style="max-width:20%; min-width:40px; border-radius:20%">
+                              <img src='/static/img/brawlers/{{mode_map_details[i]["teamStats"]["brawlers"][0]}}.jpg' alt='{{mode_map_details[i]["teamStats"]["brawlers"][0]}}' style="max-width:20%; min-width:50px; border-radius:20%">
                             <li>
-                              <img src='/static/img/brawlers/{{mode_map_details[i]["teamStats"]["brawlers"][1]}}.jpg' alt='{{mode_map_details[i]["teamStats"]["brawlers"][1]}}' style="max-width:20%; min-width:40px; border-radius:20%" >
+                              <img src='/static/img/brawlers/{{mode_map_details[i]["teamStats"]["brawlers"][1]}}.jpg' alt='{{mode_map_details[i]["teamStats"]["brawlers"][1]}}' style="max-width:20%; min-width:50px; border-radius:20%" >
                             <li>
-                              <img src='/static/img/brawlers/{{mode_map_details[i]["teamStats"]["brawlers"][2]}}.jpg' alt='{{mode_map_details[i]["teamStats"]["brawlers"][2]}}' style="max-width:20%; min-width:40px; border-radius:20%">
+                              <img src='/static/img/brawlers/{{mode_map_details[i]["teamStats"]["brawlers"][2]}}.jpg' alt='{{mode_map_details[i]["teamStats"]["brawlers"][2]}}' style="max-width:20%; min-width:50px; border-radius:20%">
                           </ul>
 
                       </div>
@@ -103,4 +99,4 @@ function percentage_format(value){
     }
     </script>
 
-  {% endblock mode_map_details %}
+  {% endblock body %}

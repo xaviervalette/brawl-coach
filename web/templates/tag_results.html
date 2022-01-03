@@ -1,6 +1,6 @@
 {% extends 'base.html'%}
 
-{% block table_tag_brawler %}
+{% block body %}
 
 <div class="bg-dark text-secondary pt-5 px-4 mt-5 text-center border-bottom">
   <h1 class="display-4 fw-bold text-white">{{tag}}</h1>
@@ -96,7 +96,7 @@
 	$('.table').footable();
 });
       </script>
-  {% endblock table_tag_brawler %}
+  {% endblock body %}
 
 <!-- For loop logic of jinja template -->
 {% for i in range(0, len) %}

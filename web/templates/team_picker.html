@@ -2,32 +2,26 @@
 
 {% extends 'base.html'%}
 
-{% block team_picker %}
+{% block body %}
 
-<div class="bg-dark text-secondary px-4 mt-5 pt-5 text-center border-bottom">
-  <h1 class="display-4 fw-bold text-white">Team Picker Tool</h1>
-  <div class="col-lg-6 mx-auto">
-    <p class="lead">Check which team is the best on a given map!</p>
-    <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
-    </div>
-  </div>
-</div>
+{{ macros.header("Team Picker Tool", "Check which team is the best on a given map!", "/") }}
 
 <div class="px-4 my-5 text-center border-bottom">
-  <button type="button" class="btn btn-info" onclick="location.href='/'">Back</button>
     <h1 class="display-4 fw-bold">Current events</h1>
     <div class="col-lg-6 mx-auto">
       <table class="table">
         <thead class="table-dark">
           <tr>
-            <th scope="col">Mode</th>
+            <th scope="col" style="width: 0">Mode</th>
             <th scope="col">Map</th>
           </tr>
         </thead>
         <tbody>
             {% for i in range(0, len) %}
                 <tr>
-                    <td>{{current_events[i]["event"]["mode"]|upper}}</td>
+                    <td>
+                      <img src='/static/img/{{current_events[i]["event"]["mode"]|upper}}.jpg' alt='{{current_events[i]["event"]["mode"]|upper}}' loading="lazy" style="max-width:20%; min-width:50px; border-radius:20%">
+                    </td>
                     <td>                      
                       <a  class="link-info" href='/teampicker/{{current_events[i]["event"]["mode"]}}/{{current_events[i]["event"]["map"]}}'>
                       {{current_events[i]["event"]["map"]|upper}}
@@ -46,5 +40,5 @@
     background-color: black !important;
     }
   </style>
-  {% endblock team_picker %}
+  {% endblock body %}
 </section>

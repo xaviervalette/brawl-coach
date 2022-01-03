@@ -1,5 +1,0 @@
-def GET_STATISTICS(time, map, mode)
-
-	path=
-	f = open(data.json)
-	data = json.load(f)

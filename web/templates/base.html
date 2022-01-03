@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+
+{% import 'macros.j2' as macros %}
+
+
 <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -9,12 +13,11 @@
         <link href="/static/css/heroes.css" rel="stylesheet">
         <link href="/static/css/features.css" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.11.3/datatables.min.css"/>
-         <!-- <link href="/static/css/styles.css" rel="stylesheet" /> -->
-        <!-- <link href="/static/css/footable.bootstrap.css" rel="stylesheet"/> -->
         <link href="/static/css/footable/footable.core.standalone.css" rel="stylesheet"/>
         <link href="/static/css/footable/footable.sorting.css" rel="stylesheet"/>
         <link href="/static/css/footable/footable.paging.css" rel="stylesheet"/>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css" integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous">
+        <link rel="icon" href="/static/img/favicon.svg" />
 
 
 
@@ -35,15 +38,14 @@
             @media (max-width: 768px) {
               nav{
               font-size:1.5em;
+              }
             }
-          }
 
           .btn-dark:hover, .btn-dark:focus, .btn-dark:active, .btn-dark.active, .open>.dropdown-toggle.btn-dark {
-    color: rgb(0, 0, 0);
-    background-color: #0dcaf0;
-    border-color: #0dcaf0;
-
-}
+              color: rgb(0, 0, 0);
+              background-color: #0dcaf0;
+              border-color: #0dcaf0;
+            }
 
           </style>
           </head>
@@ -87,20 +89,8 @@
 
         {% endblock navbar %}
     <body>
-        {% block home %}
-        {% endblock home %}
-        {% block table_tag_brawler %}
-        {% endblock table_tag_brawler %}
-        {% block team_picker %}
-        {% endblock team_picker %}
-        {% block mode_map_details %}
-        {% endblock mode_map_details %}
-        {% block tag_search %}
-        {% endblock tag_search %}
-        {% block modes %}
-        {% endblock modes %}
-        {% block carousel %}
-        {% endblock carousel %}
+        {% block body %}
+        {% endblock body %}
 
     <div id="footer">
         {% block footer %}
