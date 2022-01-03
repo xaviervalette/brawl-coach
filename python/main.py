@@ -3,13 +3,13 @@ import time
 
 start = time.time()
 
-
 #Global variables
 player_limit=200
 
-countries_list=["FR","US", "JP", "DE"]
+countries_list=["FR", "JP", "DE", "BR", "ES", "KR", "US", "RU", "CA", "IT", "GB"]
 token=READ_API_TOKEN("token.txt")
 
+GET_CURRENT_EVENTS(token)
 
 print("\n***GET_RANKINGS***\n")
 ranks=GET_RANKINGS(token,countries_list, player_limit) #ranks["FR"]["items"][0] = Best french player
@@ -24,3 +24,5 @@ processTime=end2 - start2
 
 print("Time for all API calls: ", callTime, "s")
 print("Time for store process: ", processTime, "s")
+
+STORE_BEST_TEAM("TODO")
