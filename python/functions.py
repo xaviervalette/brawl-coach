@@ -189,6 +189,7 @@ def STORE_BEST_TEAM(dirName):
     
 
 def STORE_BATTLES(battlelogsList):
+    files2save={}
     numberOfBattles=0
     battleNotInEvent=0
     total=0
@@ -227,31 +228,38 @@ def STORE_BATTLES(battlelogsList):
 
                             fileName=startTime+"_"+mode+"_"+mapEvent+".json"
                             mapFile=mapFolder/fileName
-                            if mapFile.is_file():
-                                data = json.load(open(mapFile))
-                                # convert data to list if not
-                                if type(data) is dict:
-                                    data = [data]
+                            if mapFile.is_file() or mapFile in files2save:
+                                if mapFile not in files2save:
+                                    data = json.load(open(mapFile))
+                                    # convert data to list if not
+                                    if type(data) is dict:
+                                        data = [data]
+                                    files2save[mapFile]=data
                                 alreadyExist=False
-                                for batailles in data:
+                                for batailles in files2save[mapFile]:
                                     savedB=Battle(batailles)
                                     if savedB.is_equal(b):
                                         alreadyExist=True
 
                                 if not alreadyExist:
                                     # append new item to data lit
-                                    data.append(battles)
-
+                                    files2save[mapFile].append(battles)
+                                    newBattle=newBattle+1
                                     # write list to file
+                                    '''
                                     with open(mapFile, 'w') as outfile:
                                         json.dump(data, outfile, indent=4)
-                                        newBattle=newBattle+1
+                                        
+                                    '''
                                 else:
                                     alreadyStoredBattle=alreadyStoredBattle+1
                             else:
+                                files2save[mapFile]=[battles]
+                                newBattle=newBattle+1
+                                '''
                                 with open(mapFile, 'w') as outfile:
                                     json.dump(battles, outfile, indent=4)
-                                    newBattle=newBattle+1
+                                '''  
                         else:
                             battleNotInEvent=battleNotInEvent+1
                     else:
@@ -269,6 +277,10 @@ def STORE_BATTLES(battlelogsList):
     print("min number of battle per battle log: ", min(listNumOfBattles))
     print("max number of battle per battle log: ", max(listNumOfBattles))
     print("mean number of battle per battle log: ", sum(listNumOfBattles)/len(listNumOfBattles))
+    for files in files2save:
+        with open(files, 'w') as outfile:
+            json.dump(files2save[files], outfile, indent=4)
+
 
 '''
     For the given path, get the List of all files in the directory tree 
