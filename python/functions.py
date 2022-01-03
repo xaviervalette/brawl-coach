@@ -5,6 +5,9 @@ from datetime import datetime
 import os
 from pathlib import Path
 from collections import Counter
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
 
 def READ_API_TOKEN(filepath):
     """
@@ -43,7 +46,7 @@ def READ_CURRENT_EVENTS(filepath):
 def READ_EVENTS_STATS(mode,map):
     with open('../data/stats/'+mode+'_'+map+'.json') as f:
         events_stats=json.load(f)
-    return events_stats
+    return events_stats["teams"], events_stats["battlesNumber"]
 
 def GET_RANKINGS(token,countries_list,player_limit):
     """
@@ -61,7 +64,7 @@ def GET_RANKINGS(token,countries_list,player_limit):
         print("Country:" + country + ", Response code: " + str(response.status_code))
     return ranks_list
 
-def GET_BATTLELOGS(token, ranks_list):
+def GET_BATTLELOGS_backup(token, ranks_list):
     """
     Desc:   GET battlelogs from tag list
     Input:  A list of tags
@@ -81,6 +84,39 @@ def GET_BATTLELOGS(token, ranks_list):
             print("Country:" + country + ", Tag: "+ tag + ", Response code: " + str(response.status_code))
         battlelogs_list[country]=battlelogs
     return battlelogs_list
+
+def GET_BATTLELOGS(token, ranks_list):
+    """
+    Desc:   GET battlelogs from tag list
+    Input:  A list of tags
+    Output: A battlelogs json file of the tags in input
+    """
+    battlelogs_list={}
+    battlelogs={}
+    threads= []
+    with ThreadPoolExecutor(max_workers=40) as executor:
+
+        for country in ranks_list:
+            battlelogs.clear()
+            threads.append(executor.submit(GET_BATTELOGS_API_CALLS, country, ranks_list, battlelogs, token))
+            
+        for task in as_completed(threads):
+            print("API CALLS FINISH") 
+
+        battlelogs_list[country]=battlelogs
+    return battlelogs_list
+
+def GET_BATTELOGS_API_CALLS(country, ranks_list, battlelogs, token):
+    headers = {'Authorization': 'Bearer '+token}
+    data = {}
+    for player in ranks_list[country]['items']:
+        tag=player["tag"]
+        url_tag=tag.replace("#","%23")
+        response = requests.request("GET", "https://api.brawlstars.com/v1/players/"+url_tag+"/battlelog", headers=headers, data=data)
+        battlelogs[tag]= response.json()
+        print("Country:" + country + ", Tag: "+ tag + ", Response code: " + str(response.status_code))
+    return battlelogs
+
 
 def EXTRACT_TEAM_RESULT(battle):
     """
@@ -161,10 +197,13 @@ def STORE_BEST_TEAM(dirName):
             loseTeamsUnique=[]
             loseTeamsUnique=remove_team_duplicate(loseTeams)
 
-            winTable=[]
+            winTable={}
+            winList=[]
+            total = 0
 
             for team in winTeamsUnique:
                 pickNumber=winTeams.count(team)+loseTeams.count(team)
+                total = total + pickNumber
                 if(loseTeamsUnique.count(team)==0):
                     winRate=1
                 else:
@@ -180,8 +219,10 @@ def STORE_BEST_TEAM(dirName):
                         "pickNumber":pickNumber,
                         "brawlers": team
                         }
-                }
-                winTable.append(win_dict)
+                }                    
+                winList.append(win_dict)
+                winTable["teams"]= winList
+                winTable["battlesNumber"]=total
             filename = "../data/stats/"+os.path.join(root, file).split("\\")[-1][16:]
             with open(filename, 'w') as fp:
                 json.dump(winTable, fp, indent=4)

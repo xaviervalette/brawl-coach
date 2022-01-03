@@ -1,290 +1,293 @@
-[
-    {
-        "mode": "heist",
-        "map": "Safe Zone.json",
-        "startTime": "20211226T200000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.04,
-            "pickNumber": 1,
-            "brawlers": [
-                "COLT",
-                "MEG",
-                "NANI"
-            ]
+{
+    "teams": [
+        {
+            "mode": "heist",
+            "map": "Safe Zone.json",
+            "startTime": "20211226T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.04,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "MEG",
+                    "NANI"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Safe Zone.json",
+            "startTime": "20211226T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.04,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "NITA",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Safe Zone.json",
+            "startTime": "20211226T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.04,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "BROCK",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Safe Zone.json",
+            "startTime": "20211226T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.04,
+                "pickNumber": 1,
+                "brawlers": [
+                    "8-BIT",
+                    "COLT",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Safe Zone.json",
+            "startTime": "20211226T200000",
+            "teamStats": {
+                "winNumber": 7,
+                "winRate": 0.5,
+                "pickRate": 0.56,
+                "pickNumber": 14,
+                "brawlers": [
+                    "COLT",
+                    "PIPER",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Safe Zone.json",
+            "startTime": "20211226T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.04,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLETTE",
+                    "PIPER",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Safe Zone.json",
+            "startTime": "20211226T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.04,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "DARRYL",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Safe Zone.json",
+            "startTime": "20211226T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.12,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BYRON",
+                    "COLT",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Safe Zone.json",
+            "startTime": "20211226T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.04,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "JESSIE",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Safe Zone.json",
+            "startTime": "20211226T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.04,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "DYNAMIKE",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Safe Zone.json",
+            "startTime": "20211226T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.04,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "JESSIE",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Safe Zone.json",
+            "startTime": "20211226T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.04,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "BROCK",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Safe Zone.json",
+            "startTime": "20211226T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.04,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "MEG",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Safe Zone.json",
+            "startTime": "20211226T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.04,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "COLT",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Safe Zone.json",
+            "startTime": "20211226T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.04,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "BYRON",
+                    "LOLA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Safe Zone.json",
+            "startTime": "20211226T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.04,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "COLETTE",
+                    "COLT"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Safe Zone.json",
+            "startTime": "20211226T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.04,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "COLETTE",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Safe Zone.json",
+            "startTime": "20211226T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.04,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "BYRON",
+                    "PIPER"
+                ]
+            }
         }
-    },
-    {
-        "mode": "heist",
-        "map": "Safe Zone.json",
-        "startTime": "20211226T200000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.04,
-            "pickNumber": 1,
-            "brawlers": [
-                "BROCK",
-                "NITA",
-                "SPIKE"
-            ]
-        }
-    },
-    {
-        "mode": "heist",
-        "map": "Safe Zone.json",
-        "startTime": "20211226T200000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.04,
-            "pickNumber": 1,
-            "brawlers": [
-                "BELLE",
-                "BROCK",
-                "DYNAMIKE"
-            ]
-        }
-    },
-    {
-        "mode": "heist",
-        "map": "Safe Zone.json",
-        "startTime": "20211226T200000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.04,
-            "pickNumber": 1,
-            "brawlers": [
-                "8-BIT",
-                "COLT",
-                "PENNY"
-            ]
-        }
-    },
-    {
-        "mode": "heist",
-        "map": "Safe Zone.json",
-        "startTime": "20211226T200000",
-        "teamStats": {
-            "winNumber": 7,
-            "winRate": 0.5,
-            "pickRate": 0.56,
-            "pickNumber": 14,
-            "brawlers": [
-                "COLT",
-                "PIPER",
-                "RICO"
-            ]
-        }
-    },
-    {
-        "mode": "heist",
-        "map": "Safe Zone.json",
-        "startTime": "20211226T200000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.04,
-            "pickNumber": 1,
-            "brawlers": [
-                "COLETTE",
-                "PIPER",
-                "RICO"
-            ]
-        }
-    },
-    {
-        "mode": "heist",
-        "map": "Safe Zone.json",
-        "startTime": "20211226T200000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.04,
-            "pickNumber": 1,
-            "brawlers": [
-                "BULL",
-                "DARRYL",
-                "POCO"
-            ]
-        }
-    },
-    {
-        "mode": "heist",
-        "map": "Safe Zone.json",
-        "startTime": "20211226T200000",
-        "teamStats": {
-            "winNumber": 2,
-            "winRate": 0.6666666666666666,
-            "pickRate": 0.12,
-            "pickNumber": 3,
-            "brawlers": [
-                "BYRON",
-                "COLT",
-                "RICO"
-            ]
-        }
-    },
-    {
-        "mode": "heist",
-        "map": "Safe Zone.json",
-        "startTime": "20211226T200000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.04,
-            "pickNumber": 1,
-            "brawlers": [
-                "COLT",
-                "JESSIE",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "heist",
-        "map": "Safe Zone.json",
-        "startTime": "20211226T200000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.04,
-            "pickNumber": 1,
-            "brawlers": [
-                "BROCK",
-                "DYNAMIKE",
-                "RICO"
-            ]
-        }
-    },
-    {
-        "mode": "heist",
-        "map": "Safe Zone.json",
-        "startTime": "20211226T200000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.04,
-            "pickNumber": 1,
-            "brawlers": [
-                "BELLE",
-                "JESSIE",
-                "SPROUT"
-            ]
-        }
-    },
-    {
-        "mode": "heist",
-        "map": "Safe Zone.json",
-        "startTime": "20211226T200000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.04,
-            "pickNumber": 1,
-            "brawlers": [
-                "BELLE",
-                "BROCK",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "heist",
-        "map": "Safe Zone.json",
-        "startTime": "20211226T200000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.04,
-            "pickNumber": 1,
-            "brawlers": [
-                "DARRYL",
-                "MEG",
-                "SPIKE"
-            ]
-        }
-    },
-    {
-        "mode": "heist",
-        "map": "Safe Zone.json",
-        "startTime": "20211226T200000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.04,
-            "pickNumber": 1,
-            "brawlers": [
-                "BELLE",
-                "COLT",
-                "MEG"
-            ]
-        }
-    },
-    {
-        "mode": "heist",
-        "map": "Safe Zone.json",
-        "startTime": "20211226T200000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.04,
-            "pickNumber": 1,
-            "brawlers": [
-                "BULL",
-                "BYRON",
-                "LOLA"
-            ]
-        }
-    },
-    {
-        "mode": "heist",
-        "map": "Safe Zone.json",
-        "startTime": "20211226T200000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.04,
-            "pickNumber": 1,
-            "brawlers": [
-                "BROCK",
-                "COLETTE",
-                "COLT"
-            ]
-        }
-    },
-    {
-        "mode": "heist",
-        "map": "Safe Zone.json",
-        "startTime": "20211226T200000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.04,
-            "pickNumber": 1,
-            "brawlers": [
-                "BELLE",
-                "COLETTE",
-                "SQUEAK"
-            ]
-        }
-    },
-    {
-        "mode": "heist",
-        "map": "Safe Zone.json",
-        "startTime": "20211226T200000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.04,
-            "pickNumber": 1,
-            "brawlers": [
-                "BROCK",
-                "BYRON",
-                "PIPER"
-            ]
-        }
-    }
-]
+    ],
+    "battlesNumber": 33
+}

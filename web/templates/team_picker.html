@@ -1,11 +1,8 @@
-<section class="scrollspy" id="teampicker">
-
 {% extends 'base.html'%}
 
 {% block body %}
 
 {{ macros.header("Team Picker Tool", "Check which team is the best on a given map!", "/") }}
-
 <div class="px-4 my-5 text-center border-bottom">
     <h1 class="display-4 fw-bold">Current events</h1>
     <div class="col-lg-6 mx-auto">
@@ -14,6 +11,7 @@
           <tr>
             <th scope="col" style="width: 0">Mode</th>
             <th scope="col">Map</th>
+            <th scope="col">Battles</th>
           </tr>
         </thead>
         <tbody>
@@ -22,10 +20,17 @@
                     <td>
                       <img src='/static/img/{{current_events[i]["event"]["mode"]|upper}}.jpg' alt='{{current_events[i]["event"]["mode"]|upper}}' loading="lazy" style="max-width:20%; min-width:50px; border-radius:20%">
                     </td>
-                    <td>                      
+                    <td class="align-middle">                      
+                      {% if battleNumber[current_events[i]["event"]["mode"]][current_events[i]["event"]["map"]]!="N/A" %}
                       <a  class="link-info" href='/teampicker/{{current_events[i]["event"]["mode"]}}/{{current_events[i]["event"]["map"]}}'>
                       {{current_events[i]["event"]["map"]|upper}}
                       </a>
+                      {% else %}
+                      {{current_events[i]["event"]["map"]|upper}}
+                      {% endif %}
+                    </td>
+                    <td class="align-middle">                      
+                      {{battleNumber[current_events[i]["event"]["mode"]][current_events[i]["event"]["map"]]}}
                     </td>
                 </tr>
             {% endfor %}
@@ -41,4 +46,3 @@
     }
   </style>
   {% endblock body %}
-</section>

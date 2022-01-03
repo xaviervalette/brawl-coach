@@ -91,13 +91,22 @@ def modes_maps(mode):
 
 @app.route("/team_picker")
 def team_picker():
+	battleNumber={}
 	current_events = READ_CURRENT_EVENTS("../events/current_events.json")
-	return render_template('team_picker.html', current_events=current_events, len=len(current_events))
+	for events in current_events:
+		map=events["event"]["map"]
+		mode=events["event"]["mode"]
+		try:
+			_, battleNum=READ_EVENTS_STATS(mode,map)
+			battleNumber[mode]={map:battleNum}
+		except:
+			battleNumber[mode]={map:"N/A"}
+	return render_template('team_picker.html', current_events=current_events, len=len(current_events), battleNumber=battleNumber)
 
 @app.route("/teampicker/<string:mode>/<string:map>")
 def mode_map(mode, map):
 	try:	
-		mode_map_details=READ_EVENTS_STATS(mode,map) #READ DATA FROM NATHAN
+		mode_map_details, _=READ_EVENTS_STATS(mode,map) #READ DATA FROM NATHAN
 		mode_map_details_sorted = sorted(mode_map_details, key=lambda d: d['teamStats']["pickRate"], reverse=True) 
 		if len(mode_map_details)>50:
 			team_number=50

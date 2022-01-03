@@ -1,0 +1,2725 @@
+{
+    "teams": [
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.42857142857142855,
+                "pickRate": 0.014028056112224449,
+                "pickNumber": 7,
+                "brawlers": [
+                    "BIBI",
+                    "DYNAMIKE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BUZZ",
+                    "DARRYL",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 13,
+                "winRate": 0.8125,
+                "pickRate": 0.03206412825651302,
+                "pickNumber": 16,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MAX",
+                    "RICO",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 1,
+                "pickRate": 0.01002004008016032,
+                "pickNumber": 5,
+                "brawlers": [
+                    "DARRYL",
+                    "DYNAMIKE",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.006012024048096192,
+                "pickNumber": 3,
+                "brawlers": [
+                    "CARL",
+                    "DARRYL",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 7,
+                "winRate": 1,
+                "pickRate": 0.014028056112224449,
+                "pickNumber": 7,
+                "brawlers": [
+                    "DARRYL",
+                    "DYNAMIKE",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.8,
+                "pickRate": 0.01002004008016032,
+                "pickNumber": 5,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "EL PRIMO",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "GROM",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "FRANK",
+                    "MR. P"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.006012024048096192,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "JACKY",
+                    "MORTIS",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 9,
+                "winRate": 0.75,
+                "pickRate": 0.02404809619238477,
+                "pickNumber": 12,
+                "brawlers": [
+                    "DARRYL",
+                    "DYNAMIKE",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 0.8333333333333334,
+                "pickRate": 0.012024048096192385,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BIBI",
+                    "DYNAMIKE",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "PENNY",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 1,
+                "pickRate": 0.01002004008016032,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BIBI",
+                    "DYNAMIKE",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 0.625,
+                "pickRate": 0.01603206412825651,
+                "pickNumber": 8,
+                "brawlers": [
+                    "CARL",
+                    "LOLA",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BIBI",
+                    "JESSIE",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "BUZZ",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 39,
+                "winRate": 0.9069767441860465,
+                "pickRate": 0.08617234468937876,
+                "pickNumber": 43,
+                "brawlers": [
+                    "BULL",
+                    "DYNAMIKE",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 12,
+                "winRate": 0.48,
+                "pickRate": 0.050100200400801605,
+                "pickNumber": 25,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.8,
+                "pickRate": 0.01002004008016032,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BIBI",
+                    "DYNAMIKE",
+                    "JACKY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 20,
+                "winRate": 0.9523809523809523,
+                "pickRate": 0.04208416833667335,
+                "pickNumber": 21,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 18,
+                "winRate": 0.5454545454545454,
+                "pickRate": 0.06613226452905811,
+                "pickNumber": 33,
+                "brawlers": [
+                    "BUZZ",
+                    "DARRYL",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 6,
+                "winRate": 0.75,
+                "pickRate": 0.01603206412825651,
+                "pickNumber": 8,
+                "brawlers": [
+                    "BIBI",
+                    "DYNAMIKE",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "ROSA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "8-BIT",
+                    "GALE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 1,
+                "pickRate": 0.008016032064128256,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BARLEY",
+                    "BIBI",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.008016032064128256,
+                "pickNumber": 4,
+                "brawlers": [
+                    "COLONEL RUFFS",
+                    "DYNAMIKE",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BIBI",
+                    "BUZZ",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 13,
+                "winRate": 0.6842105263157895,
+                "pickRate": 0.03807615230460922,
+                "pickNumber": 19,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "DARRYL"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BIBI",
+                    "DARRYL",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "FRANK",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "JACKY",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "FRANK",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.006012024048096192,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BUZZ",
+                    "GROM",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "JESSIE",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "JACKY",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "BROCK",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.006012024048096192,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BARLEY",
+                    "DARRYL",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 12,
+                "winRate": 0.8,
+                "pickRate": 0.03006012024048096,
+                "pickNumber": 15,
+                "brawlers": [
+                    "DARRYL",
+                    "DYNAMIKE",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 0.5555555555555556,
+                "pickRate": 0.018036072144288578,
+                "pickNumber": 9,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "JACKY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 0.7142857142857143,
+                "pickRate": 0.014028056112224449,
+                "pickNumber": 7,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.012024048096192385,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BUZZ",
+                    "CARL",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.012024048096192385,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BIBI",
+                    "FRANK",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "ROSA",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.008016032064128256,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BIBI",
+                    "BUZZ",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.5,
+                "pickRate": 0.012024048096192385,
+                "pickNumber": 6,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "FRANK",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "DYNAMIKE",
+                    "LEON"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.008016032064128256,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BIBI",
+                    "BUZZ",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "LOU",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "MEG",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "BULL",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.008016032064128256,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BIBI",
+                    "BUZZ",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "PIPER",
+                    "ROSA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "BULL",
+                    "BUZZ"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 0.8333333333333334,
+                "pickRate": 0.012024048096192385,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BIBI",
+                    "FRANK",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "GALE",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DARRYL",
+                    "GROM",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.008016032064128256,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.006012024048096192,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BUZZ",
+                    "DARRYL",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.008016032064128256,
+                "pickNumber": 4,
+                "brawlers": [
+                    "DARRYL",
+                    "DYNAMIKE",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "DYNAMIKE",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BUZZ",
+                    "CARL",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 12,
+                "winRate": 0.9230769230769231,
+                "pickRate": 0.026052104208416832,
+                "pickNumber": 13,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "GALE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "JACKY",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BIBI",
+                    "DYNAMIKE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BULL",
+                    "BUZZ",
+                    "COLONEL RUFFS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.012024048096192385,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BULL",
+                    "BUZZ",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.006012024048096192,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BARLEY",
+                    "FRANK",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 1,
+                "pickRate": 0.008016032064128256,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BUZZ",
+                    "DARRYL",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 11,
+                "winRate": 0.9166666666666666,
+                "pickRate": 0.02404809619238477,
+                "pickNumber": 12,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "MR. P"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EMZ",
+                    "JESSIE",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "DYNAMIKE",
+                    "JACKY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 15,
+                "winRate": 0.9375,
+                "pickRate": 0.03206412825651302,
+                "pickNumber": 16,
+                "brawlers": [
+                    "GENE",
+                    "RICO",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 8,
+                "winRate": 0.8888888888888888,
+                "pickRate": 0.018036072144288578,
+                "pickNumber": 9,
+                "brawlers": [
+                    "BARLEY",
+                    "BULL",
+                    "JACKY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 6,
+                "winRate": 0.8571428571428571,
+                "pickRate": 0.014028056112224449,
+                "pickNumber": 7,
+                "brawlers": [
+                    "BULL",
+                    "BUZZ",
+                    "DARRYL"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "GROM",
+                    "LOU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "GROM",
+                    "LOU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "FRANK",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.006012024048096192,
+                "pickNumber": 3,
+                "brawlers": [
+                    "FRANK",
+                    "RICO",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "JACKY",
+                    "RICO",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.012024048096192385,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BARLEY",
+                    "JACKY",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "GROM",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "COLETTE",
+                    "JACKY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.5,
+                "pickRate": 0.012024048096192385,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BULL",
+                    "JACKY",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 11,
+                "winRate": 1,
+                "pickRate": 0.022044088176352707,
+                "pickNumber": 11,
+                "brawlers": [
+                    "BULL",
+                    "BUZZ",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 18,
+                "winRate": 0.9473684210526315,
+                "pickRate": 0.03807615230460922,
+                "pickNumber": 19,
+                "brawlers": [
+                    "BIBI",
+                    "DYNAMIKE",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.006012024048096192,
+                "pickNumber": 3,
+                "brawlers": [
+                    "GALE",
+                    "LOU",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "BULL",
+                    "GENE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 7,
+                "winRate": 0.7777777777777778,
+                "pickRate": 0.018036072144288578,
+                "pickNumber": 9,
+                "brawlers": [
+                    "BULL",
+                    "GENE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "CARL",
+                    "DYNAMIKE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "DYNAMIKE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "DYNAMIKE",
+                    "LOU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "DYNAMIKE",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "BULL",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "CARL",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "GROM",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.006012024048096192,
+                "pickNumber": 3,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "MORTIS",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.012024048096192385,
+                "pickNumber": 6,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "FRANK",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "GROM",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "CARL",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "CARL",
+                    "COLT",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EDGAR",
+                    "FRANK",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.008016032064128256,
+                "pickNumber": 4,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "FRANK",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "RICO",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BELLE",
+                    "COLONEL RUFFS",
+                    "GRIFF"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 7,
+                "winRate": 0.5384615384615384,
+                "pickRate": 0.026052104208416832,
+                "pickNumber": 13,
+                "brawlers": [
+                    "BIBI",
+                    "DARRYL",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DARRYL",
+                    "FRANK",
+                    "JACKY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "RICO",
+                    "STU",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "GALE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.008016032064128256,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BARLEY",
+                    "DARRYL",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "RICO",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "FRANK",
+                    "GENE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "FRANK",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 6,
+                "winRate": 1,
+                "pickRate": 0.012024048096192385,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BUZZ",
+                    "CARL",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BIBI",
+                    "MORTIS",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "MORTIS",
+                    "PENNY",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BUZZ",
+                    "PENNY",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "FRANK",
+                    "JACKY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "GENE",
+                    "JACKY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "ASH",
+                    "BEA",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "ASH",
+                    "GROM",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 1,
+                "pickRate": 0.01002004008016032,
+                "pickNumber": 5,
+                "brawlers": [
+                    "ASH",
+                    "BUZZ",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "ASH",
+                    "COLETTE",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "BUZZ",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "JACKY",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "JESSIE",
+                    "MAX",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "LOLA",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "SPROUT",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLONEL RUFFS",
+                    "GROM",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLONEL RUFFS",
+                    "DYNAMIKE",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "GROM",
+                    "JACKY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "GROM",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MAX",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "NITA",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "ASH",
+                    "COLONEL RUFFS",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "COLT",
+                    "DYNAMIKE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "FRANK",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.006012024048096192,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BARLEY",
+                    "LOLA",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.006012024048096192,
+                "pickNumber": 3,
+                "brawlers": [
+                    "GROM",
+                    "JACKY",
+                    "LOLA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GROM",
+                    "LOLA",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 1,
+                "pickRate": 0.01002004008016032,
+                "pickNumber": 5,
+                "brawlers": [
+                    "GROM",
+                    "LOLA",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "DYNAMIKE",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.008016032064128256,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BARLEY",
+                    "DYNAMIKE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "EMZ",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.008016032064128256,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BARLEY",
+                    "BIBI",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLONEL RUFFS",
+                    "MORTIS",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "RICO",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "MORTIS",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MORTIS",
+                    "PENNY",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.4,
+                "pickRate": 0.01002004008016032,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BIBI",
+                    "DYNAMIKE",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "MORTIS",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "DYNAMIKE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "PENNY",
+                    "RICO",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "FRANK",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "BIBI",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "GROM",
+                    "JACKY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "DYNAMIKE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "BO",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.004008016032064128,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "BIBI",
+                    "BUZZ"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "GROM",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Some Assembly Required.json",
+            "startTime": "20220103T120000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.002004008016032064,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "GROM",
+                    "SURGE"
+                ]
+            }
+        }
+    ],
+    "battlesNumber": 654
+}

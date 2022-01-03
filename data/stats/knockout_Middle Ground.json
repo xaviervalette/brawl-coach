@@ -1,578 +1,581 @@
-[
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 12,
-            "winRate": 0.9230769230769231,
-            "pickRate": 0.09420289855072464,
-            "pickNumber": 13,
-            "brawlers": [
-                "GENE",
-                "GROM",
-                "LEON"
-            ]
+{
+    "teams": [
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 12,
+                "winRate": 0.9230769230769231,
+                "pickRate": 0.09420289855072464,
+                "pickNumber": 13,
+                "brawlers": [
+                    "GENE",
+                    "GROM",
+                    "LEON"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.007246376811594203,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "MORTIS",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.007246376811594203,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "GRIFF",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.007246376811594203,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BYRON",
+                    "GRIFF",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.007246376811594203,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "GROM",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.014492753623188406,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GROM",
+                    "LEON",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 9,
+                "winRate": 0.75,
+                "pickRate": 0.08695652173913043,
+                "pickNumber": 12,
+                "brawlers": [
+                    "COLT",
+                    "NANI",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 15,
+                "winRate": 0.4838709677419355,
+                "pickRate": 0.2246376811594203,
+                "pickNumber": 31,
+                "brawlers": [
+                    "BO",
+                    "COLONEL RUFFS",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 9,
+                "winRate": 0.6923076923076923,
+                "pickRate": 0.09420289855072464,
+                "pickNumber": 13,
+                "brawlers": [
+                    "BO",
+                    "NANI",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.5,
+                "pickRate": 0.057971014492753624,
+                "pickNumber": 8,
+                "brawlers": [
+                    "BROCK",
+                    "COLT",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.014492753623188406,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GROM",
+                    "MEG",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.6,
+                "pickRate": 0.036231884057971016,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BROCK",
+                    "BYRON",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 6,
+                "winRate": 0.5454545454545454,
+                "pickRate": 0.07971014492753623,
+                "pickNumber": 11,
+                "brawlers": [
+                    "BROCK",
+                    "GENE",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.007246376811594203,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "PIPER",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 13,
+                "winRate": 1,
+                "pickRate": 0.09420289855072464,
+                "pickNumber": 13,
+                "brawlers": [
+                    "BROCK",
+                    "PIPER",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 7,
+                "winRate": 0.5833333333333334,
+                "pickRate": 0.08695652173913043,
+                "pickNumber": 12,
+                "brawlers": [
+                    "BYRON",
+                    "COLT",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 0.5555555555555556,
+                "pickRate": 0.06521739130434782,
+                "pickNumber": 9,
+                "brawlers": [
+                    "BO",
+                    "MORTIS",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.021739130434782608,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BROCK",
+                    "COLT",
+                    "GENE"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.014492753623188406,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BROCK",
+                    "GROM",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.028985507246376812,
+                "pickNumber": 4,
+                "brawlers": [
+                    "AMBER",
+                    "BROCK",
+                    "GENE"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.007246376811594203,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "MORTIS",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 6,
+                "winRate": 0.46153846153846156,
+                "pickRate": 0.09420289855072464,
+                "pickNumber": 13,
+                "brawlers": [
+                    "GROM",
+                    "LEON",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.007246376811594203,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "GROM",
+                    "NANI"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.007246376811594203,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "GENE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.007246376811594203,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "BUZZ",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.014492753623188406,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BULL",
+                    "DARRYL",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.007246376811594203,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "GROM",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.021739130434782608,
+                "pickNumber": 3,
+                "brawlers": [
+                    "GENE",
+                    "LEON",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 0.7142857142857143,
+                "pickRate": 0.050724637681159424,
+                "pickNumber": 7,
+                "brawlers": [
+                    "BO",
+                    "COLT",
+                    "LEON"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.007246376811594203,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "COLT",
+                    "LEON"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.007246376811594203,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "DYNAMIKE",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 1,
+                "pickRate": 0.036231884057971016,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BELLE",
+                    "BROCK",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.007246376811594203,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "EDGAR",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 8,
+                "winRate": 0.8888888888888888,
+                "pickRate": 0.06521739130434782,
+                "pickNumber": 9,
+                "brawlers": [
+                    "BO",
+                    "GENE",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.007246376811594203,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "STU",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Middle Ground.json",
+            "startTime": "20211227T160000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.021739130434782608,
+                "pickNumber": 3,
+                "brawlers": [
+                    "COLT",
+                    "GROM",
+                    "PIPER"
+                ]
+            }
         }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.007246376811594203,
-            "pickNumber": 1,
-            "brawlers": [
-                "GROM",
-                "MORTIS",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.007246376811594203,
-            "pickNumber": 1,
-            "brawlers": [
-                "BUZZ",
-                "GRIFF",
-                "GROM"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.007246376811594203,
-            "pickNumber": 1,
-            "brawlers": [
-                "BYRON",
-                "GRIFF",
-                "GROM"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.007246376811594203,
-            "pickNumber": 1,
-            "brawlers": [
-                "GENE",
-                "GROM",
-                "SQUEAK"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.014492753623188406,
-            "pickNumber": 2,
-            "brawlers": [
-                "GROM",
-                "LEON",
-                "SURGE"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 9,
-            "winRate": 0.75,
-            "pickRate": 0.08695652173913043,
-            "pickNumber": 12,
-            "brawlers": [
-                "COLT",
-                "NANI",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 15,
-            "winRate": 0.4838709677419355,
-            "pickRate": 0.2246376811594203,
-            "pickNumber": 31,
-            "brawlers": [
-                "BO",
-                "COLONEL RUFFS",
-                "MORTIS"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 9,
-            "winRate": 0.6923076923076923,
-            "pickRate": 0.09420289855072464,
-            "pickNumber": 13,
-            "brawlers": [
-                "BO",
-                "NANI",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 4,
-            "winRate": 0.5,
-            "pickRate": 0.057971014492753624,
-            "pickNumber": 8,
-            "brawlers": [
-                "BROCK",
-                "COLT",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.014492753623188406,
-            "pickNumber": 2,
-            "brawlers": [
-                "GROM",
-                "MEG",
-                "MORTIS"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 3,
-            "winRate": 0.6,
-            "pickRate": 0.036231884057971016,
-            "pickNumber": 5,
-            "brawlers": [
-                "BROCK",
-                "BYRON",
-                "GROM"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 6,
-            "winRate": 0.5454545454545454,
-            "pickRate": 0.07971014492753623,
-            "pickNumber": 11,
-            "brawlers": [
-                "BROCK",
-                "GENE",
-                "SPIKE"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.007246376811594203,
-            "pickNumber": 1,
-            "brawlers": [
-                "GROM",
-                "PIPER",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 13,
-            "winRate": 1,
-            "pickRate": 0.09420289855072464,
-            "pickNumber": 13,
-            "brawlers": [
-                "BROCK",
-                "PIPER",
-                "SPROUT"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 7,
-            "winRate": 0.5833333333333334,
-            "pickRate": 0.08695652173913043,
-            "pickNumber": 12,
-            "brawlers": [
-                "BYRON",
-                "COLT",
-                "GROM"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 5,
-            "winRate": 0.5555555555555556,
-            "pickRate": 0.06521739130434782,
-            "pickNumber": 9,
-            "brawlers": [
-                "BO",
-                "MORTIS",
-                "TARA"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 3,
-            "winRate": 1,
-            "pickRate": 0.021739130434782608,
-            "pickNumber": 3,
-            "brawlers": [
-                "BROCK",
-                "COLT",
-                "GENE"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 2,
-            "winRate": 1,
-            "pickRate": 0.014492753623188406,
-            "pickNumber": 2,
-            "brawlers": [
-                "BROCK",
-                "GROM",
-                "PIPER"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 3,
-            "winRate": 0.75,
-            "pickRate": 0.028985507246376812,
-            "pickNumber": 4,
-            "brawlers": [
-                "AMBER",
-                "BROCK",
-                "GENE"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.007246376811594203,
-            "pickNumber": 1,
-            "brawlers": [
-                "BO",
-                "MORTIS",
-                "TICK"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 6,
-            "winRate": 0.46153846153846156,
-            "pickRate": 0.09420289855072464,
-            "pickNumber": 13,
-            "brawlers": [
-                "GROM",
-                "LEON",
-                "MORTIS"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.007246376811594203,
-            "pickNumber": 1,
-            "brawlers": [
-                "BO",
-                "GROM",
-                "NANI"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.007246376811594203,
-            "pickNumber": 1,
-            "brawlers": [
-                "BO",
-                "GENE",
-                "MORTIS"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.007246376811594203,
-            "pickNumber": 1,
-            "brawlers": [
-                "BULL",
-                "BUZZ",
-                "FRANK"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.5,
-            "pickRate": 0.014492753623188406,
-            "pickNumber": 2,
-            "brawlers": [
-                "BULL",
-                "DARRYL",
-                "POCO"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.007246376811594203,
-            "pickNumber": 1,
-            "brawlers": [
-                "GENE",
-                "GROM",
-                "SPROUT"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 2,
-            "winRate": 0.6666666666666666,
-            "pickRate": 0.021739130434782608,
-            "pickNumber": 3,
-            "brawlers": [
-                "GENE",
-                "LEON",
-                "MORTIS"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 5,
-            "winRate": 0.7142857142857143,
-            "pickRate": 0.050724637681159424,
-            "pickNumber": 7,
-            "brawlers": [
-                "BO",
-                "COLT",
-                "LEON"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.007246376811594203,
-            "pickNumber": 1,
-            "brawlers": [
-                "BROCK",
-                "COLT",
-                "LEON"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.007246376811594203,
-            "pickNumber": 1,
-            "brawlers": [
-                "COLT",
-                "DYNAMIKE",
-                "SQUEAK"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 5,
-            "winRate": 1,
-            "pickRate": 0.036231884057971016,
-            "pickNumber": 5,
-            "brawlers": [
-                "BELLE",
-                "BROCK",
-                "SPROUT"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.007246376811594203,
-            "pickNumber": 1,
-            "brawlers": [
-                "BROCK",
-                "EDGAR",
-                "STU"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 8,
-            "winRate": 0.8888888888888888,
-            "pickRate": 0.06521739130434782,
-            "pickNumber": 9,
-            "brawlers": [
-                "BO",
-                "GENE",
-                "TARA"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 1,
-            "pickRate": 0.007246376811594203,
-            "pickNumber": 1,
-            "brawlers": [
-                "DYNAMIKE",
-                "STU",
-                "TARA"
-            ]
-        }
-    },
-    {
-        "mode": "knockout",
-        "map": "Middle Ground.json",
-        "startTime": "20211227T160000",
-        "teamStats": {
-            "winNumber": 1,
-            "winRate": 0.3333333333333333,
-            "pickRate": 0.021739130434782608,
-            "pickNumber": 3,
-            "brawlers": [
-                "COLT",
-                "GROM",
-                "PIPER"
-            ]
-        }
-    }
-]
+    ],
+    "battlesNumber": 196
+}
