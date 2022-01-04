@@ -58,8 +58,13 @@ ul.people {
                       <img src='/static/img/modes/{{current_events[i]["event"]["mode"]|upper}}.jpg' alt='{{current_events[i]["event"]["mode"]|upper}}' loading="lazy" style="max-width:20%; min-width:50px; border-radius:20%">
                     </td>
                     <td class="align-middle">                      
-                      <img src='/static/img/maps/{{current_events[i]["event"]["map"]|upper}}.jpg' alt='{{current_events[i]["event"]["mode"]|upper}}' loading="lazy" style="max-width:30%; min-width:100px; border-radius:20%">
-                    </td>
+                      {% if battleNumber[current_events[i]["event"]["mode"]][current_events[i]["event"]["map"]]!="N/A" %}
+                      <a  class="link-info" href='/teampicker/{{current_events[i]["event"]["mode"]}}/{{current_events[i]["event"]["map"]}}'>
+                      {{current_events[i]["event"]["map"]|upper}}
+                      </a>
+                      {% else %}
+                      {{current_events[i]["event"]["map"]|upper}}
+                      {% endif %}                    </td>
                     <td class="align-middle">                      
                       {{battleNumber[current_events[i]["event"]["mode"]][current_events[i]["event"]["map"]]}}
                     </td>
