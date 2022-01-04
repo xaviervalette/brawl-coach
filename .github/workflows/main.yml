@@ -32,3 +32,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          
+      - name: execute py script # run the run.py to get the latest data
+        run: |
+          python ./web/app.py
