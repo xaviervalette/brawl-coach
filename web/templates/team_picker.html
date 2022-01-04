@@ -2,7 +2,44 @@
 
 {% block body %}
 
-{{ macros.header("Team Picker Tool", "Check which team is the best on a given map!", "/") }}
+<style>
+  * {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 500px) {
+    .column {
+      width: 100%;
+    }
+  }
+
+  .people li {
+  display: inline;
+  white-space: nowrap
+}
+
+ul.people {
+  padding:0;
+  margin:0;
+}
+
+  </style>
+
+{{ macros.header("TEAM PICKER", "Check which team is the best on a given map!", "/") }}
 <div class="px-4 my-5 text-center border-bottom">
     <h1 class="display-4 fw-bold">Current events</h1>
     <div class="col-lg-6 mx-auto">
@@ -38,6 +75,67 @@
       </table>
     </div>
     
+  </div>
+
+  <div class="b-example-divider"></div>
+
+
+
+  <div class="container col-sm-8">
+    <div class="row flex-lg-row align-items-center g-5 py-5">
+      {% for i in range(0, len) %}
+    <div class=" col-sm-12 col-lg-6">
+  <div class="container" style="padding-left: 0px; padding-right: 0px;">
+
+    <div class="row bg-info">
+      <div class="col-sm-12 border border-3 text-center">                      
+        <img src='/static/img/{{current_events[i]["event"]["mode"]|upper}}.jpg' alt='{{current_events[i]["event"]["mode"]|upper}}' loading="lazy" style="max-width:50px; min-width:50px; border-radius:20%">
+        <h4 class="display-8 fw-bold">{{current_events[i]["event"]["map"]|upper}}</h4>
+      </div>
+      <div class="col-5 border border-3" style="padding-left: 0px; padding-right: 0px;">
+
+        <table id="footable" class="table" data-sorting="true" data-paging="true" data-paging-size="5" data-paging-limit="3">
+          <thead class="table-dark">
+          <tr class="item">
+            <th scope="col" class="align-middle" data-sortable="false">Brawlers</th>
+  
+          </tr>
+        </thead>
+        <tbody>
+          {% for i in range(0, 3) %}
+
+              <tr>
+                <td>
+                  <div class="container" style="padding-left: 0px; padding-right: 0px;">
+
+                        <ul class="people">
+                          <li>
+                            <img src='/static/img/brawlers/LEON.jpg' style="max-width:20%; min-width:30px; border-radius:20%">
+                          <li>
+                            <img src='/static/img/brawlers/GROM.jpg' style="max-width:20%; min-width:30px; border-radius:20%">
+                          <li>
+                            <img src='/static/img/brawlers/PIPER.jpg' style="max-width:20%; min-width:30px; border-radius:20%">
+                        </ul>
+
+                    </div>
+                    </td>
+
+            </tr>
+            {% endfor %}
+        </tbody>
+      </table>
+      <button type="button" class="btn btn-dark btn-lg px-4 me-md-2" onclick='location.href="/team_picker"' style="width:100%;">Details</button>
+
+      </div>
+      <div class="col-7 border border-3 align-item-middle" style="padding-left: 0px; padding-right: 0px;">
+        <img src='/static/img/{{current_events[i]["event"]["map"]|upper}}.jpg' class="h-10" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
+      </div>
+    </div>
+  </div>
+  </div>
+  {% endfor %}
+
+  </div>
   </div>
 
   <style>

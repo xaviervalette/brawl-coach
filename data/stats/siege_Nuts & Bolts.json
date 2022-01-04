@@ -1,0 +1,3701 @@
+{
+    "teams": [
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 14,
+                "winRate": 0.9333333333333333,
+                "pickRate": 0.029880478087649404,
+                "pickNumber": 15,
+                "brawlers": [
+                    "BARLEY",
+                    "CARL",
+                    "LOU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 6,
+                "winRate": 1,
+                "pickRate": 0.01195219123505976,
+                "pickNumber": 6,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "SANDY",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 0.8333333333333334,
+                "pickRate": 0.01195219123505976,
+                "pickNumber": 6,
+                "brawlers": [
+                    "GROM",
+                    "MORTIS",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 0.7142857142857143,
+                "pickRate": 0.013944223107569721,
+                "pickNumber": 7,
+                "brawlers": [
+                    "CARL",
+                    "DYNAMIKE",
+                    "LOU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.00796812749003984,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BUZZ",
+                    "GENE",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 1,
+                "pickRate": 0.0099601593625498,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "LOU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 8,
+                "winRate": 0.8,
+                "pickRate": 0.0199203187250996,
+                "pickNumber": 10,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 13,
+                "winRate": 0.8666666666666667,
+                "pickRate": 0.029880478087649404,
+                "pickNumber": 15,
+                "brawlers": [
+                    "DARRYL",
+                    "DYNAMIKE",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 0.7142857142857143,
+                "pickRate": 0.013944223107569721,
+                "pickNumber": 7,
+                "brawlers": [
+                    "BULL",
+                    "BUZZ",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 8,
+                "winRate": 0.6153846153846154,
+                "pickRate": 0.025896414342629483,
+                "pickNumber": 13,
+                "brawlers": [
+                    "BULL",
+                    "DYNAMIKE",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 0.7142857142857143,
+                "pickRate": 0.013944223107569721,
+                "pickNumber": 7,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.5,
+                "pickRate": 0.01195219123505976,
+                "pickNumber": 6,
+                "brawlers": [
+                    "DARRYL",
+                    "DYNAMIKE",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 1,
+                "pickRate": 0.00796812749003984,
+                "pickNumber": 4,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "RICO",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 15,
+                "winRate": 0.75,
+                "pickRate": 0.0398406374501992,
+                "pickNumber": 20,
+                "brawlers": [
+                    "DARRYL",
+                    "DYNAMIKE",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 9,
+                "winRate": 0.45,
+                "pickRate": 0.0398406374501992,
+                "pickNumber": 20,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 9,
+                "winRate": 0.8181818181818182,
+                "pickRate": 0.021912350597609563,
+                "pickNumber": 11,
+                "brawlers": [
+                    "FRANK",
+                    "SPROUT",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 1,
+                "pickRate": 0.0099601593625498,
+                "pickNumber": 5,
+                "brawlers": [
+                    "COLT",
+                    "DYNAMIKE",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.4444444444444444,
+                "pickRate": 0.017928286852589643,
+                "pickNumber": 9,
+                "brawlers": [
+                    "BUZZ",
+                    "SPROUT",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 10,
+                "winRate": 0.9090909090909091,
+                "pickRate": 0.021912350597609563,
+                "pickNumber": 11,
+                "brawlers": [
+                    "BULL",
+                    "DYNAMIKE",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 7,
+                "winRate": 1,
+                "pickRate": 0.013944223107569721,
+                "pickNumber": 7,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BUZZ",
+                    "GENE",
+                    "MAX"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.6,
+                "pickRate": 0.0099601593625498,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.375,
+                "pickRate": 0.01593625498007968,
+                "pickNumber": 8,
+                "brawlers": [
+                    "BIBI",
+                    "DYNAMIKE",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.00796812749003984,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "MAX"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.00597609561752988,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BARLEY",
+                    "MORTIS",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 0.8333333333333334,
+                "pickRate": 0.01195219123505976,
+                "pickNumber": 6,
+                "brawlers": [
+                    "DARRYL",
+                    "SPROUT",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "AMBER",
+                    "FRANK",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "POCO",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "BROCK",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLETTE",
+                    "DARRYL",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "CROW",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.00597609561752988,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BUZZ",
+                    "FRANK",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.4,
+                "pickRate": 0.0099601593625498,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BUZZ",
+                    "FRANK",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 13,
+                "winRate": 0.5416666666666666,
+                "pickRate": 0.04780876494023904,
+                "pickNumber": 24,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 12,
+                "winRate": 0.8571428571428571,
+                "pickRate": 0.027888446215139442,
+                "pickNumber": 14,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "FRANK",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.00597609561752988,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BROCK",
+                    "COLT",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "DYNAMIKE",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 8,
+                "winRate": 1,
+                "pickRate": 0.01593625498007968,
+                "pickNumber": 8,
+                "brawlers": [
+                    "DARRYL",
+                    "DYNAMIKE",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.00597609561752988,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BARLEY",
+                    "BULL",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "FRANK",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EL PRIMO",
+                    "RICO",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "DYNAMIKE",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.00796812749003984,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BIBI",
+                    "GENE",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "GENE",
+                    "MAX"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "COLT",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.00597609561752988,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BIBI",
+                    "DYNAMIKE",
+                    "MAX"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "DARRYL",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "MORTIS",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.42857142857142855,
+                "pickRate": 0.013944223107569721,
+                "pickNumber": 7,
+                "brawlers": [
+                    "ASH",
+                    "BIBI",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.00796812749003984,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BARLEY",
+                    "BIBI",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "EMZ",
+                    "JACKY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CROW",
+                    "GROM",
+                    "MAX"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "EDGAR",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EDGAR",
+                    "GROM",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "GROM",
+                    "NANI"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "GROM",
+                    "ROSA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLETTE",
+                    "GROM",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "GROM",
+                    "MR. P"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "GROM",
+                    "LOLA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "GROM",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.8,
+                "pickRate": 0.0099601593625498,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BUZZ",
+                    "DARRYL",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.42857142857142855,
+                "pickRate": 0.013944223107569721,
+                "pickNumber": 7,
+                "brawlers": [
+                    "BUZZ",
+                    "SPROUT",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 1,
+                "pickRate": 0.00796812749003984,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "GALE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "RICO",
+                    "SPROUT",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 6,
+                "winRate": 0.8571428571428571,
+                "pickRate": 0.013944223107569721,
+                "pickNumber": 7,
+                "brawlers": [
+                    "BARLEY",
+                    "DARRYL",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "LOLA",
+                    "PENNY",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MAX",
+                    "PENNY",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "AMBER",
+                    "GROM",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BIBI",
+                    "GROM",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EDGAR",
+                    "GROM",
+                    "JACKY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "LEON",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "LOLA",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "LOLA",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "SHELLY",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "DYNAMIKE",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "CARL",
+                    "GRIFF",
+                    "LOLA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.6,
+                "pickRate": 0.0099601593625498,
+                "pickNumber": 5,
+                "brawlers": [
+                    "CARL",
+                    "COLT",
+                    "GRIFF"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "PENNY",
+                    "SURGE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 8,
+                "winRate": 0.8888888888888888,
+                "pickRate": 0.017928286852589643,
+                "pickNumber": 9,
+                "brawlers": [
+                    "CARL",
+                    "DYNAMIKE",
+                    "GRIFF"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "EMZ",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "ASH",
+                    "GALE",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.00597609561752988,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "DARRYL",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.25,
+                "pickRate": 0.01593625498007968,
+                "pickNumber": 8,
+                "brawlers": [
+                    "BIBI",
+                    "DARRYL",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.00597609561752988,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BARLEY",
+                    "BIBI",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.00796812749003984,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "NITA",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 7,
+                "winRate": 0.875,
+                "pickRate": 0.01593625498007968,
+                "pickNumber": 8,
+                "brawlers": [
+                    "BARLEY",
+                    "BIBI",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "TARA",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.00796812749003984,
+                "pickNumber": 4,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "FRANK",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "COLT",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.00796812749003984,
+                "pickNumber": 4,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "MAX",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "GENE",
+                    "LOU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "GENE",
+                    "LOU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "GALE",
+                    "GENE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EL PRIMO",
+                    "ROSA",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.5,
+                "pickRate": 0.01195219123505976,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "JACKY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EL PRIMO",
+                    "JESSIE",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "PENNY",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "JACKY",
+                    "LOU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.01195219123505976,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BARLEY",
+                    "JESSIE",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BIBI",
+                    "SPIKE",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.00597609561752988,
+                "pickNumber": 3,
+                "brawlers": [
+                    "COLT",
+                    "DYNAMIKE",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 0.625,
+                "pickRate": 0.01593625498007968,
+                "pickNumber": 8,
+                "brawlers": [
+                    "BIBI",
+                    "BUZZ",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "GROM",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "COLT",
+                    "DYNAMIKE",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "EDGAR",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "PENNY",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "JACKY",
+                    "SPIKE",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "FRANK",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "STU",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "ASH",
+                    "DYNAMIKE",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "LEON",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "STU",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "BIBI",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "8-BIT",
+                    "BIBI",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "BO",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "CROW",
+                    "PENNY",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DARRYL",
+                    "DYNAMIKE",
+                    "LOU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 1,
+                "pickRate": 0.0099601593625498,
+                "pickNumber": 5,
+                "brawlers": [
+                    "COLT",
+                    "GROM",
+                    "JACKY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "SANDY",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "JACKY",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.8,
+                "pickRate": 0.0099601593625498,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BIBI",
+                    "DARRYL",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 6,
+                "winRate": 0.75,
+                "pickRate": 0.01593625498007968,
+                "pickNumber": 8,
+                "brawlers": [
+                    "MEG",
+                    "SANDY",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "FRANK",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EMZ",
+                    "GALE",
+                    "LOU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "FRANK",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.00597609561752988,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.00597609561752988,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "8-BIT",
+                    "BIBI",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 1,
+                "pickRate": 0.0099601593625498,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BIBI",
+                    "DARRYL",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "JESSIE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "JACKY",
+                    "LOU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "MORTIS",
+                    "PAM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "MORTIS",
+                    "ROSA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MEG",
+                    "MORTIS",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "JESSIE",
+                    "SPROUT",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "GROM",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "LOU",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "BUZZ",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "LOU",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "GROM",
+                    "MAX"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "PIPER",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "PENNY",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "FRANK",
+                    "GROM",
+                    "LOLA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "FRANK",
+                    "GROM",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "SPROUT",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BIBI",
+                    "BUZZ",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "BYRON",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "EDGAR",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "GROM",
+                    "LOLA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "GROM",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GRIFF",
+                    "GROM",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "ASH",
+                    "GROM",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "RICO",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "JESSIE",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "SURGE",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "EDGAR",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "DARRYL",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "EDGAR",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "GALE",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.00597609561752988,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BIBI",
+                    "SQUEAK",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.8,
+                "pickRate": 0.0099601593625498,
+                "pickNumber": 5,
+                "brawlers": [
+                    "CARL",
+                    "GALE",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 0.7142857142857143,
+                "pickRate": 0.013944223107569721,
+                "pickNumber": 7,
+                "brawlers": [
+                    "BUZZ",
+                    "GALE",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "GROM",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "ROSA",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "GROM",
+                    "MR. P"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLONEL RUFFS",
+                    "GROM",
+                    "LOLA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "COLETTE",
+                    "LOLA",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CROW",
+                    "DYNAMIKE",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.00597609561752988,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BIBI",
+                    "DARRYL",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.00597609561752988,
+                "pickNumber": 3,
+                "brawlers": [
+                    "DARRYL",
+                    "DYNAMIKE",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "GROM",
+                    "PAM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.6,
+                "pickRate": 0.0099601593625498,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BIBI",
+                    "GROM",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "GROM",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "CROW",
+                    "LEON"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "SURGE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "BIBI",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "DYNAMIKE",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "DYNAMIKE",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "COLONEL RUFFS",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "JESSIE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "MORTIS",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 6,
+                "winRate": 1,
+                "pickRate": 0.01195219123505976,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BARLEY",
+                    "BIBI",
+                    "DARRYL"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "BROCK",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "JESSIE",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLETTE",
+                    "SANDY",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "BO",
+                    "DARRYL"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "PENNY",
+                    "SANDY",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "MORTIS",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "GROM",
+                    "ROSA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "ROSA",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "MORTIS",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "DYNAMIKE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "JESSIE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BULL",
+                    "DYNAMIKE",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "GROM",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "SPROUT",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "DYNAMIKE",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "DYNAMIKE",
+                    "ROSA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "BYRON",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "FRANK",
+                    "GROM",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BUZZ",
+                    "FRANK",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "FRANK",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "EMZ",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "BO",
+                    "BUZZ"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.00597609561752988,
+                "pickNumber": 3,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "STU",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 0.7142857142857143,
+                "pickRate": 0.013944223107569721,
+                "pickNumber": 7,
+                "brawlers": [
+                    "BIBI",
+                    "DYNAMIKE",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "BIBI",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "PENNY",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "EL PRIMO",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "EL PRIMO",
+                    "LOLA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "DYNAMIKE",
+                    "LOLA"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "SPROUT",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "MORTIS",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.00597609561752988,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BARLEY",
+                    "BIBI",
+                    "GALE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 7,
+                "winRate": 0.7777777777777778,
+                "pickRate": 0.017928286852589643,
+                "pickNumber": 9,
+                "brawlers": [
+                    "BARLEY",
+                    "BULL",
+                    "BUZZ"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EMZ",
+                    "SPROUT",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.00199203187250996,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "NITA",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.00398406374501992,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "FRANK",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.00796812749003984,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BARLEY",
+                    "DARRYL",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Nuts & Bolts.json",
+            "startTime": "20220103T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.00597609561752988,
+                "pickNumber": 3,
+                "brawlers": [
+                    "DARRYL",
+                    "MEG",
+                    "TICK"
+                ]
+            }
+        }
+    ],
+    "battlesNumber": 671
+}
