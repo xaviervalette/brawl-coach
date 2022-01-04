@@ -33,16 +33,3 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           
-      - name: Set env variable
-        run: export PYTHONPATH='/home/pi/actions-runner/brawl-tiers/brawl-stars-tier-list/brawl-stars-tier-list/python'
-    
-      - name: clear py script # run the run.py to get the latest data
-        working-directory: python
-        continue-on-error: true
-        run: |
-          killall python
-    
-      - name: execute py script # run the run.py to get the latest data
-        working-directory: python
-        run: |
-          python ../web/app.py &
