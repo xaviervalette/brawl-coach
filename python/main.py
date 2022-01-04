@@ -6,7 +6,7 @@ start = time.time()
 #Global variables
 player_limit=200
 
-countries_list=["FR", "ES", "US", "RU", "CA", "IT"]
+countries_list=["FR"]
 token=READ_API_TOKEN("token.txt")
 
 GET_CURRENT_EVENTS(token)
