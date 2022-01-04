@@ -1,8 +1,7 @@
 from flask import Flask, render_template, request, redirect, url_for
 import sys
 # insert at 1, 0 is the script path (or '' in REPL)
-sys.path.insert(1, '../python')
-sys.path.append("../python") 
+sys.path.insert(0, '../python')
 from functions import *
 
 app = Flask(__name__)
