@@ -54,17 +54,11 @@ ul.people {
         <tbody>
             {% for i in range(0, len) %}
                 <tr>
-                    <td>
-                      <img src='/static/img/{{current_events[i]["event"]["mode"]|upper}}.jpg' alt='{{current_events[i]["event"]["mode"]|upper}}' loading="lazy" style="max-width:20%; min-width:50px; border-radius:20%">
+                    <td class="align-middle">
+                      <img src='/static/img/modes/{{current_events[i]["event"]["mode"]|upper}}.jpg' alt='{{current_events[i]["event"]["mode"]|upper}}' loading="lazy" style="max-width:20%; min-width:50px; border-radius:20%">
                     </td>
                     <td class="align-middle">                      
-                      {% if battleNumber[current_events[i]["event"]["mode"]][current_events[i]["event"]["map"]]!="N/A" %}
-                      <a  class="link-info" href='/teampicker/{{current_events[i]["event"]["mode"]}}/{{current_events[i]["event"]["map"]}}'>
-                      {{current_events[i]["event"]["map"]|upper}}
-                      </a>
-                      {% else %}
-                      {{current_events[i]["event"]["map"]|upper}}
-                      {% endif %}
+                      <img src='/static/img/maps/{{current_events[i]["event"]["map"]|upper}}.jpg' alt='{{current_events[i]["event"]["mode"]|upper}}' loading="lazy" style="max-width:30%; min-width:100px; border-radius:20%">
                     </td>
                     <td class="align-middle">                      
                       {{battleNumber[current_events[i]["event"]["mode"]][current_events[i]["event"]["map"]]}}
@@ -81,31 +75,31 @@ ul.people {
 
 
 
-  <div class="container col-sm-8">
+  <div class="container col-md-8">
     <div class="row flex-lg-row align-items-center g-5 py-5">
       {% for i in range(0, len) %}
     <div class=" col-sm-12 col-lg-6">
   <div class="container" style="padding-left: 0px; padding-right: 0px;">
 
-    <div class="row bg-info">
-      <div class="col-sm-12 border border-3 text-center">                      
-        <img src='/static/img/{{current_events[i]["event"]["mode"]|upper}}.jpg' alt='{{current_events[i]["event"]["mode"]|upper}}' loading="lazy" style="max-width:50px; min-width:50px; border-radius:20%">
+    <div class="row bg-info border border-3 rounded-5 border-dark">
+      <div class="col-sm-12 text-center">                      
+        <img src='/static/img/modes/{{current_events[i]["event"]["mode"]|upper}}.jpg' alt='{{current_events[i]["event"]["mode"]|upper}}' loading="lazy" style="max-width:50px; min-width:50px; border-radius:20%">
         <h4 class="display-8 fw-bold">{{current_events[i]["event"]["map"]|upper}}</h4>
       </div>
-      <div class="col-5 border border-3" style="padding-left: 0px; padding-right: 0px;">
+      <div class="col-6" style="padding-left: 0px; padding-right: 0px;">
 
         <table id="footable" class="table" data-sorting="true" data-paging="true" data-paging-size="5" data-paging-limit="3">
           <thead class="table-dark">
           <tr class="item">
             <th scope="col" class="align-middle" data-sortable="false">Brawlers</th>
-  
+            <th scope="col" class="align-middle" data-sortable="false">Win</th>
           </tr>
         </thead>
         <tbody>
           {% for i in range(0, 3) %}
 
               <tr>
-                <td>
+                <td style="width:0">
                   <div class="container" style="padding-left: 0px; padding-right: 0px;">
 
                         <ul class="people">
@@ -119,16 +113,20 @@ ul.people {
 
                     </div>
                     </td>
+                    <td>
+                      43%
+                    </td>
 
             </tr>
             {% endfor %}
         </tbody>
       </table>
-      <button type="button" class="btn btn-dark btn-lg px-4 me-md-2" onclick='location.href="/team_picker"' style="width:100%;">Details</button>
+      {% set map = current_events[i]["event"]["map"]|upper %}
+      {% set mode = current_events[i]["event"]["mode"]|upper %}
 
+      <button type="button" class="btn btn-dark btn-lg px-4 me-md-2 rounded rounded-5" onclick='location.href="/teampicker/{{mode}}/{{map}}"' style="width:100%;">Details</button>
       </div>
-      <div class="col-7 border border-3 align-item-middle" style="padding-left: 0px; padding-right: 0px;">
-        <img src='/static/img/{{current_events[i]["event"]["map"]|upper}}.jpg' class="img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
+      <div class="col-6 has-bg-img bg-purple bg-blend-multiply" style="padding-left: 0px; padding-right: 0px; background-image: url('/static/img/maps/{{map}}.jpg');   background-size: 100% 100%;">
       </div>
     </div>
   </div>
