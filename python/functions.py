@@ -8,6 +8,13 @@ from collections import Counter
 import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+import platform
+
+if(platform.system()=="Windows"):
+    path_separator="\\"
+else:
+    path_separator="/"
+
 
 def READ_API_TOKEN(filepath):
     """
@@ -168,16 +175,16 @@ def remove_team_duplicate(team):
 	return team_no_dupplicate
 
 def STORE_BEST_TEAM(dirName):
-    dirName="..\\data\\battles"
+    dirName=".."+path_separator+"data"+path_separator+"battles"
     winTeams=[]
     loseTeams=[]
     for root, subdirectories, files in os.walk(dirName):
         for file in files:
             #READ BATTLES
             #with open("../data/battles/"+mode+"/"+map+"/"+startTime+"_"+mode+"_"+map+".json", 'r') as f:
-            mode=os.path.join(root, file).split("\\")[-1].split("_")[1]
-            map=os.path.join(root, file).split("\\")[-1].split("_")[2]
-            startTime=os.path.join(root, file).split("\\")[-1].split("_")[0]
+            mode=os.path.join(root, file).split(path_separator)[-1].split("_")[1]
+            map=os.path.join(root, file).split(path_separator)[-1].split("_")[2]
+            startTime=os.path.join(root, file).split(path_separator)[-1].split("_")[0]
             with open(os.path.join(root, file), 'r') as f:
                 battles_mode_map = json.load(f)
 
@@ -223,7 +230,7 @@ def STORE_BEST_TEAM(dirName):
                 winList.append(win_dict)
                 winTable["teams"]= winList
                 winTable["battlesNumber"]=total
-            filename = "../data/stats/"+os.path.join(root, file).split("\\")[-1][16:]
+            filename = "../data/stats/"+os.path.join(root, file).split(path_separator)[-1][16:]
             with open(filename, 'w') as fp:
                 json.dump(winTable, fp, indent=4)
 
