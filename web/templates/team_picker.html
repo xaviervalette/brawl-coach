@@ -142,8 +142,11 @@ ul.people {
       </table>
       {% set map = current_events[i]["event"]["map"] %}
       {% set mode = current_events[i]["event"]["mode"] %}
-
+      {% if battleNumber[current_events[i]["event"]["mode"]][current_events[i]["event"]["map"]]!="N/A" %}
       <button type="button" class="btn btn-dark btn-lg px-4 me-md-2 rounded rounded-5" onclick='location.href="/teampicker/{{mode}}/{{map}}"' style="width:100%;">Details</button>
+      {% else %}
+      <button type="button" class="btn btn-dark btn-lg px-4 me-md-2 rounded rounded-5" onclick='location.href="/teampicker/{{mode}}/{{map}}"' style="width:100%;" disabled>Details</button>
+      {% endif %}
       </div>
       <div class="col-6 has-bg-img bg-purple bg-blend-multiply bg-white border-bottom border-end border-3 border-dark" style="padding-left: 0px; padding-right: 0px; background-image: url('/static/img/maps/{{map}}.jpg');   background-size: 100% 100%;">
       </div>
