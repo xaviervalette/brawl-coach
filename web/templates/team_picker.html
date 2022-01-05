@@ -137,7 +137,7 @@ ul.people {
             {% for i in range(0, len) %}
                 <tr>
                     <td class="align-middle">
-                      <img src='/static/img/modes/{{current_events[i]["event"]["mode"]|upper}}.jpg' alt='{{current_events[i]["event"]["mode"]|upper}}' loading="lazy" style="max-width:20%; min-width:50px; border-radius:20%">
+                      <img src='/static/img/modes/{{current_events[i]["event"]["mode"]|upper}}.JPG' alt='{{current_events[i]["event"]["mode"]|upper}}' loading="lazy" style="max-width:20%; min-width:50px; border-radius:20%">
                     </td>
                     <td class="align-middle">                      
                       {% if battleNumber[current_events[i]["event"]["mode"]][current_events[i]["event"]["map"]]!="N/A" %}
