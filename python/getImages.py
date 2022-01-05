@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 
 site = 'https://brawlify.com/maps/'
-site = "https://brawlify.com/gamemodes/detail/Duels"
+#site = "https://brawlify.com/gamemodes/detail/Duels"
 response = requests.get(site)
 
 soup = BeautifulSoup(response.text, 'html.parser')
