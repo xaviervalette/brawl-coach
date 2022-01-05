@@ -24,6 +24,8 @@ for url in urls:
     pictureName=pictureName.replace(" 2","")
     pictureName=pictureName.replace("'","")
     pictureName=pictureName.replace(".PNG",".JPG")
+    pictureName=pictureName.upper()
+
     print(pictureName)
 
     with open("../web/static/img/maps/"+pictureName, 'wb') as f:
