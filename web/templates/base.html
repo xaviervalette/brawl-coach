@@ -122,15 +122,5 @@
     <script src="/static/js/footable/footable.paging.js"></script>
     <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.11.3/datatables.min.js"></script>
     
-    <script>
-      if (window.innerWidth < 980) {
-        const navLinks = document.querySelectorAll('.nav-item');
-        const menuToggle = document.getElementById('navbarSupportedContent');
-        const bsCollapse = new bootstrap.Collapse(menuToggle, {toggle:false});
-        navLinks.forEach((l) => {
-        l.addEventListener('click', () => { bsCollapse.toggle()})
-        })
-      }
-    </script>
     </body>
 </html>
