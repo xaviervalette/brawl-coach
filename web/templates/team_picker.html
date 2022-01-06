@@ -43,20 +43,22 @@ ul.people {
 
 <div class="px-4 my-5 text-center border-bottom">
   <h1 class="display-4 fw-bold">Current events</h1>
-  <div class="col-lg-6 mx-auto">
+  </div>
+  <div class="col-lg-6 mx-auto my-5">
+
     <table class="table">
       <thead class="table-dark">
         <tr>
-          <th scope="col" style="width: 0">Mode</th>
-          <th scope="col">Map</th>
-          <th scope="col">Battles</th>
+          <th scope="col" class="text-center" style="width: 0">Mode</th>
+          <th scope="col" class="text-center">Map</th>
+          <th scope="col" class="text-center" style="width: 0">Battles</th>
         </tr>
       </thead>
       <tbody>
           {% for i in range(0, len) %}
           {% set map = current_events[i]["event"]["map"] | replace("'", "") | replace("-", "") | upper %}
-              <tr>
-                  <td class="align-middle">
+              <tr class="text-center align-middle">
+                  <td>
                     <img src='/static/img/modes/{{current_events[i]["event"]["mode"]|upper}}.jpg' alt='{{current_events[i]["event"]["mode"]|upper}}' loading="lazy" style="max-width:20%; min-width:50px; border-radius:20%">
                   </td>
                   <td class="align-middle">                      
@@ -66,7 +68,7 @@ ul.people {
                       <br>{{current_events[i]["event"]["map"]|upper}}
                     </a>
                     {% else %}
-                    <img src='/static/img/maps/{{map}}.JPG' alt='' style="max-width: 150px;min-width: 50%;border-radius:20%;">
+                    <img src='/static/img/maps/{{map}}.JPG' alt='' style="max-width: 175px;min-width: 50%;border-radius:20%;">
                     <br>{{current_events[i]["event"]["map"]|upper}}
                     {% endif %}                    
                   </td>
@@ -75,7 +77,7 @@ ul.people {
                     {{battleNumber[current_events[i]["event"]["mode"]][current_events[i]["event"]["map"]]}}
                   {% else %}
                   <span class="badge bg-danger">
-                    NO DATA YET
+                    0
                   </span>
                   {% endif %}
                   </td>
