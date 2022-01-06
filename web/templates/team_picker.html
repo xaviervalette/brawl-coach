@@ -54,7 +54,7 @@ ul.people {
       </thead>
       <tbody>
           {% for i in range(0, len) %}
-          {% set map = current_events[i]["event"]["map"] | replace("'", "") | replace("-", "") %}
+          {% set map = current_events[i]["event"]["map"] | replace("'", "") | replace("-", "") | upper %}
               <tr>
                   <td class="align-middle">
                     <img src='/static/img/modes/{{current_events[i]["event"]["mode"]|upper}}.jpg' alt='{{current_events[i]["event"]["mode"]|upper}}' loading="lazy" style="max-width:20%; min-width:50px; border-radius:20%">
