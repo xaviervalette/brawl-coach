@@ -74,11 +74,17 @@ ul.people {
                   </td>
                   <td class="align-middle">    
                     {% if battleNumber[current_events[i]["event"]["mode"]][current_events[i]["event"]["map"]]!="N/A" %}                  
-                    {{battleNumber[current_events[i]["event"]["mode"]][current_events[i]["event"]["map"]]}}
+                    <h1 class="display-6">
+                      <span class="badge bg-success">
+                      {{battleNumber[current_events[i]["event"]["mode"]][current_events[i]["event"]["map"]]}}
+                    </span>
+                    </h1>
                   {% else %}
+                  <h1 class="display-6">
                   <span class="badge bg-danger">
                     0
                   </span>
+                  </h1>
                   {% endif %}
                   </td>
               </tr>
