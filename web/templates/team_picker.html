@@ -1,0 +1,102 @@
+{% extends 'base.html'%}
+
+{% block body %}
+
+<style>
+  * {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 500px) {
+    .column {
+      width: 100%;
+    }
+  }
+
+  .people li {
+  display: inline;
+  white-space: nowrap
+}
+
+ul.people {
+  padding:0;
+  margin:0;
+}
+
+  </style>
+
+{{ macros.header("TEAM PICKER", "Check which team is the best on a given map!", "/") }}
+
+<div class="px-4 my-5 text-center border-bottom">
+  <h1 class="display-4 fw-bold">Current events</h1>
+  </div>
+  <div class="col-lg-6 mx-auto my-5">
+
+    <table class="table">
+      <thead class="table-dark">
+        <tr>
+          <th scope="col" class="text-center" style="width: 0">Mode</th>
+          <th scope="col" class="text-center">Map</th>
+          <th scope="col" class="text-center" style="width: 0">Battles</th>
+        </tr>
+      </thead>
+      <tbody>
+          {% for i in range(0, len) %}
+          {% set map = current_events[i]["event"]["map"] | replace("'", "") | replace("-", "") | upper %}
+              <tr class="text-center align-middle">
+                  <td>
+                    <img src='/static/img/modes/{{current_events[i]["event"]["mode"]|upper}}.jpg' alt='{{current_events[i]["event"]["mode"]|upper}}' loading="lazy" style="max-width:20%; min-width:50px; border-radius:20%">
+                  </td>
+                  <td class="align-middle">                      
+                    {% if battleNumber[current_events[i]["event"]["mode"]][current_events[i]["event"]["map"]]!="N/A" %}
+                    <a  class="link-info" href='/teampicker/{{current_events[i]["event"]["mode"]}}/{{current_events[i]["event"]["map"]}}'>
+                      <img src='/static/img/maps/{{map}}.JPG' alt='' style="max-width: 150px;min-width: 50%;border-radius:20%;">
+                      <br>{{current_events[i]["event"]["map"]|upper}}
+                    </a>
+                    {% else %}
+                    <img src='/static/img/maps/{{map}}.JPG' alt='' style="max-width: 175px;min-width: 50%;border-radius:20%;">
+                    <br>{{current_events[i]["event"]["map"]|upper}}
+                    {% endif %}                    
+                  </td>
+                  <td class="align-middle">    
+                    {% if battleNumber[current_events[i]["event"]["mode"]][current_events[i]["event"]["map"]]!="N/A" %}                  
+                    <h1 class="display-6">
+                      <span class="badge bg-success">
+                      {{battleNumber[current_events[i]["event"]["mode"]][current_events[i]["event"]["map"]]}}
+                    </span>
+                    </h1>
+                  {% else %}
+                  <h1 class="display-6">
+                  <span class="badge bg-danger">
+                    0
+                  </span>
+                  </h1>
+                  {% endif %}
+                  </td>
+              </tr>
+          {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  
+</div>
+  <style>
+    .footable-page-link{  
+    background-color: black !important;
+    }
+  </style>
+  {% endblock body %}
