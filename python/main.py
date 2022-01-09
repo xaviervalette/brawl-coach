@@ -4,9 +4,9 @@ import time
 start = time.time()
 
 #Global variables
-player_limit=100
+player_limit=50
 
-countries_list=["FR", "US", "IT", "CA", "DE"]
+countries_list=["FR", "US", "IT", "CA", "DE", "GR", "CN", "FI", "ES", "BR", "IN"]
 token=READ_API_TOKEN("token.txt")
 
 GET_CURRENT_EVENTS(token)
