@@ -464,16 +464,17 @@ def STORE_BATTLES(battlelogsList):
                             else:
                                 notInterestingBattle=notInterestingBattle+1
 
-                    print("--------------------------------------------------------")
-                    total= notInterestingBattle+alreadyStoredBattle+newBattle+battleNotInEvent+friendlyBattles+battleWithNoDuration
-                    print("New battles stored: "+ str(newBattle)+"/"+str(total))
-                    print("Battle not in curent event: "+ str(battleNotInEvent)+"/"+str(total))
-                    print("Already stored battles: "+ str(alreadyStoredBattle)+"/"+str(total))
-                    print("Not interesting battles: "+str(notInterestingBattle)+"/"+str(total))
-                    print("Friendly battles: ", str(friendlyBattles)+"/"+str(total))
-                    print("Battle with no duration: ",  str(battleWithNoDuration)+"/"+str(total))
-                    print("--------------------------------------------------------")
+                   
             listNumOfBattles.append(numberOfBattles)
+    print("--------------------------------------------------------")
+    total= notInterestingBattle+alreadyStoredBattle+newBattle+battleNotInEvent+friendlyBattles+battleWithNoDuration
+    print("New battles stored: "+ str(newBattle)+"/"+str(total))
+    print("Battle not in curent event: "+ str(battleNotInEvent)+"/"+str(total))
+    print("Already stored battles: "+ str(alreadyStoredBattle)+"/"+str(total))
+    print("Not interesting battles: "+str(notInterestingBattle)+"/"+str(total))
+    print("Friendly battles: ", str(friendlyBattles)+"/"+str(total))
+    print("Battle with no duration: ",  str(battleWithNoDuration)+"/"+str(total))
+    print("--------------------------------------------------------")
     print("total: ", total)
     print("min number of battle per battle log: ", min(listNumOfBattles))
     print("max number of battle per battle log: ", max(listNumOfBattles))
