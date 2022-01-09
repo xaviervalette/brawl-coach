@@ -89,6 +89,26 @@ def tag_reader():
 def modes_maps(mode):
 		return mode
 
+@app.route("/solo_picker")
+def solo_picker():
+	battleNumber={}
+	bestTeams={}
+	current_events = READ_CURRENT_EVENTS("../events/current_events.json")
+	for events in current_events:
+		map=events["event"]["map"]
+		mode=events["event"]["mode"]
+		startTime=events["startTime"].split(".")[0]
+		try:
+			mode_map_details, battleNum =READ_EVENTS_STATS(mode,map, startTime, "solo")
+			mode_map_details_sorted = sorted(mode_map_details, key=lambda d: d['soloStats']["pickRate"], reverse=True)
+			bestTeams[mode]={map:mode_map_details_sorted}
+			battleNumber[mode]={map:battleNum}
+		except:
+			battleNumber[mode]={map:"N/A"}
+			bestTeams[mode]={map:"N/A"}
+			
+	return render_template('solo_picker.html', current_events=current_events, len=len(current_events), battleNumber=battleNumber, mode_map_details=bestTeams)		
+
 @app.route("/team_picker")
 def team_picker():
 	battleNumber={}
@@ -97,8 +117,9 @@ def team_picker():
 	for events in current_events:
 		map=events["event"]["map"]
 		mode=events["event"]["mode"]
+		startTime=events["startTime"].split(".")[0]
 		try:
-			mode_map_details, battleNum =READ_EVENTS_STATS(mode,map)
+			mode_map_details, battleNum =READ_EVENTS_STATS(mode,map, startTime, "teams")
 			mode_map_details_sorted = sorted(mode_map_details, key=lambda d: d['teamStats']["pickRate"], reverse=True)
 			bestTeams[mode]={map:mode_map_details_sorted}
 			battleNumber[mode]={map:battleNum}
@@ -108,10 +129,11 @@ def team_picker():
 			
 	return render_template('team_picker.html', current_events=current_events, len=len(current_events), battleNumber=battleNumber, mode_map_details=bestTeams)
 
-@app.route("/teampicker/<string:mode>/<string:map>")
-def mode_map(mode, map):
+@app.route("/teampicker/<string:mode>/<string:map>/<string:startTime>")
+def mode_map(mode, map, startTime):
 	try:	
-		mode_map_details, battleNum=READ_EVENTS_STATS(mode,map) #READ DATA FROM NATHAN
+		startTime=startTime.split(".")[0]
+		mode_map_details, battleNum=READ_EVENTS_STATS(mode,map, startTime, "teams") #READ DATA FROM NATHAN
 		mode_map_details_sorted = sorted(mode_map_details, key=lambda d: d['teamStats']["pickRate"], reverse=True) 
 		if len(mode_map_details)>50:
 			team_number=50
@@ -120,7 +142,20 @@ def mode_map(mode, map):
 		return render_template('mode_map_details.html', mode_map_details=mode_map_details_sorted, len=team_number, mode=mode, map=map)
 	except:
 		return "TO DO"
-	
+
+@app.route("/solopicker/<string:mode>/<string:map>/<string:startTime>")
+def mode_map_solo(mode, map, startTime):
+	#try:	
+	startTime=startTime.split(".")[0]
+	mode_map_details, battleNum=READ_EVENTS_STATS(mode,map, startTime, "solo") #READ DATA FROM NATHAN
+	mode_map_details_sorted = sorted(mode_map_details, key=lambda d: d['soloStats']["pickRate"], reverse=True) 
+	if len(mode_map_details)>50:
+		team_number=50
+	else:
+		team_number=len(mode_map_details)
+	return render_template('mode_map_details_solo.html', mode_map_details=mode_map_details_sorted, len=team_number, mode=mode, map=map)
+	#except:
+		#return "TO DO"
 
 if __name__ == "__main__":
 	app.run(host='0.0.0.0', port=5000)

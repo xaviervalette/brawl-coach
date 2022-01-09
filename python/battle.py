@@ -10,7 +10,10 @@ class Battle:
       self.noPlayers=False
       self.noStarBrawlerTrophies=False
       self.noStarBrawlerPower=False
+      self.noEventMode=False
+      self.noRank=False
 
+      self.playerTag= battle["playerTag"]
       self.mode = battle['battle']['mode']
       if 'duration' in battle['battle']:
          self.duration = battle['battle']['duration']
@@ -21,7 +24,12 @@ class Battle:
          self.typee = battle['battle']['type']
       else:
          self.noType=True
-      
+
+      if 'rank' in battle['battle']:
+         self.rank = battle['battle']['rank']
+      else:
+         self.noRank=True
+
       if 'result' in battle['battle']:
          self.result = battle['battle']['result']   
       else:
@@ -40,8 +48,10 @@ class Battle:
       self.battleTime=battle['battleTime']
       self.mapEvent=battle['event']['map']
       self.idEvent=battle['event']['id']
-      self.modEvent=battle['event']['map']
-      
+      if 'mode' in battle['event']:
+         self.modEvent=battle['event']['mode']
+      else:
+         self.noEventMode=True
       
       if 'starPlayer' in battle['battle'] and battle['battle']['starPlayer'] is not None :
          self.starTag=battle['battle']['starPlayer']['tag']
@@ -64,7 +74,18 @@ class Battle:
       else:
          self.noStarPlayer= True
 
-      
+   def get_team_of_player(self):#without using star player
+      if self.mode=="duoShowdown":
+         for team in self.teams:
+            for player in team:
+               if player["tag"]==self.playerTag:
+                  return team
+      elif self.mode=="soloShowdown":
+         for player in self.players:
+            if player["tag"]==self.playerTag:
+               return player
+
+   
    def get_team_of_star_player(self):
       goodTeam=False
       winTeam=[]
@@ -80,7 +101,13 @@ class Battle:
       return winTeam
 
    def is_equal(self, otherBattle):
-      if self.duration==otherBattle.duration and self.battleTime==otherBattle.battleTime:
-         return True
+      if self.noDuration== False:
+         if self.duration==otherBattle.duration and self.battleTime==otherBattle.battleTime and self.playerTag ==otherBattle.playerTag:
+            return True
+         else:
+            return False
       else:
-         return False
+         if self.battleTime==otherBattle.battleTime and self.modEvent==otherBattle.modEvent and self.playerTag ==otherBattle.playerTag:
+            return True
+         else:
+            return False
