@@ -389,79 +389,80 @@ def STORE_BATTLES(battlelogsList):
             if "items" in battlelogsList[pays][players]:
                 numberOfBattles=0
                 for battles in battlelogsList[pays][players]["items"]:
-                    numberOfBattles=numberOfBattles+1
-                    total=total+1
-                    #print(battles)
-                    b = Battle(battles)
-                    go = False
+                    if numberOfBattles <5:
+                        numberOfBattles=numberOfBattles+1
+                        total=total+1
+                        #print(battles)
+                        b = Battle(battles)
+                        go = False
 
-                    if b.mode=="gemGrab" or b.mode=="brawlBall" or b.mode=="heist" or b.mode=="bounty" or b.mode=="hotZone" or b.mode=="siege":
-                        if not b.noDuration and not b.noResult and not b.noStarPlayer and not b.noType and not b.noTeams and b.typee!= "friendly":
-                            go=True
-                    elif b.mode=="soloShowdown" or b.mode=="duoShowdown":
-                        if not b.noType and b.typee!= "friendly":
-                            go=True
+                        if b.mode=="gemGrab" or b.mode=="brawlBall" or b.mode=="heist" or b.mode=="bounty" or b.mode=="hotZone" or b.mode=="siege":
+                            if not b.noDuration and not b.noResult and not b.noStarPlayer and not b.noType and not b.noTeams and b.typee!= "friendly":
+                                go=True
+                        elif b.mode=="soloShowdown" or b.mode=="duoShowdown":
+                            if not b.noType and b.typee!= "friendly":
+                                go=True
 
-                    if go:
-                        startTime=None
-                        mode=b.mode
-                        mapEvent=b.mapEvent
-                        for event in curentEvent:
-                            battleMap=event["event"]["map"]
-                            battleMode=event["event"]["mode"]
-                            if battleMap== mapEvent and battleMode== mode:
-                                startTime=event["startTime"]
-                                break
-                        if startTime is not None:
-                            modeFolder= dataFolder/mode
-                            modeFolder.mkdir(parents=True, exist_ok=True)
-                            mapFolder=modeFolder/mapEvent
-                            mapFolder.mkdir(parents=True, exist_ok=True)
-                            startTime=startTime.split(".")[0]
+                        if go:
+                            startTime=None
+                            mode=b.mode
+                            mapEvent=b.mapEvent
+                            for event in curentEvent:
+                                battleMap=event["event"]["map"]
+                                battleMode=event["event"]["mode"]
+                                if battleMap== mapEvent and battleMode== mode:
+                                    startTime=event["startTime"]
+                                    break
+                            if startTime is not None:
+                                modeFolder= dataFolder/mode
+                                modeFolder.mkdir(parents=True, exist_ok=True)
+                                mapFolder=modeFolder/mapEvent
+                                mapFolder.mkdir(parents=True, exist_ok=True)
+                                startTime=startTime.split(".")[0]
 
-                            fileName=startTime+"_"+mode+"_"+mapEvent+".json"
-                            mapFile=mapFolder/fileName
-                            if mapFile.is_file() or mapFile in files2save:
-                                if mapFile not in files2save:
-                                    data = json.load(open(mapFile))
-                                    # convert data to list if not
-                                    if type(data) is dict:
-                                        data = [data]
-                                    files2save[mapFile]=data
-                                alreadyExist=False
-                                for batailles in files2save[mapFile]:
-                                    savedB=Battle(batailles)
-                                    if savedB.is_equal(b):
-                                        alreadyExist=True
+                                fileName=startTime+"_"+mode+"_"+mapEvent+".json"
+                                mapFile=mapFolder/fileName
+                                if mapFile.is_file() or mapFile in files2save:
+                                    if mapFile not in files2save:
+                                        data = json.load(open(mapFile))
+                                        # convert data to list if not
+                                        if type(data) is dict:
+                                            data = [data]
+                                        files2save[mapFile]=data
+                                    alreadyExist=False
+                                    for batailles in files2save[mapFile]:
+                                        savedB=Battle(batailles)
+                                        if savedB.is_equal(b):
+                                            alreadyExist=True
 
-                                if not alreadyExist:
-                                    # append new item to data lit
-                                    files2save[mapFile].append(battles)
+                                    if not alreadyExist:
+                                        # append new item to data lit
+                                        files2save[mapFile].append(battles)
+                                        newBattle=newBattle+1
+                                        # write list to file
+                                        '''
+                                        with open(mapFile, 'w') as outfile:
+                                            json.dump(data, outfile, indent=4)
+                                            
+                                        '''
+                                    else:
+                                        alreadyStoredBattle=alreadyStoredBattle+1
+                                else:
+                                    files2save[mapFile]=[battles]
                                     newBattle=newBattle+1
-                                    # write list to file
                                     '''
                                     with open(mapFile, 'w') as outfile:
-                                        json.dump(data, outfile, indent=4)
-                                        
-                                    '''
-                                else:
-                                    alreadyStoredBattle=alreadyStoredBattle+1
+                                        json.dump(battles, outfile, indent=4)
+                                    '''  
                             else:
-                                files2save[mapFile]=[battles]
-                                newBattle=newBattle+1
-                                '''
-                                with open(mapFile, 'w') as outfile:
-                                    json.dump(battles, outfile, indent=4)
-                                '''  
+                                battleNotInEvent=battleNotInEvent+1
                         else:
-                            battleNotInEvent=battleNotInEvent+1
-                    else:
-                        if not b.noType and b.typee=="friendly":
-                            friendlyBattles=friendlyBattles+1
-                        elif b.noDuration:
-                            battleWithNoDuration=battleWithNoDuration+1
-                        else:
-                            notInterestingBattle=notInterestingBattle+1
+                            if not b.noType and b.typee=="friendly":
+                                friendlyBattles=friendlyBattles+1
+                            elif b.noDuration:
+                                battleWithNoDuration=battleWithNoDuration+1
+                            else:
+                                notInterestingBattle=notInterestingBattle+1
 
                     print("--------------------------------------------------------")
                     total= notInterestingBattle+alreadyStoredBattle+newBattle+battleNotInEvent+friendlyBattles+battleWithNoDuration
