@@ -94,7 +94,6 @@ def GET_BATTLELOGS_backup(token, ranks_list):
             url_tag=tag.replace("#","%23")
             response = requests.request("GET", "https://api.brawlstars.com/v1/players/"+url_tag+"/battlelog", headers=headers, data=data)
             battlelogs[tag]= response.json()
-            print("Country:" + country + ", Tag: "+ tag + ", Response code: " + str(response.status_code))
         battlelogs_list[country]=battlelogs
     return battlelogs_list
 
