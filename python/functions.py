@@ -113,8 +113,8 @@ def GET_BATTLELOGS(token, ranks_list):
             threads.append(executor.submit(GET_BATTELOGS_API_CALLS, country, ranks_list, battlelogs, token))
             
         for task in as_completed(threads):
-            print("API CALLS FINISH") 
-
+            #print("API CALLS FINISH") 
+            print("") 
         battlelogs_list[country]=battlelogs
     return battlelogs_list
 
@@ -131,7 +131,7 @@ def GET_BATTELOGS_API_CALLS(country, ranks_list, battlelogs, token):
             battle["playerTag"]=tag #add the tag of the corresponding player in order to handle showdown
       
         battlelogs[tag]= battlelog
-        print("Country:" + country + ", Tag: "+ tag + ", Response code: " + str(response.status_code))
+        #print("Country:" + country + ", Tag: "+ tag + ", Response code: " + str(response.status_code))
     return battlelogs
 
 
