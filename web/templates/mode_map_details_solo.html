@@ -1,44 +1,6 @@
 {% extends 'base.html'%}
 
 {% block body %}
-<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-<style>
-  * {
-    box-sizing: border-box;
-  }
-  
-  .column {
-    float: left;
-    width: 33.33%;
-    padding: 5px;
-  }
-  
-  /* Clearfix (clear floats) */
-  .row::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
-  
-  /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-  @media screen and (max-width: 500px) {
-    .column {
-      width: 100%;
-    }
-  }
-
-  .people li {
-  display: inline;
-  white-space: nowrap
-}
-
-ul.people {
-  padding:0;
-  margin:0;
-}
-
-  </style>
-
   
   {{ macros.header(map|upper, mode|upper, "/solo_picker") }}
 
@@ -61,11 +23,7 @@ ul.people {
               <tr>
                   <td>
                     <div class="container">
-                          <ul class="people">
-                            <li>
                               <img src='/static/img/brawlers/{{mode_map_details[i]["soloStats"]["brawler"]}}.jpg' alt='{{mode_map_details[i]["soloStats"]["brawler"]}}' style="max-width:20%; min-width:50px; border-radius:20%">
-                            </ul>
-
                       </div>
                       </td>
 

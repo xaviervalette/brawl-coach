@@ -1,0 +1,77 @@
+{
+    "brawler": [
+        {
+            "mode": "soloShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.2,
+                "pickNumber": 3,
+                "brawler": "SHELLY"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "DYNAMIKE"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.13333333333333333,
+                "pickNumber": 2,
+                "brawler": "DARRYL"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.13333333333333333,
+                "pickNumber": 2,
+                "brawler": "CARL"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "CROW"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.4,
+                "pickNumber": 6,
+                "brawler": "BUZZ"
+            }
+        }
+    ],
+    "battlesNumber": 15
+}

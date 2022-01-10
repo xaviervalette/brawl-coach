@@ -17,6 +17,7 @@
         <link href="/static/css/footable/footable.sorting.css" rel="stylesheet"/>
         <link href="/static/css/footable/footable.paging.css" rel="stylesheet"/>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css" integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous">
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
         <link rel="icon" href="/static/img/favicon.svg" />
 
 
@@ -47,7 +48,41 @@
               border-color: #0dcaf0;
             }
 
-          </style>
+            * {
+              box-sizing: border-box;
+            }
+            
+            .column {
+              float: left;
+              width: 33.33%;
+              padding: 5px;
+            }
+            
+            /* Clearfix (clear floats) */
+            .row::after {
+              content: "";
+              clear: both;
+              display: table;
+            }
+            
+            /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+            @media screen and (max-width: 500px) {
+              .column {
+                width: 100%;
+              }
+            }
+          
+            .people li {
+            display: inline;
+            white-space: nowrap
+          }
+          
+          ul.people {
+            padding:0;
+            margin:0;
+          }
+          
+            </style>
           </head>
 
     {% block navbar %}

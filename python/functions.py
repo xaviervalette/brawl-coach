@@ -270,11 +270,9 @@ def STORE_BEST_TEAM(dirName):
 
             winTable={}
             winList=[]
-            total = 0
 
             for team in winTeamsUnique:
                 pickNumber=winTeams.count(team)+loseTeams.count(team)
-                total = total + pickNumber
                 if(loseTeamsUnique.count(team)==0):
                     winRate=1
                 else:
@@ -293,7 +291,7 @@ def STORE_BEST_TEAM(dirName):
                 }                    
                 winList.append(win_dict)
                 winTable["teams"]= winList
-                winTable["battlesNumber"]=total
+                winTable["battlesNumber"]=len(battles_mode_map)
             filename = "../data/stats/teams/"+os.path.join(root, file).split(path_separator)[-1]
             with open(filename, 'w') as fp:
                 json.dump(winTable, fp, indent=4)
@@ -361,13 +359,13 @@ def STORE_BEST_SOLO(dirName):
                 }                    
                 winList.append(win_dict)
                 winTable["brawler"]= winList
-                winTable["battlesNumber"]=total
+                winTable["battlesNumber"]=len(battles_mode_map)
             filename = "../data/stats/solo/"+os.path.join(root, file).split(path_separator)[-1]
             with open(filename, 'w') as fp:
                 json.dump(winTable, fp, indent=4)
     
 
-def STORE_BATTLES(battlelogsList):
+def STORE_BATTLES(battlelogsList, limitNumberOfBattles):
     files2save={}
     go=False
     numberOfBattles=0
@@ -388,7 +386,7 @@ def STORE_BATTLES(battlelogsList):
             if "items" in battlelogsList[pays][players]:
                 numberOfBattles=0
                 for battles in battlelogsList[pays][players]["items"]:
-                    if numberOfBattles <5:
+                    if numberOfBattles <limitNumberOfBattles:
                         numberOfBattles=numberOfBattles+1
                         total=total+1
                         #print(battles)
@@ -481,7 +479,7 @@ def STORE_BATTLES(battlelogsList):
     for files in files2save:
         with open(files, 'w') as outfile:
             json.dump(files2save[files], outfile, indent=4)
-
+    return newBattle
 
 '''
     For the given path, get the List of all files in the directory tree 

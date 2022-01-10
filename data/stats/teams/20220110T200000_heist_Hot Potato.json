@@ -1,0 +1,517 @@
+{
+    "teams": [
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 8,
+                "winRate": 0.8,
+                "pickRate": 0.15625,
+                "pickNumber": 10,
+                "brawlers": [
+                    "DARRYL",
+                    "EL PRIMO",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015625,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "DARRYL",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015625,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EDGAR",
+                    "JESSIE",
+                    "LOLA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015625,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "DYNAMIKE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.0625,
+                "pickNumber": 4,
+                "brawlers": [
+                    "COLT",
+                    "DYNAMIKE",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015625,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "COLT",
+                    "EMZ"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015625,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "BULL",
+                    "COLT"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.03125,
+                "pickNumber": 2,
+                "brawlers": [
+                    "EDGAR",
+                    "EL PRIMO",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.4,
+                "pickRate": 0.078125,
+                "pickNumber": 5,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "EDGAR",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.4,
+                "pickRate": 0.078125,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BULL",
+                    "BUZZ",
+                    "DARRYL"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 20,
+                "winRate": 1,
+                "pickRate": 0.3125,
+                "pickNumber": 20,
+                "brawlers": [
+                    "BULL",
+                    "COLT",
+                    "DARRYL"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015625,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "EMZ",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.2857142857142857,
+                "pickRate": 0.109375,
+                "pickNumber": 7,
+                "brawlers": [
+                    "BULL",
+                    "DYNAMIKE",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015625,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "BULL",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.046875,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BIBI",
+                    "BULL",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.03125,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BIBI",
+                    "BULL",
+                    "DARRYL"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015625,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "COLETTE",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.03125,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BIBI",
+                    "EL PRIMO",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015625,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLONEL RUFFS",
+                    "NITA",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015625,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "EDGAR",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015625,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "EDGAR",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015625,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "RICO",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.046875,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BULL",
+                    "DARRYL",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015625,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "DARRYL",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015625,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "EL PRIMO",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015625,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "DYNAMIKE",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.03125,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BROCK",
+                    "JACKY",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.046875,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BULL",
+                    "DARRYL",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015625,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "BULL",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015625,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "BIBI",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015625,
+                "pickNumber": 1,
+                "brawlers": [
+                    "LOLA",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Hot Potato.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015625,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "EL PRIMO",
+                    "NITA"
+                ]
+            }
+        }
+    ],
+    "battlesNumber": 64
+}

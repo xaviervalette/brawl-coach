@@ -1,0 +1,140 @@
+{
+    "teams": [
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 11,
+                "winRate": 0.9166666666666666,
+                "pickRate": 0.18461538461538463,
+                "pickNumber": 12,
+                "brawlers": [
+                    "GROM",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 10,
+                "winRate": 0.8333333333333334,
+                "pickRate": 0.18461538461538463,
+                "pickNumber": 12,
+                "brawlers": [
+                    "GROM",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 9,
+                "winRate": 0.8181818181818182,
+                "pickRate": 0.16923076923076924,
+                "pickNumber": 11,
+                "brawlers": [
+                    "DARRYL",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.046153846153846156,
+                "pickNumber": 3,
+                "brawlers": [
+                    "ASH",
+                    "BYRON"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.015384615384615385,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MAX",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.046153846153846156,
+                "pickNumber": 3,
+                "brawlers": [
+                    "GROM",
+                    "MAX"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.03076923076923077,
+                "pickNumber": 2,
+                "brawlers": [
+                    "COLONEL RUFFS",
+                    "LEON"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 0.5555555555555556,
+                "pickRate": 0.13846153846153847,
+                "pickNumber": 9,
+                "brawlers": [
+                    "LEON",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.6,
+                "pickRate": 0.07692307692307693,
+                "pickNumber": 5,
+                "brawlers": [
+                    "CROW",
+                    "MEG"
+                ]
+            }
+        }
+    ],
+    "battlesNumber": 65
+}

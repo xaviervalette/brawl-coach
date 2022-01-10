@@ -1,0 +1,213 @@
+{
+    "teams": [
+        {
+            "mode": "bounty",
+            "map": "Shooting Star.json",
+            "startTime": "20220110T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.041666666666666664,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "PIPER",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Shooting Star.json",
+            "startTime": "20220110T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.041666666666666664,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "CROW",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Shooting Star.json",
+            "startTime": "20220110T220000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.5,
+                "pickRate": 0.25,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BELLE",
+                    "NANI",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Shooting Star.json",
+            "startTime": "20220110T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.125,
+                "pickNumber": 3,
+                "brawlers": [
+                    "LEON",
+                    "MORTIS",
+                    "NANI"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Shooting Star.json",
+            "startTime": "20220110T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.041666666666666664,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "EL PRIMO",
+                    "NANI"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Shooting Star.json",
+            "startTime": "20220110T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.16666666666666666,
+                "pickNumber": 4,
+                "brawlers": [
+                    "NANI",
+                    "PIPER",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Shooting Star.json",
+            "startTime": "20220110T220000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.25,
+                "pickNumber": 6,
+                "brawlers": [
+                    "GROM",
+                    "MORTIS",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Shooting Star.json",
+            "startTime": "20220110T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.08333333333333333,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BROCK",
+                    "NANI",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Shooting Star.json",
+            "startTime": "20220110T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.041666666666666664,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "COLT",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Shooting Star.json",
+            "startTime": "20220110T220000",
+            "teamStats": {
+                "winNumber": 6,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.375,
+                "pickNumber": 9,
+                "brawlers": [
+                    "MORTIS",
+                    "NANI",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Shooting Star.json",
+            "startTime": "20220110T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.041666666666666664,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "MORTIS",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Shooting Star.json",
+            "startTime": "20220110T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.041666666666666664,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "PIPER",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Shooting Star.json",
+            "startTime": "20220110T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.08333333333333333,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BUZZ",
+                    "EL PRIMO",
+                    "PIPER"
+                ]
+            }
+        }
+    ],
+    "battlesNumber": 24
+}

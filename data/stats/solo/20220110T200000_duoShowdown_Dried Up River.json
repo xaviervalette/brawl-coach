@@ -1,0 +1,245 @@
+{
+    "brawler": [
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 23,
+                "winRate": 0.7931034482758621,
+                "pickRate": 0.4461538461538462,
+                "pickNumber": 29,
+                "brawler": "GROM"
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 11,
+                "winRate": 0.9166666666666666,
+                "pickRate": 0.18461538461538463,
+                "pickNumber": 12,
+                "brawler": "SURGE"
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.03076923076923077,
+                "pickNumber": 2,
+                "brawler": "BIBI"
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.015384615384615385,
+                "pickNumber": 1,
+                "brawler": "SHELLY"
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.015384615384615385,
+                "pickNumber": 1,
+                "brawler": "LOU"
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 10,
+                "winRate": 0.8333333333333334,
+                "pickRate": 0.18461538461538463,
+                "pickNumber": 12,
+                "brawler": "SPIKE"
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 9,
+                "winRate": 0.8181818181818182,
+                "pickRate": 0.16923076923076924,
+                "pickNumber": 11,
+                "brawler": "DARRYL"
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 9,
+                "winRate": 0.75,
+                "pickRate": 0.18461538461538463,
+                "pickNumber": 12,
+                "brawler": "MORTIS"
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.046153846153846156,
+                "pickNumber": 3,
+                "brawler": "COLONEL RUFFS"
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.046153846153846156,
+                "pickNumber": 3,
+                "brawler": "ASH"
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.046153846153846156,
+                "pickNumber": 3,
+                "brawler": "BYRON"
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 5,
+                "winRate": 0.5,
+                "pickRate": 0.15384615384615385,
+                "pickNumber": 10,
+                "brawler": "SPROUT"
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.015384615384615385,
+                "pickNumber": 1,
+                "brawler": "STU"
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.06153846153846154,
+                "pickNumber": 4,
+                "brawler": "MAX"
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 4,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.09230769230769231,
+                "pickNumber": 6,
+                "brawler": "MEG"
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 7,
+                "winRate": 0.6363636363636364,
+                "pickRate": 0.16923076923076924,
+                "pickNumber": 11,
+                "brawler": "LEON"
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.03076923076923077,
+                "pickNumber": 2,
+                "brawler": "GALE"
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.6,
+                "pickRate": 0.07692307692307693,
+                "pickNumber": 5,
+                "brawler": "CROW"
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.015384615384615385,
+                "pickNumber": 1,
+                "brawler": "BEA"
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Dried Up River.json",
+            "startTime": "20220110T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.015384615384615385,
+                "pickNumber": 1,
+                "brawler": "EMZ"
+            }
+        }
+    ],
+    "battlesNumber": 65
+}

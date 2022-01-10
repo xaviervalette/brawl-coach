@@ -1,0 +1,3406 @@
+[
+    {
+        "battleTime": "20220110T210934.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 89,
+            "trophyChange": 3,
+            "starPlayer": {
+                "tag": "#228J2PPPG",
+                "name": "\u7a7a\u6761\u5f90\u502b",
+                "brawler": {
+                    "id": 16000048,
+                    "name": "GROM",
+                    "power": 10,
+                    "trophies": 1245
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#CUCLG22P",
+                        "name": "sumi",
+                        "brawler": {
+                            "id": 16000023,
+                            "name": "LEON",
+                            "power": 10,
+                            "trophies": 774
+                        }
+                    },
+                    {
+                        "tag": "#V0JJJ299",
+                        "name": "nicholasz1z",
+                        "brawler": {
+                            "id": 16000030,
+                            "name": "EMZ",
+                            "power": 11,
+                            "trophies": 749
+                        }
+                    },
+                    {
+                        "tag": "#2CLGVQYV",
+                        "name": "horse",
+                        "brawler": {
+                            "id": 16000023,
+                            "name": "LEON",
+                            "power": 11,
+                            "trophies": 821
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#228J2PPPG",
+                        "name": "\u7a7a\u6761\u5f90\u502b",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 10,
+                            "trophies": 1245
+                        }
+                    },
+                    {
+                        "tag": "#2QPYLU2LV",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 10,
+                            "trophies": 1188
+                        }
+                    },
+                    {
+                        "tag": "#2QUQ9JP",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000035,
+                            "name": "GALE",
+                            "power": 11,
+                            "trophies": 1233
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#2QUQ9JP"
+    },
+    {
+        "battleTime": "20220110T210114.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 102,
+            "trophyChange": 3,
+            "starPlayer": {
+                "tag": "#2QPYLU2LV",
+                "name": "hiyayako",
+                "brawler": {
+                    "id": 16000016,
+                    "name": "PAM",
+                    "power": 10,
+                    "trophies": 1184
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#C8CU92VQ",
+                        "name": "WATRICE",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 9,
+                            "trophies": 799
+                        }
+                    },
+                    {
+                        "tag": "#8Y98L0UGR",
+                        "name": "Black arrow",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 11,
+                            "trophies": 799
+                        }
+                    },
+                    {
+                        "tag": "#9P080UQYL",
+                        "name": "\u52c7\u8005",
+                        "brawler": {
+                            "id": 16000045,
+                            "name": "STU",
+                            "power": 9,
+                            "trophies": 749
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2QPYLU2LV",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 10,
+                            "trophies": 1184
+                        }
+                    },
+                    {
+                        "tag": "#2QUQ9JP",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000035,
+                            "name": "GALE",
+                            "power": 11,
+                            "trophies": 1230
+                        }
+                    },
+                    {
+                        "tag": "#228J2PPPG",
+                        "name": "\u7a7a\u6761\u5f90\u502b",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 10,
+                            "trophies": 1242
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#2QUQ9JP"
+    },
+    {
+        "battleTime": "20220110T205247.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 85,
+            "trophyChange": 3,
+            "starPlayer": {
+                "tag": "#228J2PPPG",
+                "name": "\u7a7a\u6761\u5f90\u502b",
+                "brawler": {
+                    "id": 16000048,
+                    "name": "GROM",
+                    "power": 10,
+                    "trophies": 1239
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2QPYLU2LV",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 10,
+                            "trophies": 1180
+                        }
+                    },
+                    {
+                        "tag": "#228J2PPPG",
+                        "name": "\u7a7a\u6761\u5f90\u502b",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 10,
+                            "trophies": 1239
+                        }
+                    },
+                    {
+                        "tag": "#2QUQ9JP",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000035,
+                            "name": "GALE",
+                            "power": 11,
+                            "trophies": 1227
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#URVP2UP0",
+                        "name": "SaymInAme",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 11,
+                            "trophies": 819
+                        }
+                    },
+                    {
+                        "tag": "#80RGUY98",
+                        "name": "XIII",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 11,
+                            "trophies": 797
+                        }
+                    },
+                    {
+                        "tag": "#20ULQ0JU2",
+                        "name": "\u308f\u308b\u3044\u5b50\u3079\u308b\u3089\u3059\ud83d\ude08",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 10,
+                            "trophies": 774
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#2QUQ9JP"
+    },
+    {
+        "battleTime": "20220110T204450.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 84,
+            "trophyChange": 3,
+            "starPlayer": {
+                "tag": "#2QUQ9JP",
+                "name": "hiyayako",
+                "brawler": {
+                    "id": 16000035,
+                    "name": "GALE",
+                    "power": 11,
+                    "trophies": 1224
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2QPYLU2LV",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 10,
+                            "trophies": 1176
+                        }
+                    },
+                    {
+                        "tag": "#2QUQ9JP",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000035,
+                            "name": "GALE",
+                            "power": 11,
+                            "trophies": 1224
+                        }
+                    },
+                    {
+                        "tag": "#228J2PPPG",
+                        "name": "\u7a7a\u6761\u5f90\u502b",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 10,
+                            "trophies": 1236
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#8Q2089",
+                        "name": "TAKAAKI",
+                        "brawler": {
+                            "id": 16000046,
+                            "name": "BELLE",
+                            "power": 9,
+                            "trophies": 767
+                        }
+                    },
+                    {
+                        "tag": "#82LPYQYG",
+                        "name": "Shaka\u2606\u91c8\u8fe6",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 9,
+                            "trophies": 724
+                        }
+                    },
+                    {
+                        "tag": "#90Q9Y9YC",
+                        "name": "FYG | N0EL",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 849
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#2QUQ9JP"
+    },
+    {
+        "battleTime": "20220110T203610.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 82,
+            "trophyChange": 3,
+            "starPlayer": {
+                "tag": "#228J2PPPG",
+                "name": "\u7a7a\u6761\u5f90\u502b",
+                "brawler": {
+                    "id": 16000048,
+                    "name": "GROM",
+                    "power": 10,
+                    "trophies": 1233
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2QPYLU2LV",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 10,
+                            "trophies": 1172
+                        }
+                    },
+                    {
+                        "tag": "#2QUQ9JP",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000035,
+                            "name": "GALE",
+                            "power": 11,
+                            "trophies": 1221
+                        }
+                    },
+                    {
+                        "tag": "#228J2PPPG",
+                        "name": "\u7a7a\u6761\u5f90\u502b",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 10,
+                            "trophies": 1233
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#YYYL0G2RG",
+                        "name": "\ud1a0\uac8c\ud2f1",
+                        "brawler": {
+                            "id": 16000042,
+                            "name": "BYRON",
+                            "power": 11,
+                            "trophies": 706
+                        }
+                    },
+                    {
+                        "tag": "#82LVVP9CJ",
+                        "name": "\uc640\ub0e5\u2665",
+                        "brawler": {
+                            "id": 16000023,
+                            "name": "LEON",
+                            "power": 10,
+                            "trophies": 799
+                        }
+                    },
+                    {
+                        "tag": "#8V9VR8L8",
+                        "name": "Taiwan\u963f\u52dd",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 799
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#2QUQ9JP"
+    },
+    {
+        "battleTime": "20220110T210721.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 92,
+            "trophyChange": 4,
+            "starPlayer": {
+                "tag": "#2Q0L9G90Q",
+                "name": "\u03fb\u0251\u03c4\u0269\u30c4",
+                "brawler": {
+                    "id": 16000017,
+                    "name": "TARA",
+                    "power": 11,
+                    "trophies": 1195
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#80UQP9UYR",
+                        "name": "BE|VenoX",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 10,
+                            "trophies": 1152
+                        }
+                    },
+                    {
+                        "tag": "#2Q0L9G90Q",
+                        "name": "\u03fb\u0251\u03c4\u0269\u30c4",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 1195
+                        }
+                    },
+                    {
+                        "tag": "#C2G2CLUV",
+                        "name": "FW|Alex",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 1138
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#YJJ9PU09",
+                        "name": "Ali-a",
+                        "brawler": {
+                            "id": 16000049,
+                            "name": "BUZZ",
+                            "power": 9,
+                            "trophies": 831
+                        }
+                    },
+                    {
+                        "tag": "#GY22CUVG",
+                        "name": "Holmes",
+                        "brawler": {
+                            "id": 16000039,
+                            "name": "COLETTE",
+                            "power": 9,
+                            "trophies": 580
+                        }
+                    },
+                    {
+                        "tag": "#28CJGR8P",
+                        "name": "\uff25\uff36\uff25\uff32\uff25\uff33\uff34",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 821
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#C2G2CLUV"
+    },
+    {
+        "battleTime": "20220110T205942.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 99,
+            "trophyChange": 4,
+            "starPlayer": {
+                "tag": "#80UQP9UYR",
+                "name": "BE|VenoX",
+                "brawler": {
+                    "id": 16000024,
+                    "name": "ROSA",
+                    "power": 10,
+                    "trophies": 1148
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#8R99JVYL9",
+                        "name": "XamBra >.<",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 10,
+                            "trophies": 906
+                        }
+                    },
+                    {
+                        "tag": "#CUVLPGVC",
+                        "name": "N\u00fabis\ud83d\udda4",
+                        "brawler": {
+                            "id": 16000023,
+                            "name": "LEON",
+                            "power": 9,
+                            "trophies": 897
+                        }
+                    },
+                    {
+                        "tag": "#28YV09RG",
+                        "name": "to\u00f1o",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 872
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2Q0L9G90Q",
+                        "name": "\u03fb\u0251\u03c4\u0269\u30c4",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 1191
+                        }
+                    },
+                    {
+                        "tag": "#C2G2CLUV",
+                        "name": "FW|Alex",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 1134
+                        }
+                    },
+                    {
+                        "tag": "#80UQP9UYR",
+                        "name": "BE|VenoX",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 10,
+                            "trophies": 1148
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#C2G2CLUV"
+    },
+    {
+        "battleTime": "20220110T205357.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 89,
+            "trophyChange": 4,
+            "starPlayer": {
+                "tag": "#C2G2CLUV",
+                "name": "FW|Alex",
+                "brawler": {
+                    "id": 16000027,
+                    "name": "8-BIT",
+                    "power": 9,
+                    "trophies": 1130
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#PG2U2Y9LV",
+                        "name": "Benjam\u00edn",
+                        "brawler": {
+                            "id": 16000043,
+                            "name": "EDGAR",
+                            "power": 11,
+                            "trophies": 876
+                        }
+                    },
+                    {
+                        "tag": "#G9QYR2JV",
+                        "name": "\u611b\u0110\u0362\u03b9\u03b5\u0262\u03c314\u1d30\u1d37\u30c4",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 849
+                        }
+                    },
+                    {
+                        "tag": "#URC0U0RL",
+                        "name": "BE|Z\u026a\u1d0b\u0251\u1d50\u1d49\u1d50\u1d58\ud83d\udc9e",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 11,
+                            "trophies": 960
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2Q0L9G90Q",
+                        "name": "\u03fb\u0251\u03c4\u0269\u30c4",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 1187
+                        }
+                    },
+                    {
+                        "tag": "#C2G2CLUV",
+                        "name": "FW|Alex",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 1130
+                        }
+                    },
+                    {
+                        "tag": "#80UQP9UYR",
+                        "name": "BE|VenoX",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 10,
+                            "trophies": 1144
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#C2G2CLUV"
+    },
+    {
+        "battleTime": "20220110T204716.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 83,
+            "trophyChange": 4,
+            "starPlayer": {
+                "tag": "#80UQP9UYR",
+                "name": "BE|VenoX",
+                "brawler": {
+                    "id": 16000024,
+                    "name": "ROSA",
+                    "power": 10,
+                    "trophies": 1140
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#28LYJQGLC",
+                        "name": "DaniM",
+                        "brawler": {
+                            "id": 16000049,
+                            "name": "BUZZ",
+                            "power": 9,
+                            "trophies": 729
+                        }
+                    },
+                    {
+                        "tag": "#2YQCV9CVV",
+                        "name": "Po Encima",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 754
+                        }
+                    },
+                    {
+                        "tag": "#8C8082YC",
+                        "name": "Will\u00aeNICE",
+                        "brawler": {
+                            "id": 16000009,
+                            "name": "DYNAMIKE",
+                            "power": 11,
+                            "trophies": 799
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2Q0L9G90Q",
+                        "name": "\u03fb\u0251\u03c4\u0269\u30c4",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 1183
+                        }
+                    },
+                    {
+                        "tag": "#C2G2CLUV",
+                        "name": "FW|Alex",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 1126
+                        }
+                    },
+                    {
+                        "tag": "#80UQP9UYR",
+                        "name": "BE|VenoX",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 10,
+                            "trophies": 1140
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#C2G2CLUV"
+    },
+    {
+        "battleTime": "20220110T204057.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 87,
+            "trophyChange": 4,
+            "starPlayer": {
+                "tag": "#80UQP9UYR",
+                "name": "BE|VenoX",
+                "brawler": {
+                    "id": 16000024,
+                    "name": "ROSA",
+                    "power": 10,
+                    "trophies": 1136
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2Q0L9G90Q",
+                        "name": "\u03fb\u0251\u03c4\u0269\u30c4",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 1179
+                        }
+                    },
+                    {
+                        "tag": "#C2G2CLUV",
+                        "name": "FW|Alex",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 1122
+                        }
+                    },
+                    {
+                        "tag": "#80UQP9UYR",
+                        "name": "BE|VenoX",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 10,
+                            "trophies": 1136
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#PJ2CVL9",
+                        "name": "Luigi",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 9,
+                            "trophies": 799
+                        }
+                    },
+                    {
+                        "tag": "#2Q20CRV8C",
+                        "name": "TrenzinhoO",
+                        "brawler": {
+                            "id": 16000023,
+                            "name": "LEON",
+                            "power": 11,
+                            "trophies": 1052
+                        }
+                    },
+                    {
+                        "tag": "#98YLJ02Y",
+                        "name": "\ud83d\udd25O Brabo\ud83d\udd25",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 11,
+                            "trophies": 986
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#C2G2CLUV"
+    },
+    {
+        "battleTime": "20220110T211140.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 162,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#298RV2L09",
+                "name": "Felipe Amorim",
+                "brawler": {
+                    "id": 16000027,
+                    "name": "8-BIT",
+                    "power": 9,
+                    "trophies": 836
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#CL899UVV",
+                        "name": "Taylors Version",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 10,
+                            "trophies": 791
+                        }
+                    },
+                    {
+                        "tag": "#22V8QY998",
+                        "name": "Wagner Pantuf\u00e3o",
+                        "brawler": {
+                            "id": 16000002,
+                            "name": "BULL",
+                            "power": 11,
+                            "trophies": 758
+                        }
+                    },
+                    {
+                        "tag": "#20VLVQ88Y",
+                        "name": "Todi",
+                        "brawler": {
+                            "id": 16000013,
+                            "name": "POCO",
+                            "power": 11,
+                            "trophies": 765
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2J8YYGJ",
+                        "name": "TuTe\u2708",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 11,
+                            "trophies": 861
+                        }
+                    },
+                    {
+                        "tag": "#L090J0P0",
+                        "name": "\u029f\u1d07\u1d0f\u0274\u1d00\u0280\u1d05\u1d0f\ud83e\udd40",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 978
+                        }
+                    },
+                    {
+                        "tag": "#298RV2L09",
+                        "name": "Felipe Amorim",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 836
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#298RV2L09"
+    },
+    {
+        "battleTime": "20220110T210726.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 91,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#298RV2L09",
+                "name": "Felipe Amorim",
+                "brawler": {
+                    "id": 16000027,
+                    "name": "8-BIT",
+                    "power": 9,
+                    "trophies": 829
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#8CQGUP2Q2",
+                        "name": "Paoli",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 9,
+                            "trophies": 700
+                        }
+                    },
+                    {
+                        "tag": "#9YY22092J",
+                        "name": "J12",
+                        "brawler": {
+                            "id": 16000030,
+                            "name": "EMZ",
+                            "power": 10,
+                            "trophies": 763
+                        }
+                    },
+                    {
+                        "tag": "#298GVGUY9",
+                        "name": "Coolter",
+                        "brawler": {
+                            "id": 16000002,
+                            "name": "BULL",
+                            "power": 9,
+                            "trophies": 738
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2J8YYGJ",
+                        "name": "TuTe\u2708",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 11,
+                            "trophies": 854
+                        }
+                    },
+                    {
+                        "tag": "#L090J0P0",
+                        "name": "\u029f\u1d07\u1d0f\u0274\u1d00\u0280\u1d05\u1d0f\ud83e\udd40",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 972
+                        }
+                    },
+                    {
+                        "tag": "#298RV2L09",
+                        "name": "Felipe Amorim",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 829
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#298RV2L09"
+    },
+    {
+        "battleTime": "20220110T210356.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 103,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#L090J0P0",
+                "name": "\u029f\u1d07\u1d0f\u0274\u1d00\u0280\u1d05\u1d0f\ud83e\udd40",
+                "brawler": {
+                    "id": 16000017,
+                    "name": "TARA",
+                    "power": 11,
+                    "trophies": 966
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2J8YYGJ",
+                        "name": "TuTe\u2708",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 11,
+                            "trophies": 847
+                        }
+                    },
+                    {
+                        "tag": "#L090J0P0",
+                        "name": "\u029f\u1d07\u1d0f\u0274\u1d00\u0280\u1d05\u1d0f\ud83e\udd40",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 966
+                        }
+                    },
+                    {
+                        "tag": "#298RV2L09",
+                        "name": "Felipe Amorim",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 822
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#8RC802PR",
+                        "name": "Destino",
+                        "brawler": {
+                            "id": 16000043,
+                            "name": "EDGAR",
+                            "power": 11,
+                            "trophies": 791
+                        }
+                    },
+                    {
+                        "tag": "#9CUU8JVVV",
+                        "name": "\ud835\udc3f\ud835\udcce\ud835\udcc8\ud83c\udf39",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 757
+                        }
+                    },
+                    {
+                        "tag": "#22VPJ9R2L",
+                        "name": "HAQ",
+                        "brawler": {
+                            "id": 16000014,
+                            "name": "BO",
+                            "power": 10,
+                            "trophies": 735
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#298RV2L09"
+    },
+    {
+        "battleTime": "20220110T210045.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 135,
+            "trophyChange": 7,
+            "starPlayer": {
+                "tag": "#298RV2L09",
+                "name": "Felipe Amorim",
+                "brawler": {
+                    "id": 16000027,
+                    "name": "8-BIT",
+                    "power": 9,
+                    "trophies": 815
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2J8YYGJ",
+                        "name": "TuTe\u2708",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 11,
+                            "trophies": 840
+                        }
+                    },
+                    {
+                        "tag": "#L090J0P0",
+                        "name": "\u029f\u1d07\u1d0f\u0274\u1d00\u0280\u1d05\u1d0f\ud83e\udd40",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 960
+                        }
+                    },
+                    {
+                        "tag": "#298RV2L09",
+                        "name": "Felipe Amorim",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 815
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#JY202G0V",
+                        "name": "ChristianP \ud83c\uddea\ud83c\udde8",
+                        "brawler": {
+                            "id": 16000035,
+                            "name": "GALE",
+                            "power": 9,
+                            "trophies": 883
+                        }
+                    },
+                    {
+                        "tag": "#22CCC9VJ",
+                        "name": "Adri\u00e1n\u30c4",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 10,
+                            "trophies": 789
+                        }
+                    },
+                    {
+                        "tag": "#8RVVQ80P",
+                        "name": "thiagolopesc",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 9,
+                            "trophies": 799
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#298RV2L09"
+    },
+    {
+        "battleTime": "20220110T205705.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 98,
+            "trophyChange": -9,
+            "starPlayer": {
+                "tag": "#22YCGJY8Q",
+                "name": "t ClauDiiN t",
+                "brawler": {
+                    "id": 16000008,
+                    "name": "NITA",
+                    "power": 11,
+                    "trophies": 792
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2J8YYGJ",
+                        "name": "TuTe\u2708",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 9,
+                            "trophies": 826
+                        }
+                    },
+                    {
+                        "tag": "#298RV2L09",
+                        "name": "Felipe Amorim",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 824
+                        }
+                    },
+                    {
+                        "tag": "#L090J0P0",
+                        "name": "\u029f\u1d07\u1d0f\u0274\u1d00\u0280\u1d05\u1d0f\ud83e\udd40",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 970
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#CUVLPGVC",
+                        "name": "N\u00fabis\ud83d\udda4",
+                        "brawler": {
+                            "id": 16000023,
+                            "name": "LEON",
+                            "power": 9,
+                            "trophies": 890
+                        }
+                    },
+                    {
+                        "tag": "#8R99JVYL9",
+                        "name": "XamBra >.<",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 10,
+                            "trophies": 900
+                        }
+                    },
+                    {
+                        "tag": "#22YCGJY8Q",
+                        "name": "t ClauDiiN t",
+                        "brawler": {
+                            "id": 16000008,
+                            "name": "NITA",
+                            "power": 11,
+                            "trophies": 792
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#298RV2L09"
+    },
+    {
+        "battleTime": "20220110T180031.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 83,
+            "trophyChange": -10,
+            "starPlayer": {
+                "tag": "#9G2QYJ08Q",
+                "name": "Wv|Stich\u2614",
+                "brawler": {
+                    "id": 16000017,
+                    "name": "TARA",
+                    "power": 11,
+                    "trophies": 1031
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#LVPP22RR",
+                        "name": "\u8377\u5fcd|VimeR",
+                        "brawler": {
+                            "id": 16000046,
+                            "name": "BELLE",
+                            "power": 11,
+                            "trophies": 1047
+                        }
+                    },
+                    {
+                        "tag": "#9G2QYJ08Q",
+                        "name": "Wv|Stich\u2614",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 1031
+                        }
+                    },
+                    {
+                        "tag": "#8RV2LV2R",
+                        "name": "lirand",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 11,
+                            "trophies": 1047
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#9VUU008GR",
+                        "name": "TroncoMonco\ud83c\udf32",
+                        "brawler": {
+                            "id": 16000020,
+                            "name": "FRANK",
+                            "power": 11,
+                            "trophies": 898
+                        }
+                    },
+                    {
+                        "tag": "#LCYGLP8",
+                        "name": "\u3042|\uff33\u20b3 \u028d \u0e22\u02e2\u1d56\u2071\u207f\u207c\u2661",
+                        "brawler": {
+                            "id": 16000007,
+                            "name": "JESSIE",
+                            "power": 9,
+                            "trophies": 897
+                        }
+                    },
+                    {
+                        "tag": "#9Q9C9JU0",
+                        "name": "Lavastoviglie\u2122\ufe0f",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 8,
+                            "trophies": 918
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#9Q9C9JU0"
+    },
+    {
+        "battleTime": "20220110T194142.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 86,
+            "trophyChange": 6,
+            "starPlayer": {
+                "tag": "#GVCV9P9Y",
+                "name": "Smoov Chocolate",
+                "brawler": {
+                    "id": 16000016,
+                    "name": "PAM",
+                    "power": 11,
+                    "trophies": 950
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#8J090J8U9",
+                        "name": "\u2763\ufe0fI\u1d1b\u1d22D\u03b1\u0e17\u0e17\u03b3\u1d9c\u02e1\u26c8\ufe0f",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 9,
+                            "trophies": 848
+                        }
+                    },
+                    {
+                        "tag": "#VQLGPGG",
+                        "name": "\ua731\u1d1b\u1d00\u1d0d\u0274\u1d00\ua731 :D",
+                        "brawler": {
+                            "id": 16000042,
+                            "name": "BYRON",
+                            "power": 9,
+                            "trophies": 872
+                        }
+                    },
+                    {
+                        "tag": "#JGRQ99PV",
+                        "name": "\u0191\u0268\u044f\u025bD\u01df\u0572\u0268fire\ud83d\udd25",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 907
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#GVCV9P9Y",
+                        "name": "Smoov Chocolate",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 11,
+                            "trophies": 950
+                        }
+                    },
+                    {
+                        "tag": "#2C2Y9UYPR",
+                        "name": "TC|Ultimate\ud83d\udc79",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 10,
+                            "trophies": 1049
+                        }
+                    },
+                    {
+                        "tag": "#RG89RRPY",
+                        "name": "\u2728OctavioSama\u2728",
+                        "brawler": {
+                            "id": 16000046,
+                            "name": "BELLE",
+                            "power": 10,
+                            "trophies": 964
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#GVCV9P9Y"
+    },
+    {
+        "battleTime": "20220110T193842.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 85,
+            "trophyChange": -10,
+            "starPlayer": {
+                "tag": "#VGR90GLP",
+                "name": "NINGA\u2665",
+                "brawler": {
+                    "id": 16000011,
+                    "name": "MORTIS",
+                    "power": 11,
+                    "trophies": 1008
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2C2Y9UYPR",
+                        "name": "TC|Ultimate\ud83d\udc79",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 10,
+                            "trophies": 1060
+                        }
+                    },
+                    {
+                        "tag": "#GVCV9P9Y",
+                        "name": "Smoov Chocolate",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 11,
+                            "trophies": 960
+                        }
+                    },
+                    {
+                        "tag": "#RG89RRPY",
+                        "name": "\u2728OctavioSama\u2728",
+                        "brawler": {
+                            "id": 16000046,
+                            "name": "BELLE",
+                            "power": 10,
+                            "trophies": 974
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#VGR90GLP",
+                        "name": "NINGA\u2665",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 11,
+                            "trophies": 1008
+                        }
+                    },
+                    {
+                        "tag": "#9P0LJJV0Y",
+                        "name": "MarkTheBurger",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 11,
+                            "trophies": 839
+                        }
+                    },
+                    {
+                        "tag": "#J88QUCYJ",
+                        "name": "Carlitos",
+                        "brawler": {
+                            "id": 16000007,
+                            "name": "JESSIE",
+                            "power": 11,
+                            "trophies": 849
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#GVCV9P9Y"
+    },
+    {
+        "battleTime": "20220110T163314.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 97,
+            "trophyChange": 8,
+            "starPlayer": {
+                "tag": "#U2PRPLP",
+                "name": "Nova | ou",
+                "brawler": {
+                    "id": 16000026,
+                    "name": "BIBI",
+                    "power": 10,
+                    "trophies": 793
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#P20RJ2LV0",
+                        "name": "Derrick",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 9,
+                            "trophies": 684
+                        }
+                    },
+                    {
+                        "tag": "#2P8R08LJU",
+                        "name": "\u3059\u3050",
+                        "brawler": {
+                            "id": 16000002,
+                            "name": "BULL",
+                            "power": 9,
+                            "trophies": 732
+                        }
+                    },
+                    {
+                        "tag": "#LCYUPY8QC",
+                        "name": "\u308b\u306a\u3061\u3083\u3093",
+                        "brawler": {
+                            "id": 16000026,
+                            "name": "BIBI",
+                            "power": 11,
+                            "trophies": 707
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2QPPLLJUQ",
+                        "name": "L,law,lite",
+                        "brawler": {
+                            "id": 16000038,
+                            "name": "SURGE",
+                            "power": 9,
+                            "trophies": 766
+                        }
+                    },
+                    {
+                        "tag": "#2LU80GVJQ",
+                        "name": "\u7345\u5b50\u3006\u30b5\u30bf\u30f3",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 9,
+                            "trophies": 619
+                        }
+                    },
+                    {
+                        "tag": "#U2PRPLP",
+                        "name": "Nova | ou",
+                        "brawler": {
+                            "id": 16000026,
+                            "name": "BIBI",
+                            "power": 10,
+                            "trophies": 793
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#U2PRPLP"
+    },
+    {
+        "battleTime": "20220110T163049.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 90,
+            "trophyChange": 8,
+            "starPlayer": {
+                "tag": "#U2PRPLP",
+                "name": "Nova | ou",
+                "brawler": {
+                    "id": 16000026,
+                    "name": "BIBI",
+                    "power": 10,
+                    "trophies": 785
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#UJJU20Y9",
+                        "name": "Nima",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 9,
+                            "trophies": 774
+                        }
+                    },
+                    {
+                        "tag": "#LGJR98",
+                        "name": "VS | Gabriel435",
+                        "brawler": {
+                            "id": 16000030,
+                            "name": "EMZ",
+                            "power": 10,
+                            "trophies": 799
+                        }
+                    },
+                    {
+                        "tag": "#R28YYPRC",
+                        "name": "TygR \u2661",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 658
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#88JL8PLUP",
+                        "name": "LUNA",
+                        "brawler": {
+                            "id": 16000013,
+                            "name": "POCO",
+                            "power": 9,
+                            "trophies": 814
+                        }
+                    },
+                    {
+                        "tag": "#C8YYJYYQ",
+                        "name": "MStatement",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 784
+                        }
+                    },
+                    {
+                        "tag": "#U2PRPLP",
+                        "name": "Nova | ou",
+                        "brawler": {
+                            "id": 16000026,
+                            "name": "BIBI",
+                            "power": 10,
+                            "trophies": 785
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#U2PRPLP"
+    },
+    {
+        "battleTime": "20220110T162846.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 96,
+            "trophyChange": -8,
+            "starPlayer": {
+                "tag": "#2Y0PVGPG2",
+                "name": "\u265aAlive|\u8ac7\u5408\u306e\u6975\u307f\u4f8d\u3328\u265a",
+                "brawler": {
+                    "id": 16000011,
+                    "name": "MORTIS",
+                    "power": 11,
+                    "trophies": 885
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#U2PRPLP",
+                        "name": "Nova | ou",
+                        "brawler": {
+                            "id": 16000026,
+                            "name": "BIBI",
+                            "power": 10,
+                            "trophies": 793
+                        }
+                    },
+                    {
+                        "tag": "#VVL2RYCU",
+                        "name": "\ub3cc\uc544\uc628\uae40\uc528",
+                        "brawler": {
+                            "id": 16000053,
+                            "name": "LOLA",
+                            "power": 11,
+                            "trophies": 791
+                        }
+                    },
+                    {
+                        "tag": "#2LUUCQQQJ",
+                        "name": "Shelley",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 10,
+                            "trophies": 751
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#Y8QVJCGR",
+                        "name": "\u4e7e\u9673\u5b5c\u660a\u54e9\u5317\u4e03\u5594",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 742
+                        }
+                    },
+                    {
+                        "tag": "#2Y0PVGPG2",
+                        "name": "\u265aAlive|\u8ac7\u5408\u306e\u6975\u307f\u4f8d\u3328\u265a",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 11,
+                            "trophies": 885
+                        }
+                    },
+                    {
+                        "tag": "#P2UJ02029",
+                        "name": "unknown710",
+                        "brawler": {
+                            "id": 16000013,
+                            "name": "POCO",
+                            "power": 9,
+                            "trophies": 749
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#U2PRPLP"
+    },
+    {
+        "battleTime": "20220110T162621.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 120,
+            "trophyChange": -5,
+            "starPlayer": {
+                "tag": "#2UR9V88LG",
+                "name": "Somho",
+                "brawler": {
+                    "id": 16000030,
+                    "name": "EMZ",
+                    "power": 9,
+                    "trophies": 731
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2UYR9V0LJ",
+                        "name": "JAPANESE\u4f8d",
+                        "brawler": {
+                            "id": 16000038,
+                            "name": "SURGE",
+                            "power": 10,
+                            "trophies": 779
+                        }
+                    },
+                    {
+                        "tag": "#PUUJPC08Y",
+                        "name": "\u95c7\u306e\u4e16\u754c|\u30ab\u30b4\u30c1\u30de\u30cf\u30bf",
+                        "brawler": {
+                            "id": 16000002,
+                            "name": "BULL",
+                            "power": 10,
+                            "trophies": 797
+                        }
+                    },
+                    {
+                        "tag": "#2UR9V88LG",
+                        "name": "Somho",
+                        "brawler": {
+                            "id": 16000030,
+                            "name": "EMZ",
+                            "power": 9,
+                            "trophies": 731
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#9CJG28YVV",
+                        "name": "evie",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 557
+                        }
+                    },
+                    {
+                        "tag": "#JQLLUR80",
+                        "name": "ironlobsta",
+                        "brawler": {
+                            "id": 16000034,
+                            "name": "JACKY",
+                            "power": 11,
+                            "trophies": 858
+                        }
+                    },
+                    {
+                        "tag": "#U2PRPLP",
+                        "name": "Nova | ou",
+                        "brawler": {
+                            "id": 16000026,
+                            "name": "BIBI",
+                            "power": 10,
+                            "trophies": 798
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#U2PRPLP"
+    },
+    {
+        "battleTime": "20220110T162347.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 87,
+            "trophyChange": 8,
+            "starPlayer": {
+                "tag": "#228QJPVR0",
+                "name": "\u3061\u3087\u308a\ud83d\udcab",
+                "brawler": {
+                    "id": 16000011,
+                    "name": "MORTIS",
+                    "power": 11,
+                    "trophies": 832
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2V29VCCR0",
+                        "name": "\ud640\ub9ac",
+                        "brawler": {
+                            "id": 16000032,
+                            "name": "MAX",
+                            "power": 11,
+                            "trophies": 749
+                        }
+                    },
+                    {
+                        "tag": "#8V9VY0JQV",
+                        "name": "KLAM.\u307e\u3044\u266a",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 11,
+                            "trophies": 831
+                        }
+                    },
+                    {
+                        "tag": "#2LYJLYQUY",
+                        "name": "\u96ea\u3060\u308b\u307e",
+                        "brawler": {
+                            "id": 16000001,
+                            "name": "COLT",
+                            "power": 9,
+                            "trophies": 733
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#U2PRPLP",
+                        "name": "Nova | ou",
+                        "brawler": {
+                            "id": 16000026,
+                            "name": "BIBI",
+                            "power": 10,
+                            "trophies": 790
+                        }
+                    },
+                    {
+                        "tag": "#228QJPVR0",
+                        "name": "\u3061\u3087\u308a\ud83d\udcab",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 11,
+                            "trophies": 832
+                        }
+                    },
+                    {
+                        "tag": "#29VJVC282",
+                        "name": "Yamada YT",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 724
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#U2PRPLP"
+    },
+    {
+        "battleTime": "20220110T214949.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 104,
+            "trophyChange": 3,
+            "starPlayer": {
+                "tag": "#2QUQ9JP",
+                "name": "hiyayako",
+                "brawler": {
+                    "id": 16000035,
+                    "name": "GALE",
+                    "power": 11,
+                    "trophies": 1248
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2QPYLU2LV",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 10,
+                            "trophies": 1206
+                        }
+                    },
+                    {
+                        "tag": "#2QUQ9JP",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000035,
+                            "name": "GALE",
+                            "power": 11,
+                            "trophies": 1248
+                        }
+                    },
+                    {
+                        "tag": "#228J2PPPG",
+                        "name": "\u7a7a\u6761\u5f90\u502b",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 10,
+                            "trophies": 1260
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#Y9CC8CG0G",
+                        "name": "\u305f\u3051\u3068",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 10,
+                            "trophies": 782
+                        }
+                    },
+                    {
+                        "tag": "#2YYY9JYUY",
+                        "name": "El Cazador",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 10,
+                            "trophies": 781
+                        }
+                    },
+                    {
+                        "tag": "#GUC8LUVJ",
+                        "name": "VOLTRIC",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 741
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#2QUQ9JP"
+    },
+    {
+        "battleTime": "20220110T214028.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 89,
+            "trophyChange": 3,
+            "starPlayer": {
+                "tag": "#2QPYLU2LV",
+                "name": "hiyayako",
+                "brawler": {
+                    "id": 16000016,
+                    "name": "PAM",
+                    "power": 10,
+                    "trophies": 1203
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2QPYLU2LV",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 10,
+                            "trophies": 1203
+                        }
+                    },
+                    {
+                        "tag": "#2QUQ9JP",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000035,
+                            "name": "GALE",
+                            "power": 11,
+                            "trophies": 1245
+                        }
+                    },
+                    {
+                        "tag": "#228J2PPPG",
+                        "name": "\u7a7a\u6761\u5f90\u502b",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 10,
+                            "trophies": 1257
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#2Y2YV20LL",
+                        "name": "Afif Kiwami\u2122\ufe0f",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 725
+                        }
+                    },
+                    {
+                        "tag": "#2YCYCUP0Q",
+                        "name": "Parampreet",
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 647
+                        }
+                    },
+                    {
+                        "tag": "#29UJYQ98Y",
+                        "name": "TITANIUM.AR",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 730
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#2QUQ9JP"
+    },
+    {
+        "battleTime": "20220110T213306.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 96,
+            "trophyChange": 3,
+            "starPlayer": {
+                "tag": "#228J2PPPG",
+                "name": "\u7a7a\u6761\u5f90\u502b",
+                "brawler": {
+                    "id": 16000048,
+                    "name": "GROM",
+                    "power": 10,
+                    "trophies": 1254
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2QPYLU2LV",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 10,
+                            "trophies": 1200
+                        }
+                    },
+                    {
+                        "tag": "#2QUQ9JP",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000035,
+                            "name": "GALE",
+                            "power": 11,
+                            "trophies": 1242
+                        }
+                    },
+                    {
+                        "tag": "#228J2PPPG",
+                        "name": "\u7a7a\u6761\u5f90\u502b",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 10,
+                            "trophies": 1254
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#UQVR9JRC",
+                        "name": "shoshqj",
+                        "brawler": {
+                            "id": 16000013,
+                            "name": "POCO",
+                            "power": 10,
+                            "trophies": 799
+                        }
+                    },
+                    {
+                        "tag": "#VV082VGY",
+                        "name": "BOOGYMAN",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 10,
+                            "trophies": 783
+                        }
+                    },
+                    {
+                        "tag": "#2L8JYRQUR",
+                        "name": "\uc57c\ub9cc",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 806
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#2QUQ9JP"
+    },
+    {
+        "battleTime": "20220110T212502.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 96,
+            "trophyChange": 3,
+            "starPlayer": {
+                "tag": "#228J2PPPG",
+                "name": "\u7a7a\u6761\u5f90\u502b",
+                "brawler": {
+                    "id": 16000048,
+                    "name": "GROM",
+                    "power": 10,
+                    "trophies": 1251
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2QPYLU2LV",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 10,
+                            "trophies": 1196
+                        }
+                    },
+                    {
+                        "tag": "#2QUQ9JP",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000035,
+                            "name": "GALE",
+                            "power": 11,
+                            "trophies": 1239
+                        }
+                    },
+                    {
+                        "tag": "#228J2PPPG",
+                        "name": "\u7a7a\u6761\u5f90\u502b",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 10,
+                            "trophies": 1251
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#290UR289Q",
+                        "name": "\u307e\u3093\u306a\u304b\u307e\u306a\u304b",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 10,
+                            "trophies": 814
+                        }
+                    },
+                    {
+                        "tag": "#8U8P928V",
+                        "name": "\u30ad\u30f3\u30b0",
+                        "brawler": {
+                            "id": 16000018,
+                            "name": "DARRYL",
+                            "power": 10,
+                            "trophies": 776
+                        }
+                    },
+                    {
+                        "tag": "#289CCV82Q",
+                        "name": "\uc774\uc138\ud6c8\ud30c\uc6cc",
+                        "brawler": {
+                            "id": 16000043,
+                            "name": "EDGAR",
+                            "power": 10,
+                            "trophies": 803
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#2QUQ9JP"
+    },
+    {
+        "battleTime": "20220110T211646.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 82,
+            "trophyChange": 3,
+            "starPlayer": {
+                "tag": "#2QPYLU2LV",
+                "name": "hiyayako",
+                "brawler": {
+                    "id": 16000016,
+                    "name": "PAM",
+                    "power": 10,
+                    "trophies": 1192
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#2QPYLU2LV",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 10,
+                            "trophies": 1192
+                        }
+                    },
+                    {
+                        "tag": "#2QUQ9JP",
+                        "name": "hiyayako",
+                        "brawler": {
+                            "id": 16000035,
+                            "name": "GALE",
+                            "power": 11,
+                            "trophies": 1236
+                        }
+                    },
+                    {
+                        "tag": "#228J2PPPG",
+                        "name": "\u7a7a\u6761\u5f90\u502b",
+                        "brawler": {
+                            "id": 16000048,
+                            "name": "GROM",
+                            "power": 10,
+                            "trophies": 1248
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#PLYQLC920",
+                        "name": "Lvl 1 cram",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 1,
+                            "trophies": 88
+                        }
+                    },
+                    {
+                        "tag": "#VYY2C8GY",
+                        "name": "\u4ffa\u306b\u8ca0\u3051\u308b\u3068\u304b\u96d1\u9b5a\ud83e\udd2a",
+                        "brawler": {
+                            "id": 16000015,
+                            "name": "PIPER",
+                            "power": 9,
+                            "trophies": 849
+                        }
+                    },
+                    {
+                        "tag": "#Y09GYQQU",
+                        "name": "\u26a1\ufe0f\u304b\u306b\u3086\u304d\u26a1\ufe0f",
+                        "brawler": {
+                            "id": 16000036,
+                            "name": "NANI",
+                            "power": 11,
+                            "trophies": 1060
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#2QUQ9JP"
+    },
+    {
+        "battleTime": "20220110T215716.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 103,
+            "trophyChange": 4,
+            "starPlayer": {
+                "tag": "#C2G2CLUV",
+                "name": "FW|Alex",
+                "brawler": {
+                    "id": 16000027,
+                    "name": "8-BIT",
+                    "power": 9,
+                    "trophies": 1150
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#C2G2CLUV",
+                        "name": "FW|Alex",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 1150
+                        }
+                    },
+                    {
+                        "tag": "#80UQP9UYR",
+                        "name": "BE|VenoX",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 10,
+                            "trophies": 1164
+                        }
+                    },
+                    {
+                        "tag": "#CJGQRLRC",
+                        "name": "\u0166\u0126\u20ac\u03b2\u20ac\u015e\u0166\ud83d\udda4",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 1093
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#C0PPJRUC",
+                        "name": "jacob",
+                        "brawler": {
+                            "id": 16000023,
+                            "name": "LEON",
+                            "power": 10,
+                            "trophies": 799
+                        }
+                    },
+                    {
+                        "tag": "#228GQPJ2G",
+                        "name": "Bolta",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 823
+                        }
+                    },
+                    {
+                        "tag": "#8020RJ2PG",
+                        "name": "El_Carlos.",
+                        "brawler": {
+                            "id": 16000013,
+                            "name": "POCO",
+                            "power": 10,
+                            "trophies": 773
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#C2G2CLUV"
+    },
+    {
+        "battleTime": "20220110T214040.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 92,
+            "trophyChange": 4,
+            "starPlayer": {
+                "tag": "#80UQP9UYR",
+                "name": "BE|VenoX",
+                "brawler": {
+                    "id": 16000024,
+                    "name": "ROSA",
+                    "power": 10,
+                    "trophies": 1160
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#YV2LJGUJ",
+                        "name": "Sr.SMIGOW",
+                        "brawler": {
+                            "id": 16000004,
+                            "name": "RICO",
+                            "power": 9,
+                            "trophies": 683
+                        }
+                    },
+                    {
+                        "tag": "#8RGLJUJLJ",
+                        "name": "5Y5T3M",
+                        "brawler": {
+                            "id": 16000014,
+                            "name": "BO",
+                            "power": 10,
+                            "trophies": 807
+                        }
+                    },
+                    {
+                        "tag": "#92UCGVQ2",
+                        "name": "KNXabesta",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 658
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#C2G2CLUV",
+                        "name": "FW|Alex",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 1146
+                        }
+                    },
+                    {
+                        "tag": "#80UQP9UYR",
+                        "name": "BE|VenoX",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 10,
+                            "trophies": 1160
+                        }
+                    },
+                    {
+                        "tag": "#CJGQRLRC",
+                        "name": "\u0166\u0126\u20ac\u03b2\u20ac\u015e\u0166\ud83d\udda4",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 1088
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#C2G2CLUV"
+    },
+    {
+        "battleTime": "20220110T211628.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 105,
+            "trophyChange": 4,
+            "starPlayer": {
+                "tag": "#80UQP9UYR",
+                "name": "BE|VenoX",
+                "brawler": {
+                    "id": 16000024,
+                    "name": "ROSA",
+                    "power": 10,
+                    "trophies": 1156
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#8RC802PR",
+                        "name": "Destino",
+                        "brawler": {
+                            "id": 16000043,
+                            "name": "EDGAR",
+                            "power": 11,
+                            "trophies": 783
+                        }
+                    },
+                    {
+                        "tag": "#VC2GJUU",
+                        "name": "marlon",
+                        "brawler": {
+                            "id": 16000034,
+                            "name": "JACKY",
+                            "power": 10,
+                            "trophies": 789
+                        }
+                    },
+                    {
+                        "tag": "#JU2RG8YQ",
+                        "name": "Vinneml",
+                        "brawler": {
+                            "id": 16000040,
+                            "name": "AMBER",
+                            "power": 9,
+                            "trophies": 783
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#C2G2CLUV",
+                        "name": "FW|Alex",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 1142
+                        }
+                    },
+                    {
+                        "tag": "#2Q0L9G90Q",
+                        "name": "\u03fb\u0251\u03c4\u0269\u30c4",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 1199
+                        }
+                    },
+                    {
+                        "tag": "#80UQP9UYR",
+                        "name": "BE|VenoX",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 10,
+                            "trophies": 1156
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#C2G2CLUV"
+    },
+    {
+        "battleTime": "20220110T222608.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 123,
+            "trophyChange": -12,
+            "starPlayer": {
+                "tag": "#Y2LYPLLGR",
+                "name": "\u0299\u0280\u1d21 |\u0106\u0141\u207f\u1d57\u02b2",
+                "brawler": {
+                    "id": 16000030,
+                    "name": "EMZ",
+                    "power": 10,
+                    "trophies": 757
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#C2G2CLUV",
+                        "name": "FW|Alex",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 1166
+                        }
+                    },
+                    {
+                        "tag": "#CJGQRLRC",
+                        "name": "\u0166\u0126\u20ac\u03b2\u20ac\u015e\u0166\ud83d\udda4",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 1111
+                        }
+                    },
+                    {
+                        "tag": "#80UQP9UYR",
+                        "name": "BE|VenoX",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 10,
+                            "trophies": 1180
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#GU0CU898",
+                        "name": "Esperan\u00e7a\u2605",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 920
+                        }
+                    },
+                    {
+                        "tag": "#PJR89022P",
+                        "name": "CAVALIER",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 11,
+                            "trophies": 766
+                        }
+                    },
+                    {
+                        "tag": "#Y2LYPLLGR",
+                        "name": "\u0299\u0280\u1d21 |\u0106\u0141\u207f\u1d57\u02b2",
+                        "brawler": {
+                            "id": 16000030,
+                            "name": "EMZ",
+                            "power": 10,
+                            "trophies": 757
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#C2G2CLUV"
+    },
+    {
+        "battleTime": "20220110T221759.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 101,
+            "trophyChange": 4,
+            "starPlayer": {
+                "tag": "#80UQP9UYR",
+                "name": "BE|VenoX",
+                "brawler": {
+                    "id": 16000024,
+                    "name": "ROSA",
+                    "power": 10,
+                    "trophies": 1176
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#9VVJUGRC",
+                        "name": "#N\u00ebx\u00fcsG\u00e4m\u00ebs",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 10,
+                            "trophies": 791
+                        }
+                    },
+                    {
+                        "tag": "#PYURUGG0L",
+                        "name": "\u00a5Lobo",
+                        "brawler": {
+                            "id": 16000014,
+                            "name": "BO",
+                            "power": 9,
+                            "trophies": 574
+                        }
+                    },
+                    {
+                        "tag": "#VQY0RUVR",
+                        "name": "Angela Caroline",
+                        "brawler": {
+                            "id": 16000007,
+                            "name": "JESSIE",
+                            "power": 10,
+                            "trophies": 791
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#C2G2CLUV",
+                        "name": "FW|Alex",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 1162
+                        }
+                    },
+                    {
+                        "tag": "#80UQP9UYR",
+                        "name": "BE|VenoX",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 10,
+                            "trophies": 1176
+                        }
+                    },
+                    {
+                        "tag": "#CJGQRLRC",
+                        "name": "\u0166\u0126\u20ac\u03b2\u20ac\u015e\u0166\ud83d\udda4",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 1107
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#C2G2CLUV"
+    },
+    {
+        "battleTime": "20220110T221050.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 84,
+            "trophyChange": 4,
+            "starPlayer": {
+                "tag": "#C2G2CLUV",
+                "name": "FW|Alex",
+                "brawler": {
+                    "id": 16000027,
+                    "name": "8-BIT",
+                    "power": 9,
+                    "trophies": 1158
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#LYQGL8YR",
+                        "name": "chamixorras",
+                        "brawler": {
+                            "id": 16000023,
+                            "name": "LEON",
+                            "power": 9,
+                            "trophies": 695
+                        }
+                    },
+                    {
+                        "tag": "#2CU9PP8P0",
+                        "name": "Lancelot",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 741
+                        }
+                    },
+                    {
+                        "tag": "#PPJYR88C0",
+                        "name": "DARK WINTER",
+                        "brawler": {
+                            "id": 16000030,
+                            "name": "EMZ",
+                            "power": 9,
+                            "trophies": 724
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#C2G2CLUV",
+                        "name": "FW|Alex",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 1158
+                        }
+                    },
+                    {
+                        "tag": "#CJGQRLRC",
+                        "name": "\u0166\u0126\u20ac\u03b2\u20ac\u015e\u0166\ud83d\udda4",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 1103
+                        }
+                    },
+                    {
+                        "tag": "#80UQP9UYR",
+                        "name": "BE|VenoX",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 10,
+                            "trophies": 1172
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#C2G2CLUV"
+    },
+    {
+        "battleTime": "20220110T220334.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "victory",
+            "duration": 99,
+            "trophyChange": 4,
+            "starPlayer": {
+                "tag": "#80UQP9UYR",
+                "name": "BE|VenoX",
+                "brawler": {
+                    "id": 16000024,
+                    "name": "ROSA",
+                    "power": 10,
+                    "trophies": 1168
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#CQYC09Q8",
+                        "name": "AT | \u03da\u0584\u00ec\u0574\u04a0_\u04cb\u0372",
+                        "brawler": {
+                            "id": 16000020,
+                            "name": "FRANK",
+                            "power": 9,
+                            "trophies": 976
+                        }
+                    },
+                    {
+                        "tag": "#GVCU0U9L",
+                        "name": "Fernanlon\u017d\u00f6\u1d9c\u1d57\u1d50\u02b3",
+                        "brawler": {
+                            "id": 16000021,
+                            "name": "GENE",
+                            "power": 9,
+                            "trophies": 849
+                        }
+                    },
+                    {
+                        "tag": "#8CJ0RP9Y9",
+                        "name": "yagami",
+                        "brawler": {
+                            "id": 16000017,
+                            "name": "TARA",
+                            "power": 9,
+                            "trophies": 790
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#C2G2CLUV",
+                        "name": "FW|Alex",
+                        "brawler": {
+                            "id": 16000027,
+                            "name": "8-BIT",
+                            "power": 9,
+                            "trophies": 1154
+                        }
+                    },
+                    {
+                        "tag": "#CJGQRLRC",
+                        "name": "\u0166\u0126\u20ac\u03b2\u20ac\u015e\u0166\ud83d\udda4",
+                        "brawler": {
+                            "id": 16000012,
+                            "name": "CROW",
+                            "power": 9,
+                            "trophies": 1098
+                        }
+                    },
+                    {
+                        "tag": "#80UQP9UYR",
+                        "name": "BE|VenoX",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 10,
+                            "trophies": 1168
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#C2G2CLUV"
+    },
+    {
+        "battleTime": "20220110T222659.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 135,
+            "trophyChange": -9,
+            "starPlayer": {
+                "tag": "#8082Q2QL",
+                "name": "SPC|Bixheku",
+                "brawler": {
+                    "id": 16000002,
+                    "name": "BULL",
+                    "power": 9,
+                    "trophies": 791
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#8JLUUGRCY",
+                        "name": "chadeine",
+                        "brawler": {
+                            "id": 16000007,
+                            "name": "JESSIE",
+                            "power": 9,
+                            "trophies": 775
+                        }
+                    },
+                    {
+                        "tag": "#9Y2PQJR2",
+                        "name": "QLS|TheDon",
+                        "brawler": {
+                            "id": 16000045,
+                            "name": "STU",
+                            "power": 11,
+                            "trophies": 789
+                        }
+                    },
+                    {
+                        "tag": "#8909GPC8P",
+                        "name": "LM/adama28",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 10,
+                            "trophies": 820
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#VYLVCPL",
+                        "name": "LXS MaNooB",
+                        "brawler": {
+                            "id": 16000024,
+                            "name": "ROSA",
+                            "power": 9,
+                            "trophies": 774
+                        }
+                    },
+                    {
+                        "tag": "#8082Q2QL",
+                        "name": "SPC|Bixheku",
+                        "brawler": {
+                            "id": 16000002,
+                            "name": "BULL",
+                            "power": 9,
+                            "trophies": 791
+                        }
+                    },
+                    {
+                        "tag": "#PV8V28CUU",
+                        "name": "\u2728\u2022Achi\u269c\ufe0f",
+                        "brawler": {
+                            "id": 16000003,
+                            "name": "BROCK",
+                            "power": 9,
+                            "trophies": 751
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#8909GPC8P"
+    },
+    {
+        "battleTime": "20220110T223048.000Z",
+        "event": {
+            "id": 15000404,
+            "mode": "gemGrab",
+            "map": "Cotton Candy Dreams"
+        },
+        "battle": {
+            "mode": "gemGrab",
+            "type": "ranked",
+            "result": "defeat",
+            "duration": 97,
+            "trophyChange": -9,
+            "starPlayer": {
+                "tag": "#URQPLYP",
+                "name": "RAYAN YT\ud83d\udc9b\ud83d\udc23\ud83c\udf4c",
+                "brawler": {
+                    "id": 16000026,
+                    "name": "BIBI",
+                    "power": 9,
+                    "trophies": 749
+                }
+            },
+            "teams": [
+                [
+                    {
+                        "tag": "#RPC998G",
+                        "name": "emad",
+                        "brawler": {
+                            "id": 16000035,
+                            "name": "GALE",
+                            "power": 11,
+                            "trophies": 781
+                        }
+                    },
+                    {
+                        "tag": "#8909GPC8P",
+                        "name": "LM/adama28",
+                        "brawler": {
+                            "id": 16000011,
+                            "name": "MORTIS",
+                            "power": 10,
+                            "trophies": 811
+                        }
+                    },
+                    {
+                        "tag": "#9YQ2CL28R",
+                        "name": "Dibenpir\u0101ts",
+                        "brawler": {
+                            "id": 16000004,
+                            "name": "RICO",
+                            "power": 9,
+                            "trophies": 710
+                        }
+                    }
+                ],
+                [
+                    {
+                        "tag": "#99LYYG0JQ",
+                        "name": "ADRIAN926",
+                        "brawler": {
+                            "id": 16000030,
+                            "name": "EMZ",
+                            "power": 10,
+                            "trophies": 783
+                        }
+                    },
+                    {
+                        "tag": "#URQPLYP",
+                        "name": "RAYAN YT\ud83d\udc9b\ud83d\udc23\ud83c\udf4c",
+                        "brawler": {
+                            "id": 16000026,
+                            "name": "BIBI",
+                            "power": 9,
+                            "trophies": 749
+                        }
+                    },
+                    {
+                        "tag": "#Q9RUYCG",
+                        "name": "CarlofernaCI\u00d3N",
+                        "brawler": {
+                            "id": 16000043,
+                            "name": "EDGAR",
+                            "power": 10,
+                            "trophies": 757
+                        }
+                    }
+                ]
+            ]
+        },
+        "playerTag": "#8909GPC8P"
+    }
+]

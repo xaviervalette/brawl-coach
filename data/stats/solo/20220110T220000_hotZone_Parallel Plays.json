@@ -1,0 +1,341 @@
+{
+    "brawler": [
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 9,
+                "winRate": 0.8181818181818182,
+                "pickRate": 0.6111111111111112,
+                "pickNumber": 11,
+                "brawler": "GROM"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 7,
+                "winRate": 0.6363636363636364,
+                "pickRate": 0.6111111111111112,
+                "pickNumber": 11,
+                "brawler": "MORTIS"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 4,
+                "winRate": 0.5,
+                "pickRate": 0.4444444444444444,
+                "pickNumber": 8,
+                "brawler": "NITA"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.1111111111111111,
+                "pickNumber": 2,
+                "brawler": "BARLEY"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.2222222222222222,
+                "pickNumber": 4,
+                "brawler": "BYRON"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.2222222222222222,
+                "pickNumber": 4,
+                "brawler": "JESSIE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.2222222222222222,
+                "pickNumber": 4,
+                "brawler": "EDGAR"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.6,
+                "pickRate": 0.2777777777777778,
+                "pickNumber": 5,
+                "brawler": "EMZ"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.05555555555555555,
+                "pickNumber": 1,
+                "brawler": "RICO"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.2222222222222222,
+                "pickNumber": 4,
+                "brawler": "GALE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 7,
+                "winRate": 0.875,
+                "pickRate": 0.4444444444444444,
+                "pickNumber": 8,
+                "brawler": "LEON"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 8,
+                "winRate": 0.7272727272727273,
+                "pickRate": 0.6111111111111112,
+                "pickNumber": 11,
+                "brawler": "STU"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.1111111111111111,
+                "pickNumber": 2,
+                "brawler": "ROSA"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.1111111111111111,
+                "pickNumber": 2,
+                "brawler": "BULL"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.05555555555555555,
+                "pickNumber": 1,
+                "brawler": "FRANK"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.1111111111111111,
+                "pickNumber": 2,
+                "brawler": "TARA"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.05555555555555555,
+                "pickNumber": 1,
+                "brawler": "BO"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.05555555555555555,
+                "pickNumber": 1,
+                "brawler": "LOU"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.1111111111111111,
+                "pickNumber": 2,
+                "brawler": "SURGE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.2222222222222222,
+                "pickNumber": 4,
+                "brawler": "SQUEAK"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.5,
+                "pickRate": 0.3333333333333333,
+                "pickNumber": 6,
+                "brawler": "AMBER"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.05555555555555555,
+                "pickNumber": 1,
+                "brawler": "DYNAMIKE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.16666666666666666,
+                "pickNumber": 3,
+                "brawler": "EL PRIMO"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.16666666666666666,
+                "pickNumber": 3,
+                "brawler": "MEG"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.2222222222222222,
+                "pickNumber": 4,
+                "brawler": "SPIKE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.05555555555555555,
+                "pickNumber": 1,
+                "brawler": "BELLE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.05555555555555555,
+                "pickNumber": 1,
+                "brawler": "CROW"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Parallel Plays.json",
+            "startTime": "20220110T220000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.05555555555555555,
+                "pickNumber": 1,
+                "brawler": "MR. P"
+            }
+        }
+    ],
+    "battlesNumber": 18
+}
