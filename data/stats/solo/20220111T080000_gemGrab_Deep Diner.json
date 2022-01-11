@@ -1,0 +1,569 @@
+{
+    "brawler": [
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 10,
+                "winRate": 0.8333333333333334,
+                "pickRate": 0.23076923076923078,
+                "pickNumber": 12,
+                "brawler": "JESSIE"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 21,
+                "winRate": 0.5384615384615384,
+                "pickRate": 0.75,
+                "pickNumber": 39,
+                "brawler": "MORTIS"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 9,
+                "winRate": 0.5294117647058824,
+                "pickRate": 0.3269230769230769,
+                "pickNumber": 17,
+                "brawler": "STU"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawler": "AMBER"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.07692307692307693,
+                "pickNumber": 4,
+                "brawler": "BUZZ"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawler": "DARRYL"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.057692307692307696,
+                "pickNumber": 3,
+                "brawler": "EMZ"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.42857142857142855,
+                "pickRate": 0.1346153846153846,
+                "pickNumber": 7,
+                "brawler": "PENNY"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.057692307692307696,
+                "pickNumber": 3,
+                "brawler": "DYNAMIKE"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.6,
+                "pickRate": 0.09615384615384616,
+                "pickNumber": 5,
+                "brawler": "SPIKE"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.17307692307692307,
+                "pickNumber": 9,
+                "brawler": "BYRON"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.07692307692307693,
+                "pickNumber": 4,
+                "brawler": "POCO"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawler": "SHELLY"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.07692307692307693,
+                "pickNumber": 4,
+                "brawler": "BROCK"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.038461538461538464,
+                "pickNumber": 2,
+                "brawler": "EDGAR"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 13,
+                "winRate": 0.4642857142857143,
+                "pickRate": 0.5384615384615384,
+                "pickNumber": 28,
+                "brawler": "TARA"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 9,
+                "winRate": 0.6428571428571429,
+                "pickRate": 0.2692307692307692,
+                "pickNumber": 14,
+                "brawler": "GENE"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 6,
+                "winRate": 0.5,
+                "pickRate": 0.23076923076923078,
+                "pickNumber": 12,
+                "brawler": "LEON"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.3,
+                "pickRate": 0.19230769230769232,
+                "pickNumber": 10,
+                "brawler": "CROW"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 6,
+                "winRate": 0.5454545454545454,
+                "pickRate": 0.21153846153846154,
+                "pickNumber": 11,
+                "brawler": "SURGE"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.038461538461538464,
+                "pickNumber": 2,
+                "brawler": "BARLEY"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawler": "EL PRIMO"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.057692307692307696,
+                "pickNumber": 3,
+                "brawler": "SPROUT"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.07692307692307693,
+                "pickNumber": 4,
+                "brawler": "MAX"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.057692307692307696,
+                "pickNumber": 3,
+                "brawler": "ROSA"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.25,
+                "pickRate": 0.15384615384615385,
+                "pickNumber": 8,
+                "brawler": "GRIFF"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.057692307692307696,
+                "pickNumber": 3,
+                "brawler": "COLONEL RUFFS"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 15,
+                "winRate": 0.6521739130434783,
+                "pickRate": 0.4423076923076923,
+                "pickNumber": 23,
+                "brawler": "SANDY"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.057692307692307696,
+                "pickNumber": 3,
+                "brawler": "BIBI"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.42857142857142855,
+                "pickRate": 0.1346153846153846,
+                "pickNumber": 7,
+                "brawler": "RICO"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.07692307692307693,
+                "pickNumber": 4,
+                "brawler": "PAM"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.057692307692307696,
+                "pickNumber": 3,
+                "brawler": "LOLA"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 7,
+                "winRate": 0.7,
+                "pickRate": 0.19230769230769232,
+                "pickNumber": 10,
+                "brawler": "PIPER"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.057692307692307696,
+                "pickNumber": 3,
+                "brawler": "BO"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 6,
+                "winRate": 0.8571428571428571,
+                "pickRate": 0.1346153846153846,
+                "pickNumber": 7,
+                "brawler": "8-BIT"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 10,
+                "winRate": 0.9090909090909091,
+                "pickRate": 0.21153846153846154,
+                "pickNumber": 11,
+                "brawler": "GROM"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.11538461538461539,
+                "pickNumber": 6,
+                "brawler": "TICK"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.057692307692307696,
+                "pickNumber": 3,
+                "brawler": "GALE"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.038461538461538464,
+                "pickNumber": 2,
+                "brawler": "COLT"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 4,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.11538461538461539,
+                "pickNumber": 6,
+                "brawler": "MEG"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.057692307692307696,
+                "pickNumber": 3,
+                "brawler": "BELLE"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.038461538461538464,
+                "pickNumber": 2,
+                "brawler": "CARL"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.057692307692307696,
+                "pickNumber": 3,
+                "brawler": "BULL"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawler": "FRANK"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawler": "BEA"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawler": "SQUEAK"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.038461538461538464,
+                "pickNumber": 2,
+                "brawler": "NITA"
+            }
+        }
+    ],
+    "battlesNumber": 52
+}

@@ -4,7 +4,7 @@ from datetime import datetime
 
 
 #Global variables
-player_limit=50
+player_limit=10
 limitNumberOfBattles=5
 logFileName="timeLog.txt"
 
@@ -24,7 +24,7 @@ callTime=end2 - start2
 
 print("\n***STORE BATTLES***\n")
 start3 = time.time()
-newBattle=STORE_BATTLES(battlelogs, limitNumberOfBattles)
+newBattle, alreadyStoredBattle, totalBattle=STORE_BATTLES(battlelogs, limitNumberOfBattles)
 end3 = time.time()
 storeBattleTime=end3 - start3
 
@@ -36,7 +36,7 @@ end4 = time.time()
 computeBestBrawler=end4 - start4
 now = datetime.now()
 dateTime = now.strftime("%Y-%m-%d %H:%M:%S")
-processHistory={"datetime":dateTime, "callTime":callTime, "storeBattleTime":storeBattleTime, "computeBestBrawler":computeBestBrawler, "countryNumber": len(countries_list), "playerNumber":player_limit, "newBattle":newBattle}
+processHistory={"datetime":dateTime, "callTime":callTime, "storeBattleTime":storeBattleTime, "computeBestBrawler":computeBestBrawler, "countryNumber": len(countries_list), "playerNumber":player_limit, "newBattle":newBattle, "alreadyStoreBattle": alreadyStoredBattle, "totalBattle":totalBattle, "countryList":countries_list}
 
 #WRITE LOGS
 try:

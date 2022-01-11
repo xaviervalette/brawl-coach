@@ -1,0 +1,581 @@
+{
+    "teams": [
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 1,
+                "pickRate": 0.09615384615384616,
+                "pickNumber": 5,
+                "brawlers": [
+                    "JESSIE",
+                    "MORTIS",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "LEON",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "EL PRIMO",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.057692307692307696,
+                "pickNumber": 3,
+                "brawlers": [
+                    "GENE",
+                    "MORTIS",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "GRIFF",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MAX",
+                    "SANDY",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLONEL RUFFS",
+                    "PAM",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 1,
+                "pickRate": 0.07692307692307693,
+                "pickNumber": 4,
+                "brawlers": [
+                    "MORTIS",
+                    "PIPER",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 1,
+                "pickRate": 0.09615384615384616,
+                "pickNumber": 5,
+                "brawlers": [
+                    "8-BIT",
+                    "GROM",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "MEG",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "GROM",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "GENE",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "FRANK",
+                    "GENE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "8-BIT",
+                    "MORTIS",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "BELLE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "GENE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "PIPER",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.038461538461538464,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BYRON",
+                    "LOLA",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BYRON",
+                    "POCO",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CROW",
+                    "GROM",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.6,
+                "pickRate": 0.09615384615384616,
+                "pickNumber": 5,
+                "brawlers": [
+                    "LEON",
+                    "MEG",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BYRON",
+                    "JESSIE",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "MORTIS",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CROW",
+                    "MORTIS",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "JESSIE",
+                    "MORTIS",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.038461538461538464,
+                "pickNumber": 2,
+                "brawlers": [
+                    "MORTIS",
+                    "SANDY",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "LEON",
+                    "STU",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "LEON",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "MORTIS",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "STU",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CROW",
+                    "GRIFF",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "JESSIE",
+                    "RICO",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "MORTIS",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "NITA",
+                    "PIPER",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.6,
+                "pickRate": 0.09615384615384616,
+                "pickNumber": 5,
+                "brawlers": [
+                    "PENNY",
+                    "SANDY",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Deep Diner.json",
+            "startTime": "20220111T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.019230769230769232,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "GROM",
+                    "PAM"
+                ]
+            }
+        }
+    ],
+    "battlesNumber": 52
+}

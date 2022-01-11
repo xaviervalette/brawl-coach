@@ -237,132 +237,165 @@ def remove_team_duplicate(team):
 	return team_no_dupplicate
 
 def STORE_BEST_TEAM(dirName):
-    dirName=".."+path_separator+"data"+path_separator+"battles"
-    winTeams=[]
-    loseTeams=[]
-    for root, subdirectories, files in os.walk(dirName):
-        for file in files:
-            #READ BATTLES
-            #with open("../data/battles/"+mode+"/"+map+"/"+startTime+"_"+mode+"_"+map+".json", 'r') as f:
-            mode=os.path.join(root, file).split(path_separator)[-1].split("_")[1]
-            map=os.path.join(root, file).split(path_separator)[-1].split("_")[2]
-            startTime=os.path.join(root, file).split(path_separator)[-1].split("_")[0]
-            with open(os.path.join(root, file), 'r') as f:
-                battles_mode_map = json.load(f)
+    dataFolder = Path("../data/battles")
+    dataFolder.mkdir(parents=True, exist_ok=True)
+    currentEvent=READ_CURRENT_EVENTS("TODO")
+    dirList=[]
+    for event in currentEvent:
+        map=event["event"]["map"]
+        mode=event["event"]["mode"]
+        startTime=event["startTime"]
+        modeFolder= dataFolder/mode
+        modeFolder.mkdir(parents=True, exist_ok=True)
+        mapFolder=modeFolder/map
+        mapFolder.mkdir(parents=True, exist_ok=True)
+        startTime=startTime.split(".")[0]
+        dir=".."+path_separator+"data"+path_separator+"battles"+path_separator+mode+path_separator+map
+        dirList.append(dir)
 
-            winTeams.clear()
-            loseTeams.clear()
+    for dirName in dirList:
+        winTeams=[]
+        loseTeams=[]
+        for root, subdirectories, files in os.walk(dirName):
+            for file in files:
+                #READ BATTLES
+                #with open("../data/battles/"+mode+"/"+map+"/"+startTime+"_"+mode+"_"+map+".json", 'r') as f:
+                mode=os.path.join(root, file).split(path_separator)[-1].split("_")[1]
+                map=os.path.join(root, file).split(path_separator)[-1].split("_")[2]
+                startTime=os.path.join(root, file).split(path_separator)[-1].split("_")[0]
+                with open(os.path.join(root, file), 'r') as f:
+                    battles_mode_map = json.load(f)
 
-            #GET WIN AND LOSE TEAMS
-            for battle in battles_mode_map:
-                winTeam, loseTeam = EXTRACT_TEAM_RESULT(battle)
-                winTeam_set = set(winTeam)
-                if len(winTeam) == len(winTeam_set):
-                    if len(winTeam)>0:#to avoid adding void team due to duoshowdown
-                        winTeams.append(winTeam)
-                    if len(loseTeam)>0:
-                        loseTeams.append(loseTeam)
-            
-            winTeamsUnique=[]
-            winTeamsUnique=remove_team_duplicate(winTeams)
-            loseTeamsUnique=[]
-            loseTeamsUnique=remove_team_duplicate(loseTeams)
+                winTeams.clear()
+                loseTeams.clear()
 
-            winTable={}
-            winList=[]
+                #GET WIN AND LOSE TEAMS
+                for battle in battles_mode_map:
+                    winTeam, loseTeam = EXTRACT_TEAM_RESULT(battle)
+                    winTeam_set = set(winTeam)
+                    if len(winTeam) == len(winTeam_set):
+                        if len(winTeam)>0:#to avoid adding void team due to duoshowdown
+                            winTeams.append(winTeam)
+                        if len(loseTeam)>0:
+                            loseTeams.append(loseTeam)
+                
+                winTeamsUnique=[]
+                winTeamsUnique=remove_team_duplicate(winTeams)
+                loseTeamsUnique=[]
+                loseTeamsUnique=remove_team_duplicate(loseTeams)
 
-            for team in winTeamsUnique:
-                pickNumber=winTeams.count(team)+loseTeams.count(team)
-                if(loseTeamsUnique.count(team)==0):
-                    winRate=1
-                else:
-                    winRate=winTeams.count(team)/pickNumber
-                win_dict = {
-                    "mode": mode,
-                    "map": map,
-                    "startTime": startTime, #start day
-                    "teamStats": {
-                        "winNumber": winTeams.count(team),
-                        "winRate":winRate,
-                        "pickRate": (winTeams.count(team)+loseTeams.count(team))/(len(battles_mode_map)),
-                        "pickNumber":pickNumber,
-                        "brawlers": team
-                        }
-                }                    
-                winList.append(win_dict)
-                winTable["teams"]= winList
-                winTable["battlesNumber"]=len(battles_mode_map)
-            filename = "../data/stats/teams/"+os.path.join(root, file).split(path_separator)[-1]
-            with open(filename, 'w') as fp:
-                json.dump(winTable, fp, indent=4)
+                winTable={}
+                winList=[]
+
+                for team in winTeamsUnique:
+                    pickNumber=winTeams.count(team)+loseTeams.count(team)
+                    if(loseTeamsUnique.count(team)==0):
+                        winRate=1
+                    else:
+                        winRate=winTeams.count(team)/pickNumber
+                    win_dict = {
+                        "mode": mode,
+                        "map": map,
+                        "startTime": startTime, #start day
+                        "teamStats": {
+                            "winNumber": winTeams.count(team),
+                            "winRate":winRate,
+                            "pickRate": (winTeams.count(team)+loseTeams.count(team))/(len(battles_mode_map)),
+                            "pickNumber":pickNumber,
+                            "brawlers": team
+                            }
+                    }                    
+                    winList.append(win_dict)
+                    winTable["teams"]= winList
+                    winTable["battlesNumber"]=len(battles_mode_map)
+                filename = "../data/stats/teams/"+os.path.join(root, file).split(path_separator)[-1]
+                with open(filename, 'w') as fp:
+                    json.dump(winTable, fp, indent=4)
 
 def STORE_BEST_SOLO(dirName):
-    dirName=".."+path_separator+"data"+path_separator+"battles"
-    bestSolos={}
-    
-    for root, subdirectories, files in os.walk(dirName):
-        for file in files:
-            #READ BATTLES
-            #with open("../data/battles/"+mode+"/"+map+"/"+startTime+"_"+mode+"_"+map+".json", 'r') as f:
-            mode=os.path.join(root, file).split(path_separator)[-1].split("_")[1]
-            map=os.path.join(root, file).split(path_separator)[-1].split("_")[2]
-            startTime=os.path.join(root, file).split(path_separator)[-1].split("_")[0]
-            with open(os.path.join(root, file), 'r') as f:
-                battles_mode_map = json.load(f)
+    dataFolder = Path("../data/battles")
+    dataFolder.mkdir(parents=True, exist_ok=True)
+    currentEvent=READ_CURRENT_EVENTS("TODO")
+    dirList=[]
+    for event in currentEvent:
+        map=event["event"]["map"]
+        mode=event["event"]["mode"]
+        startTime=event["startTime"]
+        modeFolder= dataFolder/mode
+        modeFolder.mkdir(parents=True, exist_ok=True)
+        mapFolder=modeFolder/map
+        mapFolder.mkdir(parents=True, exist_ok=True)
+        startTime=startTime.split(".")[0]
+        dir=".."+path_separator+"data"+path_separator+"battles"+path_separator+mode+path_separator+map
+        print(dir)
+        dirList.append(dir)
 
-            bestSolos.clear()
+    for dirName in dirList:
+        bestSolos={}
+        
+        for root, subdirectories, files in os.walk(dirName):
+            for file in files:
+                #READ BATTLES
+                #with open("../data/battles/"+mode+"/"+map+"/"+startTime+"_"+mode+"_"+map+".json", 'r') as f:
+                mode=os.path.join(root, file).split(path_separator)[-1].split("_")[1]
+                map=os.path.join(root, file).split(path_separator)[-1].split("_")[2]
+                startTime=os.path.join(root, file).split(path_separator)[-1].split("_")[0]
+                with open(os.path.join(root, file), 'r') as f:
+                    battles_mode_map = json.load(f)
 
-            #GET WIN AND LOSE TEAMS
-            for battle in battles_mode_map:
-                winTeam, loseTeam = EXTRACT_SOLO_RESULT(battle)
-                winTeam_set = set(winTeam)
-                if len(winTeam) == len(winTeam_set):
-                    if len(winTeam)>0:#to avoid adding void team due to duoshowdown
-                        for player in winTeam:
-                            if player in bestSolos:
-                                bestSolos[player]["wins"]=bestSolos[player]["wins"]+1
-                            else:
-                                bestSolos[player]={}
-                                bestSolos[player]["wins"]=1
-                                bestSolos[player]["loses"]=0
-                    if len(loseTeam)>0:
-                        for player in loseTeam:
-                            if player in bestSolos:
-                                bestSolos[player]["loses"]=bestSolos[player]["loses"]+1
-                            else:
-                                bestSolos[player]={}
-                                bestSolos[player]["wins"]=0
-                                bestSolos[player]["loses"]=1
-            
-            winTable={}
-            winList=[]
-            total = 0
+                bestSolos.clear()
 
-            for brawler in bestSolos:
-                pickNumber=bestSolos[brawler]["wins"]+bestSolos[brawler]["loses"]
-                total = total + pickNumber
-                if(bestSolos[brawler]["loses"]==0):
-                    winRate=1
-                else:
-                    winRate=bestSolos[brawler]["wins"]/pickNumber
-                win_dict = {
-                    "mode": mode,
-                    "map": map,
-                    "startTime": startTime, #start day
-                    "soloStats": {
-                        "winNumber": bestSolos[brawler]["wins"],
-                        "winRate":winRate,
-                        "pickRate": pickNumber/(len(battles_mode_map)),
-                        "pickNumber":pickNumber,
-                        "brawler": brawler
-                        }
-                }                    
-                winList.append(win_dict)
-                winTable["brawler"]= winList
-                winTable["battlesNumber"]=len(battles_mode_map)
-            filename = "../data/stats/solo/"+os.path.join(root, file).split(path_separator)[-1]
-            with open(filename, 'w') as fp:
-                json.dump(winTable, fp, indent=4)
+                #GET WIN AND LOSE TEAMS
+                for battle in battles_mode_map:
+                    winTeam, loseTeam = EXTRACT_SOLO_RESULT(battle)
+                    winTeam_set = set(winTeam)
+                    if len(winTeam) == len(winTeam_set):
+                        if len(winTeam)>0:#to avoid adding void team due to duoshowdown
+                            for player in winTeam:
+                                if player in bestSolos:
+                                    bestSolos[player]["wins"]=bestSolos[player]["wins"]+1
+                                else:
+                                    bestSolos[player]={}
+                                    bestSolos[player]["wins"]=1
+                                    bestSolos[player]["loses"]=0
+                        if len(loseTeam)>0:
+                            for player in loseTeam:
+                                if player in bestSolos:
+                                    bestSolos[player]["loses"]=bestSolos[player]["loses"]+1
+                                else:
+                                    bestSolos[player]={}
+                                    bestSolos[player]["wins"]=0
+                                    bestSolos[player]["loses"]=1
+                
+                winTable={}
+                winList=[]
+                total = 0
+
+                for brawler in bestSolos:
+                    pickNumber=bestSolos[brawler]["wins"]+bestSolos[brawler]["loses"]
+                    total = total + pickNumber
+                    if(bestSolos[brawler]["loses"]==0):
+                        winRate=1
+                    else:
+                        winRate=bestSolos[brawler]["wins"]/pickNumber
+                    win_dict = {
+                        "mode": mode,
+                        "map": map,
+                        "startTime": startTime, #start day
+                        "soloStats": {
+                            "winNumber": bestSolos[brawler]["wins"],
+                            "winRate":winRate,
+                            "pickRate": pickNumber/(len(battles_mode_map)),
+                            "pickNumber":pickNumber,
+                            "brawler": brawler
+                            }
+                    }                    
+                    winList.append(win_dict)
+                    winTable["brawler"]= winList
+                    winTable["battlesNumber"]=len(battles_mode_map)
+                filename = "../data/stats/solo/"+os.path.join(root, file).split(path_separator)[-1]
+                with open(filename, 'w') as fp:
+                    json.dump(winTable, fp, indent=4)
     
 
 def STORE_BATTLES(battlelogsList, limitNumberOfBattles):
@@ -479,7 +512,7 @@ def STORE_BATTLES(battlelogsList, limitNumberOfBattles):
     for files in files2save:
         with open(files, 'w') as outfile:
             json.dump(files2save[files], outfile, indent=4)
-    return newBattle
+    return newBattle, alreadyStoredBattle, total
 
 '''
     For the given path, get the List of all files in the directory tree 

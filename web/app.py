@@ -157,5 +157,15 @@ def mode_map_solo(mode, map, startTime):
 	#except:
 		#return "TO DO"
 
+@app.route("/processTime.log")
+def processTime():
+	try:
+		with open("../python/timeLog.txt") as fp:
+			timeLog = json.load(fp)
+	except:
+		timeLog=[]
+	return {"items": timeLog}
+
+
 if __name__ == "__main__":
 	app.run(host='0.0.0.0', port=5000)

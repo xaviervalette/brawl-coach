@@ -1,0 +1,309 @@
+{
+    "teams": [
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220111T140000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.023255813953488372,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "BROCK",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220111T140000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.046511627906976744,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GENE",
+                    "PIPER",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220111T140000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.09302325581395349,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BROCK",
+                    "PIPER",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220111T140000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.023255813953488372,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BYRON",
+                    "MORTIS",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220111T140000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.8,
+                "pickRate": 0.11627906976744186,
+                "pickNumber": 5,
+                "brawlers": [
+                    "GROM",
+                    "NANI",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220111T140000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.2,
+                "pickRate": 0.11627906976744186,
+                "pickNumber": 5,
+                "brawlers": [
+                    "MORTIS",
+                    "NANI",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220111T140000",
+            "teamStats": {
+                "winNumber": 14,
+                "winRate": 0.9333333333333333,
+                "pickRate": 0.3488372093023256,
+                "pickNumber": 15,
+                "brawlers": [
+                    "BYRON",
+                    "MORTIS",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220111T140000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.6,
+                "pickRate": 0.11627906976744186,
+                "pickNumber": 5,
+                "brawlers": [
+                    "NANI",
+                    "PIPER",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220111T140000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.023255813953488372,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BYRON",
+                    "GROM",
+                    "LEON"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220111T140000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.06976744186046512,
+                "pickNumber": 3,
+                "brawlers": [
+                    "NANI",
+                    "PIPER",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220111T140000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.046511627906976744,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BROCK",
+                    "BYRON",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220111T140000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.023255813953488372,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "COLT",
+                    "MR. P"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220111T140000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.09302325581395349,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BROCK",
+                    "LEON",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220111T140000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.023255813953488372,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "LEON",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220111T140000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.8,
+                "pickRate": 0.11627906976744186,
+                "pickNumber": 5,
+                "brawlers": [
+                    "COLT",
+                    "PENNY",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220111T140000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.023255813953488372,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "BROCK",
+                    "MAX"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220111T140000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.046511627906976744,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GROM",
+                    "MORTIS",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220111T140000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.023255813953488372,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "NANI",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220111T140000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.6,
+                "pickRate": 0.11627906976744186,
+                "pickNumber": 5,
+                "brawlers": [
+                    "MEG",
+                    "PIPER",
+                    "TICK"
+                ]
+            }
+        }
+    ],
+    "battlesNumber": 43
+}
