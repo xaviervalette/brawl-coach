@@ -5,7 +5,7 @@ from datetime import datetime
 
 #Global variables
 player_limit=100
-limitNumberOfBattles=5
+limitNumberOfBattles=2
 logFileName="timeLog.txt"
 
 countries_list=["FR", "US", "IT", "CA", "DE", "GR", "CN", "FI", "ES", "BR", "IN"]
