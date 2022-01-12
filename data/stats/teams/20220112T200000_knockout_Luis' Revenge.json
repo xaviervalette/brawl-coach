@@ -1,0 +1,69 @@
+{
+    "teams": [
+        {
+            "mode": "knockout",
+            "map": "Luis' Revenge.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.8,
+                "pickNumber": 4,
+                "brawlers": [
+                    "GROM",
+                    "LEON",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Luis' Revenge.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.2,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "LEON",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Luis' Revenge.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.2,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "LEON",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Luis' Revenge.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.2,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "GROM",
+                    "LEON"
+                ]
+            }
+        }
+    ],
+    "battlesNumber": 5
+}

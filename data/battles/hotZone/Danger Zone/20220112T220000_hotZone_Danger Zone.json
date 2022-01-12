@@ -1,0 +1,94 @@
+[
+    {
+        "battle": {
+            "duration": 93,
+            "mode": "hotZone",
+            "result": "defeat",
+            "starPlayer": {
+                "brawler": {
+                    "id": 16000016,
+                    "name": "PAM",
+                    "power": 9,
+                    "trophies": 634
+                },
+                "name": "EUSOULINDAKRAI",
+                "tag": "#2GGRJCUQU"
+            },
+            "teams": [
+                [
+                    {
+                        "brawler": {
+                            "id": 16000028,
+                            "name": "SANDY",
+                            "power": 9,
+                            "trophies": 791
+                        },
+                        "name": "JustAnotherPit!",
+                        "tag": "#8YJQU22CC"
+                    },
+                    {
+                        "brawler": {
+                            "id": 16000030,
+                            "name": "EMZ",
+                            "power": 10,
+                            "trophies": 792
+                        },
+                        "name": "YT|A\u20b0imito",
+                        "tag": "#V08G29PV"
+                    },
+                    {
+                        "brawler": {
+                            "id": 16000016,
+                            "name": "PAM",
+                            "power": 9,
+                            "trophies": 634
+                        },
+                        "name": "EUSOULINDAKRAI",
+                        "tag": "#2GGRJCUQU"
+                    }
+                ],
+                [
+                    {
+                        "brawler": {
+                            "id": 16000020,
+                            "name": "FRANK",
+                            "power": 9,
+                            "trophies": 940
+                        },
+                        "name": "Gusta",
+                        "tag": "#2RP90R2"
+                    },
+                    {
+                        "brawler": {
+                            "id": 16000053,
+                            "name": "LOLA",
+                            "power": 8,
+                            "trophies": 900
+                        },
+                        "name": "Gutsy",
+                        "tag": "#22P2LL2"
+                    },
+                    {
+                        "brawler": {
+                            "id": 16000052,
+                            "name": "MEG",
+                            "power": 9,
+                            "trophies": 910
+                        },
+                        "name": "\u25ab\ufe0fRap do Obito\u25ab",
+                        "tag": "#YV9PUL90"
+                    }
+                ]
+            ],
+            "trophyChange": -10,
+            "type": "ranked"
+        },
+        "battleTime": "20220112T170321.000Z",
+        "event": {
+            "id": 15000452,
+            "map": "Danger Zone",
+            "mode": "hotZone"
+        },
+        "playerTag": "#YV9PUL90"
+    }
+]

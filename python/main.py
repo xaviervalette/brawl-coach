@@ -4,11 +4,11 @@ from datetime import datetime
 
 
 #Global variables
-player_limit=100
-limitNumberOfBattles=2
+player_limit=10
+limitNumberOfBattles=1
 logFileName="timeLog.txt"
 
-countries_list=["FR", "US", "IT", "CA", "DE", "GR", "CN", "FI", "ES", "BR", "IN"]
+countries_list=["FR"]
 token=READ_API_TOKEN("token.txt")
 
 start2 = time.time()
@@ -24,7 +24,7 @@ callTime=end2 - start2
 
 print("\n***STORE BATTLES***\n")
 start3 = time.time()
-newBattle, alreadyStoredBattle, totalBattle=STORE_BATTLES(battlelogs, limitNumberOfBattles)
+newBattle, dupBattle, totalBattle=STORE_BATTLES(battlelogs, limitNumberOfBattles)
 end3 = time.time()
 storeBattleTime=end3 - start3
 
@@ -36,7 +36,7 @@ end4 = time.time()
 computeBestBrawler=end4 - start4
 now = datetime.now()
 dateTime = now.strftime("%Y-%m-%d %H:%M:%S")
-processHistory={"datetime":dateTime, "callTime":callTime, "storeBattleTime":storeBattleTime, "computeBestBrawler":computeBestBrawler, "countryNumber": len(countries_list), "playerNumber":player_limit, "newBattle":newBattle, "alreadyStoreBattle": alreadyStoredBattle, "totalBattle":totalBattle, "countryList":countries_list}
+processHistory={"datetime":dateTime, "callTime":callTime, "storeBattleTime":storeBattleTime, "computeBestBrawler":computeBestBrawler, "countryNumber": len(countries_list), "playerNumber":player_limit, "newBattle":newBattle, "dupBattle": dupBattle, "totalBattle":totalBattle, "countryList":countries_list}
 print (processHistory)
 #WRITE LOGS
 try:

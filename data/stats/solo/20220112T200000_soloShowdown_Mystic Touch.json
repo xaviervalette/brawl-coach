@@ -5,47 +5,11 @@
             "map": "Mystic Touch.json",
             "startTime": "20220112T200000",
             "soloStats": {
-                "winNumber": 0,
-                "winRate": 0.0,
-                "pickRate": 0.038461538461538464,
-                "pickNumber": 1,
-                "brawler": "JACKY"
-            }
-        },
-        {
-            "mode": "soloShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "soloStats": {
-                "winNumber": 1,
-                "winRate": 0.5,
-                "pickRate": 0.07692307692307693,
-                "pickNumber": 2,
-                "brawler": "EDGAR"
-            }
-        },
-        {
-            "mode": "soloShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "soloStats": {
-                "winNumber": 1,
-                "winRate": 0.5,
-                "pickRate": 0.07692307692307693,
-                "pickNumber": 2,
-                "brawler": "BIBI"
-            }
-        },
-        {
-            "mode": "soloShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "soloStats": {
                 "winNumber": 1,
                 "winRate": 1,
-                "pickRate": 0.038461538461538464,
+                "pickRate": 0.02857142857142857,
                 "pickNumber": 1,
-                "brawler": "SPIKE"
+                "brawler": "SURGE"
             }
         },
         {
@@ -55,7 +19,7 @@
             "soloStats": {
                 "winNumber": 2,
                 "winRate": 0.5,
-                "pickRate": 0.15384615384615385,
+                "pickRate": 0.11428571428571428,
                 "pickNumber": 4,
                 "brawler": "STU"
             }
@@ -65,21 +29,9 @@
             "map": "Mystic Touch.json",
             "startTime": "20220112T200000",
             "soloStats": {
-                "winNumber": 1,
-                "winRate": 1,
-                "pickRate": 0.038461538461538464,
-                "pickNumber": 1,
-                "brawler": "CARL"
-            }
-        },
-        {
-            "mode": "soloShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "soloStats": {
                 "winNumber": 5,
                 "winRate": 1,
-                "pickRate": 0.19230769230769232,
+                "pickRate": 0.14285714285714285,
                 "pickNumber": 5,
                 "brawler": "DARRYL"
             }
@@ -91,9 +43,9 @@
             "soloStats": {
                 "winNumber": 1,
                 "winRate": 0.5,
-                "pickRate": 0.07692307692307693,
+                "pickRate": 0.05714285714285714,
                 "pickNumber": 2,
-                "brawler": "MORTIS"
+                "brawler": "EDGAR"
             }
         },
         {
@@ -103,19 +55,7 @@
             "soloStats": {
                 "winNumber": 1,
                 "winRate": 0.3333333333333333,
-                "pickRate": 0.11538461538461539,
-                "pickNumber": 3,
-                "brawler": "GALE"
-            }
-        },
-        {
-            "mode": "soloShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "soloStats": {
-                "winNumber": 1,
-                "winRate": 0.3333333333333333,
-                "pickRate": 0.11538461538461539,
+                "pickRate": 0.08571428571428572,
                 "pickNumber": 3,
                 "brawler": "SHELLY"
             }
@@ -125,9 +65,21 @@
             "map": "Mystic Touch.json",
             "startTime": "20220112T200000",
             "soloStats": {
+                "winNumber": 6,
+                "winRate": 0.8571428571428571,
+                "pickRate": 0.2,
+                "pickNumber": 7,
+                "brawler": "EL PRIMO"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
                 "winNumber": 1,
                 "winRate": 1,
-                "pickRate": 0.038461538461538464,
+                "pickRate": 0.02857142857142857,
                 "pickNumber": 1,
                 "brawler": "FRANK"
             }
@@ -139,11 +91,95 @@
             "soloStats": {
                 "winNumber": 0,
                 "winRate": 0.0,
-                "pickRate": 0.038461538461538464,
+                "pickRate": 0.02857142857142857,
+                "pickNumber": 1,
+                "brawler": "JACKY"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.05714285714285714,
+                "pickNumber": 2,
+                "brawler": "MORTIS"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.02857142857142857,
                 "pickNumber": 1,
                 "brawler": "GROM"
             }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.08571428571428572,
+                "pickNumber": 3,
+                "brawler": "GALE"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.02857142857142857,
+                "pickNumber": 1,
+                "brawler": "CARL"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.02857142857142857,
+                "pickNumber": 1,
+                "brawler": "BUZZ"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.02857142857142857,
+                "pickNumber": 1,
+                "brawler": "SPIKE"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.05714285714285714,
+                "pickNumber": 2,
+                "brawler": "BIBI"
+            }
         }
     ],
-    "battlesNumber": 26
+    "battlesNumber": 35
 }

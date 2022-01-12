@@ -1,0 +1,137 @@
+{
+    "brawler": [
+        {
+            "mode": "knockout",
+            "map": "Luis' Revenge.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 4,
+                "winRate": 0.6666666666666666,
+                "pickRate": 1.2,
+                "pickNumber": 6,
+                "brawler": "GROM"
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Luis' Revenge.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 5,
+                "winRate": 0.5555555555555556,
+                "pickRate": 1.8,
+                "pickNumber": 9,
+                "brawler": "LEON"
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Luis' Revenge.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.5,
+                "pickRate": 1.2,
+                "pickNumber": 6,
+                "brawler": "PIPER"
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Luis' Revenge.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.2,
+                "pickNumber": 1,
+                "brawler": "NITA"
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Luis' Revenge.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.4,
+                "pickNumber": 2,
+                "brawler": "EDGAR"
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Luis' Revenge.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.2,
+                "pickNumber": 1,
+                "brawler": "STU"
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Luis' Revenge.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.2,
+                "pickNumber": 1,
+                "brawler": "SURGE"
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Luis' Revenge.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.2,
+                "pickNumber": 1,
+                "brawler": "CARL"
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Luis' Revenge.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.2,
+                "pickNumber": 1,
+                "brawler": "MORTIS"
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Luis' Revenge.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.2,
+                "pickNumber": 1,
+                "brawler": "DARRYL"
+            }
+        },
+        {
+            "mode": "knockout",
+            "map": "Luis' Revenge.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.2,
+                "pickNumber": 1,
+                "brawler": "BELLE"
+            }
+        }
+    ],
+    "battlesNumber": 5
+}

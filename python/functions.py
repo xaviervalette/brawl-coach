@@ -410,6 +410,8 @@ def STORE_BATTLES(battlelogsList, limitNumberOfBattles):
     battleNotInEvent=0
     total=0
     listNumOfBattles=[]
+    battleAdded=0
+    duppBattles=0
     newBattle=0
     alreadyStoredBattle=0
     notInterestingBattle=0
@@ -463,27 +465,14 @@ def STORE_BATTLES(battlelogsList, limitNumberOfBattles):
                                         if type(data) is dict:
                                             data = [data]
                                         files2save[mapFile]=data
-                                    alreadyExist=False
-
-                                    if not alreadyExist:
                                         # append new item to data lit
                                         files2save[mapFile].append(battles)
-                                        newBattle=newBattle+1
-                                        # write list to file
-                                        '''
-                                        with open(mapFile, 'w') as outfile:
-                                            json.dump(data, outfile, indent=4)
-                                            
-                                        '''
+                                        battleAdded=battleAdded+1
                                     else:
                                         alreadyStoredBattle=alreadyStoredBattle+1
                                 else:
                                     files2save[mapFile]=[battles]
-                                    newBattle=newBattle+1
-                                    '''
-                                    with open(mapFile, 'w') as outfile:
-                                        json.dump(battles, outfile, indent=4)
-                                    '''  
+                                    battleAdded=battleAdded+1
                             else:
                                 battleNotInEvent=battleNotInEvent+1
                         else:
@@ -492,27 +481,24 @@ def STORE_BATTLES(battlelogsList, limitNumberOfBattles):
                             elif b.noDuration:
                                 battleWithNoDuration=battleWithNoDuration+1
                             else:
-                                notInterestingBattle=notInterestingBattle+1
-
-                   
+                                notInterestingBattle=notInterestingBattle+1        
             listNumOfBattles.append(numberOfBattles)
-    total= notInterestingBattle+alreadyStoredBattle+newBattle+battleNotInEvent+friendlyBattles+battleWithNoDuration
-    print("New battles stored: "+ str(newBattle)+"/"+str(total))
-    print("Battle not in curent event: "+ str(battleNotInEvent)+"/"+str(total))
-    print("Already stored battles: "+ str(alreadyStoredBattle)+"/"+str(total))
-    print("Not interesting battles: "+str(notInterestingBattle)+"/"+str(total))
-    print("Friendly battles: ", str(friendlyBattles)+"/"+str(total))
-    print("Battle with no duration: ",  str(battleWithNoDuration)+"/"+str(total))
 
     for files in files2save:
         with open(files, 'w') as outfile:
-            json.dump(remove_dupe_dicts(files2save[files]), outfile, indent=4)
-    return newBattle, alreadyStoredBattle, total
+            files2saveNoDupp, diff=remove_dupe_dicts(files2save[files])
+            duppBattles=duppBattles+diff
+            json.dump(files2saveNoDupp, outfile, indent=4)
+    newBattle=battleAdded-duppBattles
+
+    return newBattle, duppBattles, total
 
 '''
     For the given path, get the List of all files in the directory tree 
 '''
 def remove_dupe_dicts(l): 
     list_of_strings = [json.dumps(d, sort_keys = True) for d in l] 
+    A=len(list_of_strings)
     list_of_strings = set(list_of_strings) 
-    return [json.loads(s) for s in list_of_strings]
+    B=len(list_of_strings)
+    return [json.loads(s) for s in list_of_strings], A-B

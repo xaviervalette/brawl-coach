@@ -1,0 +1,21 @@
+{
+    "teams": [
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 1.0,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EMZ",
+                    "PAM",
+                    "SANDY"
+                ]
+            }
+        }
+    ],
+    "battlesNumber": 1
+}

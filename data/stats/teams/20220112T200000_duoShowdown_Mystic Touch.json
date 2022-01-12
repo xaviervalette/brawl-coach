@@ -7,7 +7,7 @@
             "teamStats": {
                 "winNumber": 4,
                 "winRate": 1,
-                "pickRate": 0.06666666666666667,
+                "pickRate": 0.058823529411764705,
                 "pickNumber": 4,
                 "brawlers": [
                     "GROM",
@@ -20,9 +20,249 @@
             "map": "Mystic Touch.json",
             "startTime": "20220112T200000",
             "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.014705882352941176,
+                "pickNumber": 1,
+                "brawlers": [
+                    "LOLA",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
                 "winNumber": 2,
                 "winRate": 1,
-                "pickRate": 0.03333333333333333,
+                "pickRate": 0.029411764705882353,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BROCK",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.014705882352941176,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MEG",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.058823529411764705,
+                "pickNumber": 4,
+                "brawlers": [
+                    "GENE",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.04411764705882353,
+                "pickNumber": 3,
+                "brawlers": [
+                    "GROM",
+                    "LEON"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.058823529411764705,
+                "pickNumber": 4,
+                "brawlers": [
+                    "CROW",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.029411764705882353,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GROM",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.014705882352941176,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "GRIFF"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 1,
+                "pickRate": 0.058823529411764705,
+                "pickNumber": 4,
+                "brawlers": [
+                    "SURGE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.04411764705882353,
+                "pickNumber": 3,
+                "brawlers": [
+                    "EMZ",
+                    "GENE"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.014705882352941176,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "LOU"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.058823529411764705,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BYRON",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.029411764705882353,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BUZZ",
+                    "LEON"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.029411764705882353,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BELLE",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.029411764705882353,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GROM",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.014705882352941176,
+                "pickNumber": 1,
+                "brawlers": [
+                    "LEON",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.029411764705882353,
                 "pickNumber": 2,
                 "brawlers": [
                     "PIPER",
@@ -37,112 +277,7 @@
             "teamStats": {
                 "winNumber": 1,
                 "winRate": 0.5,
-                "pickRate": 0.03333333333333333,
-                "pickNumber": 2,
-                "brawlers": [
-                    "BELLE",
-                    "GROM"
-                ]
-            }
-        },
-        {
-            "mode": "duoShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "teamStats": {
-                "winNumber": 2,
-                "winRate": 0.6666666666666666,
-                "pickRate": 0.05,
-                "pickNumber": 3,
-                "brawlers": [
-                    "EMZ",
-                    "GENE"
-                ]
-            }
-        },
-        {
-            "mode": "duoShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "teamStats": {
-                "winNumber": 2,
-                "winRate": 0.5,
-                "pickRate": 0.06666666666666667,
-                "pickNumber": 4,
-                "brawlers": [
-                    "CROW",
-                    "GROM"
-                ]
-            }
-        },
-        {
-            "mode": "duoShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "teamStats": {
-                "winNumber": 1,
-                "winRate": 1,
-                "pickRate": 0.016666666666666666,
-                "pickNumber": 1,
-                "brawlers": [
-                    "MEG",
-                    "SHELLY"
-                ]
-            }
-        },
-        {
-            "mode": "duoShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "teamStats": {
-                "winNumber": 1,
-                "winRate": 1,
-                "pickRate": 0.016666666666666666,
-                "pickNumber": 1,
-                "brawlers": [
-                    "BROCK",
-                    "SPIKE"
-                ]
-            }
-        },
-        {
-            "mode": "duoShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "teamStats": {
-                "winNumber": 2,
-                "winRate": 1,
-                "pickRate": 0.03333333333333333,
-                "pickNumber": 2,
-                "brawlers": [
-                    "BUZZ",
-                    "LEON"
-                ]
-            }
-        },
-        {
-            "mode": "duoShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "teamStats": {
-                "winNumber": 1,
-                "winRate": 1,
-                "pickRate": 0.016666666666666666,
-                "pickNumber": 1,
-                "brawlers": [
-                    "LOLA",
-                    "PIPER"
-                ]
-            }
-        },
-        {
-            "mode": "duoShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "teamStats": {
-                "winNumber": 1,
-                "winRate": 0.5,
-                "pickRate": 0.03333333333333333,
+                "pickRate": 0.029411764705882353,
                 "pickNumber": 2,
                 "brawlers": [
                     "BROCK",
@@ -155,174 +290,9 @@
             "map": "Mystic Touch.json",
             "startTime": "20220112T200000",
             "teamStats": {
-                "winNumber": 2,
-                "winRate": 1,
-                "pickRate": 0.03333333333333333,
-                "pickNumber": 2,
-                "brawlers": [
-                    "BELLE",
-                    "PIPER"
-                ]
-            }
-        },
-        {
-            "mode": "duoShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "teamStats": {
-                "winNumber": 1,
-                "winRate": 0.3333333333333333,
-                "pickRate": 0.05,
-                "pickNumber": 3,
-                "brawlers": [
-                    "GROM",
-                    "LEON"
-                ]
-            }
-        },
-        {
-            "mode": "duoShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "teamStats": {
-                "winNumber": 2,
-                "winRate": 0.5,
-                "pickRate": 0.06666666666666667,
-                "pickNumber": 4,
-                "brawlers": [
-                    "BYRON",
-                    "GROM"
-                ]
-            }
-        },
-        {
-            "mode": "duoShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "teamStats": {
-                "winNumber": 4,
-                "winRate": 1,
-                "pickRate": 0.06666666666666667,
-                "pickNumber": 4,
-                "brawlers": [
-                    "SURGE",
-                    "TICK"
-                ]
-            }
-        },
-        {
-            "mode": "duoShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "teamStats": {
                 "winNumber": 1,
                 "winRate": 1,
-                "pickRate": 0.016666666666666666,
-                "pickNumber": 1,
-                "brawlers": [
-                    "JESSIE",
-                    "STU"
-                ]
-            }
-        },
-        {
-            "mode": "duoShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "teamStats": {
-                "winNumber": 1,
-                "winRate": 1,
-                "pickRate": 0.016666666666666666,
-                "pickNumber": 1,
-                "brawlers": [
-                    "LEON",
-                    "SURGE"
-                ]
-            }
-        },
-        {
-            "mode": "duoShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "teamStats": {
-                "winNumber": 1,
-                "winRate": 0.5,
-                "pickRate": 0.03333333333333333,
-                "pickNumber": 2,
-                "brawlers": [
-                    "LEON",
-                    "STU"
-                ]
-            }
-        },
-        {
-            "mode": "duoShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "teamStats": {
-                "winNumber": 1,
-                "winRate": 1,
-                "pickRate": 0.016666666666666666,
-                "pickNumber": 1,
-                "brawlers": [
-                    "LOU",
-                    "STU"
-                ]
-            }
-        },
-        {
-            "mode": "duoShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "teamStats": {
-                "winNumber": 1,
-                "winRate": 0.5,
-                "pickRate": 0.03333333333333333,
-                "pickNumber": 2,
-                "brawlers": [
-                    "GROM",
-                    "STU"
-                ]
-            }
-        },
-        {
-            "mode": "duoShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "teamStats": {
-                "winNumber": 2,
-                "winRate": 1,
-                "pickRate": 0.03333333333333333,
-                "pickNumber": 2,
-                "brawlers": [
-                    "BROCK",
-                    "PIPER"
-                ]
-            }
-        },
-        {
-            "mode": "duoShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "teamStats": {
-                "winNumber": 1,
-                "winRate": 1,
-                "pickRate": 0.016666666666666666,
-                "pickNumber": 1,
-                "brawlers": [
-                    "BIBI",
-                    "GRIFF"
-                ]
-            }
-        },
-        {
-            "mode": "duoShowdown",
-            "map": "Mystic Touch.json",
-            "startTime": "20220112T200000",
-            "teamStats": {
-                "winNumber": 1,
-                "winRate": 1,
-                "pickRate": 0.016666666666666666,
+                "pickRate": 0.014705882352941176,
                 "pickNumber": 1,
                 "brawlers": [
                     "BARLEY",
@@ -337,14 +307,74 @@
             "teamStats": {
                 "winNumber": 1,
                 "winRate": 1,
-                "pickRate": 0.016666666666666666,
+                "pickRate": 0.014705882352941176,
                 "pickNumber": 1,
                 "brawlers": [
-                    "GROM",
-                    "LOU"
+                    "BROCK",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.014705882352941176,
+                "pickNumber": 1,
+                "brawlers": [
+                    "JESSIE",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.029411764705882353,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BELLE",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.014705882352941176,
+                "pickNumber": 1,
+                "brawlers": [
+                    "LOU",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "duoShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.029411764705882353,
+                "pickNumber": 2,
+                "brawlers": [
+                    "LEON",
+                    "STU"
                 ]
             }
         }
     ],
-    "battlesNumber": 60
+    "battlesNumber": 68
 }
