@@ -4,11 +4,11 @@ from datetime import datetime
 
 
 #Global variables
-player_limit=10
+player_limit=100
 limitNumberOfBattles=1
 logFileName="timeLog.txt"
 
-countries_list=["FR"]
+countries_list=["FR", "US", "IT", "CA", "DE", "GR", "CN", "FI", "ES", "BR", "IN"]
 token=READ_API_TOKEN("token.txt")
 
 start2 = time.time()
