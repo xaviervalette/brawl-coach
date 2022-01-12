@@ -1,0 +1,641 @@
+{
+    "brawler": [
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 495,
+                "winRate": 0.4843444227005871,
+                "pickRate": 0.12974482671067666,
+                "pickNumber": 1022,
+                "brawler": "BIBI"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 964,
+                "winRate": 0.5683962264150944,
+                "pickRate": 0.21531039735940077,
+                "pickNumber": 1696,
+                "brawler": "DARRYL"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 698,
+                "winRate": 0.4668896321070234,
+                "pickRate": 0.18979306842706614,
+                "pickNumber": 1495,
+                "brawler": "RICO"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 344,
+                "winRate": 0.5539452495974235,
+                "pickRate": 0.07883712073124285,
+                "pickNumber": 621,
+                "brawler": "GRIFF"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 389,
+                "winRate": 0.5091623036649214,
+                "pickRate": 0.09699124031991875,
+                "pickNumber": 764,
+                "brawler": "JESSIE"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 1037,
+                "winRate": 0.4983181162902451,
+                "pickRate": 0.26418687317506667,
+                "pickNumber": 2081,
+                "brawler": "TARA"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 1607,
+                "winRate": 0.6643241008681273,
+                "pickRate": 0.30709661038466424,
+                "pickNumber": 2419,
+                "brawler": "GROM"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 80,
+                "winRate": 0.5369127516778524,
+                "pickRate": 0.018915830900088866,
+                "pickNumber": 149,
+                "brawler": "SPROUT"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 575,
+                "winRate": 0.5368814192343604,
+                "pickRate": 0.13596546908721593,
+                "pickNumber": 1071,
+                "brawler": "BYRON"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 837,
+                "winRate": 0.5138121546961326,
+                "pickRate": 0.20680462104862257,
+                "pickNumber": 1629,
+                "brawler": "FRANK"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 234,
+                "winRate": 0.6,
+                "pickRate": 0.049511235241843345,
+                "pickNumber": 390,
+                "brawler": "LOLA"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 534,
+                "winRate": 0.494902687673772,
+                "pickRate": 0.1369810841690999,
+                "pickNumber": 1079,
+                "brawler": "EL PRIMO"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 354,
+                "winRate": 0.5213549337260678,
+                "pickRate": 0.08620033007490162,
+                "pickNumber": 679,
+                "brawler": "EMZ"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 2510,
+                "winRate": 0.4185426046356512,
+                "pickRate": 0.761330455757268,
+                "pickNumber": 5997,
+                "brawler": "MORTIS"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 279,
+                "winRate": 0.3695364238410596,
+                "pickRate": 0.09584867335279929,
+                "pickNumber": 755,
+                "brawler": "SHELLY"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 1371,
+                "winRate": 0.5347113884555382,
+                "pickRate": 0.3255046337438111,
+                "pickNumber": 2564,
+                "brawler": "BEA"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 1099,
+                "winRate": 0.4759636206149848,
+                "pickRate": 0.2931319030087597,
+                "pickNumber": 2309,
+                "brawler": "STU"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 313,
+                "winRate": 0.4162234042553192,
+                "pickRate": 0.0954678176970928,
+                "pickNumber": 752,
+                "brawler": "CROW"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 502,
+                "winRate": 0.4661095636025998,
+                "pickRate": 0.1367271803986289,
+                "pickNumber": 1077,
+                "brawler": "BULL"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 154,
+                "winRate": 0.4489795918367347,
+                "pickRate": 0.04354449663577504,
+                "pickNumber": 343,
+                "brawler": "GENE"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 128,
+                "winRate": 0.5663716814159292,
+                "pickRate": 0.02869112606322204,
+                "pickNumber": 226,
+                "brawler": "LOU"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 453,
+                "winRate": 0.4913232104121475,
+                "pickRate": 0.11704963818712708,
+                "pickNumber": 922,
+                "brawler": "SPIKE"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 902,
+                "winRate": 0.5388291517323776,
+                "pickRate": 0.21251745588421989,
+                "pickNumber": 1674,
+                "brawler": "SURGE"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 790,
+                "winRate": 0.6119287374128582,
+                "pickRate": 0.163894883839025,
+                "pickNumber": 1291,
+                "brawler": "BELLE"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 825,
+                "winRate": 0.5336351875808538,
+                "pickRate": 0.19626761457407643,
+                "pickNumber": 1546,
+                "brawler": "SANDY"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 798,
+                "winRate": 0.49812734082397003,
+                "pickRate": 0.2033769201472642,
+                "pickNumber": 1602,
+                "brawler": "BUZZ"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 141,
+                "winRate": 0.37105263157894736,
+                "pickRate": 0.04824171638948838,
+                "pickNumber": 380,
+                "brawler": "EDGAR"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 406,
+                "winRate": 0.5024752475247525,
+                "pickRate": 0.10257712327028057,
+                "pickNumber": 808,
+                "brawler": "JACKY"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 216,
+                "winRate": 0.43548387096774194,
+                "pickRate": 0.06296813507680589,
+                "pickNumber": 496,
+                "brawler": "BROCK"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 154,
+                "winRate": 0.5539568345323741,
+                "pickRate": 0.035292624095467816,
+                "pickNumber": 278,
+                "brawler": "ROSA"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 149,
+                "winRate": 0.5889328063241107,
+                "pickRate": 0.032118826964580426,
+                "pickNumber": 253,
+                "brawler": "ASH"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 262,
+                "winRate": 0.4620811287477954,
+                "pickRate": 0.07198171892852609,
+                "pickNumber": 567,
+                "brawler": "MAX"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 553,
+                "winRate": 0.6220472440944882,
+                "pickRate": 0.11286022597435572,
+                "pickNumber": 889,
+                "brawler": "MEG"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 171,
+                "winRate": 0.4634146341463415,
+                "pickRate": 0.04684524565189793,
+                "pickNumber": 369,
+                "brawler": "POCO"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 496,
+                "winRate": 0.3841982958946553,
+                "pickRate": 0.163894883839025,
+                "pickNumber": 1291,
+                "brawler": "COLT"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 398,
+                "winRate": 0.4069529652351738,
+                "pickRate": 0.12415894376031485,
+                "pickNumber": 978,
+                "brawler": "DYNAMIKE"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 215,
+                "winRate": 0.5168269230769231,
+                "pickRate": 0.05281198425796623,
+                "pickNumber": 416,
+                "brawler": "BARLEY"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 91,
+                "winRate": 0.5481927710843374,
+                "pickRate": 0.021074012949092294,
+                "pickNumber": 166,
+                "brawler": "SQUEAK"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 426,
+                "winRate": 0.5419847328244275,
+                "pickRate": 0.09978418179509965,
+                "pickNumber": 786,
+                "brawler": "LEON"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 357,
+                "winRate": 0.5392749244712991,
+                "pickRate": 0.08404214802589818,
+                "pickNumber": 662,
+                "brawler": "NITA"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 77,
+                "winRate": 0.4935897435897436,
+                "pickRate": 0.019804494096737336,
+                "pickNumber": 156,
+                "brawler": "AMBER"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 92,
+                "winRate": 0.575,
+                "pickRate": 0.02031230163767932,
+                "pickNumber": 160,
+                "brawler": "8-BIT"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 8,
+                "winRate": 0.27586206896551724,
+                "pickRate": 0.0036816046718293766,
+                "pickNumber": 29,
+                "brawler": "NANI"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 221,
+                "winRate": 0.47121535181236673,
+                "pickRate": 0.05954043417544751,
+                "pickNumber": 469,
+                "brawler": "PIPER"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 130,
+                "winRate": 0.5777777777777777,
+                "pickRate": 0.028564174177986543,
+                "pickNumber": 225,
+                "brawler": "CARL"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 100,
+                "winRate": 0.5208333333333334,
+                "pickRate": 0.024374761965215184,
+                "pickNumber": 192,
+                "brawler": "BO"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 95,
+                "winRate": 0.5757575757575758,
+                "pickRate": 0.020947061063856798,
+                "pickNumber": 165,
+                "brawler": "PAM"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 215,
+                "winRate": 0.44238683127572015,
+                "pickRate": 0.061698616224450935,
+                "pickNumber": 486,
+                "brawler": "GALE"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 45,
+                "winRate": 0.42857142857142855,
+                "pickRate": 0.013329947949727054,
+                "pickNumber": 105,
+                "brawler": "COLONEL RUFFS"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 81,
+                "winRate": 0.47093023255813954,
+                "pickRate": 0.021835724260505267,
+                "pickNumber": 172,
+                "brawler": "PENNY"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 76,
+                "winRate": 0.3438914027149321,
+                "pickRate": 0.02805636663704456,
+                "pickNumber": 221,
+                "brawler": "TICK"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 101,
+                "winRate": 0.44298245614035087,
+                "pickRate": 0.028945029833693032,
+                "pickNumber": 228,
+                "brawler": "COLETTE"
+            }
+        },
+        {
+            "mode": "brawlBall",
+            "map": "Pinball Dreams.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 35,
+                "winRate": 0.5303030303030303,
+                "pickRate": 0.008378824425542719,
+                "pickNumber": 66,
+                "brawler": "MR. P"
+            }
+        }
+    ],
+    "battlesNumber": 7877
+}

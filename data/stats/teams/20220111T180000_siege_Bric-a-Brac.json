@@ -1,0 +1,341 @@
+{
+    "teams": [
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 7,
+                "winRate": 1,
+                "pickRate": 0.1891891891891892,
+                "pickNumber": 7,
+                "brawlers": [
+                    "GALE",
+                    "GROM",
+                    "PAM"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.08108108108108109,
+                "pickNumber": 3,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "RICO",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.10810810810810811,
+                "pickNumber": 4,
+                "brawlers": [
+                    "COLT",
+                    "SPROUT",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.02702702702702703,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "PAM",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 1,
+                "pickRate": 0.13513513513513514,
+                "pickNumber": 5,
+                "brawlers": [
+                    "AMBER",
+                    "SPROUT",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.02702702702702703,
+                "pickNumber": 1,
+                "brawlers": [
+                    "AMBER",
+                    "PIPER",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.02702702702702703,
+                "pickNumber": 1,
+                "brawlers": [
+                    "JESSIE",
+                    "STU",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.05405405405405406,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GALE",
+                    "LEON",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.08108108108108109,
+                "pickNumber": 3,
+                "brawlers": [
+                    "AMBER",
+                    "GALE",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.05405405405405406,
+                "pickNumber": 2,
+                "brawlers": [
+                    "EMZ",
+                    "GROM",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.02702702702702703,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MORTIS",
+                    "RICO",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.02702702702702703,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "EDGAR",
+                    "EMZ"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.02702702702702703,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "FRANK",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.02702702702702703,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EL PRIMO",
+                    "GALE",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.02702702702702703,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "FRANK",
+                    "GALE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.02702702702702703,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "GRIFF",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.02702702702702703,
+                "pickNumber": 1,
+                "brawlers": [
+                    "JESSIE",
+                    "LOU",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.02702702702702703,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "JESSIE",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.02702702702702703,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLETTE",
+                    "DYNAMIKE",
+                    "EMZ"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.02702702702702703,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "COLT",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "siege",
+            "map": "Bric-a-Brac.json",
+            "startTime": "20220111T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.08108108108108109,
+                "pickNumber": 3,
+                "brawlers": [
+                    "GALE",
+                    "LOU",
+                    "SPROUT"
+                ]
+            }
+        }
+    ],
+    "battlesNumber": 37
+}

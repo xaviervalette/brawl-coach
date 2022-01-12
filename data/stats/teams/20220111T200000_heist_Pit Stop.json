@@ -1,0 +1,2101 @@
+{
+    "teams": [
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "JESSIE",
+                    "NITA",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.012422360248447204,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BIBI",
+                    "BULL",
+                    "DARRYL"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "COLONEL RUFFS",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BUZZ",
+                    "DYNAMIKE",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "RICO",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.4,
+                "pickRate": 0.015527950310559006,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BARLEY",
+                    "RICO",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "AMBER",
+                    "BULL",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "DYNAMIKE",
+                    "EMZ"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "EDGAR",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.009316770186335404,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BARLEY",
+                    "BULL",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "DARRYL",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.009316770186335404,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BULL",
+                    "DARRYL",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "NITA",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 1,
+                "pickRate": 0.012422360248447204,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BROCK",
+                    "EL PRIMO",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "DYNAMIKE",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "DYNAMIKE",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 7,
+                "winRate": 0.7777777777777778,
+                "pickRate": 0.027950310559006212,
+                "pickNumber": 9,
+                "brawlers": [
+                    "BULL",
+                    "EDGAR",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 1,
+                "pickRate": 0.012422360248447204,
+                "pickNumber": 4,
+                "brawlers": [
+                    "DARRYL",
+                    "SPIKE",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.009316770186335404,
+                "pickNumber": 3,
+                "brawlers": [
+                    "COLETTE",
+                    "COLT",
+                    "EMZ"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "COLT",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.012422360248447204,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BIBI",
+                    "COLT",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 0.8333333333333334,
+                "pickRate": 0.018633540372670808,
+                "pickNumber": 6,
+                "brawlers": [
+                    "EMZ",
+                    "RICO",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 12,
+                "winRate": 0.375,
+                "pickRate": 0.09937888198757763,
+                "pickNumber": 32,
+                "brawlers": [
+                    "BULL",
+                    "DARRYL",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "EDGAR",
+                    "EMZ"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.012422360248447204,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BARLEY",
+                    "BULL",
+                    "DARRYL"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DARRYL",
+                    "EDGAR",
+                    "GALE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "EMZ",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BIBI",
+                    "COLT",
+                    "DARRYL"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "DARRYL",
+                    "EMZ"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DARRYL",
+                    "EDGAR",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.42857142857142855,
+                "pickRate": 0.021739130434782608,
+                "pickNumber": 7,
+                "brawlers": [
+                    "BULL",
+                    "EDGAR",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.012422360248447204,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BARLEY",
+                    "BIBI",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "RICO",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "DYNAMIKE",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 14,
+                "winRate": 0.7368421052631579,
+                "pickRate": 0.059006211180124224,
+                "pickNumber": 19,
+                "brawlers": [
+                    "BULL",
+                    "DARRYL",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "SPIKE",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "EL PRIMO",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.012422360248447204,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BIBI",
+                    "BULL",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 6,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.027950310559006212,
+                "pickNumber": 9,
+                "brawlers": [
+                    "BUZZ",
+                    "COLT",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 18,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.08385093167701864,
+                "pickNumber": 27,
+                "brawlers": [
+                    "BULL",
+                    "EDGAR",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "FRANK",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 7,
+                "winRate": 0.7,
+                "pickRate": 0.031055900621118012,
+                "pickNumber": 10,
+                "brawlers": [
+                    "BULL",
+                    "COLT",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BULL",
+                    "DARRYL",
+                    "PAM"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "BULL",
+                    "BUZZ"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.018633540372670808,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BEA",
+                    "COLT",
+                    "GRIFF"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.012422360248447204,
+                "pickNumber": 4,
+                "brawlers": [
+                    "COLT",
+                    "EDGAR",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BEA",
+                    "DYNAMIKE",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "BULL",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EL PRIMO",
+                    "NITA",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.009316770186335404,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BULL",
+                    "EDGAR",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.009316770186335404,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BULL",
+                    "DYNAMIKE",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BULL",
+                    "BUZZ",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "SPIKE",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 6,
+                "winRate": 1,
+                "pickRate": 0.018633540372670808,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BEA",
+                    "COLT",
+                    "EMZ"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BIBI",
+                    "BULL",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BULL",
+                    "CROW",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BIBI",
+                    "FRANK",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.8,
+                "pickRate": 0.015527950310559006,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BULL",
+                    "EMZ",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 11,
+                "winRate": 0.6111111111111112,
+                "pickRate": 0.055900621118012424,
+                "pickNumber": 18,
+                "brawlers": [
+                    "BULL",
+                    "COLT",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BUZZ",
+                    "DARRYL",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "COLT",
+                    "DARRYL"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "COLONEL RUFFS",
+                    "COLT"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "DYNAMIKE",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DARRYL",
+                    "EDGAR",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "COLT",
+                    "EMZ",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "RICO",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "BULL",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BIBI",
+                    "BULL",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.1111111111111111,
+                "pickRate": 0.027950310559006212,
+                "pickNumber": 9,
+                "brawlers": [
+                    "BIBI",
+                    "BULL",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "EMZ",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BULL",
+                    "COLT",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DARRYL",
+                    "EDGAR",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "EL PRIMO",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 1,
+                "pickRate": 0.012422360248447204,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BULL",
+                    "BUZZ",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 14,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.06521739130434782,
+                "pickNumber": 21,
+                "brawlers": [
+                    "BEA",
+                    "COLETTE",
+                    "COLT"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "EDGAR",
+                    "JESSIE",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.009316770186335404,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BULL",
+                    "EDGAR",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "EDGAR",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 10,
+                "winRate": 1,
+                "pickRate": 0.031055900621118012,
+                "pickNumber": 10,
+                "brawlers": [
+                    "BIBI",
+                    "DARRYL",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "DARRYL",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 8,
+                "winRate": 1,
+                "pickRate": 0.024844720496894408,
+                "pickNumber": 8,
+                "brawlers": [
+                    "BUZZ",
+                    "EL PRIMO",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.009316770186335404,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BULL",
+                    "SPIKE",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "NITA",
+                    "RICO",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.8,
+                "pickRate": 0.015527950310559006,
+                "pickNumber": 5,
+                "brawlers": [
+                    "DARRYL",
+                    "EDGAR",
+                    "EMZ"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BULL",
+                    "COLETTE",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "EDGAR",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 8,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.037267080745341616,
+                "pickNumber": 12,
+                "brawlers": [
+                    "BULL",
+                    "EDGAR",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.012422360248447204,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "CARL"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 6,
+                "winRate": 0.8571428571428571,
+                "pickRate": 0.021739130434782608,
+                "pickNumber": 7,
+                "brawlers": [
+                    "BUZZ",
+                    "EDGAR",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "COLETTE",
+                    "EDGAR",
+                    "EMZ"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DARRYL",
+                    "EMZ",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "COLONEL RUFFS",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "BULL",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "EL PRIMO",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "DYNAMIKE",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DARRYL",
+                    "NITA",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "JESSIE",
+                    "NITA",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.012422360248447204,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BIBI",
+                    "COLT",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 1,
+                "pickRate": 0.015527950310559006,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BARLEY",
+                    "DARRYL",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "EDGAR",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.012422360248447204,
+                "pickNumber": 4,
+                "brawlers": [
+                    "EDGAR",
+                    "RICO",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.14285714285714285,
+                "pickRate": 0.021739130434782608,
+                "pickNumber": 7,
+                "brawlers": [
+                    "BULL",
+                    "EL PRIMO",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "RICO",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "BROCK",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "NITA",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.009316770186335404,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BEA",
+                    "COLT",
+                    "DARRYL"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLETTE",
+                    "DARRYL",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.009316770186335404,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BULL",
+                    "COLT",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EDGAR",
+                    "EMZ",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "COLETTE",
+                    "DARRYL"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DARRYL",
+                    "EL PRIMO",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 10,
+                "winRate": 1,
+                "pickRate": 0.031055900621118012,
+                "pickNumber": 10,
+                "brawlers": [
+                    "EL PRIMO",
+                    "RICO",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.009316770186335404,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "EDGAR",
+                    "EL PRIMO",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "EDGAR",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "COLT",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "EDGAR",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "COLT",
+                    "DARRYL",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "NITA",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.012422360248447204,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BIBI",
+                    "DARRYL",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.009316770186335404,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BULL",
+                    "COLT",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.8,
+                "pickRate": 0.015527950310559006,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BULL",
+                    "BUZZ",
+                    "DARRYL"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "DARRYL",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DARRYL",
+                    "DYNAMIKE",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "DYNAMIKE",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "COLT",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.009316770186335404,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BIBI",
+                    "RICO",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003105590062111801,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "BUZZ",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Pit Stop.json",
+            "startTime": "20220111T200000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006211180124223602,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "EL PRIMO",
+                    "SPIKE"
+                ]
+            }
+        }
+    ],
+    "battlesNumber": 322
+}

@@ -1,0 +1,461 @@
+{
+    "brawler": [
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 25,
+                "winRate": 0.6410256410256411,
+                "pickRate": 0.3482142857142857,
+                "pickNumber": 39,
+                "brawler": "GROM"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 36,
+                "winRate": 0.4931506849315068,
+                "pickRate": 0.6517857142857143,
+                "pickNumber": 73,
+                "brawler": "MORTIS"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 57,
+                "winRate": 0.5229357798165137,
+                "pickRate": 0.9732142857142857,
+                "pickNumber": 109,
+                "brawler": "PIPER"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 31,
+                "winRate": 0.5961538461538461,
+                "pickRate": 0.4642857142857143,
+                "pickNumber": 52,
+                "brawler": "BELLE"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 41,
+                "winRate": 0.5540540540540541,
+                "pickRate": 0.6607142857142857,
+                "pickNumber": 74,
+                "brawler": "TICK"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 27,
+                "winRate": 0.574468085106383,
+                "pickRate": 0.41964285714285715,
+                "pickNumber": 47,
+                "brawler": "LEON"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 34,
+                "winRate": 0.5151515151515151,
+                "pickRate": 0.5892857142857143,
+                "pickNumber": 66,
+                "brawler": "NANI"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.375,
+                "pickRate": 0.07142857142857142,
+                "pickNumber": 8,
+                "brawler": "PAM"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 7,
+                "winRate": 0.4117647058823529,
+                "pickRate": 0.15178571428571427,
+                "pickNumber": 17,
+                "brawler": "SPIKE"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 10,
+                "winRate": 0.45454545454545453,
+                "pickRate": 0.19642857142857142,
+                "pickNumber": 22,
+                "brawler": "BYRON"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.05357142857142857,
+                "pickNumber": 6,
+                "brawler": "JESSIE"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 13,
+                "winRate": 0.52,
+                "pickRate": 0.22321428571428573,
+                "pickNumber": 25,
+                "brawler": "BEA"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 15,
+                "winRate": 0.40540540540540543,
+                "pickRate": 0.33035714285714285,
+                "pickNumber": 37,
+                "brawler": "BROCK"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.03571428571428571,
+                "pickNumber": 4,
+                "brawler": "AMBER"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 4,
+                "winRate": 0.4,
+                "pickRate": 0.08928571428571429,
+                "pickNumber": 10,
+                "brawler": "COLT"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.14285714285714285,
+                "pickRate": 0.0625,
+                "pickNumber": 7,
+                "brawler": "BO"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.2727272727272727,
+                "pickRate": 0.09821428571428571,
+                "pickNumber": 11,
+                "brawler": "MAX"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 8,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.10714285714285714,
+                "pickNumber": 12,
+                "brawler": "GENE"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.4,
+                "pickRate": 0.044642857142857144,
+                "pickNumber": 5,
+                "brawler": "PENNY"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.017857142857142856,
+                "pickNumber": 2,
+                "brawler": "MR. P"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.008928571428571428,
+                "pickNumber": 1,
+                "brawler": "POCO"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.008928571428571428,
+                "pickNumber": 1,
+                "brawler": "BUZZ"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.008928571428571428,
+                "pickNumber": 1,
+                "brawler": "NITA"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.008928571428571428,
+                "pickNumber": 1,
+                "brawler": "GALE"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.008928571428571428,
+                "pickNumber": 1,
+                "brawler": "SHELLY"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.5,
+                "pickRate": 0.05357142857142857,
+                "pickNumber": 6,
+                "brawler": "CROW"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.017857142857142856,
+                "pickNumber": 2,
+                "brawler": "SURGE"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.5,
+                "pickRate": 0.05357142857142857,
+                "pickNumber": 6,
+                "brawler": "SQUEAK"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.4,
+                "pickRate": 0.044642857142857144,
+                "pickNumber": 5,
+                "brawler": "STU"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.008928571428571428,
+                "pickNumber": 1,
+                "brawler": "RICO"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.017857142857142856,
+                "pickNumber": 2,
+                "brawler": "ASH"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.026785714285714284,
+                "pickNumber": 3,
+                "brawler": "8-BIT"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.026785714285714284,
+                "pickNumber": 3,
+                "brawler": "BARLEY"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.026785714285714284,
+                "pickNumber": 3,
+                "brawler": "SPROUT"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.5,
+                "pickRate": 0.05357142857142857,
+                "pickNumber": 6,
+                "brawler": "COLONEL RUFFS"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.017857142857142856,
+                "pickNumber": 2,
+                "brawler": "DYNAMIKE"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.008928571428571428,
+                "pickNumber": 1,
+                "brawler": "CARL"
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Hideout.json",
+            "startTime": "20220112T020000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.008928571428571428,
+                "pickNumber": 1,
+                "brawler": "LOLA"
+            }
+        }
+    ],
+    "battlesNumber": 112
+}

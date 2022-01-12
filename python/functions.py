@@ -113,8 +113,7 @@ def GET_BATTLELOGS(token, ranks_list):
             threads.append(executor.submit(GET_BATTELOGS_API_CALLS, country, ranks_list, battlelogs, token))
             
         for task in as_completed(threads):
-            #print("API CALLS FINISH") 
-            print("") 
+            done=True 
         battlelogs_list[country]=battlelogs
     return battlelogs_list
 
@@ -398,6 +397,12 @@ def STORE_BEST_SOLO(dirName):
                     json.dump(winTable, fp, indent=4)
     
 
+def getListOfFiles(dirName):
+
+    for root, subdirectories, files in os.walk(dirName):
+        for file in files:
+            print(os.path.join(root, file))
+
 def STORE_BATTLES(battlelogsList, limitNumberOfBattles):
     files2save={}
     go=False
@@ -419,14 +424,13 @@ def STORE_BATTLES(battlelogsList, limitNumberOfBattles):
             if "items" in battlelogsList[pays][players]:
                 numberOfBattles=0
                 for battles in battlelogsList[pays][players]["items"]:
-                    if numberOfBattles <limitNumberOfBattles:
+                    if numberOfBattles < limitNumberOfBattles:
                         numberOfBattles=numberOfBattles+1
                         total=total+1
-                        #print(battles)
                         b = Battle(battles)
                         go = False
 
-                        if b.mode=="gemGrab" or b.mode=="brawlBall" or b.mode=="heist" or b.mode=="bounty" or b.mode=="hotZone" or b.mode=="siege":
+                        if b.mode=="gemGrab" or b.mode=="brawlBall" or b.mode=="heist" or b.mode=="bounty" or b.mode=="hotZone" or b.mode=="siege" or b.mode=="knockout":
                             if not b.noDuration and not b.noResult and not b.noStarPlayer and not b.noType and not b.noTeams and b.typee!= "friendly":
                                 go=True
                         elif b.mode=="soloShowdown" or b.mode=="duoShowdown":
@@ -460,10 +464,6 @@ def STORE_BATTLES(battlelogsList, limitNumberOfBattles):
                                             data = [data]
                                         files2save[mapFile]=data
                                     alreadyExist=False
-                                    for batailles in files2save[mapFile]:
-                                        savedB=Battle(batailles)
-                                        if savedB.is_equal(b):
-                                            alreadyExist=True
 
                                     if not alreadyExist:
                                         # append new item to data lit
@@ -496,7 +496,6 @@ def STORE_BATTLES(battlelogsList, limitNumberOfBattles):
 
                    
             listNumOfBattles.append(numberOfBattles)
-    print("--------------------------------------------------------")
     total= notInterestingBattle+alreadyStoredBattle+newBattle+battleNotInEvent+friendlyBattles+battleWithNoDuration
     print("New battles stored: "+ str(newBattle)+"/"+str(total))
     print("Battle not in curent event: "+ str(battleNotInEvent)+"/"+str(total))
@@ -504,21 +503,16 @@ def STORE_BATTLES(battlelogsList, limitNumberOfBattles):
     print("Not interesting battles: "+str(notInterestingBattle)+"/"+str(total))
     print("Friendly battles: ", str(friendlyBattles)+"/"+str(total))
     print("Battle with no duration: ",  str(battleWithNoDuration)+"/"+str(total))
-    print("--------------------------------------------------------")
-    print("total: ", total)
-    print("min number of battle per battle log: ", min(listNumOfBattles))
-    print("max number of battle per battle log: ", max(listNumOfBattles))
-    print("mean number of battle per battle log: ", sum(listNumOfBattles)/len(listNumOfBattles))
+
     for files in files2save:
         with open(files, 'w') as outfile:
-            json.dump(files2save[files], outfile, indent=4)
+            json.dump(remove_dupe_dicts(files2save[files]), outfile, indent=4)
     return newBattle, alreadyStoredBattle, total
 
 '''
     For the given path, get the List of all files in the directory tree 
 '''
-def getListOfFiles(dirName):
-
-    for root, subdirectories, files in os.walk(dirName):
-        for file in files:
-            print(os.path.join(root, file))
+def remove_dupe_dicts(l): 
+    list_of_strings = [json.dumps(d, sort_keys = True) for d in l] 
+    list_of_strings = set(list_of_strings) 
+    return [json.loads(s) for s in list_of_strings]

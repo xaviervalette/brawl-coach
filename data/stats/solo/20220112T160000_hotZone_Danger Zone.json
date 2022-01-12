@@ -1,0 +1,569 @@
+{
+    "brawler": [
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 34,
+                "winRate": 0.5862068965517241,
+                "pickRate": 0.35802469135802467,
+                "pickNumber": 58,
+                "brawler": "BEA"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 56,
+                "winRate": 0.5137614678899083,
+                "pickRate": 0.6728395061728395,
+                "pickNumber": 109,
+                "brawler": "EMZ"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 44,
+                "winRate": 0.6470588235294118,
+                "pickRate": 0.41975308641975306,
+                "pickNumber": 68,
+                "brawler": "PAM"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 13,
+                "winRate": 0.5416666666666666,
+                "pickRate": 0.14814814814814814,
+                "pickNumber": 24,
+                "brawler": "BO"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 29,
+                "winRate": 0.6444444444444445,
+                "pickRate": 0.2777777777777778,
+                "pickNumber": 45,
+                "brawler": "GALE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 26,
+                "winRate": 0.6842105263157895,
+                "pickRate": 0.2345679012345679,
+                "pickNumber": 38,
+                "brawler": "GRIFF"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 9,
+                "winRate": 0.2727272727272727,
+                "pickRate": 0.2037037037037037,
+                "pickNumber": 33,
+                "brawler": "JACKY"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 5,
+                "winRate": 0.25,
+                "pickRate": 0.12345679012345678,
+                "pickNumber": 20,
+                "brawler": "POCO"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 9,
+                "winRate": 0.2727272727272727,
+                "pickRate": 0.2037037037037037,
+                "pickNumber": 33,
+                "brawler": "FRANK"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.2857142857142857,
+                "pickRate": 0.043209876543209874,
+                "pickNumber": 7,
+                "brawler": "MORTIS"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.018518518518518517,
+                "pickNumber": 3,
+                "brawler": "PIPER"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 16,
+                "winRate": 0.5925925925925926,
+                "pickRate": 0.16666666666666666,
+                "pickNumber": 27,
+                "brawler": "AMBER"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 14,
+                "winRate": 0.3888888888888889,
+                "pickRate": 0.2222222222222222,
+                "pickNumber": 36,
+                "brawler": "JESSIE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 10,
+                "winRate": 0.7142857142857143,
+                "pickRate": 0.08641975308641975,
+                "pickNumber": 14,
+                "brawler": "BUZZ"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 27,
+                "winRate": 0.5094339622641509,
+                "pickRate": 0.3271604938271605,
+                "pickNumber": 53,
+                "brawler": "SPIKE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.5,
+                "pickRate": 0.037037037037037035,
+                "pickNumber": 6,
+                "brawler": "GROM"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.375,
+                "pickRate": 0.04938271604938271,
+                "pickNumber": 8,
+                "brawler": "EDGAR"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 8,
+                "winRate": 0.5,
+                "pickRate": 0.09876543209876543,
+                "pickNumber": 16,
+                "brawler": "ROSA"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 21,
+                "winRate": 0.6363636363636364,
+                "pickRate": 0.2037037037037037,
+                "pickNumber": 33,
+                "brawler": "NITA"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.2727272727272727,
+                "pickRate": 0.06790123456790123,
+                "pickNumber": 11,
+                "brawler": "BULL"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 15,
+                "winRate": 0.625,
+                "pickRate": 0.14814814814814814,
+                "pickNumber": 24,
+                "brawler": "COLT"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.07407407407407407,
+                "pickNumber": 12,
+                "brawler": "LEON"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 7,
+                "winRate": 0.4375,
+                "pickRate": 0.09876543209876543,
+                "pickNumber": 16,
+                "brawler": "CROW"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 13,
+                "winRate": 0.38235294117647056,
+                "pickRate": 0.20987654320987653,
+                "pickNumber": 34,
+                "brawler": "SHELLY"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.4,
+                "pickRate": 0.030864197530864196,
+                "pickNumber": 5,
+                "brawler": "BIBI"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 4,
+                "winRate": 0.2857142857142857,
+                "pickRate": 0.08641975308641975,
+                "pickNumber": 14,
+                "brawler": "PENNY"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.2,
+                "pickRate": 0.030864197530864196,
+                "pickNumber": 5,
+                "brawler": "BELLE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 30,
+                "winRate": 0.8571428571428571,
+                "pickRate": 0.21604938271604937,
+                "pickNumber": 35,
+                "brawler": "LOLA"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.18181818181818182,
+                "pickRate": 0.06790123456790123,
+                "pickNumber": 11,
+                "brawler": "SURGE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 4,
+                "winRate": 0.4444444444444444,
+                "pickRate": 0.05555555555555555,
+                "pickNumber": 9,
+                "brawler": "DARRYL"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.037037037037037035,
+                "pickNumber": 6,
+                "brawler": "COLETTE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 21,
+                "winRate": 0.7241379310344828,
+                "pickRate": 0.17901234567901234,
+                "pickNumber": 29,
+                "brawler": "STU"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 4,
+                "winRate": 0.5714285714285714,
+                "pickRate": 0.043209876543209874,
+                "pickNumber": 7,
+                "brawler": "SANDY"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.006172839506172839,
+                "pickNumber": 1,
+                "brawler": "COLONEL RUFFS"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 4,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.07407407407407407,
+                "pickNumber": 12,
+                "brawler": "MEG"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 27,
+                "winRate": 0.5094339622641509,
+                "pickRate": 0.3271604938271605,
+                "pickNumber": 53,
+                "brawler": "TARA"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.037037037037037035,
+                "pickNumber": 6,
+                "brawler": "EL PRIMO"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.09090909090909091,
+                "pickRate": 0.06790123456790123,
+                "pickNumber": 11,
+                "brawler": "TICK"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 8,
+                "winRate": 0.6153846153846154,
+                "pickRate": 0.08024691358024691,
+                "pickNumber": 13,
+                "brawler": "BYRON"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.2222222222222222,
+                "pickRate": 0.05555555555555555,
+                "pickNumber": 9,
+                "brawler": "LOU"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.024691358024691357,
+                "pickNumber": 4,
+                "brawler": "8-BIT"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.2,
+                "pickRate": 0.030864197530864196,
+                "pickNumber": 5,
+                "brawler": "DYNAMIKE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.006172839506172839,
+                "pickNumber": 1,
+                "brawler": "BROCK"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.006172839506172839,
+                "pickNumber": 1,
+                "brawler": "RICO"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.012345679012345678,
+                "pickNumber": 2,
+                "brawler": "ASH"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.012345679012345678,
+                "pickNumber": 2,
+                "brawler": "CARL"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Danger Zone.json",
+            "startTime": "20220112T160000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.018518518518518517,
+                "pickNumber": 3,
+                "brawler": "MR. P"
+            }
+        }
+    ],
+    "battlesNumber": 162
+}

@@ -1,0 +1,5157 @@
+{
+    "teams": [
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "LEON",
+                    "MORTIS",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.36363636363636365,
+                "pickRate": 0.01877133105802048,
+                "pickNumber": 11,
+                "brawlers": [
+                    "GROM",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 50,
+                "winRate": 0.9615384615384616,
+                "pickRate": 0.08873720136518772,
+                "pickNumber": 52,
+                "brawlers": [
+                    "PENNY",
+                    "SPIKE",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "MORTIS",
+                    "SURGE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 17,
+                "winRate": 0.8095238095238095,
+                "pickRate": 0.03583617747440273,
+                "pickNumber": 21,
+                "brawlers": [
+                    "CROW",
+                    "GROM",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "MORTIS",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.006825938566552901,
+                "pickNumber": 4,
+                "brawlers": [
+                    "GROM",
+                    "RICO",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.125,
+                "pickRate": 0.013651877133105802,
+                "pickNumber": 8,
+                "brawlers": [
+                    "MORTIS",
+                    "RICO",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.6,
+                "pickRate": 0.008532423208191127,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BULL",
+                    "COLONEL RUFFS",
+                    "GENE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "ASH",
+                    "MAX",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "MORTIS",
+                    "NITA",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BUZZ",
+                    "STU",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.8,
+                "pickRate": 0.008532423208191127,
+                "pickNumber": 5,
+                "brawlers": [
+                    "PIPER",
+                    "RICO",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "MORTIS",
+                    "RICO",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BO",
+                    "BYRON",
+                    "MR. P"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EDGAR",
+                    "EMZ",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 16,
+                "winRate": 0.6956521739130435,
+                "pickRate": 0.03924914675767918,
+                "pickNumber": 23,
+                "brawlers": [
+                    "8-BIT",
+                    "ROSA",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BYRON",
+                    "RICO",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "JESSIE",
+                    "PENNY",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 7,
+                "winRate": 0.6363636363636364,
+                "pickRate": 0.01877133105802048,
+                "pickNumber": 11,
+                "brawlers": [
+                    "GENE",
+                    "MORTIS",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "RICO",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 10,
+                "winRate": 0.8333333333333334,
+                "pickRate": 0.020477815699658702,
+                "pickNumber": 12,
+                "brawlers": [
+                    "BROCK",
+                    "SPIKE",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.4,
+                "pickRate": 0.008532423208191127,
+                "pickNumber": 5,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "MORTIS",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 28,
+                "winRate": 1,
+                "pickRate": 0.04778156996587031,
+                "pickNumber": 28,
+                "brawlers": [
+                    "GENE",
+                    "LEON",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.8,
+                "pickRate": 0.008532423208191127,
+                "pickNumber": 5,
+                "brawlers": [
+                    "MEG",
+                    "RICO",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLONEL RUFFS",
+                    "GENE",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "PAM",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EMZ",
+                    "PIPER",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BIBI",
+                    "MORTIS",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.006825938566552901,
+                "pickNumber": 4,
+                "brawlers": [
+                    "LEON",
+                    "PAM",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "GROM",
+                    "MAX"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "PENNY",
+                    "SQUEAK",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 7,
+                "winRate": 0.5,
+                "pickRate": 0.023890784982935155,
+                "pickNumber": 14,
+                "brawlers": [
+                    "GENE",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "MORTIS",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GENE",
+                    "MORTIS",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MORTIS",
+                    "STU",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "MORTIS",
+                    "SQUEAK",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "GALE",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "ROSA",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "JESSIE",
+                    "MORTIS",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "8-BIT",
+                    "MORTIS",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "EMZ",
+                    "MORTIS",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "JESSIE",
+                    "SURGE",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "GROM",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "LOLA",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.006825938566552901,
+                "pickNumber": 4,
+                "brawlers": [
+                    "MORTIS",
+                    "ROSA",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BUZZ",
+                    "SPROUT",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "GENE",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "MORTIS",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 1,
+                "pickRate": 0.006825938566552901,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BELLE",
+                    "RICO",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "MORTIS",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.010238907849829351,
+                "pickNumber": 6,
+                "brawlers": [
+                    "GROM",
+                    "RICO",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EDGAR",
+                    "GROM",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "BYRON",
+                    "LOLA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BUZZ",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EL PRIMO",
+                    "MORTIS",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "MEG",
+                    "ROSA",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 7,
+                "winRate": 1,
+                "pickRate": 0.011945392491467578,
+                "pickNumber": 7,
+                "brawlers": [
+                    "GROM",
+                    "SURGE",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "ASH",
+                    "MAX",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "GENE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EDGAR",
+                    "GROM",
+                    "MAX"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "COLT",
+                    "PAM",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "PIPER",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "MAX",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BARLEY",
+                    "RICO",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 1,
+                "pickRate": 0.006825938566552901,
+                "pickNumber": 4,
+                "brawlers": [
+                    "8-BIT",
+                    "LEON",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EDGAR",
+                    "RICO",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BUZZ",
+                    "GROM",
+                    "MAX"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "8-BIT",
+                    "LEON",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 0.8333333333333334,
+                "pickRate": 0.010238907849829351,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BIBI",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "FRANK",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BIBI",
+                    "EDGAR",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 1,
+                "pickRate": 0.006825938566552901,
+                "pickNumber": 4,
+                "brawlers": [
+                    "GROM",
+                    "MORTIS",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.42857142857142855,
+                "pickRate": 0.011945392491467578,
+                "pickNumber": 7,
+                "brawlers": [
+                    "MORTIS",
+                    "PENNY",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.5714285714285714,
+                "pickRate": 0.011945392491467578,
+                "pickNumber": 7,
+                "brawlers": [
+                    "MORTIS",
+                    "RICO",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "RICO",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "PENNY",
+                    "POCO",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.6,
+                "pickRate": 0.008532423208191127,
+                "pickNumber": 5,
+                "brawlers": [
+                    "COLT",
+                    "GENE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 1,
+                "pickRate": 0.006825938566552901,
+                "pickNumber": 4,
+                "brawlers": [
+                    "GROM",
+                    "PIPER",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "DYNAMIKE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "JESSIE",
+                    "MORTIS",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "FRANK",
+                    "RICO",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 8,
+                "winRate": 1,
+                "pickRate": 0.013651877133105802,
+                "pickNumber": 8,
+                "brawlers": [
+                    "GENE",
+                    "GROM",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EMZ",
+                    "GROM",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CROW",
+                    "MORTIS",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.006825938566552901,
+                "pickNumber": 4,
+                "brawlers": [
+                    "JESSIE",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "JESSIE",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "8-BIT",
+                    "CARL",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "PAM",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "GROM",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EDGAR",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BELLE",
+                    "MEG",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.4,
+                "pickRate": 0.008532423208191127,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BELLE",
+                    "SANDY",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "RICO",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "FRANK",
+                    "JESSIE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "ASH",
+                    "JESSIE",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "EDGAR",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "MAX",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "RICO",
+                    "TARA",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MAX",
+                    "PENNY",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BYRON",
+                    "RICO",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "EDGAR",
+                    "MAX",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.4,
+                "pickRate": 0.008532423208191127,
+                "pickNumber": 5,
+                "brawlers": [
+                    "MORTIS",
+                    "PENNY",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.8,
+                "pickRate": 0.008532423208191127,
+                "pickNumber": 5,
+                "brawlers": [
+                    "GROM",
+                    "PENNY",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "BROCK",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "MORTIS",
+                    "RICO",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "CROW",
+                    "MR. P",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "MORTIS",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "MAX",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CROW",
+                    "GROM",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "LEON",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GRIFF",
+                    "RICO",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "STU",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "RICO",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.5714285714285714,
+                "pickRate": 0.011945392491467578,
+                "pickNumber": 7,
+                "brawlers": [
+                    "CROW",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BELLE",
+                    "RICO",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "EDGAR",
+                    "MORTIS",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 5,
+                "winRate": 0.7142857142857143,
+                "pickRate": 0.011945392491467578,
+                "pickNumber": 7,
+                "brawlers": [
+                    "BUZZ",
+                    "GROM",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "NITA",
+                    "RICO",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.006825938566552901,
+                "pickNumber": 4,
+                "brawlers": [
+                    "GENE",
+                    "SANDY",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "MEG",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.5,
+                "pickRate": 0.010238907849829351,
+                "pickNumber": 6,
+                "brawlers": [
+                    "COLT",
+                    "GENE",
+                    "LEON"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BYRON",
+                    "MR. P",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CROW",
+                    "SPIKE",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "EDGAR",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.006825938566552901,
+                "pickNumber": 4,
+                "brawlers": [
+                    "MORTIS",
+                    "RICO",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "GALE",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "8-BIT",
+                    "BUZZ",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "LEON",
+                    "MORTIS",
+                    "ROSA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "COLT",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.006825938566552901,
+                "pickNumber": 4,
+                "brawlers": [
+                    "COLT",
+                    "GROM",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "BYRON",
+                    "LOLA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GALE",
+                    "RICO",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.006825938566552901,
+                "pickNumber": 4,
+                "brawlers": [
+                    "CROW",
+                    "MORTIS",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "EMZ",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "PIPER",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "SQUEAK",
+                    "TARA",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "PIPER",
+                    "SPIKE",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BYRON",
+                    "CROW",
+                    "MR. P"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "LEON",
+                    "MORTIS",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "JESSIE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EMZ",
+                    "RICO",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "MORTIS",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "GROM",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "AMBER",
+                    "MORTIS",
+                    "MR. P"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BIBI",
+                    "GROM",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "GROM",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "GROM",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "LEON",
+                    "MORTIS",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "ASH",
+                    "BELLE",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BYRON",
+                    "GROM",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "MORTIS",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GENE",
+                    "RICO",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.006825938566552901,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BO",
+                    "MORTIS",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "JACKY",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "EDGAR",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "ASH",
+                    "CROW",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MORTIS",
+                    "PENNY",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.006825938566552901,
+                "pickNumber": 4,
+                "brawlers": [
+                    "JESSIE",
+                    "SANDY",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "DARRYL",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "CROW",
+                    "PAM",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "CROW",
+                    "GROM",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "MAX",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "MAX",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "EMZ",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "8-BIT",
+                    "EDGAR",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MORTIS",
+                    "POCO",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "ASH",
+                    "JESSIE",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MEG",
+                    "PIPER",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CROW",
+                    "EL PRIMO",
+                    "ROSA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "AMBER",
+                    "MAX",
+                    "MR. P"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "LOU",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CROW",
+                    "MORTIS",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "JESSIE",
+                    "POCO",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "PAM",
+                    "RICO",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "PIPER",
+                    "SANDY",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "EDGAR",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "PAM",
+                    "RICO",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "MORTIS",
+                    "RICO",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BARLEY",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CROW",
+                    "PIPER",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "EDGAR",
+                    "EMZ"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "8-BIT",
+                    "FRANK",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BYRON",
+                    "GROM",
+                    "LOLA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EDGAR",
+                    "EL PRIMO",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "CROW",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "MORTIS",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EMZ",
+                    "MAX",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "EL PRIMO",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "NITA",
+                    "STU",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GROM",
+                    "RICO",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "RICO",
+                    "ROSA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "RICO",
+                    "SPIKE",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "JESSIE",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "COLETTE",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "AMBER",
+                    "CROW",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "FRANK",
+                    "SQUEAK",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "DARRYL",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MORTIS",
+                    "SPIKE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "PIPER",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.5714285714285714,
+                "pickRate": 0.011945392491467578,
+                "pickNumber": 7,
+                "brawlers": [
+                    "8-BIT",
+                    "GROM",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "MORTIS",
+                    "PENNY",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "EDGAR",
+                    "MORTIS",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "MORTIS",
+                    "ROSA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "COLT",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GALE",
+                    "LEON",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "MAX",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.006825938566552901,
+                "pickNumber": 4,
+                "brawlers": [
+                    "MORTIS",
+                    "TARA",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GRIFF",
+                    "RICO",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "8-BIT",
+                    "RICO",
+                    "ROSA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "PENNY",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "LEON",
+                    "PAM",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "PAM",
+                    "SPROUT",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "GROM",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BARLEY",
+                    "BIBI",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "EDGAR",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "GROM",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "MORTIS",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.006825938566552901,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BROCK",
+                    "BUZZ",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MORTIS",
+                    "SPROUT",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "MORTIS",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "GROM",
+                    "LEON"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "EDGAR",
+                    "MR. P"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EDGAR",
+                    "LOLA",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BYRON",
+                    "DYNAMIKE",
+                    "MR. P"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "CARL",
+                    "MORTIS",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "COLT",
+                    "EL PRIMO",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "CROW",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "PENNY",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "MAX",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "STU",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "LOU",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "LEON",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "GRIFF",
+                    "LEON"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "EMZ",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "EMZ",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "CARL",
+                    "JESSIE",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "PENNY",
+                    "RICO",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "POCO",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "LEON",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "POCO",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "SPIKE",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "EMZ",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "GROM",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "MORTIS",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "CROW",
+                    "DYNAMIKE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "GRIFF",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BYRON",
+                    "DARRYL",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "MORTIS",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "COLT",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "MEG",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "8-BIT",
+                    "MORTIS",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "BIBI",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "SHELLY",
+                    "STU",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "PENNY",
+                    "RICO",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EDGAR",
+                    "MORTIS",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "DARRYL",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EDGAR",
+                    "SANDY",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "EMZ",
+                    "MAX",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "MORTIS",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BYRON",
+                    "MORTIS",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "SPIKE",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "MEG",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "MEG",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLETTE",
+                    "EDGAR",
+                    "MAX"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "EDGAR",
+                    "MAX"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "RICO",
+                    "STU",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "PENNY",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "8-BIT",
+                    "RICO",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MR. P",
+                    "SPIKE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "EMZ",
+                    "JESSIE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CROW",
+                    "PENNY",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "EMZ",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "PENNY",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "8-BIT",
+                    "COLT",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EL PRIMO",
+                    "RICO",
+                    "ROSA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "JESSIE",
+                    "RICO",
+                    "ROSA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BROCK",
+                    "CROW",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CROW",
+                    "RICO",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "GALE",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "DYNAMIKE",
+                    "EDGAR"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "JESSIE",
+                    "MORTIS",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "GROM",
+                    "JACKY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MORTIS",
+                    "PENNY",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "LEON",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "GALE",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "8-BIT",
+                    "STU",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "RICO",
+                    "SANDY",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "8-BIT",
+                    "SANDY",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "PENNY",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "BUZZ",
+                    "CARL"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GENE",
+                    "PENNY",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MORTIS",
+                    "SPIKE",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "SANDY",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MORTIS",
+                    "SPROUT",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EL PRIMO",
+                    "MORTIS",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "FRANK",
+                    "MORTIS",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GALE",
+                    "TARA",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "PAM",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "EDGAR",
+                    "SURGE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "PENNY",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "JESSIE",
+                    "SANDY",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "PAM",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.006825938566552901,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BUZZ",
+                    "GENE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "MORTIS",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "MORTIS",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MORTIS",
+                    "RICO",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "8-BIT",
+                    "EL PRIMO",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BULL",
+                    "BYRON",
+                    "NITA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "JESSIE",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "AMBER",
+                    "MORTIS",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "8-BIT",
+                    "GROM",
+                    "MR. P"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "BO",
+                    "COLONEL RUFFS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.0034129692832764505,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "JESSIE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "LOU",
+                    "SQUEAK",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.005119453924914676,
+                "pickNumber": 3,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "EDGAR",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "LEON",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CROW",
+                    "DARRYL",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "EMZ",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Pierced.json",
+            "startTime": "20220112T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.0017064846416382253,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "MORTIS",
+                    "POCO"
+                ]
+            }
+        }
+    ],
+    "battlesNumber": 586
+}

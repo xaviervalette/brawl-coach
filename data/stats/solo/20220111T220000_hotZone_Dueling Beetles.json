@@ -1,0 +1,605 @@
+{
+    "brawler": [
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 94,
+                "winRate": 0.5497076023391813,
+                "pickRate": 0.5570032573289903,
+                "pickNumber": 171,
+                "brawler": "MEG"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.013029315960912053,
+                "pickNumber": 4,
+                "brawler": "ROSA"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 74,
+                "winRate": 0.5401459854014599,
+                "pickRate": 0.44625407166123776,
+                "pickNumber": 137,
+                "brawler": "SPIKE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 7,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.06840390879478828,
+                "pickNumber": 21,
+                "brawler": "BELLE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 16,
+                "winRate": 0.7619047619047619,
+                "pickRate": 0.06840390879478828,
+                "pickNumber": 21,
+                "brawler": "DARRYL"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 64,
+                "winRate": 0.5765765765765766,
+                "pickRate": 0.36156351791530944,
+                "pickNumber": 111,
+                "brawler": "POCO"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 41,
+                "winRate": 0.5694444444444444,
+                "pickRate": 0.23452768729641693,
+                "pickNumber": 72,
+                "brawler": "GROM"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 8,
+                "winRate": 0.36363636363636365,
+                "pickRate": 0.07166123778501629,
+                "pickNumber": 22,
+                "brawler": "LEON"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 10,
+                "winRate": 0.43478260869565216,
+                "pickRate": 0.0749185667752443,
+                "pickNumber": 23,
+                "brawler": "BO"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 25,
+                "winRate": 0.5208333333333334,
+                "pickRate": 0.1563517915309446,
+                "pickNumber": 48,
+                "brawler": "FRANK"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 101,
+                "winRate": 0.5,
+                "pickRate": 0.6579804560260586,
+                "pickNumber": 202,
+                "brawler": "PENNY"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 36,
+                "winRate": 0.8372093023255814,
+                "pickRate": 0.14006514657980457,
+                "pickNumber": 43,
+                "brawler": "LOU"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 25,
+                "winRate": 0.44642857142857145,
+                "pickRate": 0.18241042345276873,
+                "pickNumber": 56,
+                "brawler": "STU"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 13,
+                "winRate": 0.35135135135135137,
+                "pickRate": 0.12052117263843648,
+                "pickNumber": 37,
+                "brawler": "CROW"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 52,
+                "winRate": 0.41935483870967744,
+                "pickRate": 0.40390879478827363,
+                "pickNumber": 124,
+                "brawler": "EMZ"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 23,
+                "winRate": 0.323943661971831,
+                "pickRate": 0.23127035830618892,
+                "pickNumber": 71,
+                "brawler": "SANDY"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.013029315960912053,
+                "pickNumber": 4,
+                "brawler": "JACKY"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 11,
+                "winRate": 0.55,
+                "pickRate": 0.06514657980456026,
+                "pickNumber": 20,
+                "brawler": "RICO"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 5,
+                "winRate": 0.38461538461538464,
+                "pickRate": 0.04234527687296417,
+                "pickNumber": 13,
+                "brawler": "GRIFF"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 16,
+                "winRate": 0.35555555555555557,
+                "pickRate": 0.1465798045602606,
+                "pickNumber": 45,
+                "brawler": "JESSIE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 35,
+                "winRate": 0.5147058823529411,
+                "pickRate": 0.22149837133550487,
+                "pickNumber": 68,
+                "brawler": "MORTIS"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 5,
+                "winRate": 0.35714285714285715,
+                "pickRate": 0.04560260586319218,
+                "pickNumber": 14,
+                "brawler": "SQUEAK"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.08333333333333333,
+                "pickRate": 0.03908794788273615,
+                "pickNumber": 12,
+                "brawler": "BIBI"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 37,
+                "winRate": 0.5606060606060606,
+                "pickRate": 0.21498371335504887,
+                "pickNumber": 66,
+                "brawler": "BEA"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 23,
+                "winRate": 0.42592592592592593,
+                "pickRate": 0.1758957654723127,
+                "pickNumber": 54,
+                "brawler": "AMBER"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 16,
+                "winRate": 0.43243243243243246,
+                "pickRate": 0.12052117263843648,
+                "pickNumber": 37,
+                "brawler": "PAM"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 24,
+                "winRate": 0.7741935483870968,
+                "pickRate": 0.10097719869706841,
+                "pickNumber": 31,
+                "brawler": "LOLA"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 35,
+                "winRate": 0.7291666666666666,
+                "pickRate": 0.1563517915309446,
+                "pickNumber": 48,
+                "brawler": "BUZZ"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 18,
+                "winRate": 0.4864864864864865,
+                "pickRate": 0.12052117263843648,
+                "pickNumber": 37,
+                "brawler": "COLT"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.17647058823529413,
+                "pickRate": 0.05537459283387622,
+                "pickNumber": 17,
+                "brawler": "TARA"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 7,
+                "winRate": 0.6363636363636364,
+                "pickRate": 0.035830618892508145,
+                "pickNumber": 11,
+                "brawler": "GALE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 7,
+                "winRate": 0.23333333333333334,
+                "pickRate": 0.09771986970684039,
+                "pickNumber": 30,
+                "brawler": "TICK"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.3,
+                "pickRate": 0.03257328990228013,
+                "pickNumber": 10,
+                "brawler": "NITA"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 22,
+                "winRate": 0.5641025641025641,
+                "pickRate": 0.1270358306188925,
+                "pickNumber": 39,
+                "brawler": "BYRON"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.009771986970684038,
+                "pickNumber": 3,
+                "brawler": "BULL"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 11,
+                "winRate": 0.5,
+                "pickRate": 0.07166123778501629,
+                "pickNumber": 22,
+                "brawler": "BARLEY"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.375,
+                "pickRate": 0.026058631921824105,
+                "pickNumber": 8,
+                "brawler": "EDGAR"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.019543973941368076,
+                "pickNumber": 6,
+                "brawler": "DYNAMIKE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 28,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.13680781758957655,
+                "pickNumber": 42,
+                "brawler": "SPROUT"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 5,
+                "winRate": 0.45454545454545453,
+                "pickRate": 0.035830618892508145,
+                "pickNumber": 11,
+                "brawler": "EL PRIMO"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.6,
+                "pickRate": 0.016286644951140065,
+                "pickNumber": 5,
+                "brawler": "SHELLY"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 6,
+                "winRate": 0.4,
+                "pickRate": 0.048859934853420196,
+                "pickNumber": 15,
+                "brawler": "BROCK"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawler": "NANI"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawler": "SURGE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawler": "ASH"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawler": "GENE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawler": "8-BIT"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawler": "COLETTE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawler": "CARL"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawler": "MR. P"
+            }
+        }
+    ],
+    "battlesNumber": 307
+}

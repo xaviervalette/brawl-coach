@@ -1,0 +1,245 @@
+{
+    "brawler": [
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 4,
+                "winRate": 0.5,
+                "pickRate": 0.8,
+                "pickNumber": 8,
+                "brawler": "BULL"
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.3,
+                "pickNumber": 3,
+                "brawler": "DARRYL"
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 5,
+                "winRate": 1,
+                "pickRate": 0.5,
+                "pickNumber": 5,
+                "brawler": "EL PRIMO"
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 4,
+                "winRate": 0.4444444444444444,
+                "pickRate": 0.9,
+                "pickNumber": 9,
+                "brawler": "BIBI"
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.4,
+                "pickNumber": 4,
+                "brawler": "DYNAMIKE"
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.1,
+                "pickNumber": 1,
+                "brawler": "JESSIE"
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 4,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.6,
+                "pickNumber": 6,
+                "brawler": "TARA"
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.4,
+                "pickNumber": 4,
+                "brawler": "COLT"
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.1,
+                "pickNumber": 1,
+                "brawler": "MORTIS"
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 4,
+                "winRate": 0.5,
+                "pickRate": 0.8,
+                "pickNumber": 8,
+                "brawler": "NITA"
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.2,
+                "pickNumber": 2,
+                "brawler": "CARL"
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.1,
+                "pickNumber": 1,
+                "brawler": "GALE"
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.1,
+                "pickNumber": 1,
+                "brawler": "TICK"
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.1,
+                "pickNumber": 1,
+                "brawler": "GENE"
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.1,
+                "pickNumber": 1,
+                "brawler": "COLETTE"
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.1,
+                "pickNumber": 1,
+                "brawler": "BROCK"
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.1,
+                "pickNumber": 1,
+                "brawler": "ROSA"
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.1,
+                "pickNumber": 1,
+                "brawler": "AMBER"
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.1,
+                "pickNumber": 1,
+                "brawler": "BUZZ"
+            }
+        },
+        {
+            "mode": "heist",
+            "map": "Diagonal Alley.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.1,
+                "pickNumber": 1,
+                "brawler": "FRANK"
+            }
+        }
+    ],
+    "battlesNumber": 10
+}

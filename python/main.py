@@ -37,7 +37,7 @@ computeBestBrawler=end4 - start4
 now = datetime.now()
 dateTime = now.strftime("%Y-%m-%d %H:%M:%S")
 processHistory={"datetime":dateTime, "callTime":callTime, "storeBattleTime":storeBattleTime, "computeBestBrawler":computeBestBrawler, "countryNumber": len(countries_list), "playerNumber":player_limit, "newBattle":newBattle, "alreadyStoreBattle": alreadyStoredBattle, "totalBattle":totalBattle, "countryList":countries_list}
-
+print (processHistory)
 #WRITE LOGS
 try:
     with open(logFileName) as fp:

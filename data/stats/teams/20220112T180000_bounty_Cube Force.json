@@ -1,0 +1,1317 @@
+{
+    "teams": [
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 31,
+                "winRate": 0.8378378378378378,
+                "pickRate": 0.185,
+                "pickNumber": 37,
+                "brawlers": [
+                    "GENE",
+                    "GROM",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "LEON",
+                    "NITA",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "PIPER",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BROCK",
+                    "GENE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "LEON",
+                    "MORTIS",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "MORTIS",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "CROW",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MORTIS",
+                    "PENNY",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BYRON",
+                    "GENE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "CROW",
+                    "MORTIS",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 1,
+                "pickRate": 0.02,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BELLE",
+                    "GALE",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 1,
+                "pickRate": 0.02,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BELLE",
+                    "GROM",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.015,
+                "pickNumber": 3,
+                "brawlers": [
+                    "COLONEL RUFFS",
+                    "GROM",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.4,
+                "pickRate": 0.025,
+                "pickNumber": 5,
+                "brawlers": [
+                    "GROM",
+                    "MORTIS",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 6,
+                "winRate": 0.6,
+                "pickRate": 0.05,
+                "pickNumber": 10,
+                "brawlers": [
+                    "BELLE",
+                    "MORTIS",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "EL PRIMO",
+                    "GROM",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "DYNAMIKE",
+                    "ROSA"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 29,
+                "winRate": 0.6904761904761905,
+                "pickRate": 0.21,
+                "pickNumber": 42,
+                "brawlers": [
+                    "BO",
+                    "COLONEL RUFFS",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BEA",
+                    "BYRON",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.02,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BUZZ",
+                    "CARL",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BELLE",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.03,
+                "pickNumber": 6,
+                "brawlers": [
+                    "LEON",
+                    "MORTIS",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.03,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BELLE",
+                    "BYRON",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BO",
+                    "PIPER",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GENE",
+                    "GROM",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.03,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BROCK",
+                    "MORTIS",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.02,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BELLE",
+                    "BROCK",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "CROW",
+                    "MORTIS",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BELLE",
+                    "BUZZ",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "LEON",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 6,
+                "winRate": 0.75,
+                "pickRate": 0.04,
+                "pickNumber": 8,
+                "brawlers": [
+                    "GENE",
+                    "GROM",
+                    "LEON"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BELLE",
+                    "GROM",
+                    "LEON"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MORTIS",
+                    "PIPER",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLETTE",
+                    "MORTIS",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "LOLA",
+                    "LOU",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLETTE",
+                    "LOU",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MR. P",
+                    "SPIKE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "PENNY",
+                    "PIPER",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "MORTIS",
+                    "PIPER",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EL PRIMO",
+                    "GRIFF",
+                    "NANI"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.5,
+                "pickRate": 0.03,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BARLEY",
+                    "BIBI",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.14285714285714285,
+                "pickRate": 0.035,
+                "pickNumber": 7,
+                "brawlers": [
+                    "BO",
+                    "GENE",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "MEG",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EDGAR",
+                    "MORTIS",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "MORTIS",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.015,
+                "pickNumber": 3,
+                "brawlers": [
+                    "MEG",
+                    "MORTIS",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "DYNAMIKE",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BYRON",
+                    "CROW",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "BYRON",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.03,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BELLE",
+                    "MORTIS",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BIBI",
+                    "JESSIE",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BELLE",
+                    "DARRYL",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DYNAMIKE",
+                    "LEON",
+                    "ROSA"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "BYRON",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "LEON",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GENE",
+                    "LEON",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BIBI",
+                    "GRIFF",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.6,
+                "pickRate": 0.025,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BYRON",
+                    "GROM",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "MORTIS",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.5,
+                "pickRate": 0.04,
+                "pickNumber": 8,
+                "brawlers": [
+                    "MORTIS",
+                    "SPIKE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EMZ",
+                    "MORTIS",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BROCK",
+                    "EDGAR",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "MR. P",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "GENE",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GENE",
+                    "JESSIE",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BIBI",
+                    "EDGAR",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EL PRIMO",
+                    "SURGE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BROCK",
+                    "GROM",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "POCO",
+                    "ROSA",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CROW",
+                    "GROM",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BYRON",
+                    "CROW",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MORTIS",
+                    "SPROUT",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "MAX",
+                    "ROSA",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BYRON",
+                    "LOU",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GRIFF",
+                    "GROM",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "GROM",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.25,
+                "pickRate": 0.02,
+                "pickNumber": 4,
+                "brawlers": [
+                    "GROM",
+                    "MORTIS",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.01,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BYRON",
+                    "GROM",
+                    "MR. P"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "PIPER",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "ASH",
+                    "BYRON",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "PENNY",
+                    "PIPER"
+                ]
+            }
+        },
+        {
+            "mode": "bounty",
+            "map": "Cube Force.json",
+            "startTime": "20220112T180000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.005,
+                "pickNumber": 1,
+                "brawlers": [
+                    "PIPER",
+                    "STU",
+                    "SURGE"
+                ]
+            }
+        }
+    ],
+    "battlesNumber": 200
+}

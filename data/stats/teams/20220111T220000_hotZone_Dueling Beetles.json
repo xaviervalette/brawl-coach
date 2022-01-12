@@ -1,0 +1,1909 @@
+{
+    "teams": [
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MEG",
+                    "ROSA",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GROM",
+                    "LEON",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 10,
+                "winRate": 1,
+                "pickRate": 0.03257328990228013,
+                "pickNumber": 10,
+                "brawlers": [
+                    "GROM",
+                    "LOU",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GRIFF",
+                    "MEG",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "PENNY",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 14,
+                "winRate": 0.5185185185185185,
+                "pickRate": 0.08794788273615635,
+                "pickNumber": 27,
+                "brawlers": [
+                    "AMBER",
+                    "EMZ",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BEA",
+                    "EMZ",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 15,
+                "winRate": 0.625,
+                "pickRate": 0.0781758957654723,
+                "pickNumber": 24,
+                "brawlers": [
+                    "MEG",
+                    "POCO",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.5,
+                "pickRate": 0.019543973941368076,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BEA",
+                    "MORTIS",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "SANDY",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 12,
+                "winRate": 0.9230769230769231,
+                "pickRate": 0.04234527687296417,
+                "pickNumber": 13,
+                "brawlers": [
+                    "BUZZ",
+                    "DARRYL",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.6,
+                "pickRate": 0.016286644951140065,
+                "pickNumber": 5,
+                "brawlers": [
+                    "EMZ",
+                    "LOU",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "FRANK",
+                    "PENNY",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "AMBER",
+                    "LOU",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "GALE",
+                    "LEON"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "LOU",
+                    "SANDY",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "SANDY",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MEG",
+                    "SPIKE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BELLE",
+                    "GRIFF",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.009771986970684038,
+                "pickNumber": 3,
+                "brawlers": [
+                    "CROW",
+                    "GROM",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.5,
+                "pickRate": 0.019543973941368076,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BYRON",
+                    "PAM",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "GALE",
+                    "PAM"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "GROM",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GROM",
+                    "JESSIE",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CROW",
+                    "GALE",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BARLEY",
+                    "BO",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 0.009771986970684038,
+                "pickNumber": 3,
+                "brawlers": [
+                    "EMZ",
+                    "PENNY",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.019543973941368076,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BUZZ",
+                    "JESSIE",
+                    "LOLA"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BYRON",
+                    "LEON",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GROM",
+                    "POCO",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.4444444444444444,
+                "pickRate": 0.029315960912052116,
+                "pickNumber": 9,
+                "brawlers": [
+                    "BYRON",
+                    "MEG",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "AMBER",
+                    "EL PRIMO",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EMZ",
+                    "POCO",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.009771986970684038,
+                "pickNumber": 3,
+                "brawlers": [
+                    "GRIFF",
+                    "POCO",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 6,
+                "winRate": 1,
+                "pickRate": 0.019543973941368076,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BROCK",
+                    "BYRON",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "COLT",
+                    "MORTIS",
+                    "ROSA"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 12,
+                "winRate": 1,
+                "pickRate": 0.03908794788273615,
+                "pickNumber": 12,
+                "brawlers": [
+                    "BEA",
+                    "MEG",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.5714285714285714,
+                "pickRate": 0.02280130293159609,
+                "pickNumber": 7,
+                "brawlers": [
+                    "BYRON",
+                    "SANDY",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.2857142857142857,
+                "pickRate": 0.02280130293159609,
+                "pickNumber": 7,
+                "brawlers": [
+                    "BEA",
+                    "COLT",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "COLT",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "LEON",
+                    "POCO",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "AMBER",
+                    "BARLEY",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BEA",
+                    "BELLE",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "MEG",
+                    "PENNY",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 9,
+                "winRate": 1,
+                "pickRate": 0.029315960912052116,
+                "pickNumber": 9,
+                "brawlers": [
+                    "BUZZ",
+                    "LOLA",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "JESSIE",
+                    "POCO",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "CROW",
+                    "GROM",
+                    "SQUEAK"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "AMBER",
+                    "BO",
+                    "CROW"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "FRANK",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.009771986970684038,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BEA",
+                    "MEG",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MEG",
+                    "SQUEAK",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.009771986970684038,
+                "pickNumber": 3,
+                "brawlers": [
+                    "LEON",
+                    "MEG",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "EMZ",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "EDGAR",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "POCO",
+                    "SANDY",
+                    "SURGE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EMZ",
+                    "PENNY",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.019543973941368076,
+                "pickNumber": 6,
+                "brawlers": [
+                    "BUZZ",
+                    "LOLA",
+                    "PAM"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "DARRYL",
+                    "SANDY",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "MEG",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GALE",
+                    "GROM",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "LEON",
+                    "MEG",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BARLEY",
+                    "COLT",
+                    "EL PRIMO"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.009771986970684038,
+                "pickNumber": 3,
+                "brawlers": [
+                    "EMZ",
+                    "POCO",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BEA",
+                    "CROW",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "ASH",
+                    "MORTIS",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "BUZZ",
+                    "DARRYL"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 6,
+                "winRate": 1,
+                "pickRate": 0.019543973941368076,
+                "pickNumber": 6,
+                "brawlers": [
+                    "MEG",
+                    "SPIKE",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "LOLA",
+                    "POCO",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BYRON",
+                    "EMZ",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "GALE",
+                    "JESSIE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BO",
+                    "POCO",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 1,
+                "pickRate": 0.013029315960912053,
+                "pickNumber": 4,
+                "brawlers": [
+                    "BUZZ",
+                    "LOLA",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "JESSIE",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BIBI",
+                    "GROM",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GROM",
+                    "PENNY",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.4,
+                "pickRate": 0.016286644951140065,
+                "pickNumber": 5,
+                "brawlers": [
+                    "GROM",
+                    "POCO",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BYRON",
+                    "EMZ",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "LOLA",
+                    "SANDY",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.013029315960912053,
+                "pickNumber": 4,
+                "brawlers": [
+                    "COLT",
+                    "EMZ",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "EMZ",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BUZZ",
+                    "EMZ",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 0.009771986970684038,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BYRON",
+                    "COLT",
+                    "EMZ"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "FRANK",
+                    "PENNY",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EMZ",
+                    "MEG",
+                    "PAM"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 7,
+                "winRate": 0.5,
+                "pickRate": 0.04560260586319218,
+                "pickNumber": 14,
+                "brawlers": [
+                    "BARLEY",
+                    "PENNY",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.6,
+                "pickRate": 0.016286644951140065,
+                "pickNumber": 5,
+                "brawlers": [
+                    "BEA",
+                    "PENNY",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "AMBER",
+                    "EMZ",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.25,
+                "pickRate": 0.026058631921824105,
+                "pickNumber": 8,
+                "brawlers": [
+                    "EMZ",
+                    "MEG",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "COLT",
+                    "EMZ",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 17,
+                "winRate": 0.9444444444444444,
+                "pickRate": 0.05863192182410423,
+                "pickNumber": 18,
+                "brawlers": [
+                    "LOU",
+                    "MORTIS",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "GALE",
+                    "MORTIS",
+                    "SHELLY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.013029315960912053,
+                "pickNumber": 4,
+                "brawlers": [
+                    "GROM",
+                    "MEG",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.4,
+                "pickRate": 0.016286644951140065,
+                "pickNumber": 5,
+                "brawlers": [
+                    "GROM",
+                    "MEG",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "LEON",
+                    "POCO",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BEA",
+                    "SPIKE",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.009771986970684038,
+                "pickNumber": 3,
+                "brawlers": [
+                    "BEA",
+                    "SPROUT",
+                    "STU"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "PENNY",
+                    "SANDY",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 10,
+                "winRate": 0.7692307692307693,
+                "pickRate": 0.04234527687296417,
+                "pickNumber": 13,
+                "brawlers": [
+                    "MEG",
+                    "PENNY",
+                    "RICO"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "EMZ",
+                    "PENNY",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CROW",
+                    "GENE",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BELLE",
+                    "COLT",
+                    "EMZ"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 7,
+                "winRate": 0.5,
+                "pickRate": 0.04560260586319218,
+                "pickNumber": 14,
+                "brawlers": [
+                    "FRANK",
+                    "MEG",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BO",
+                    "PENNY",
+                    "TICK"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.5,
+                "pickRate": 0.019543973941368076,
+                "pickNumber": 6,
+                "brawlers": [
+                    "MORTIS",
+                    "PAM",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "AMBER",
+                    "EMZ",
+                    "PAM"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.013029315960912053,
+                "pickNumber": 4,
+                "brawlers": [
+                    "JESSIE",
+                    "PENNY",
+                    "SPROUT"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 0.42857142857142855,
+                "pickRate": 0.02280130293159609,
+                "pickNumber": 7,
+                "brawlers": [
+                    "COLT",
+                    "EMZ",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "CARL",
+                    "EDGAR",
+                    "FRANK"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.009771986970684038,
+                "pickNumber": 3,
+                "brawlers": [
+                    "JESSIE",
+                    "MEG",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "BELLE",
+                    "NITA",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 4,
+                "winRate": 1,
+                "pickRate": 0.013029315960912053,
+                "pickNumber": 4,
+                "brawlers": [
+                    "GROM",
+                    "LOU",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "EMZ",
+                    "GALE",
+                    "MR. P"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "EMZ",
+                    "MORTIS",
+                    "PAM"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "JESSIE",
+                    "NITA",
+                    "POCO"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GROM",
+                    "MEG",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "EL PRIMO",
+                    "MORTIS",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 3,
+                "winRate": 1,
+                "pickRate": 0.009771986970684038,
+                "pickNumber": 3,
+                "brawlers": [
+                    "CROW",
+                    "MEG",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.006514657980456026,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GROM",
+                    "MORTIS",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Dueling Beetles.json",
+            "startTime": "20220111T220000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.003257328990228013,
+                "pickNumber": 1,
+                "brawlers": [
+                    "AMBER",
+                    "BEA",
+                    "SQUEAK"
+                ]
+            }
+        }
+    ],
+    "battlesNumber": 307
+}
