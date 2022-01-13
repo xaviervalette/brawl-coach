@@ -22,6 +22,21 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: actions/checkout@v2
+      
+      - name: executing remote ssh commands using ssh key
+        uses: appleboy/ssh-action@master
+        with:
+          host: 109.30.148.110
+          username: pi
+          key: ${{ secrets.RPI_VIROFLAY_PRIVATE }}
+          port: 4243
+          script: |
+            cd /home/pi/
+            mkdir brawlCoach
+            cd brawlCoach
+            mkdir log
+            mkdir data
+            rm -R src
         
       - name: copy file via ssh password
         uses: appleboy/scp-action@master
@@ -31,4 +46,4 @@ jobs:
           key: ${{ secrets.RPI_VIROFLAY_PRIVATE }}
           port: 4243
           source: "*"
-          target: "/home/pi/brawlCoach/"
+          target: "/home/pi/brawlCoach/src/"
