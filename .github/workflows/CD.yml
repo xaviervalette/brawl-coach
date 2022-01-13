@@ -28,7 +28,7 @@ jobs:
           host: 109.30.148.110
           username: pi
           key: ${{ secrets.RPI_VIROFLAY_PRIVATE }}
-          port: 22
+          port: 4243
           script: |
             touch hello.txt
         
