@@ -30,5 +30,5 @@ jobs:
           username: pi
           key: ${{ secrets.RPI_VIROFLAY_PRIVATE }}
           port: 4243
-          source: "python/token.txt"
+          source: "*"
           target: "/home/pi/brawlCoach/"
