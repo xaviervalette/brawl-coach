@@ -20,16 +20,13 @@ jobs:
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        uses: appleboy/ssh-action@master
+    steps:            
+      - name: copy file via ssh password
+        uses: appleboy/scp-action@master
         with:
           host: 109.30.148.110
           username: pi
           key: ${{ secrets.RPI_VIROFLAY_PRIVATE }}
           port: 4243
-          script: |
-            mkdir brawlCoach
-            cd brawlCoach
-            git clone https://github.com/xaviervalette/brawl-stars-tier-list.git
+          source: "token.txt"
+          target: "/home/pi/brawlCoach/"
