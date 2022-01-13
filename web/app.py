@@ -167,7 +167,7 @@ def mode_map_solo(mode, map, startTime):
 @app.route("/processTime.log")
 def processTime():
 	try:
-		with open("../python/timeLog.txt") as fp:
+		with open(logPath+path_separator+"timeLog.txt") as fp:
 			timeLog = json.load(fp)
 	except:
 		timeLog=[]
