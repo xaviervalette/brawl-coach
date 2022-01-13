@@ -251,7 +251,7 @@ def STORE_BEST_TEAM(dirName):
         mapFolder=modeFolder/map
         mapFolder.mkdir(parents=True, exist_ok=True)
         startTime=startTime.split(".")[0]
-        dir=".."+path_separator+"data"+path_separator+"battles"+path_separator+mode+path_separator+map
+        dir=dataPath+path_separator+"battles"+path_separator+mode+path_separator+map
         dirList.append(dir)
 
     for dirName in dirList:
@@ -326,7 +326,7 @@ def STORE_BEST_SOLO(dirName):
         mapFolder=modeFolder/map
         mapFolder.mkdir(parents=True, exist_ok=True)
         startTime=startTime.split(".")[0]
-        dir=".."+path_separator+"data"+path_separator+"battles"+path_separator+mode+path_separator+map
+        dir=dataPath+path_separator+"battles"+path_separator+mode+path_separator+map
         print(dir)
         dirList.append(dir)
 
