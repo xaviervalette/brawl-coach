@@ -204,7 +204,6 @@ def EXTRACT_SOLO_RESULT(battle):
                 loseTeamIndex=1
 
         #COLLECT BRAWLERS IN EACH TEAM
-        
         for brawler in b.teams[winTeamIndex]:
             winTeam.append(brawler["brawler"]["name"])
         for brawler in b.teams[loseTeamIndex]:
