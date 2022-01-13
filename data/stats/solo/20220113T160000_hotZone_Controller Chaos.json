@@ -1,0 +1,149 @@
+{
+    "brawler": [
+        {
+            "mode": "hotZone",
+            "map": "Controller Chaos.json",
+            "startTime": "20220113T160000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.6666666666666666,
+                "pickRate": 1.0,
+                "pickNumber": 3,
+                "brawler": "EMZ"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Controller Chaos.json",
+            "startTime": "20220113T160000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.6666666666666666,
+                "pickNumber": 2,
+                "brawler": "JESSIE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Controller Chaos.json",
+            "startTime": "20220113T160000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.3333333333333333,
+                "pickRate": 1.0,
+                "pickNumber": 3,
+                "brawler": "SANDY"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Controller Chaos.json",
+            "startTime": "20220113T160000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.3333333333333333,
+                "pickNumber": 1,
+                "brawler": "BIBI"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Controller Chaos.json",
+            "startTime": "20220113T160000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.6666666666666666,
+                "pickNumber": 2,
+                "brawler": "MORTIS"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Controller Chaos.json",
+            "startTime": "20220113T160000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.3333333333333333,
+                "pickNumber": 1,
+                "brawler": "STU"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Controller Chaos.json",
+            "startTime": "20220113T160000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.3333333333333333,
+                "pickNumber": 1,
+                "brawler": "BUZZ"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Controller Chaos.json",
+            "startTime": "20220113T160000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.3333333333333333,
+                "pickNumber": 1,
+                "brawler": "COLETTE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Controller Chaos.json",
+            "startTime": "20220113T160000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.3333333333333333,
+                "pickNumber": 1,
+                "brawler": "GENE"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Controller Chaos.json",
+            "startTime": "20220113T160000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.3333333333333333,
+                "pickNumber": 1,
+                "brawler": "PAM"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Controller Chaos.json",
+            "startTime": "20220113T160000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.3333333333333333,
+                "pickNumber": 1,
+                "brawler": "AMBER"
+            }
+        },
+        {
+            "mode": "hotZone",
+            "map": "Controller Chaos.json",
+            "startTime": "20220113T160000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.3333333333333333,
+                "pickNumber": 1,
+                "brawler": "BARLEY"
+            }
+        }
+    ],
+    "battlesNumber": 3
+}

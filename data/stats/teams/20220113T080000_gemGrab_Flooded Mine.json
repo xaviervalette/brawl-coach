@@ -1,0 +1,197 @@
+{
+    "teams": [
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CROW",
+                    "FRANK",
+                    "GROM"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawlers": [
+                    "CARL",
+                    "GROM",
+                    "MEG"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.13333333333333333,
+                "pickNumber": 2,
+                "brawlers": [
+                    "GENE",
+                    "SANDY",
+                    "SPIKE"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawlers": [
+                    "MEG",
+                    "ROSA",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawlers": [
+                    "DARRYL",
+                    "MORTIS",
+                    "PENNY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BELLE",
+                    "RICO",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.13333333333333333,
+                "pickNumber": 2,
+                "brawlers": [
+                    "CROW",
+                    "MEG",
+                    "ROSA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawlers": [
+                    "PIPER",
+                    "SANDY",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawlers": [
+                    "BO",
+                    "CROW",
+                    "MORTIS"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawlers": [
+                    "FRANK",
+                    "MORTIS",
+                    "TARA"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "teamStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawlers": [
+                    "JESSIE",
+                    "MORTIS",
+                    "SANDY"
+                ]
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "teamStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.13333333333333333,
+                "pickNumber": 2,
+                "brawlers": [
+                    "JESSIE",
+                    "SPIKE",
+                    "TARA"
+                ]
+            }
+        }
+    ],
+    "battlesNumber": 15
+}

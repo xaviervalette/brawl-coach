@@ -15,6 +15,9 @@ if(platform.system()=="Windows"):
 else:
     path_separator="/"
 
+dataPath=".."+path_separator+".."+path_separator+"data"
+logPath=".."+path_separator+".."+path_separator+"log"
+
 
 def READ_API_TOKEN(filepath):
     """
@@ -41,22 +44,22 @@ def GET_CURRENT_EVENTS(token):
     data={}
     response = requests.request("GET", "https://api.brawlstars.com/v1/events/rotation", headers=headers, data=data)
     current_events = response.json()
-    with open('../data/events/current_events.json', 'w') as f:
+    with open(dataPath+'/events/current_events.json', 'w') as f:
         json.dump(current_events, f)
     return
 
 def READ_CURRENT_EVENTS(filepath):
-    with open('../data/events/current_events.json') as f:
+    with open(dataPath+'/events/current_events.json') as f:
         current_events=json.load(f)
     return current_events
 
 def READ_EVENTS_STATS(mode,map, startTime, soloOrTeams):
     if soloOrTeams=="teams":
-        with open('../data/stats/teams/'+startTime+'_'+mode+'_'+map+'.json') as f:
+        with open(dataPath+'/stats/teams/'+startTime+'_'+mode+'_'+map+'.json') as f:
             events_stats=json.load(f)
         return events_stats["teams"], events_stats["battlesNumber"]
     else:
-        with open('../data/stats/solo/'+startTime+'_'+mode+'_'+map+'.json') as f:
+        with open(dataPath+'/stats/solo/'+startTime+'_'+mode+'_'+map+'.json') as f:
             events_stats=json.load(f)
         return events_stats["brawler"], events_stats["battlesNumber"]
 
@@ -218,7 +221,7 @@ def COMPUTE_BEST_BRAWLER(mode,map, startTime):
     startTime="20212212"
 
     #READ BATTLES
-    with open('../data/battles/'+mode+"/"+map+"/"+startTime+"_"+mode+"_"+map+".json", 'r') as f:
+    with open(dataPath+'/battles/'+mode+"/"+map+"/"+startTime+"_"+mode+"_"+map+".json", 'r') as f:
         battles_mode_map = json.load(f)
     for battle in battles_mode_map:
         winTeam, loseTeam = EXTRACT_TEAM_RESULT(battle)
@@ -236,7 +239,7 @@ def remove_team_duplicate(team):
 	return team_no_dupplicate
 
 def STORE_BEST_TEAM(dirName):
-    dataFolder = Path("../data/battles")
+    dataFolder = Path(dataPath+"/battles")
     dataFolder.mkdir(parents=True, exist_ok=True)
     currentEvent=READ_CURRENT_EVENTS("TODO")
     dirList=[]
@@ -258,7 +261,6 @@ def STORE_BEST_TEAM(dirName):
         for root, subdirectories, files in os.walk(dirName):
             for file in files:
                 #READ BATTLES
-                #with open("../data/battles/"+mode+"/"+map+"/"+startTime+"_"+mode+"_"+map+".json", 'r') as f:
                 mode=os.path.join(root, file).split(path_separator)[-1].split("_")[1]
                 map=os.path.join(root, file).split(path_separator)[-1].split("_")[2]
                 startTime=os.path.join(root, file).split(path_separator)[-1].split("_")[0]
@@ -307,12 +309,12 @@ def STORE_BEST_TEAM(dirName):
                     winList.append(win_dict)
                     winTable["teams"]= winList
                     winTable["battlesNumber"]=len(battles_mode_map)
-                filename = "../data/stats/teams/"+os.path.join(root, file).split(path_separator)[-1]
+                filename = dataPath+"/stats/teams/"+os.path.join(root, file).split(path_separator)[-1]
                 with open(filename, 'w') as fp:
                     json.dump(winTable, fp, indent=4)
 
 def STORE_BEST_SOLO(dirName):
-    dataFolder = Path("../data/battles")
+    dataFolder = Path(dataPath+"/battles")
     dataFolder.mkdir(parents=True, exist_ok=True)
     currentEvent=READ_CURRENT_EVENTS("TODO")
     dirList=[]
@@ -335,7 +337,6 @@ def STORE_BEST_SOLO(dirName):
         for root, subdirectories, files in os.walk(dirName):
             for file in files:
                 #READ BATTLES
-                #with open("../data/battles/"+mode+"/"+map+"/"+startTime+"_"+mode+"_"+map+".json", 'r') as f:
                 mode=os.path.join(root, file).split(path_separator)[-1].split("_")[1]
                 map=os.path.join(root, file).split(path_separator)[-1].split("_")[2]
                 startTime=os.path.join(root, file).split(path_separator)[-1].split("_")[0]
@@ -392,7 +393,7 @@ def STORE_BEST_SOLO(dirName):
                     winList.append(win_dict)
                     winTable["brawler"]= winList
                     winTable["battlesNumber"]=len(battles_mode_map)
-                filename = "../data/stats/solo/"+os.path.join(root, file).split(path_separator)[-1]
+                filename = dataPath+"/stats/solo/"+os.path.join(root, file).split(path_separator)[-1]
                 with open(filename, 'w') as fp:
                     json.dump(winTable, fp, indent=4)
     
@@ -416,7 +417,7 @@ def STORE_BATTLES(battlelogsList, limitNumberOfBattles):
     friendlyBattles=0
     battleWithNoDuration=0
     curentEvent=READ_CURRENT_EVENTS("TODO")
-    dataFolder = Path("../data/battles")
+    dataFolder = Path(dataPath+"/battles")
     dataFolder.mkdir(parents=True, exist_ok=True)
  
     for pays in battlelogsList:

@@ -3989,5 +3989,30 @@
             "BR",
             "IN"
         ]
+    },
+    {
+        "datetime": "2022-01-13 17:24:53",
+        "callTime": 18.2874698638916,
+        "storeBattleTime": 0.18749046325683594,
+        "computeBestBrawler": 0.1250293254852295,
+        "countryNumber": 11,
+        "playerNumber": 10,
+        "newBattle": 108,
+        "dupBattle": 0,
+        "interestingBattle": 0,
+        "totalBattle": 220,
+        "countryList": [
+            "FR",
+            "US",
+            "IT",
+            "CA",
+            "DE",
+            "GR",
+            "CN",
+            "FI",
+            "ES",
+            "BR",
+            "IN"
+        ]
     }
 ]

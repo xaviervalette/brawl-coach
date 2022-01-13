@@ -1,0 +1,437 @@
+{
+    "brawler": [
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 4,
+                "winRate": 0.5,
+                "pickRate": 0.5333333333333333,
+                "pickNumber": 8,
+                "brawler": "CROW"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.13333333333333333,
+                "pickNumber": 2,
+                "brawler": "FRANK"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.13333333333333333,
+                "pickNumber": 2,
+                "brawler": "GROM"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.13333333333333333,
+                "pickNumber": 2,
+                "brawler": "GRIFF"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "MAX"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 5,
+                "winRate": 0.5,
+                "pickRate": 0.6666666666666666,
+                "pickNumber": 10,
+                "brawler": "TARA"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "CARL"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 4,
+                "winRate": 0.8,
+                "pickRate": 0.3333333333333333,
+                "pickNumber": 5,
+                "brawler": "MEG"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.13333333333333333,
+                "pickNumber": 2,
+                "brawler": "PIPER"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.4,
+                "pickRate": 0.3333333333333333,
+                "pickNumber": 5,
+                "brawler": "GENE"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 5,
+                "winRate": 0.625,
+                "pickRate": 0.5333333333333333,
+                "pickNumber": 8,
+                "brawler": "SANDY"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 4,
+                "winRate": 0.8,
+                "pickRate": 0.3333333333333333,
+                "pickNumber": 5,
+                "brawler": "SPIKE"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "BIBI"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "BROCK"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.6,
+                "pickRate": 0.3333333333333333,
+                "pickNumber": 5,
+                "brawler": "ROSA"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "NITA"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.13333333333333333,
+                "pickNumber": 2,
+                "brawler": "STU"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "DARRYL"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 4,
+                "winRate": 0.8,
+                "pickRate": 0.3333333333333333,
+                "pickNumber": 5,
+                "brawler": "MORTIS"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.13333333333333333,
+                "pickNumber": 2,
+                "brawler": "PENNY"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "COLT"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "DYNAMIKE"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "BUZZ"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "JACKY"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.13333333333333333,
+                "pickNumber": 2,
+                "brawler": "POCO"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "BELLE"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.13333333333333333,
+                "pickNumber": 2,
+                "brawler": "RICO"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "EDGAR"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "8-BIT"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "AMBER"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "BO"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "SURGE"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 3,
+                "winRate": 0.75,
+                "pickRate": 0.26666666666666666,
+                "pickNumber": 4,
+                "brawler": "JESSIE"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "EL PRIMO"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "LOLA"
+            }
+        },
+        {
+            "mode": "gemGrab",
+            "map": "Flooded Mine.json",
+            "startTime": "20220113T080000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.06666666666666667,
+                "pickNumber": 1,
+                "brawler": "BYRON"
+            }
+        }
+    ],
+    "battlesNumber": 15
+}

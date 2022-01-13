@@ -4,9 +4,9 @@ from datetime import datetime
 
 
 #Global variables
-player_limit=100
+player_limit=10
 limitNumberOfBattles=2
-logFileName="timeLog.txt"
+logFileName=logPath+path_separator+"timeLog.txt"
 
 countries_list=["FR", "US", "IT", "CA", "DE", "GR", "CN", "FI", "ES", "BR", "IN"]
 token=READ_API_TOKEN("token.txt")

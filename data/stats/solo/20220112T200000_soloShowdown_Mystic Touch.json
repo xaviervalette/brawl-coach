@@ -1,0 +1,137 @@
+{
+    "brawler": [
+        {
+            "mode": "soloShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.10526315789473684,
+                "pickNumber": 2,
+                "brawler": "DARRYL"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.10526315789473684,
+                "pickNumber": 2,
+                "brawler": "SURGE"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 0.5,
+                "pickRate": 0.21052631578947367,
+                "pickNumber": 4,
+                "brawler": "EL PRIMO"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.05263157894736842,
+                "pickNumber": 1,
+                "brawler": "GROM"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.05263157894736842,
+                "pickNumber": 1,
+                "brawler": "ROSA"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.05263157894736842,
+                "pickNumber": 1,
+                "brawler": "SQUEAK"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.05263157894736842,
+                "pickNumber": 1,
+                "brawler": "LOU"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 1,
+                "pickRate": 0.05263157894736842,
+                "pickNumber": 1,
+                "brawler": "STU"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 1,
+                "winRate": 0.5,
+                "pickRate": 0.10526315789473684,
+                "pickNumber": 2,
+                "brawler": "DYNAMIKE"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 0,
+                "winRate": 0.0,
+                "pickRate": 0.10526315789473684,
+                "pickNumber": 2,
+                "brawler": "LEON"
+            }
+        },
+        {
+            "mode": "soloShowdown",
+            "map": "Mystic Touch.json",
+            "startTime": "20220112T200000",
+            "soloStats": {
+                "winNumber": 2,
+                "winRate": 1,
+                "pickRate": 0.10526315789473684,
+                "pickNumber": 2,
+                "brawler": "MORTIS"
+            }
+        }
+    ],
+    "battlesNumber": 19
+}
