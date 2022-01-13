@@ -24,7 +24,7 @@ callTime=end2 - start2
 
 print("\n***STORE BATTLES***\n")
 start3 = time.time()
-STORE_BATTLES(battlelogs, limitNumberOfBattles)
+newBattle, interestingBattle, totalBattle=STORE_BATTLES(battlelogs, limitNumberOfBattles)
 end3 = time.time()
 storeBattleTime=end3 - start3
 
@@ -36,7 +36,7 @@ end4 = time.time()
 computeBestBrawler=end4 - start4
 now = datetime.now()
 dateTime = now.strftime("%Y-%m-%d %H:%M:%S")
-processHistory={"datetime":dateTime, "callTime":callTime, "storeBattleTime":storeBattleTime, "computeBestBrawler":computeBestBrawler, "countryNumber": len(countries_list), "playerNumber":player_limit, "newBattle":newBattle, "dupBattle": dupBattle, "interestingBattle": interestingBattle, "totalBattle":totalBattle, "countryList":countries_list}
+processHistory={"datetime":dateTime, "callTime":callTime, "storeBattleTime":storeBattleTime, "computeBestBrawler":computeBestBrawler, "countryNumber": len(countries_list), "playerNumber":player_limit, "newBattle":newBattle, "dupBattle": interestingBattle, "interestingBattle": interestingBattle, "totalBattle":totalBattle, "countryList":countries_list}
 print (processHistory)
 #WRITE LOGS
 try:
