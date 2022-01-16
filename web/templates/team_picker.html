@@ -51,28 +51,15 @@ ul.people {
         <tr>
           <th scope="col" class="text-center" style="width: 0">Mode</th>
           <th scope="col" class="text-center">Map</th>
-          <th scope="col" class="text-center" style="width: 0">Battles</th>
         </tr>
       </thead>
       <tbody>
           {% for i in range(0, len) %}
           {% set map = current_events[i]["event"]["map"] | replace("'", "") | replace("-", "") | upper %}
+          {% set mode = current_events[i]["event"]["mode"] | replace("'", "") | replace("-", "") | upper %}
               <tr class="text-center align-middle">
                   <td>
                     <img src='/static/img/modes/{{current_events[i]["event"]["mode"]|upper}}.jpg' alt='{{current_events[i]["event"]["mode"]|upper}}' loading="lazy" style="max-width:20%; min-width:50px; border-radius:20%">
-                  </td>
-                  <td class="align-middle">                      
-                    {% if battleNumber[i]!= 0 %}
-                    <a  class="link-info" href='/teampicker/{{current_events[i]["event"]["mode"]}}/{{current_events[i]["event"]["map"]}}/{{current_events[i]["startTime"]}}'>
-                      <img src='/static/img/maps/{{map}}.JPG' alt='' style="max-width: 150px;min-width: 50%;border-radius:20%;">
-                      <br>{{current_events[i]["event"]["map"]|upper}}
-                    </a>
-                    {% else %}
-                    <img src='/static/img/maps/{{map}}.JPG' alt='' style="max-width: 175px;min-width: 50%;border-radius:20%;">
-                    <br>{{current_events[i]["event"]["map"]|upper}}
-                    {% endif %}                    
-                  </td>
-                  <td class="align-middle">    
                     {% if battleNumber[i]!=0 %}                  
                     <h1 class="display-6">
                       <span class="badge bg-success">
@@ -86,6 +73,17 @@ ul.people {
                   </span>
                   </h1>
                   {% endif %}
+                  </td>
+                  <td class="align-middle">                      
+                    {% if battleNumber[i]!= 0 %}
+                    <a  class="link-info" href='/teampicker/{{current_events[i]["event"]["mode"]}}/{{current_events[i]["event"]["map"]}}/{{current_events[i]["startTime"]}}'>
+                      <img src='/static/img/maps/{{mode}}/{{map}}.JPG' alt='' style="max-width: 200px;min-width: 50%;border-radius:20%;">
+                      <br>{{current_events[i]["event"]["map"]|upper}}
+                    </a>
+                    {% else %}
+                    <img src='/static/img/maps/{{mode}}/{{map}}.JPG' alt='' style="max-width: 200px;min-width: 50%;border-radius:20%;">
+                    <br>{{current_events[i]["event"]["map"]|upper}}
+                    {% endif %}                    
                   </td>
               </tr>
           {% endfor %}
