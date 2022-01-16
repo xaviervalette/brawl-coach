@@ -435,6 +435,10 @@ def STORE_BATTLES(battlelogsList, limitNumberOfBattles, expectedModes):
                             if not b.noDuration and not b.noResult and not b.noStarPlayer and not b.noType and not b.noTeams and b.typee!= "friendly":
                                 go=True
 
+                        elif b.mode=="soloShowdown" or b.mode=="duoShowdown":
+                            if not b.noType and b.typee!= "friendly":
+                                go=True
+
                         if go:
                             startTime=None
                             mode=b.mode
