@@ -403,7 +403,7 @@ def getListOfFiles(dirName):
         for file in files:
             print(os.path.join(root, file))
 
-def STORE_BATTLES(battlelogsList, limitNumberOfBattles):
+def STORE_BATTLES(battlelogsList, limitNumberOfBattles, expectedModes):
     files2save={}
     go=False
     numberOfBattles=0
@@ -431,11 +431,8 @@ def STORE_BATTLES(battlelogsList, limitNumberOfBattles):
                         b = Battle(battles)
                         go = False
 
-                        if b.mode=="gemGrab" or b.mode=="brawlBall" or b.mode=="heist" or b.mode=="bounty" or b.mode=="hotZone" or b.mode=="siege":
+                        if b.mode in expectedModes:
                             if not b.noDuration and not b.noResult and not b.noStarPlayer and not b.noType and not b.noTeams and b.typee!= "friendly":
-                                go=True
-                        elif b.mode=="soloShowdown" or b.mode=="duoShowdown":
-                            if not b.noType and b.typee!= "friendly":
                                 go=True
 
                         if go:

@@ -9,6 +9,8 @@ limitNumberOfBattles=2
 logFileName=logPath+path_separator+"timeLog.txt"
 
 countries_list=["FR", "US", "IT", "CA", "DE", "GR", "CN", "FI", "ES", "BR", "IN"]
+expectedModes=["gemGrab", "brawlBall", "heist", "bounty", "hotZone", "siege", "knockout", "soloShowdown", "duoShowdown"]
+
 token=READ_API_TOKEN("token.txt")
 
 start2 = time.time()
@@ -24,7 +26,7 @@ callTime=end2 - start2
 
 print("\n***STORE BATTLES***\n")
 start3 = time.time()
-newBattle, interestingBattle, totalBattle=STORE_BATTLES(battlelogs, limitNumberOfBattles)
+newBattle, interestingBattle, totalBattle=STORE_BATTLES(battlelogs, limitNumberOfBattles, expectedModes)
 end3 = time.time()
 storeBattleTime=end3 - start3
 
