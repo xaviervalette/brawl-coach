@@ -4,7 +4,7 @@ from datetime import datetime
 
 
 #Global variables
-player_limit=10
+player_limit=100
 limitNumberOfBattles=2
 logFileName=logPath+path_separator+"timeLog.txt"
 
