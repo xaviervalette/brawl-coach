@@ -13,9 +13,11 @@ sites = ['https://brawlify.com/gamemodes/detail/Duels',
 'https://brawlify.com/gamemodes/detail/Duo-Showdown', 
 'https://brawlify.com/gamemodes/detail/Bounty', 
 'https://brawlify.com/gamemodes/detail/Brawl-Ball', 
-'https://brawlify.com/gamemodes/detail/Siege']
+'https://brawlify.com/gamemodes/detail/Siege',
+'https://brawlify.com/gamemodes/detail/Heist',
+'https://brawlify.com/gamemodes/detail/Super-City-Rampage']
 
-modes=["DUELS", "HOTZONE", "KNOCKOUT", "GEMGRAB", "SOLOSHOWDOWN", "DUOSHOWDOWN", "BOUNTY", "BRAWLBALL", "SIEGE"]
+modes=["DUELS", "HOTZONE", "KNOCKOUT", "GEMGRAB", "SOLOSHOWDOWN", "DUOSHOWDOWN", "BOUNTY", "BRAWLBALL", "SIEGE", "HEIST", "SUPERCITYRAMPAGE"]
 #site = "https://brawlify.com/gamemodes/detail/Duels"
 i=0
 for site in sites:
@@ -32,14 +34,14 @@ for site in sites:
             print("Regex didn't match with the url: {}".format(url))
             continue
         print(url)
-        if(modes[i]=="DUOSHODOWN"):
-            pictureName=pictureName.replace(" DUO","").upper()
         pictureName=filename.group(1)
         pictureName=pictureName.replace("-"," ").upper()
         pictureName=pictureName.replace(" 2","")
         pictureName=pictureName.replace("'","")
         pictureName=pictureName.replace(".PNG",".JPG")
         pictureName=pictureName.upper()
+        if(modes[i]=="DUOSHODOWN"):
+            pictureName=pictureName.replace(" DUO","").upper()
 
         print(pictureName)
 
