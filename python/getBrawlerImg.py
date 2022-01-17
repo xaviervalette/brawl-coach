@@ -26,8 +26,8 @@ for site in sites:
         pictureName=filename.group(1)
         pictureName=pictureName.replace(" 2","")
         pictureName=pictureName.replace("'","")
-        pictureName=pictureName.replace(".PNG",".JPG")
         pictureName=pictureName.upper()
+        pictureName=pictureName.replace(".PNG",".JPG")
 
         print(pictureName)
 
