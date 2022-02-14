@@ -90,7 +90,7 @@ ul.people {
   {{ map }}
 </h4>
   <div class="row flex-lg-row align-items-center">
-  <div class=" col-sm-6 col-lg-6 text-center bg-dark">
+  <div class=" col-sm-6 col-lg-8 text-center bg-dark">
     
 
     {% if battleNumber[i]!=0 %}
@@ -214,11 +214,11 @@ ul.people {
       {% endif %}
 
   </div>
-  <div class=" col-sm-6 col-lg-6 text-center bg-dark">
+  <div class=" col-sm-6 col-lg-4 text-center bg-dark">
     {% if battleNumber[i]!= 0 %}
-      <img src='/static/img/maps/{{mode}}/{{map}}.JPG' class="img-border" alt='' style="max-width: 200px;min-width: 50%;border-radius:20%;">
+      <img src='/static/img/maps/{{mode}}/{{map}}.JPG' class="img-border" alt='' style="max-width: 200px;min-width: 90%;border-radius:20%;">
     {% else %}
-    <img src='/static/img/maps/{{mode}}/{{map}}.JPG' class="img-border" alt='' style="max-width: 200px;min-width: 50%;border-radius:20%;">
+    <img src='/static/img/maps/{{mode}}/{{map}}.JPG' class="img-border" alt='' style="max-width: 200px;min-width: 90%;border-radius:20%;">
     {% endif %}    
 
   </div>
