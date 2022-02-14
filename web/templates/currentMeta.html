@@ -6,20 +6,20 @@
   * {
     box-sizing: border-box;
   }
-  
+
   .column {
     float: left;
     width: 33.33%;
     padding: 5px;
   }
-  
+
   /* Clearfix (clear floats) */
   .row::after {
     content: "";
     clear: both;
     display: table;
   }
-  
+
   /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
   @media screen and (max-width: 500px) {
     .column {
@@ -28,223 +28,180 @@
   }
 
   .people li {
-  display: inline;
-  white-space: nowrap
-}
+    display: inline;
+    white-space: nowrap
+  }
 
-ul.people {
-  padding:0;
-  margin:0;
-}
+  ul.people {
+    padding: 0;
+    margin: 0;
+  }
 
-.img-border {
-  -webkit-filter: drop-shadow(2px 2px 0 rgb(255, 255, 255)) 
-                  drop-shadow(-2px -2px 0 rgb(255, 255, 255))
-                  drop-shadow(2px -2px 0 rgb(255, 255, 255))
-                  drop-shadow(-2px 2px 0 rgb(255, 255, 255));
-  filter: drop-shadow(2px 2px 0 rgb(255, 255, 255)) 
-          drop-shadow(-2px -2px 0 rgb(255, 255, 255))
-          drop-shadow(2px -2px 0 rgb(255, 255, 255))
-          drop-shadow(-2px 2px 0 rgb(255, 255, 255));
-}
+  .img-border {
+    -webkit-filter: drop-shadow(2px 2px 0 rgb(255, 255, 255)) drop-shadow(-2px -2px 0 rgb(255, 255, 255)) drop-shadow(2px -2px 0 rgb(255, 255, 255)) drop-shadow(-2px 2px 0 rgb(255, 255, 255));
+    filter: drop-shadow(2px 2px 0 rgb(255, 255, 255)) drop-shadow(-2px -2px 0 rgb(255, 255, 255)) drop-shadow(2px -2px 0 rgb(255, 255, 255)) drop-shadow(-2px 2px 0 rgb(255, 255, 255));
+  }
 
-.img-border-small {
-  border: 2px solid rgb(255, 255, 255);
-  max-width:50px; min-width:50px; border-radius:20%
-}
+  .img-border-small {
+    border: 2px solid rgb(255, 255, 255);
+    max-width: 50px;
+    min-width: 50px;
+    border-radius: 20%;
+  }
 
-.event {
+  .event {
     background: #eee;
-    box-shadow: 0 0 0 1px #ffffff;}
+    box-shadow: 0 0 0 1px #ffffff;
+  }
 
-.event:hover {
+  .event:hover {
     background: #e1e1e1;
     box-shadow: 0 0 0 2px #fdbb2d;
     cursor: pointer;
-    animation-name: example;
-    animation-duration: 0.125s;
+  }
+</style>
 
-}
-
-/* The animation code */
-@keyframes example {
-  from { box-shadow: 0 0 0 1px #ffffff;}
-  to { box-shadow: 0 0 0 2px #fdbb2d;}
-}
-
-
-  </style>
-
+<!-- TITLE OF PAGE -->
 {{ macros.header("Current Meta", "Check which team is the best on a given map!", "/") }}
+
 
 {% for i in range(0, len) %}
 {% set map = current_events[i]["event"]["map"] | replace("'", "") | replace("-", "") | upper %}
 {% set mode = current_events[i]["event"]["mode"] | replace("'", "") | replace("-", "") | upper %}
 
+
+
 {% if mode!="BOSSFIGHT" and mode!="SUPERCITYRAMPAGE" %}
-
-<div class="container col-lg-6 bg-dark text-center my-5 event rounded-5 text-white" onclick="location.href='/currentMeta/{{i}}'">
-  <!-- Content here -->    
+<div class="container col-lg-6 bg-dark text-center my-5 event rounded-5 text-white"
+  onclick="location.href='/currentMeta/{{i}}'">
+  <!-- Content here -->
   <h4 class="pt-3">
-    <img src='/static/img/modes/{{mode|upper}}.jpg' alt='{{current_events[i]["event"]["mode"]|upper}}' loading="lazy" style="max-width:25px; min-width:25px;">
-  {{ map }}
-</h4>
+    <img src='/static/img/modes/{{mode|upper}}.jpg' alt='{{current_events[i]["event"]["mode"]|upper}}' loading="lazy"
+      style="max-width:20px; min-width:20px;">
+    {{ map }}
+  </h4>
   <div class="row flex-lg-row align-items-center">
-  <div class=" col-sm-6 col-lg-8 text-center bg-dark">
-    
+    <div class=" col-md-6 col-lg-8 text-center bg-dark">
 
-    {% if battleNumber[i]!=0 %}
+      {% if battleNumber[i]!=0 %}
 
-      {% if (mode!="SOLOSHOWDOWN" and mode!="DUOSHOWDOWN") %} 
+      <!-- TEAM TABLE -->
+      {% if (mode!="SOLOSHOWDOWN") %}
       <table class="table table-dark">
         <thead>
           <tr>
-            <th scope="col"></th>
-            <th scope="col">Team</th>
-            <th scope="col">Brawler</th>
+            <th scope="col" style="width:50%">Team</th>
+            <th scope="col">Win rate</th>
+            <th scope="col">Pick rate</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            {% if (mode!="DUOSHOWDOWN") %}
+            <td>
+              <ul class="people">
+                <li>
+                  <img src='/static/img/brawlers/{{bestTeams[i][0]["teamStats"]["brawlers"][0]}}.JPG'
+                    class="img-border-small" alt='{{bestTeams[i][0]["teamStats"]["brawlers"][0]}}'>
+                <li>
+                  <img src='/static/img/brawlers/{{bestTeams[i][0]["teamStats"]["brawlers"][1]}}.JPG'
+                    class="img-border-small" alt='{{bestTeams[i][0]["teamStats"]["brawlers"][1]}}'>
+                <li>
+                  <img src='/static/img/brawlers/{{bestTeams[i][0]["teamStats"]["brawlers"][2]}}.JPG'
+                    class="img-border-small" alt='{{bestTeams[i][0]["teamStats"]["brawlers"][2]}}'>
+              </ul>
+            </td>
+            {% elif mode=="DUOSHOWDOWN" %}
+            <td>
+              <ul class="people">
+                <li>
+                  <img src='/static/img/brawlers/{{bestTeams[i][0]["teamStats"]["brawlers"][0]}}.JPG'
+                    class="img-border-small" alt='{{bestTeams[i][0]["teamStats"]["brawlers"][0]}}'>
+                <li>
+                  <img src='/static/img/brawlers/{{bestTeams[i][0]["teamStats"]["brawlers"][1]}}.JPG'
+                    class="img-border-small" alt='{{bestTeams[i][0]["teamStats"]["brawlers"][1]}}'>
+              </ul>
+            </td>
+            {% endif %}
+            <td>
+              {{"%.1f"|format(100*bestTeams[i][0]["teamStats"]["winRate"])}}%
+            </td>
+            <td>
+              {{"%.1f"|format(100*bestTeams[i][0]["teamStats"]["pickRate"])}}%
+            </td>
+            {% endif %}
+          </tr>
+        </tbody>
+      </table>
+      <!-- END TABLE -->
+
+      <!-- SOLO TABLE -->
+      <table class="table table-dark">
+        <thead>
+          <tr>
+            <th scope="col" style="width:50%">Brawler</th>
+            <th scope="col">Win rate</th>
+            <th scope="col">Pick rate</th>
           </tr>
         </thead>
         <tbody>
           <tr>
             <td>
-
+              <ul class="people">
+                <li>
+                  <img src='/static/img/brawlers/{{bestSolo[i][0]["soloStats"]["brawler"]}}.JPG'
+                    class="img-border-small" alt='{{bestSolo[i][0]["soloStats"]["brawler"]}}'>
+              </ul>
             </td>
             <td>
-      <ul class="people">
-        <li>
-          <img src='/static/img/brawlers/{{bestTeams[i][0]["teamStats"]["brawlers"][0]}}.JPG' class="img-border-small" alt='{{bestTeams[i][0]["teamStats"]["brawlers"][0]}}'>
-        <li>
-          <img src='/static/img/brawlers/{{bestTeams[i][0]["teamStats"]["brawlers"][1]}}.JPG' class="img-border-small" alt='{{bestTeams[i][0]["teamStats"]["brawlers"][1]}}'>
-        <li>
-          <img src='/static/img/brawlers/{{bestTeams[i][0]["teamStats"]["brawlers"][2]}}.JPG' class="img-border-small" alt='{{bestTeams[i][0]["teamStats"]["brawlers"][2]}}'>
-      </ul>
-      </td>
-
-      {% elif mode=="DUOSHOWDOWN" %}
-      <table class="table table-dark">
-        <thead>
-          <tr>
-            <th scope="col"></th>
-            <th scope="col">Team</th>
-            <th scope="col">Brawler</th>
+              {{"%.1f"|format(100*bestSolo[i][0]["soloStats"]["winRate"])}}%
+            </td>
+            <td>
+              {{"%.1f"|format(100*bestSolo[i][0]["soloStats"]["pickRate"])}}%
+            </td>
           </tr>
-        </thead>
-        <tbody>
-
-          <tr>
-            <td>
-              
-            </td>
-            <td>
-
-      <ul class="people">
-        <li>
-          <img src='/static/img/brawlers/{{bestTeams[i][0]["teamStats"]["brawlers"][0]}}.JPG' class="img-border-small" alt='{{bestTeams[i][0]["teamStats"]["brawlers"][0]}}'>
-        <li>
-          <img src='/static/img/brawlers/{{bestTeams[i][0]["teamStats"]["brawlers"][1]}}.JPG' class="img-border-small" alt='{{bestTeams[i][0]["teamStats"]["brawlers"][1]}}'>
-      </ul>
-
-    </td>
-
-    {% elif mode=="SOLOSHOWDOWN" %}
-
-
-    <table class="table table-dark">
-      <thead>
-        <tr>
-          <th scope="col"></th>
-          {% if mode!="SOLOSHOWDOWN" %}
-          <th scope="col">Team</th>
-          {% endif %}
-
-          <th scope="col">Brawler</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>
-    </td>
-
-
-
-
-      {% endif %}
-      <td>
-      <ul class="people">
-        <li>
-          <img src='/static/img/brawlers/{{bestSolo[i][0]["soloStats"]["brawler"]}}.JPG' class="img-border-small" alt=''>
-        <li>
-      </ul>
-      </td>
-    </tr>
-    
-    <tr>
-      <td>
-        W/L
-      </td>
-      {% if mode!="SOLOSHOWDOWN" %}
-      <td>
-        {{"%.1f"|format(100*bestTeams[i][0]["teamStats"]["winRate"])}}%
-      </td>
+        </tbody>
+      </table>
+      <!-- END TABLE -->
       {% endif %}
 
-      <td>
-        {{"%.1f"|format(100*bestSolo[i][0]["soloStats"]["winRate"])}}%
-      </td>
-    </tr>
+    </div>
 
-    <tr>
-      <td>
-        Pick
-      </td>
-
-      {% if mode!="SOLOSHOWDOWN" %}
-      <td>
-        {{"%.1f"|format(100*bestTeams[i][0]["teamStats"]["pickRate"])}}%
-      </td>
+    <!-- IMAGE DIV -->
+    <div class=" col-md-6 col-lg-4 text-center bg-dark">
+      {% if battleNumber[i]!= 0 %}
+      <img src='/static/img/maps/{{mode}}/{{map}}.JPG' class="img-border" alt=''
+        style="max-width: 200px;min-width: 70%;border-radius:20%;">
+      {% else %}
+      <img src='/static/img/maps/{{mode}}/{{map}}.JPG' class="img-border" alt=''
+        style="max-width: 200px;min-width: 70%;border-radius:20%;">
       {% endif %}
-
-      <td>
-        {{"%.1f"|format(100*bestSolo[i][0]["soloStats"]["pickRate"])}}%
-      </td>
-    </tr>
-
-  </tbody>
-</table>
-      {% endif %}
+    </div>
+    <!-- END DIV -->
 
   </div>
-  <div class=" col-sm-6 col-lg-4 text-center bg-dark">
-    {% if battleNumber[i]!= 0 %}
-      <img src='/static/img/maps/{{mode}}/{{map}}.JPG' class="img-border" alt='' style="max-width: 200px;min-width: 70%;border-radius:20%;">
-    {% else %}
-    <img src='/static/img/maps/{{mode}}/{{map}}.JPG' class="img-border" alt='' style="max-width: 200px;min-width: 70%;border-radius:20%;">
-    {% endif %}    
-
-  </div>
-  </div>
-  {% if battleNumber[i]!=0 %}                  
+  {% if battleNumber[i]!=0 %}
   <h6>
     <span class="badge bg-success">
-    {{battleNumber[i]}} battles recorded
-  </span>
+      {{battleNumber[i]}} battles recorded
+    </span>
   </h6>
-{% else %}
-<h6>
-<span class="badge bg-danger">
-  No battle recorded yet!
-</span>
-</h6>
-{% endif %}
-  </div>
+  {% else %}
+  <h6>
+    <span class="badge bg-danger">
+      No battle recorded yet!
+    </span>
+  </h6>
+  {% endif %}
+</div>
 
 {% endif %}
 
 {% endfor %}
-  
-  <style>
-    .footable-page-link{  
+
+<style>
+  .footable-page-link {
     background-color: black !important;
-    }
-  </style>
-  {% endblock body %}
+  }
+</style>
+{% endblock body %}
