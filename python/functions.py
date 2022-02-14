@@ -85,7 +85,7 @@ def delOldEvents(folder):
 READ AND RETURN BRAWL STARS EVENTS STATS
 """
 def readEventsStats(event, soloOrTeams):
-    with open(dataPath+'/stats/'+str(event["currentEventNumber"])+'.json') as f:
+    with open(dataPath+'/stats/'+str(event["event"]["id"])+'.json') as f:
         events_stats=json.load(f)
     return events_stats[soloOrTeams], events_stats["battlesNumber"]
 
