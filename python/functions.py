@@ -45,11 +45,6 @@ MAKE REST API GET CALL TO RETRIEVE BRAWL STARS CURRENT EVENTS
 """
 def getCurrentEvents(token):
 
-    f = []
-    for (dirpath, dirnames, filenames) in os.walk(dataPath+"/events/"):
-        f.extend(filenames)
-        break
-    old_current_events=readCurrentEvents("todo")
     headers = {'Authorization':'Bearer '+token}
     data={}
     response = requests.request("GET", "https://api.brawlstars.com/v1/events/rotation", headers=headers, data=data)
@@ -74,21 +69,17 @@ def readCurrentEvents(filepath):
 DELETE OUTDATED EVENT FILES
 """
 def delOldEvents(folder):
+    currentEventsId=[]
     currentEvents=readCurrentEvents("todo")
-    for (dirpath, dirnames, filenames) in os.walk("../../data/"+folder+"/"):
+    for event in currentEvents:
+        currentEventsId.append(event["event"]["id"])
+        
+    for (dirpath, dirnames, filenames) in os.walk(dataPath+path_separator+folder+path_separator):
         for filename in filenames:
             fn = filename.split("."); 
-            oldEventNumber=int(fn[0])
-            with open(dataPath+'/'+folder+'/'+filename, 'r') as f:
-                old_battle=json.load(f)
-            try:
-                if old_battle[0]["event"]["id"]!=currentEvents[oldEventNumber]["event"]["id"]:
-                    try:
-                        os.remove(dataPath+"/"+folder+"/"+str(oldEventNumber)+".json")
-                    except:
-                        print("no file")
-            except:
-                os.remove(dataPath+"/"+folder+"/"+str(oldEventNumber)+".json")
+            oldEventId=int(fn[0])
+            if oldEventId not in currentEventsId:
+                os.remove(dataPath+"/"+folder+"/"+str(oldEventId)+".json")
 
 """
 READ AND RETURN BRAWL STARS EVENTS STATS
@@ -184,6 +175,9 @@ def extractTeamBattles(battle):
     loseTeam=sorted(loseTeam)
     return winTeam, loseTeam
 
+"""
+RETURN SORTED WIN AND LOSE BRAWLER BASED ON BATTLE
+"""
 def extractSoloBattles(battle):
     winTeam=[]
     loseTeam=[]
@@ -222,6 +216,8 @@ def extractSoloBattles(battle):
     loseTeam=sorted(loseTeam)
     return winTeam, loseTeam
 
+"""
+"""
 def computeBestBrawlers(mode,map, startTime):
     mode="gemGrab"
     map="Four Squared"
@@ -238,6 +234,9 @@ def unique_counter(filesets):
         i['count'] = sum([1 for j in filesets if j['num'] == i['num']])
     return {k['num']:k for k in filesets}.values()
 
+"""
+REMOVE SAME TEAM IN A LIST FOR THE STATS
+"""
 def remove_team_duplicate(team):
 	team_no_dupplicate=[]
 	for elem in team:
@@ -245,6 +244,9 @@ def remove_team_duplicate(team):
 			team_no_dupplicate.append(elem)
 	return team_no_dupplicate
 
+"""
+COMPUTE AND STORE STATS
+"""
 def storeBestTeam():
     dataFolder = Path(dataPath+path_separator+"battles")
     dataFolder.mkdir(parents=True, exist_ok=True)
@@ -257,7 +259,7 @@ def storeBestTeam():
         winTeams=[]
         loseTeams=[]
         try:
-            with open(dataPath+path_separator+"battles"+path_separator+str(event["currentEventNumber"])+".json", 'r') as f:
+            with open(dataPath+path_separator+"battles"+path_separator+str(event["event"]["id"])+".json", 'r') as f:
                 battles_mode_map = json.load(f)
         except:
             print("NO DATA")
@@ -349,16 +351,21 @@ def storeBestTeam():
             winTable["map"]=map
             winTable["startTime"]=startTime
         
-        filename = dataPath+"/stats/"+str(event["currentEventNumber"])+".json"
+        filename = dataPath+"/stats/"+str(event["event"]["id"])+".json"
         with open(filename, 'w') as fp:
             json.dump(winTable, fp, indent=4)
     
-
+"""
+LIST FILES IN A DIR
+"""
 def getListOfFiles(dirName):
     for root, subdirectories, files in os.walk(dirName):
         for file in files:
             print(os.path.join(root, file))
 
+"""
+STORE BATTLES IN BATTLES DIR
+"""
 def storeBattles(battlelogsList, limitNumberOfBattles, expectedModes):
     files2save={}
     go=False
@@ -406,7 +413,7 @@ def storeBattles(battlelogsList, limitNumberOfBattles, expectedModes):
                                     break
                             if startTime is not None:
                                 startTime=startTime.split(".")[0]
-                                fileName=str(event["currentEventNumber"])+".json"
+                                fileName=str(event["event"]["id"])+".json"
                                 mapFile=dataFolder/fileName
                                 if mapFile.is_file() or mapFile in files2save:
                                     if mapFile not in files2save:
@@ -461,9 +468,9 @@ def storeBattles(battlelogsList, limitNumberOfBattles, expectedModes):
         i=i+1
     return newBattle, alreadyStoredBattle, total
 
-'''
-    For the given path, get the List of all files in the directory tree 
-'''
+"""
+REMOVE SAME DICTS IN A LIST OF DICTS
+"""
 def remove_dupe_dicts(l): 
     list_of_strings = [json.dumps(d, sort_keys = True) for d in l] 
     A=len(list_of_strings)
