@@ -81,7 +81,7 @@ ul.people {
 {% set map = current_events[i]["event"]["map"] | replace("'", "") | replace("-", "") | upper %}
 {% set mode = current_events[i]["event"]["mode"] | replace("'", "") | replace("-", "") | upper %}
 
-{% if mode!="BOSSFIGHT" %}
+{% if mode!="BOSSFIGHT" and mode!="SUPERCITYRAMPAGE" %}
 
 <div class="container col-lg-6 bg-dark text-center my-5 event rounded-5 text-white" onclick="location.href='/currentMeta/{{i}}'">
   <!-- Content here -->    

@@ -56,13 +56,6 @@ def getCurrentEvents(token):
     current_events = response.json()
     i=0
     for event in current_events:
-        print(event)
-        if old_current_events[i]["event"]["id"]!=event["event"]["id"]:
-            try:
-                os.remove(dataPath+"/battles/"+str(i)+".json")
-                os.remove(dataPath+"/stats/"+str(i)+".json")
-            except:
-                print("No battles recorded during the whold event")
         event["currentEventNumber"]=i
         i=i+1
     with open(dataPath+'/events/current_events.json', 'w') as f:
@@ -78,17 +71,32 @@ def readCurrentEvents(filepath):
     return current_events
 
 """
+DELETE OUTDATED EVENT FILES
+"""
+def delOldEvents(folder):
+    currentEvents=readCurrentEvents("todo")
+    for (dirpath, dirnames, filenames) in os.walk("../../data/"+folder+"/"):
+        for filename in filenames:
+            fn = filename.split("."); 
+            oldEventNumber=int(fn[0])
+            with open(dataPath+'/'+folder+'/'+filename, 'r') as f:
+                old_battle=json.load(f)
+            try:
+                if old_battle[0]["event"]["id"]!=currentEvents[oldEventNumber]["event"]["id"]:
+                    try:
+                        os.remove(dataPath+"/"+folder+"/"+str(oldEventNumber)+".json")
+                    except:
+                        print("no file")
+            except:
+                os.remove(dataPath+"/"+folder+"/"+str(oldEventNumber)+".json")
+
+"""
 READ AND RETURN BRAWL STARS EVENTS STATS
 """
 def readEventsStats(event, soloOrTeams):
-    if soloOrTeams=="teams":
-        with open(dataPath+'/stats/'+str(event["currentEventNumber"])+'.json') as f:
-            events_stats=json.load(f)
-        return events_stats["teams"], events_stats["battlesNumber"]
-    else:
-        with open(dataPath+'/stats/'+str(event["currentEventNumber"])+'.json') as f:
-            events_stats=json.load(f)
-        return events_stats["solo"], events_stats["battlesNumber"]
+    with open(dataPath+'/stats/'+str(event["currentEventNumber"])+'.json') as f:
+        events_stats=json.load(f)
+    return events_stats[soloOrTeams], events_stats["battlesNumber"]
 
 """
 MAKE REST API GET CALL TO RETRIEVE BRAWL STARS RANKINGS BASED ON COUNTRY LIST

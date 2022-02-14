@@ -6,7 +6,7 @@ from datetime import datetime
 """
 GLOBAL VARIABLES
 """
-player_limit=50
+player_limit=10
 limitNumberOfBattles=2
 logFileName=logPath+path_separator+"timeLog.txt"
 countries_list=["FR", "US", "IT", "CA", "DE", "GR", "CN", "FI", "ES", "BR", "IN"]
@@ -19,6 +19,8 @@ token=readApiToken("token.txt")
 
 start2 = time.time()
 getCurrentEvents(token)
+delOldEvents("battles")
+delOldEvents("stats")
 
 print("\n***getRankings***\n")
 ranks=getRankings(token,countries_list, player_limit) #ranks["FR"]["items"][0] = Best french player
