@@ -14,7 +14,7 @@
 <!-- DIV FOR ONE EVENT -->
 
 {% if mode!="BOSSFIGHT" and mode!="SUPERCITYRAMPAGE" %}
-<div class="container col-lg-6 bg-dark text-center my-5 event rounded-5 text-white"
+<div class="container col-lg-6 bg-dark text-center my-5 event rounded-5 text-white pb-4"
   onclick="location.href='/currentMeta/{{i}}'">
   
   <h4 class="pt-3">
@@ -24,7 +24,7 @@
   </h4>
 
   <div class="row flex-lg-row align-items-center">
-    <div class=" col-md-6 col-lg-8 text-center bg-dark">
+    <div class=" col-md-6 col-lg-8 text-center bg-dark pb-3">
 
       {% if battleNumber[i]!=0 %}
 
@@ -113,6 +113,20 @@
 
       {% endif %}
 
+      {% if battleNumber[i]!=0 %}
+      <h5>
+        <span class="badge bg-success">
+          {{battleNumber[i]}} battles recorded
+        </span>
+      </h5>
+      {% else %}
+      <h5>
+        <span class="badge bg-danger">
+          No battle recorded yet!
+        </span>
+      </h5>
+      {% endif %}
+
     </div>
 
     <!-- MAP DIV -->
@@ -145,20 +159,6 @@
     <!-- END DIV -->
 
   </div>
-
-  {% if battleNumber[i]!=0 %}
-  <h5>
-    <span class="badge bg-success">
-      {{battleNumber[i]}} battles recorded
-    </span>
-  </h5>
-  {% else %}
-  <h5>
-    <span class="badge bg-danger">
-      No battle recorded yet!
-    </span>
-  </h5>
-  {% endif %}
 </div>
 {% endif %}
 {% endfor %}
