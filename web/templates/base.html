@@ -104,27 +104,40 @@
     }
 
     .img-border-small {
-    border: 2px solid rgb(207, 207, 207);
-    max-width: 50px;
-    min-width: 50px;
-    border-radius: 20%;
-  }
+      border: 2px solid rgb(207, 207, 207);
+      max-width: 50px;
+      min-width: 50px;
+      border-radius: 20%;
+    }
 
-  .img-border {
-    -webkit-filter: drop-shadow(2px 2px 0 rgb(207, 207, 207)) drop-shadow(-2px -2px 0 rgb(207, 207, 207)) drop-shadow(2px -2px 0 rgb(207, 207, 207)) drop-shadow(-2px 2px 0 rgb(207, 207, 207));
-    filter: drop-shadow(2px 2px 0 rgb(207, 207, 207)) drop-shadow(-2px -2px 0 rgb(207, 207, 207)) drop-shadow(2px -2px 0 rgb(207, 207, 207)) drop-shadow(-2px 2px 0 rgb(207, 207, 207));
-  }
+    .img-border {
+      -webkit-filter: drop-shadow(2px 2px 0 rgb(207, 207, 207)) drop-shadow(-2px -2px 0 rgb(207, 207, 207)) drop-shadow(2px -2px 0 rgb(207, 207, 207)) drop-shadow(-2px 2px 0 rgb(207, 207, 207));
+      filter: drop-shadow(2px 2px 0 rgb(207, 207, 207)) drop-shadow(-2px -2px 0 rgb(207, 207, 207)) drop-shadow(2px -2px 0 rgb(207, 207, 207)) drop-shadow(-2px 2px 0 rgb(207, 207, 207));
+    }
 
-  .event {
-    background: rgb(207, 207, 207);
-    box-shadow: 0 0 0 1px rgb(207, 207, 207);
-  }
+    .event {
+      background: rgb(207, 207, 207);
+      box-shadow: 0 0 0 1px rgb(207, 207, 207);
+    }
 
-  .event:hover {
-    background: #e1e1e1;
-    box-shadow: 0 0 0 2px #fdbb2d;
-    cursor: pointer;
-  }
+    .event:hover {
+      background: #e1e1e1;
+      box-shadow: 0 0 0 2px #fdbb2d;
+      cursor: pointer;
+    }
+
+    .progress {
+      margin-bottom: 0;
+    }
+
+    .start {
+      float: left;
+    }
+
+    .end {
+      float: right;
+      text-align: right;
+    }
   </style>
 </head>
 
@@ -149,21 +162,18 @@
         <li class="nav-item">
           <a class="nav-link" aria-current="page" href="/currentMeta">Current Meta</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="/tag_reader">Tag reader</a>
-        </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
             aria-expanded="false">
-            Explore
+            Specific event
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a class="dropdown-item" href="/explore/modes">Overall</a></li>
             <li>
               <hr class="dropdown-divider">
             </li>
-            <li><a class="dropdown-item" href="#">Gem Grab</a></li>
-            <li><a class="dropdown-item" href="#">Showdown Solo</a></li>
+            <li><a class="dropdown-item" href="#">gemGrab</a></li>
+            <li><a class="dropdown-item" href="#">soloShowdown</a></li>
           </ul>
         </li>
       </ul>
@@ -176,7 +186,6 @@
 <body>
   {% block body %}
   {% endblock body %}
-
   <div id="footer">
     {% block footer %}
     <div class="b-example-divider"></div>

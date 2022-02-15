@@ -16,11 +16,13 @@
 {% if mode!="BOSSFIGHT" and mode!="SUPERCITYRAMPAGE" %}
 <div class="container col-lg-6 bg-dark text-center my-5 event rounded-5 text-white"
   onclick="location.href='/currentMeta/{{i}}'">
+  
   <h4 class="pt-3">
     <img src='/static/img/modes/{{mode|upper}}.jpg' alt='{{current_events[i]["event"]["mode"]|upper}}' loading="lazy"
       style="max-width:20px; min-width:20px;">
     {{ map }}
   </h4>
+
   <div class="row flex-lg-row align-items-center">
     <div class=" col-md-6 col-lg-8 text-center bg-dark">
 
@@ -66,10 +68,10 @@
             </td>
             {% endif %}
             <td class="align-middle">
-              <p class="fs-4 mb-0">{{"%.1f"|format(100*bestTeams[i][0]["teamStats"]["winRate"])}}%</p>
+              <p class="fs-5 mb-0">{{"%.1f"|format(100*bestTeams[i][0]["teamStats"]["winRate"])}}%</p>
             </td>
             <td class="align-middle">
-              <p class="fs-4 mb-0">{{"%.1f"|format(100*bestTeams[i][0]["teamStats"]["pickRate"])}}%</p>
+              <p class="fs-5 mb-0">{{"%.1f"|format(100*bestTeams[i][0]["teamStats"]["pickRate"])}}%</p>
             </td>
             {% endif %}
           </tr>
@@ -98,10 +100,10 @@
               </ul>
             </td>
             <td class="align-middle">
-              <p class="fs-4 mb-0">{{"%.1f"|format(100*bestSolo[i][0]["soloStats"]["winRate"])}}%</p>
+              <p class="fs-5 mb-0">{{"%.1f"|format(100*bestSolo[i][0]["soloStats"]["winRate"])}}%</p>
             </td>
             <td class="align-middle">
-              <p class="fs-4 mb-0">{{"%.1f"|format(100*bestSolo[i][0]["soloStats"]["pickRate"])}}%</p>
+              <p class="fs-5 mb-0">{{"%.1f"|format(100*bestSolo[i][0]["soloStats"]["pickRate"])}}%</p>
             </td>
           </tr>
         </tbody>
@@ -113,21 +115,37 @@
 
     </div>
 
-    <!-- IMAGE DIV -->
+    <!-- MAP DIV -->
 
     <div class=" col-md-6 col-lg-4 text-center bg-dark">
       {% if battleNumber[i]!= 0 %}
       <img src='/static/img/maps/{{mode}}/{{map}}.JPG' class="img-border" alt=''
-        style="max-width: 200px;min-width: 70%;border-radius:20%;">
+        style="max-width: 200px;min-width: 60%;border-radius:20%;">
       {% else %}
       <img src='/static/img/maps/{{mode}}/{{map}}.JPG' class="img-border" alt=''
-        style="max-width: 200px;min-width: 70%;border-radius:20%;">
+        style="max-width: 200px;min-width: 60%;border-radius:20%;">
       {% endif %}
+
+      <!-- PROGRESS -->
+
+  <div class="mt-3">
+    <div class="progress">
+    <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
+      60%
+    </div>
+  </div>
+    <div class="start">Start</div>
+     <div class="end">End</div>
+  </div>
+
+  <!-- END PROGRESS -->
+
     </div>
 
     <!-- END DIV -->
 
   </div>
+
   {% if battleNumber[i]!=0 %}
   <h5>
     <span class="badge bg-success">
