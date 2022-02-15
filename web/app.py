@@ -58,18 +58,21 @@ def team_picker():
 def mode_map(events):
 	current_events = readCurrentEvents("../events/current_events.json")
 	current_event=current_events[int(events)]
-	bestTeamsRaw, battleNum =readEventsStats(current_event, "teams")
+	try:
+		bestTeamsRaw, battleNum =readEventsStats(current_event, "teams")
+		bestTeamsSorted = sorted(bestTeamsRaw, key=lambda d: d['teamStats']["pickRate"], reverse=True)
+		if len(bestTeamsSorted)>50:
+			lenTeams=50
+		else:
+			lenTeams=len(bestTeamsSorted)
+	except:
+		bestTeamsSorted="None"
+		lenTeams=0
+	
 	bestSoloRaw, battleNum =readEventsStats(current_event, "solo")
-
-	bestTeamsSorted = sorted(bestTeamsRaw, key=lambda d: d['teamStats']["pickRate"], reverse=True)
 	bestSoloSorted = sorted(bestSoloRaw, key=lambda d: d['soloStats']["pickRate"], reverse=True)
-
-	if len(bestTeamsSorted)>50:
-		lenTeams=50
-	else:
-		lenTeams=len(bestTeamsSorted)
-		
 	lenSolo=len(bestSoloSorted)
+
 	return render_template('currentMetaDetails.html', bestTeams=bestTeamsSorted, bestSolo=bestSoloSorted, lenTeams=lenTeams, lenSolo=lenSolo, mode=current_event["event"]["mode"], map=current_event["event"]["map"])
 
 

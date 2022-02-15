@@ -5,8 +5,9 @@
 <!-- TITLE OF PAGE -->
 {{ macros.header(map|upper, mode|upper, "/currentMeta") }}
 
-<!-- TEAM TABLE -->
 <div class="col-lg-6 mx-auto my-5">
+{% if mode|upper != "SOLOSHOWDOWN" %}
+<!-- TEAM TABLE -->
   <table id="footable" class="table text-white" data-sorting="true" data-paging="true" data-paging-size="5"
     data-paging-limit="3">
     <thead class="table-dark">
@@ -22,24 +23,41 @@
     <tbody>
       {% for i in range(0, lenTeams) %}
       <tr>
+        {% if mode|upper != "DUOSHOWDOWN" %}
         <td>
           <div class="container">
             <ul class="people">
               <li>
                 <img src='/static/img/brawlers/{{bestTeams[i]["teamStats"]["brawlers"][0]}}.JPG'
                   alt='{{bestTeams[i]["teamStats"]["brawlers"][0]}}'
-                  style="max-width:20%; min-width:50px; border-radius:20%">
+                  style="max-width:20%; min-width:50px; border-radius:20%" class="img-border-small">
               <li>
                 <img src='/static/img/brawlers/{{bestTeams[i]["teamStats"]["brawlers"][1]}}.JPG'
                   alt='{{bestTeams[i]["teamStats"]["brawlers"][1]}}'
-                  style="max-width:20%; min-width:50px; border-radius:20%">
+                  style="max-width:20%; min-width:50px; border-radius:20%" class="img-border-small">
               <li>
                 <img src='/static/img/brawlers/{{bestTeams[i]["teamStats"]["brawlers"][2]}}.JPG'
                   alt='{{bestTeams[i]["teamStats"]["brawlers"][2]}}'
-                  style="max-width:20%; min-width:50px; border-radius:20%">
+                  style="max-width:20%; min-width:50px; border-radius:20%" class="img-border-small">
             </ul>
           </div>
         </td>
+        {% else %}
+        <td>
+          <div class="container">
+            <ul class="people">
+              <li>
+                <img src='/static/img/brawlers/{{bestTeams[i]["teamStats"]["brawlers"][0]}}.JPG'
+                  alt='{{bestTeams[i]["teamStats"]["brawlers"][0]}}'
+                  style="max-width:20%; min-width:50px; border-radius:20%" class="img-border-small">
+              <li>
+                <img src='/static/img/brawlers/{{bestTeams[i]["teamStats"]["brawlers"][1]}}.JPG'
+                  alt='{{bestTeams[i]["teamStats"]["brawlers"][1]}}'
+                  style="max-width:20%; min-width:50px; border-radius:20%" class="img-border-small">
+            </ul>
+          </div>
+        </td>
+        {% endif %}
         <td class="align-middle">{{"%.1f"|format(100*bestTeams[i]["teamStats"]["winRate"])}}%</td>
         <td class="align-middle">{{"%.1f"|format(100*bestTeams[i]["teamStats"]["pickRate"])}}%</td>
         <td class="align-middle">{{bestTeams[i]["teamStats"]["winNumber"]}}</td>
@@ -48,10 +66,11 @@
       {% endfor %}
     </tbody>
   </table>
-<!-- END OF TABLE -->
+  {% endif %}
+  <!-- END OF TABLE -->
 
 
-<!-- SOLO TABLE -->
+  <!-- SOLO TABLE -->
   <table id="footable" class="table text-white" data-sorting="true" data-paging="true" data-paging-size="5"
     data-paging-limit="3">
     <thead class="table-dark">
@@ -71,7 +90,8 @@
           <div class="container">
             <ul class="people">
               <img src='/static/img/brawlers/{{bestSolo[i]["soloStats"]["brawler"]}}.JPG'
-                alt='{{bestSolo[i]["soloStats"]["brawler"]}}' style="max-width:20%; min-width:50px; border-radius:20%">
+                alt='{{bestSolo[i]["soloStats"]["brawler"]}}' style="max-width:20%; min-width:50px; border-radius:20%"
+                class="img-border-small">
             </ul>
           </div>
         </td>
