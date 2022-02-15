@@ -8,6 +8,7 @@ from collections import Counter
 import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import platform
+from datetime import datetime,timezone
 
 """
 SETTING GLOBAL VARIABLES
@@ -477,3 +478,36 @@ def remove_dupe_dicts(l):
     list_of_strings = set(list_of_strings) 
     B=len(list_of_strings)
     return [json.loads(s) for s in list_of_strings]
+
+"""
+CONVERT BRAWL STARS START/END STRING INTO DATETIME 
+"""
+def convertDateTimeFromString(string):
+    year=int(string[0:4])
+    month=int(string[4:6])
+    day=int(string[6:8])
+    hours=int(string[9:11])
+    minutes=int(string[11:13])
+    seconds=int(string[13:15])
+
+    eventDateTime = datetime(year, month, day, hours, minutes, seconds)
+    return eventDateTime
+
+"""
+GET DATETIME FROM BRAWL STARS START/END STRING
+"""
+def computeEventTime(event):
+    #UTC TIME
+    startDateTimeStr=event["startTime"]
+    endDateTimeStr=event["endTime"]
+    nowDateTime = datetime.now(timezone.utc)
+    
+    startDateTime=convertDateTimeFromString(startDateTimeStr)
+    endDateTime=convertDateTimeFromString(endDateTimeStr)
+
+    eventDuration=endDateTime.replace(tzinfo=timezone.utc)-startDateTime.replace(tzinfo=timezone.utc)
+    eventProgress=nowDateTime-startDateTime.replace(tzinfo=timezone.utc)
+
+    progress=int(100.0*eventProgress/eventDuration)
+
+    return startDateTime, endDateTime, progress

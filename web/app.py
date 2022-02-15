@@ -23,12 +23,14 @@ def team_picker():
 	battleNumber={}
 	bestTeams={}
 	bestSolo={}
+	progress={}
 	i=0
 	current_events = readCurrentEvents("../events/current_events.json")
 	for events in current_events:
 		map=events["event"]["map"]
 		mode=events["event"]["mode"]
 		startTime=events["startTime"].split(".")[0]
+		_, _, progress[i]=computeEventTime(events)
 		try:
 			bestTeamsRaw, battleNum =readEventsStats(events, "teams")
 			bestSoloRaw, battleNum =readEventsStats(events, "solo")
@@ -52,7 +54,7 @@ def team_picker():
 		i=i+1
 	print(bestTeams[7][0])
 			
-	return render_template('currentMeta.html', current_events=current_events, len=len(current_events), battleNumber=battleNumber, bestTeams=bestTeams, bestSolo=bestSolo)
+	return render_template('currentMeta.html', current_events=current_events, len=len(current_events), battleNumber=battleNumber, bestTeams=bestTeams, bestSolo=bestSolo, eventProgress=progress)
 
 @app.route("/currentMeta/<string:events>")
 def mode_map(events):
