@@ -142,7 +142,9 @@
 
       <!-- PROGRESS -->
 
-  <div class="mt-3">
+  <div class="container pt-3 px-0">
+    <div class="row justify-content-center">
+      <div class="col-8 col-md-12">
     <div class="progress">
     <div class="progress-bar text-dark" role="progressbar" aria-valuenow="{{ eventProgress[i] }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ eventProgress[i] }}%;">
       {{ eventProgress[i] }}%
@@ -150,6 +152,8 @@
   </div>
     <div class="start">Start</div>
      <div class="end">End</div>
+  </div>
+  </div>
   </div>
 
   <!-- END PROGRESS -->
