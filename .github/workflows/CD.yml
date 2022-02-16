@@ -23,7 +23,19 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       
-      - name: executing remote ssh commands using ssh key
+      - name: stop NGINX and BRAWLCOACH services
+        uses: appleboy/ssh-action@master
+        with:
+          host: 109.30.148.110
+          username: pi
+          key: ${{ secrets.RPI_VIROFLAY_PRIVATE }}
+          port: 4243
+          script: |
+             systemctl stop nginx
+             systemctl stop brawlcoach
+
+      
+      - name: Removing SOURCES
         uses: appleboy/ssh-action@master
         with:
           host: 109.30.148.110
@@ -47,8 +59,8 @@ jobs:
           port: 4243
           source: "*"
           target: "/home/pi/brawlCoach/src/"
-          
-      - name: executing remote ssh commands using ssh key
+            
+      - name: start NGINX and BRAWLCOACH services
         uses: appleboy/ssh-action@master
         with:
           host: 109.30.148.110
@@ -56,4 +68,5 @@ jobs:
           key: ${{ secrets.RPI_VIROFLAY_PRIVATE }}
           port: 4243
           script: |
-            chmod 777 /home/pi/brawlCoach/src/web/myproject.sock
+             systemctl start nginx
+             systemctl start brawlcoach
