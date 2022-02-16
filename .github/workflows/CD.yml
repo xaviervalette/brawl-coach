@@ -28,7 +28,7 @@ jobs:
         with:
           host: 109.30.148.110
           username: pi
-          key: ${{ secrets.RPI_VIROFLAY_PRIVATE }}
+          password: ${{ secrets.PASSWORD }}          
           port: 4243
           script: |
             cd /home/pi/
@@ -43,7 +43,7 @@ jobs:
         with:
           host: 109.30.148.110
           username: pi
-          key: ${{ secrets.RPI_VIROFLAY_PRIVATE }}
+          password: ${{ secrets.PASSWORD }}          
           port: 4243
           source: "*"
           target: "/home/pi/brawlCoach/src/"
@@ -53,7 +53,7 @@ jobs:
         with:
           host: 109.30.148.110
           username: pi
-          key: ${{ secrets.RPI_VIROFLAY_PRIVATE }}
+          password: ${{ secrets.PASSWORD }}          
           port: 4243
           script: |
              systemctl start nginx
