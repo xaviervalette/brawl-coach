@@ -144,12 +144,12 @@
       <!-- PROGRESS -->
   <div class="container pt-2 px-0">
     <div class="row justify-content-center">
-      {% if hours[i]!=0 %}
-      Ends in {{ hours[i] }}h {{ minutes[i] }}m
-      {% else %}
-      Ends in {{ minutes[i] }}m
-      {% endif %}
       <div class="col-8 col-md-12">
+        {% if hours[i]!=0 %}
+        Ends in {{ hours[i] }}h {{ minutes[i] }}m
+        {% else %}
+        Ends in {{ minutes[i] }}m
+        {% endif %}
     <div class="progress">
     <div class="progress-bar text-dark" role="progressbar" aria-valuenow="{{ eventProgress[i] }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ eventProgress[i] }}%;">
     </div>
