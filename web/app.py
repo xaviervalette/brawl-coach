@@ -63,9 +63,7 @@ def team_picker():
 			except:
 				battleNumber[i]=0
 				bestTeams[i]="N/A"
-		i=i+1
-	print(bestTeams[7][0])
-			
+		i=i+1			
 	return render_template('currentMeta.html', current_events=current_events, len=len(current_events), battleNumber=battleNumber, bestTeams=bestTeams, bestSolo=bestSolo, eventProgress=progress, hours=hours, minutes=minutes)
 
 @app.route("/currentMeta/<string:events>")
