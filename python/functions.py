@@ -18,8 +18,10 @@ if(platform.system()=="Windows"):
 else:
     path_separator="/"
 
-dataPath=".."+path_separator+".."+path_separator+"data"
-logPath=".."+path_separator+".."+path_separator+"log"
+dataPath="/home/pi/brawlCoach/data"
+backPath="/home/pi/brawlCoach/src/python"
+frontPath="/home/pi/brawlCoach/src/web"
+logPath="/home/pi/brawlCoach/log"
 
 """
 READ AND RETURN BRAWL STARS API JSON WEB TOKEN
@@ -506,8 +508,19 @@ def computeEventTime(event):
     endDateTime=convertDateTimeFromString(endDateTimeStr)
 
     eventDuration=endDateTime.replace(tzinfo=timezone.utc)-startDateTime.replace(tzinfo=timezone.utc)
-    eventProgress=nowDateTime-startDateTime.replace(tzinfo=timezone.utc)
+    timePassed=nowDateTime-startDateTime.replace(tzinfo=timezone.utc)
+    remainTime=endDateTime.replace(tzinfo=timezone.utc)-nowDateTime
 
-    progress=int(100.0*eventProgress/eventDuration)
+    progress=int(100.0*timePassed/eventDuration)
 
-    return startDateTime, endDateTime, progress
+    return startDateTime, endDateTime, progress, remainTime
+
+"""
+CONVERT TIME DELTA INTO HOURS MINUTES SECONDS
+"""
+def convert_timedelta(duration):
+    days, seconds = duration.days, duration.seconds
+    hours = days * 24 + seconds // 3600
+    minutes = (seconds % 3600) // 60
+    seconds = (seconds % 60)
+    return hours, minutes, seconds

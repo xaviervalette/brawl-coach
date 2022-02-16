@@ -1,13 +1,21 @@
 from flask import Flask, render_template, request, redirect, url_for
 import sys
+import os
+
+dataPath=os.environ["BRAWL_COACH_DATAPATH"]
+backPath=os.environ["BRAWL_COACH_BACKPATH"]
+frontPath=os.environ["BRAWL_COACH_FRONTPATH"]
+
+#dataPath="/home/pi/brawlCoach/data"
+#backPath="/home/pi/brawlCoach/src/python"
+#frontPath="/home/pi/brawlCoach/src/web"
 
 # insert at 1, 0 is the script path (or '' in REPL)
-sys.path.insert(1, '../python')
+sys.path.insert(1, "/home/pi/brawlCoach/src/python")
+
 from functions import *
 
 app = Flask(__name__)
-token=readApiToken("../python/token.txt")
-
 
 @app.route("/", methods=['GET', 'POST'])
 def homepage():
@@ -25,7 +33,7 @@ def team_picker():
 	bestSolo={}
 	progress={}
 	i=0
-	current_events = readCurrentEvents("../events/current_events.json")
+	current_events = readCurrentEvents(dataPath+"/events/current_events.json")
 	for events in current_events:
 		map=events["event"]["map"]
 		mode=events["event"]["mode"]
@@ -58,7 +66,7 @@ def team_picker():
 
 @app.route("/currentMeta/<string:events>")
 def mode_map(events):
-	current_events = readCurrentEvents("../events/current_events.json")
+	current_events = readCurrentEvents(dataPath+"/events/current_events.json")
 	current_event=current_events[int(events)]
 	try:
 		bestTeamsRaw, battleNum =readEventsStats(current_event, "teams")

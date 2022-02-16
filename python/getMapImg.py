@@ -40,8 +40,10 @@ for site in sites:
         pictureName=pictureName.replace("'","")
         pictureName=pictureName.replace(".PNG",".JPG")
         pictureName=pictureName.upper()
-        if(modes[i]=="DUOSHODOWN"):
-            pictureName=pictureName.replace(" DUO","").upper()
+        pictureName=pictureName.replace(" ","")
+        if(modes[i]=="DUOSHOWDOWN"):
+            pictureName=pictureName.replace("DUO","")
+
 
         print(pictureName)
 
