@@ -23,19 +23,15 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       
-      - name: executing remote ssh commands using ssh key
+      - name: Removing SOURCES
         uses: appleboy/ssh-action@master
         with:
           host: 109.30.148.110
           username: pi
-          key: ${{ secrets.RPI_VIROFLAY_PRIVATE }}
+          password: ${{ secrets.PASSWORD }}          
           port: 4243
           script: |
-            cd /home/pi/
-            mkdir brawlCoach
-            cd brawlCoach
-            mkdir log
-            mkdir data
+            cd /home/pi/brawlCoach
             rm -R src
         
       - name: copy file via ssh password
@@ -43,7 +39,7 @@ jobs:
         with:
           host: 109.30.148.110
           username: pi
-          key: ${{ secrets.RPI_VIROFLAY_PRIVATE }}
+          password: ${{ secrets.PASSWORD }}          
           port: 4243
           source: "*"
           target: "/home/pi/brawlCoach/src/"
