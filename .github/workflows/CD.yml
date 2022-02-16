@@ -31,11 +31,7 @@ jobs:
           password: ${{ secrets.PASSWORD }}          
           port: 4243
           script: |
-            cd /home/pi/
-            mkdir brawlCoach
-            cd brawlCoach
-            mkdir log
-            mkdir data
+            cd /home/pi/brawlCoach
             rm -R src
         
       - name: copy file via ssh password
@@ -47,14 +43,3 @@ jobs:
           port: 4243
           source: "*"
           target: "/home/pi/brawlCoach/src/"
-            
-      - name: start NGINX and BRAWLCOACH services
-        uses: appleboy/ssh-action@master
-        with:
-          host: 109.30.148.110
-          username: pi
-          password: ${{ secrets.PASSWORD }}          
-          port: 4243
-          script: |
-             systemctl start nginx
-             systemctl start brawlcoach
